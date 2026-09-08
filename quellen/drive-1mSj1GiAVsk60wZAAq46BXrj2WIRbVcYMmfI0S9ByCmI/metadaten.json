@@ -1,0 +1,56 @@
+{
+  "id": "drive-1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI",
+  "title": "NIDUS CONSTITUTION LAYER V1",
+  "category": "02-charta-constitution",
+  "version_in_content": "1",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI",
+    "url": "https://docs.google.com/document/d/1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI/edit?usp=drivesdk",
+    "original_title": "NIDUS CONSTITUTION LAYER V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T17:39:37.796Z",
+    "modified_at": "2026-05-14T20:16:29.394Z",
+    "retrieved_at": "2026-09-08T23:05:47.046Z"
+  },
+  "text_path": "quellen/drive-1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI/text.txt",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "normalized_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "empty": true,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI.md",
+  "native_path": "quellen/drive-1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI/native-document.json",
+  "native_sha256": "fad73bc8de38e5655ba5b2ac97b39e7ebdf97f5987dcf68e69ecf74d0fd0557b",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T17:39:37.795Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "2",
+      "modified_at": "2026-05-14T17:40:01.560Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI/revision-2.txt",
+      "sha256": "b9da36ade63aabacdad04d17befcaa9b39ba7c73646d874e9871c0513958d16c",
+      "empty": false
+    },
+    {
+      "id": "9",
+      "modified_at": "2026-05-14T20:16:29.309Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1mSj1GiAVsk60wZAAq46BXrj2WIRbVcYMmfI0S9ByCmI/revision-9.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    }
+  ],
+  "revision_list_status": "ok"
+}

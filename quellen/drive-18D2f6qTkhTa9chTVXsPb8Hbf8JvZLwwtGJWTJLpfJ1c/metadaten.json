@@ -1,0 +1,47 @@
+{
+  "id": "drive-18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c",
+  "title": "NIDUS NOTFALL- UND ARCHENPROTOKOLL V1",
+  "category": "04-governance-waechter",
+  "version_in_content": "1",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c",
+    "url": "https://docs.google.com/document/d/18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c/edit?usp=drivesdk",
+    "original_title": "NIDUS NOTFALL- UND ARCHENPROTOKOLL V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T19:30:25.542Z",
+    "modified_at": "2026-05-14T19:37:09.956Z",
+    "retrieved_at": "2026-09-08T23:05:47.047Z"
+  },
+  "text_path": "quellen/drive-18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c/text.txt",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "normalized_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "empty": true,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c.md",
+  "native_path": "quellen/drive-18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c/native-document.json",
+  "native_sha256": "8d7a4e3ec268239e5a910d312b01897ebb98ed6d4833f91dc09299a1c20d3d05",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T19:30:25.541Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "3",
+      "modified_at": "2026-05-14T19:37:09.929Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/18D2f6qTkhTa9chTVXsPb8Hbf8JvZLwwtGJWTJLpfJ1c/revision-3.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    }
+  ],
+  "revision_list_status": "ok"
+}

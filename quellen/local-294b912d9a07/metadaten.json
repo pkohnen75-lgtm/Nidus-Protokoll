@@ -1,0 +1,25 @@
+{
+  "id": "local-294b912d9a07",
+  "title": "Der historisch gerahmte Lagebericht.txt",
+  "category": "06-risiko-lageanalysen",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/Der historisch gerahmte Lagebericht.txt",
+    "modified_at": "2026-04-28T11:15:25.176327+00:00"
+  },
+  "text_path": "quellen/local-294b912d9a07/text.txt",
+  "text_sha256": "72a69cf3a22e2fb89e4648cd35d9daffb70b4d1fc7ec84434d0402341ec78b92",
+  "normalized_text_sha256": "eb1e71c6707983ea788e90570713530c1640253b856b41b18344c72de49b311f",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "Der historisch gerahmte Lagebericht.txt",
+  "original_path": "quellen/local-294b912d9a07/original.txt",
+  "original_sha256": "72a69cf3a22e2fb89e4648cd35d9daffb70b4d1fc7ec84434d0402341ec78b92",
+  "original_bytes": 5967,
+  "record_path": "katalog/dokumente/local-294b912d9a07.md"
+}

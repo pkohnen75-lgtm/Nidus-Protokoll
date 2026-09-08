@@ -1,0 +1,25 @@
+{
+  "id": "local-675ca842b463",
+  "title": "NIDUS STIMMRECHTS- UND REFERENDUMSORDNUNG V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_48dd9e.txt",
+    "modified_at": "2026-05-14T17:51:29.819769+00:00"
+  },
+  "text_path": "quellen/local-675ca842b463/text.txt",
+  "text_sha256": "6f41f3664a8858b8625f08948cec088edfee5a067a131894f309816a053cc972",
+  "normalized_text_sha256": "6641d245834f1794fe774257f1b6a94b76f3fcd3b62959b998d5dddb4f2c6eeb",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_48dd9e.txt",
+  "original_path": "quellen/local-675ca842b463/original.txt",
+  "original_sha256": "6f41f3664a8858b8625f08948cec088edfee5a067a131894f309816a053cc972",
+  "original_bytes": 8068,
+  "record_path": "katalog/dokumente/local-675ca842b463.md"
+}

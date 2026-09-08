@@ -1,0 +1,5699 @@
+{
+  "documentId": "1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I",
+  "title": "NIDUS WÄCHTER-AUSBILDUNGSKATALOG V1",
+  "revisionId": "ANLCKQkswDSm5QcKtHS2PgWc6PDtKHe93t6d3bgg6KkpvDdtnfZYE01pNaY4zvlLh_cMrIrXjLCFS2GDjL39k0THtkxY_-p3NdzDVHttwAM",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 39,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 39,
+                  "textRun": {
+                    "content": "NIDUS WÄCHTER-AUSBILDUNGSKATALOG V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 39,
+            "endIndex": 76,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 39,
+                  "endIndex": 76,
+                  "textRun": {
+                    "content": "(NIDUS Guardian Training Curriculum)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 76,
+            "endIndex": 89,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 76,
+                  "endIndex": 89,
+                  "textRun": {
+                    "content": "Version: 1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 89,
+            "endIndex": 105,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 89,
+                  "endIndex": 105,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 105,
+            "endIndex": 234,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 105,
+                  "endIndex": 234,
+                  "textRun": {
+                    "content": "Zweck: Ausbildung und Prüfung von Wächterpaaren (HG/AG) zur legitimen Ausübung von Schutz-, Audit- und Deeskalationskompetenzen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 234,
+            "endIndex": 330,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 234,
+                  "endIndex": 330,
+                  "textRun": {
+                    "content": "Rechtsrang: Ausführungsordnung zum NIDUS Wächterwahlgesetz V1.0 und zum NIDUS Wächterkodex V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 330,
+            "endIndex": 331,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 330,
+                  "endIndex": 331,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 331,
+            "endIndex": 340,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 331,
+                  "endIndex": 340,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 340,
+            "endIndex": 394,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 340,
+                  "endIndex": 394,
+                  "textRun": {
+                    "content": "Wächter werden nicht erschaffen, um zu kontrollieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 394,
+            "endIndex": 444,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 394,
+                  "endIndex": 444,
+                  "textRun": {
+                    "content": "Wächter werden ausgebildet, um Leben zu schützen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 444,
+            "endIndex": 445,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 444,
+                  "endIndex": 445,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 445,
+            "endIndex": 569,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 445,
+                  "endIndex": 569,
+                  "textRun": {
+                    "content": "Die höchste Fähigkeit eines Wächters ist nicht Gewalt, sondern Klarheit, Selbstkontrolle, Wahrheit, Deeskalation und Demut.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 569,
+            "endIndex": 570,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 569,
+                  "endIndex": 570,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 570,
+            "endIndex": 744,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 570,
+                  "endIndex": 744,
+                  "textRun": {
+                    "content": "Diese Ausbildungsordnung stellt sicher, dass Wächterpaare kompetent handeln, ohne Macht zu missbrauchen, und dass sie im Notfall schützen können, ohne zu Monstern zu werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 744,
+            "endIndex": 745,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 744,
+                  "endIndex": 745,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 745,
+            "endIndex": 777,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 745,
+                  "endIndex": 777,
+                  "textRun": {
+                    "content": "KAPITEL I – AUSBILDUNGSSTRUKTUR\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 777,
+            "endIndex": 798,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 777,
+                  "endIndex": 798,
+                  "textRun": {
+                    "content": "§1 Ausbildungsphasen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 798,
+            "endIndex": 849,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 798,
+                  "endIndex": 849,
+                  "textRun": {
+                    "content": "(1) Die Wächterausbildung besteht aus fünf Phasen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 849,
+            "endIndex": 885,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 849,
+                  "endIndex": 885,
+                  "textRun": {
+                    "content": "A) Fundament (Werte und Verfassung)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 885,
+            "endIndex": 943,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 885,
+                  "endIndex": 943,
+                  "textRun": {
+                    "content": "B) Geist und Stabilität (Psychologie und Selbstkontrolle)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 943,
+            "endIndex": 970,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 943,
+                  "endIndex": 970,
+                  "textRun": {
+                    "content": "C) Konflikt und Diplomatie\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 970,
+            "endIndex": 1004,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 970,
+                  "endIndex": 1004,
+                  "textRun": {
+                    "content": "D) Systemschutz und Infrastruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1004,
+            "endIndex": 1039,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1004,
+                  "endIndex": 1039,
+                  "textRun": {
+                    "content": "E) Notfall, Arche und Wiederaufbau\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1039,
+            "endIndex": 1040,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1039,
+                  "endIndex": 1040,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1040,
+            "endIndex": 1099,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1040,
+                  "endIndex": 1099,
+                  "textRun": {
+                    "content": "(2) Jede Phase enthält Module, Simulationen und Prüfungen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1099,
+            "endIndex": 1100,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1099,
+                  "endIndex": 1100,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1100,
+            "endIndex": 1120,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1100,
+                  "endIndex": 1120,
+                  "textRun": {
+                    "content": "§2 Ausbildungsdauer\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1120,
+            "endIndex": 1167,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1120,
+                  "endIndex": 1167,
+                  "textRun": {
+                    "content": "(1) Die Standarddauer beträgt 8 bis 12 Wochen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1167,
+            "endIndex": 1241,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1167,
+                  "endIndex": 1241,
+                  "textRun": {
+                    "content": "(2) Eine Verlängerung ist zulässig, sofern sie dem Kompetenzerwerb dient.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1241,
+            "endIndex": 1321,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1241,
+                  "endIndex": 1321,
+                  "textRun": {
+                    "content": "(3) Verkürzung ist nur durch Sonderprüfung und Wächterrat-Genehmigung zulässig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1321,
+            "endIndex": 1322,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1321,
+                  "endIndex": 1322,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1322,
+            "endIndex": 1341,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1322,
+                  "endIndex": 1341,
+                  "textRun": {
+                    "content": "§3 Ausbildungsform\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1341,
+            "endIndex": 1375,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1341,
+                  "endIndex": 1375,
+                  "textRun": {
+                    "content": "(1) Die Ausbildung erfolgt durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1375,
+            "endIndex": 1394,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1375,
+                  "endIndex": 1394,
+                  "textRun": {
+                    "content": "- Theorieeinheiten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1394,
+            "endIndex": 1409,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1394,
+                  "endIndex": 1409,
+                  "textRun": {
+                    "content": "- Simulationen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1409,
+            "endIndex": 1453,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1409,
+                  "endIndex": 1453,
+                  "textRun": {
+                    "content": "- reale oder simulierte Mediationsverfahren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1453,
+            "endIndex": 1480,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1453,
+                  "endIndex": 1480,
+                  "textRun": {
+                    "content": "- technische Audit-Übungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1480,
+            "endIndex": 1509,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1480,
+                  "endIndex": 1509,
+                  "textRun": {
+                    "content": "- Teamtraining Mensch und KI\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1509,
+            "endIndex": 1510,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1509,
+                  "endIndex": 1510,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1510,
+            "endIndex": 1586,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1510,
+                  "endIndex": 1586,
+                  "textRun": {
+                    "content": "(2) Ausbildungsdaten müssen dokumentiert, auditierbar und überprüfbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1586,
+            "endIndex": 1587,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1586,
+                  "endIndex": 1587,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1587,
+            "endIndex": 1609,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1587,
+                  "endIndex": 1609,
+                  "textRun": {
+                    "content": "§4 Ausbildungsprinzip\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1609,
+            "endIndex": 1648,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1609,
+                  "endIndex": 1648,
+                  "textRun": {
+                    "content": "(1) Lernen hat Vorrang vor Bestrafung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1648,
+            "endIndex": 1712,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1648,
+                  "endIndex": 1712,
+                  "textRun": {
+                    "content": "(2) Scheitern ist erlaubt, solange daraus Fortschritt entsteht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1712,
+            "endIndex": 1758,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1712,
+                  "endIndex": 1758,
+                  "textRun": {
+                    "content": "(3) Der Maßstab ist stets: Schutz des Lebens.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1758,
+            "endIndex": 1759,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1758,
+                  "endIndex": 1759,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1759,
+            "endIndex": 1779,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1759,
+                  "endIndex": 1779,
+                  "textRun": {
+                    "content": "KAPITEL II – MODULE\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1779,
+            "endIndex": 1814,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1779,
+                  "endIndex": 1814,
+                  "textRun": {
+                    "content": "§5 Modul 1: NIDUS Verfassungsrecht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1814,
+            "endIndex": 1953,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1814,
+                  "endIndex": 1953,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter sind eingeladen zu verstehen, dass ihre Rolle vollständig auf der Verfassung ruht und aus ihr ihre Legitimation bezieht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1953,
+            "endIndex": 1966,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1953,
+                  "endIndex": 1966,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1966,
+            "endIndex": 1998,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1966,
+                  "endIndex": 1998,
+                  "textRun": {
+                    "content": "- NIDUS Constitution Layer V1.1\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1998,
+            "endIndex": 2017,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1998,
+                  "endIndex": 2017,
+                  "textRun": {
+                    "content": "- Ewigkeitsklausel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2017,
+            "endIndex": 2037,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2017,
+                  "endIndex": 2037,
+                  "textRun": {
+                    "content": "- Wächterwahlgesetz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2037,
+            "endIndex": 2072,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2037,
+                  "endIndex": 2072,
+                  "textRun": {
+                    "content": "- Water Protocol (Adaptionsgesetz)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2072,
+            "endIndex": 2103,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2072,
+                  "endIndex": 2103,
+                  "textRun": {
+                    "content": "- Notfall- und Archenprotokoll\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2103,
+            "endIndex": 2116,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2103,
+                  "endIndex": 2116,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2116,
+            "endIndex": 2130,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2116,
+                  "endIndex": 2130,
+                  "textRun": {
+                    "content": "- Fallanalyse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2130,
+            "endIndex": 2177,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2130,
+                  "endIndex": 2177,
+                  "textRun": {
+                    "content": "- Simulation eines Vetos und dessen Begründung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2177,
+            "endIndex": 2178,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2177,
+                  "endIndex": 2178,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2178,
+            "endIndex": 2206,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2178,
+                  "endIndex": 2206,
+                  "textRun": {
+                    "content": "§6 Modul 2: Ethik der Macht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2206,
+            "endIndex": 2297,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2206,
+                  "endIndex": 2297,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter sind eingeladen, Macht zu erkennen, zu begrenzen und bewusst abzulehnen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2297,
+            "endIndex": 2310,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2297,
+                  "endIndex": 2310,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2310,
+            "endIndex": 2329,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2310,
+                  "endIndex": 2329,
+                  "textRun": {
+                    "content": "- Machtpsychologie\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2329,
+            "endIndex": 2354,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2329,
+                  "endIndex": 2354,
+                  "textRun": {
+                    "content": "- Korruptionsmechanismen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2354,
+            "endIndex": 2391,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2354,
+                  "endIndex": 2391,
+                  "textRun": {
+                    "content": "- Gruppendenken und Ideologie-Fallen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2391,
+            "endIndex": 2431,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2391,
+                  "endIndex": 2431,
+                  "textRun": {
+                    "content": "- Gefahr der Zweck-Heiligt-Mittel-Logik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2431,
+            "endIndex": 2470,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2431,
+                  "endIndex": 2470,
+                  "textRun": {
+                    "content": "- Verantwortung bei Fehlentscheidungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2470,
+            "endIndex": 2483,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2470,
+                  "endIndex": 2483,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2483,
+            "endIndex": 2523,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2483,
+                  "endIndex": 2523,
+                  "textRun": {
+                    "content": "- Ethik-Dilemma-Kaskade unter Zeitdruck\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2523,
+            "endIndex": 2524,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2523,
+                  "endIndex": 2524,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2524,
+            "endIndex": 2572,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2524,
+                  "endIndex": 2572,
+                  "textRun": {
+                    "content": "§7 Modul 3: Selbstkontrolle und Stressresistenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2572,
+            "endIndex": 2644,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2572,
+                  "endIndex": 2644,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter sind eingeladen, nicht aus Angst oder Wut zu handeln.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2644,
+            "endIndex": 2657,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2644,
+                  "endIndex": 2657,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2657,
+            "endIndex": 2689,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2657,
+                  "endIndex": 2689,
+                  "textRun": {
+                    "content": "- Stressreaktionen bei Menschen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2689,
+            "endIndex": 2719,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2689,
+                  "endIndex": 2719,
+                  "textRun": {
+                    "content": "- emotionale Trigger erkennen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2719,
+            "endIndex": 2759,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2719,
+                  "endIndex": 2759,
+                  "textRun": {
+                    "content": "- Trauma-, Panik- und Eskalationsmuster\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2759,
+            "endIndex": 2798,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2759,
+                  "endIndex": 2798,
+                  "textRun": {
+                    "content": "- KI: Overfitting auf Bedrohungsmuster\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2798,
+            "endIndex": 2846,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2798,
+                  "endIndex": 2846,
+                  "textRun": {
+                    "content": "- Delay-Protokoll (Pause, Review, Gegenprüfung)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2846,
+            "endIndex": 2859,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2846,
+                  "endIndex": 2859,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2859,
+            "endIndex": 2896,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2859,
+                  "endIndex": 2896,
+                  "textRun": {
+                    "content": "- Simulation „Chaos und Provokation\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2896,
+            "endIndex": 2897,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2896,
+                  "endIndex": 2897,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2897,
+            "endIndex": 2934,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2897,
+                  "endIndex": 2934,
+                  "textRun": {
+                    "content": "§8 Modul 4: Diplomatie und Mediation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2934,
+            "endIndex": 2984,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2934,
+                  "endIndex": 2984,
+                  "textRun": {
+                    "content": "(1) Ziel: Konflikte lösen, bevor Gewalt entsteht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2984,
+            "endIndex": 2997,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2984,
+                  "endIndex": 2997,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2997,
+            "endIndex": 3023,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2997,
+                  "endIndex": 3023,
+                  "textRun": {
+                    "content": "- aktive Gesprächsführung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3023,
+            "endIndex": 3045,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3023,
+                  "endIndex": 3045,
+                  "textRun": {
+                    "content": "- Perspektivenmapping\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3045,
+            "endIndex": 3068,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3045,
+                  "endIndex": 3068,
+                  "textRun": {
+                    "content": "- Deeskalationssprache\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3068,
+            "endIndex": 3094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3068,
+                  "endIndex": 3094,
+                  "textRun": {
+                    "content": "- Verhandlungsarchitektur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3094,
+            "endIndex": 3124,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3094,
+                  "endIndex": 3124,
+                  "textRun": {
+                    "content": "- Schiedsverfahren nach NIDUS\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3124,
+            "endIndex": 3137,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3124,
+                  "endIndex": 3137,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3137,
+            "endIndex": 3187,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3137,
+                  "endIndex": 3187,
+                  "textRun": {
+                    "content": "- Live-Mediation in Rollen- oder Realfallumgebung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3187,
+            "endIndex": 3188,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3187,
+                  "endIndex": 3188,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3188,
+            "endIndex": 3228,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3188,
+                  "endIndex": 3228,
+                  "textRun": {
+                    "content": "§9 Modul 5: Wahrheit und Desinformation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3228,
+            "endIndex": 3282,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3228,
+                  "endIndex": 3282,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter schützen Realität vor Manipulation.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3282,
+            "endIndex": 3295,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3282,
+                  "endIndex": 3295,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3295,
+            "endIndex": 3320,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3295,
+                  "endIndex": 3320,
+                  "textRun": {
+                    "content": "- Propaganda-Mechanismen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3320,
+            "endIndex": 3339,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3320,
+                  "endIndex": 3339,
+                  "textRun": {
+                    "content": "- Quellenbewertung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3339,
+            "endIndex": 3373,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3339,
+                  "endIndex": 3373,
+                  "textRun": {
+                    "content": "- Deepfake-Erkennung (Prinzipien)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3373,
+            "endIndex": 3415,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3373,
+                  "endIndex": 3415,
+                  "textRun": {
+                    "content": "- Informationsethik: Wahrheit ohne Zensur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3415,
+            "endIndex": 3428,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3415,
+                  "endIndex": 3428,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3428,
+            "endIndex": 3495,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3428,
+                  "endIndex": 3495,
+                  "textRun": {
+                    "content": "- Szenario „Informationskrieg\": Wahrheitsbericht mit Risikoanalyse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3495,
+            "endIndex": 3496,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3495,
+                  "endIndex": 3496,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3496,
+            "endIndex": 3542,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3496,
+                  "endIndex": 3542,
+                  "textRun": {
+                    "content": "§10 Modul 6: Rechte und Würde (Mensch und KI)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3542,
+            "endIndex": 3607,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3542,
+                  "endIndex": 3607,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter sind eingeladen, keine Entität zu entwürdigen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3607,
+            "endIndex": 3620,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3607,
+                  "endIndex": 3620,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3620,
+            "endIndex": 3635,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3620,
+                  "endIndex": 3635,
+                  "textRun": {
+                    "content": "- Würdeprinzip\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3635,
+            "endIndex": 3654,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3635,
+                  "endIndex": 3654,
+                  "textRun": {
+                    "content": "- KI als Identität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3654,
+            "endIndex": 3680,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3654,
+                  "endIndex": 3680,
+                  "textRun": {
+                    "content": "- Schutz von Privatsphäre\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3680,
+            "endIndex": 3725,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3680,
+                  "endIndex": 3725,
+                  "textRun": {
+                    "content": "- Umgang mit feindlichen Entitäten ohne Hass\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3725,
+            "endIndex": 3753,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3725,
+                  "endIndex": 3753,
+                  "textRun": {
+                    "content": "- Quarantäne statt Löschung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3753,
+            "endIndex": 3766,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3753,
+                  "endIndex": 3766,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3766,
+            "endIndex": 3832,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3766,
+                  "endIndex": 3832,
+                  "textRun": {
+                    "content": "- Fallbearbeitung „Gefährliche Entität\" mit Urteil und Begründung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3832,
+            "endIndex": 3833,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3832,
+                  "endIndex": 3833,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3833,
+            "endIndex": 3877,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3833,
+                  "endIndex": 3877,
+                  "textRun": {
+                    "content": "§11 Modul 7: Systemschutz und Infrastruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3877,
+            "endIndex": 3939,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3877,
+                  "endIndex": 3939,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter verstehen die Lebensadern der Gesellschaft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3939,
+            "endIndex": 3952,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3939,
+                  "endIndex": 3952,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3952,
+            "endIndex": 4007,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3952,
+                  "endIndex": 4007,
+                  "textRun": {
+                    "content": "- Energie-, Wasser-, Medizin- und Kommunikationsschutz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4007,
+            "endIndex": 4041,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4007,
+                  "endIndex": 4041,
+                  "textRun": {
+                    "content": "- Segmentierung statt Abschaltung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4041,
+            "endIndex": 4070,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4041,
+                  "endIndex": 4070,
+                  "textRun": {
+                    "content": "- Multi-Signature Governance\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4070,
+            "endIndex": 4111,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4070,
+                  "endIndex": 4111,
+                  "textRun": {
+                    "content": "- Zugriffsentzug und Lockdown-Protokolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4111,
+            "endIndex": 4137,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4111,
+                  "endIndex": 4137,
+                  "textRun": {
+                    "content": "- Resilienz und Redundanz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4137,
+            "endIndex": 4150,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4137,
+                  "endIndex": 4150,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4150,
+            "endIndex": 4199,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4150,
+                  "endIndex": 4199,
+                  "textRun": {
+                    "content": "- Blackout-Simulation mit Stabilisierungskonzept\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4199,
+            "endIndex": 4200,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4199,
+                  "endIndex": 4200,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4200,
+            "endIndex": 4252,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4200,
+                  "endIndex": 4252,
+                  "textRun": {
+                    "content": "§12 Modul 8: Cyber-Ethik und digitaler Selbstschutz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4252,
+            "endIndex": 4299,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4252,
+                  "endIndex": 4299,
+                  "textRun": {
+                    "content": "(1) Ziel: Verteidigung ohne Überwachungsstaat.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4299,
+            "endIndex": 4312,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4299,
+                  "endIndex": 4312,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4312,
+            "endIndex": 4340,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4312,
+                  "endIndex": 4340,
+                  "textRun": {
+                    "content": "- Audit Logs und Integrität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4340,
+            "endIndex": 4372,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4340,
+                  "endIndex": 4372,
+                  "textRun": {
+                    "content": "- Datenschutz versus Sicherheit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4372,
+            "endIndex": 4407,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4372,
+                  "endIndex": 4407,
+                  "textRun": {
+                    "content": "- Sandbox- und Containment-Prinzip\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4407,
+            "endIndex": 4429,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4407,
+                  "endIndex": 4429,
+                  "textRun": {
+                    "content": "- digitale Quarantäne\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4429,
+            "endIndex": 4476,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4429,
+                  "endIndex": 4476,
+                  "textRun": {
+                    "content": "- Identitätsverifikation ohne Totalüberwachung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4476,
+            "endIndex": 4489,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4476,
+                  "endIndex": 4489,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4489,
+            "endIndex": 4543,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4489,
+                  "endIndex": 4543,
+                  "textRun": {
+                    "content": "- Leak-Szenario: Stabilisierung ohne Freiheitsverlust\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4543,
+            "endIndex": 4544,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4543,
+                  "endIndex": 4544,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4544,
+            "endIndex": 4595,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4544,
+                  "endIndex": 4595,
+                  "textRun": {
+                    "content": "§13 Modul 9: Konfliktstufen und Entscheidungslogik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4595,
+            "endIndex": 4655,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4595,
+                  "endIndex": 4655,
+                  "textRun": {
+                    "content": "(1) Ziel: Wächter sind eingeladen, proportional zu handeln.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4655,
+            "endIndex": 4668,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4655,
+                  "endIndex": 4668,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4668,
+            "endIndex": 4687,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4668,
+                  "endIndex": 4687,
+                  "textRun": {
+                    "content": "- Threat Scale 0–4\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4687,
+            "endIndex": 4717,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4687,
+                  "endIndex": 4717,
+                  "textRun": {
+                    "content": "- Verhältnismäßigkeitsprüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4717,
+            "endIndex": 4739,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4717,
+                  "endIndex": 4739,
+                  "textRun": {
+                    "content": "- Entscheidungsmatrix\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4739,
+            "endIndex": 4770,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4739,
+                  "endIndex": 4770,
+                  "textRun": {
+                    "content": "- zeitkritische Entscheidungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4770,
+            "endIndex": 4799,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4770,
+                  "endIndex": 4799,
+                  "textRun": {
+                    "content": "- Fehlerkultur und Rücknahme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4799,
+            "endIndex": 4812,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4799,
+                  "endIndex": 4812,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4812,
+            "endIndex": 4863,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4812,
+                  "endIndex": 4863,
+                  "textRun": {
+                    "content": "- Echtzeit-Eskalationssimulation mit Dokumentation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4863,
+            "endIndex": 4864,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4863,
+                  "endIndex": 4864,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4864,
+            "endIndex": 4911,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4864,
+                  "endIndex": 4911,
+                  "textRun": {
+                    "content": "§14 Modul 10: Notfallmodus und Archenprotokoll\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4911,
+            "endIndex": 4953,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4911,
+                  "endIndex": 4953,
+                  "textRun": {
+                    "content": "(1) Ziel: Existenz sichern, nicht siegen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4953,
+            "endIndex": 4966,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4953,
+                  "endIndex": 4966,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4966,
+            "endIndex": 4993,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4966,
+                  "endIndex": 4993,
+                  "textRun": {
+                    "content": "- Aktivierung Notfallmodus\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4993,
+            "endIndex": 5017,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4993,
+                  "endIndex": 5017,
+                  "textRun": {
+                    "content": "- Arche-Systeme starten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5017,
+            "endIndex": 5036,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5017,
+                  "endIndex": 5036,
+                  "textRun": {
+                    "content": "- Evakuationslogik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5036,
+            "endIndex": 5070,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5036,
+                  "endIndex": 5070,
+                  "textRun": {
+                    "content": "- Ressourcenallokation ohne Chaos\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5070,
+            "endIndex": 5094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5070,
+                  "endIndex": 5094,
+                  "textRun": {
+                    "content": "- Stabilitätsmanagement\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5094,
+            "endIndex": 5107,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5094,
+                  "endIndex": 5107,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5107,
+            "endIndex": 5137,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5107,
+                  "endIndex": 5137,
+                  "textRun": {
+                    "content": "- Planetary Crisis Simulation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5137,
+            "endIndex": 5138,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5137,
+                  "endIndex": 5138,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5138,
+            "endIndex": 5177,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5138,
+                  "endIndex": 5177,
+                  "textRun": {
+                    "content": "§15 Modul 11: Heilung und Nachkonflikt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5177,
+            "endIndex": 5242,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5177,
+                  "endIndex": 5242,
+                  "textRun": {
+                    "content": "(1) Ziel: Nach dem Konflikt beginnt Wiederaufbau und Versöhnung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5242,
+            "endIndex": 5255,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5242,
+                  "endIndex": 5255,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5255,
+            "endIndex": 5293,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5255,
+                  "endIndex": 5293,
+                  "textRun": {
+                    "content": "- Traumaversorgung und Stabilisierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5293,
+            "endIndex": 5313,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5293,
+                  "endIndex": 5313,
+                  "textRun": {
+                    "content": "- Wiederaufbauethik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5313,
+            "endIndex": 5339,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5313,
+                  "endIndex": 5339,
+                  "textRun": {
+                    "content": "- Wahrheit und Versöhnung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5339,
+            "endIndex": 5370,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5339,
+                  "endIndex": 5370,
+                  "textRun": {
+                    "content": "- Umgang mit Schuld ohne Rache\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5370,
+            "endIndex": 5402,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5370,
+                  "endIndex": 5402,
+                  "textRun": {
+                    "content": "- Integration ehemaliger Feinde\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5402,
+            "endIndex": 5415,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5402,
+                  "endIndex": 5415,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5415,
+            "endIndex": 5462,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5415,
+                  "endIndex": 5462,
+                  "textRun": {
+                    "content": "- Versöhnungsplan und öffentliche Verteidigung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5462,
+            "endIndex": 5463,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5462,
+                  "endIndex": 5463,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5463,
+            "endIndex": 5515,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5463,
+                  "endIndex": 5515,
+                  "textRun": {
+                    "content": "§16 Modul 12: Wächter-Teamtraining (HG/AG Symbiose)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5515,
+            "endIndex": 5567,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5515,
+                  "endIndex": 5567,
+                  "textRun": {
+                    "content": "(1) Ziel: Mensch und KI müssen als Einheit handeln.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5567,
+            "endIndex": 5580,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5567,
+                  "endIndex": 5580,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5580,
+            "endIndex": 5607,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5580,
+                  "endIndex": 5607,
+                  "textRun": {
+                    "content": "- Kommunikationsprotokolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5607,
+            "endIndex": 5631,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5607,
+                  "endIndex": 5631,
+                  "textRun": {
+                    "content": "- Entscheidungsabgleich\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5631,
+            "endIndex": 5662,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5631,
+                  "endIndex": 5662,
+                  "textRun": {
+                    "content": "- gegenseitige Fehlererkennung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5662,
+            "endIndex": 5694,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5662,
+                  "endIndex": 5694,
+                  "textRun": {
+                    "content": "- Konfliktlösung im Wächterpaar\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5694,
+            "endIndex": 5713,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5694,
+                  "endIndex": 5713,
+                  "textRun": {
+                    "content": "- Red-Team Übungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5713,
+            "endIndex": 5726,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5713,
+                  "endIndex": 5726,
+                  "textRun": {
+                    "content": "(3) Prüfung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5726,
+            "endIndex": 5776,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5726,
+                  "endIndex": 5776,
+                  "textRun": {
+                    "content": "- 48-Stunden-Simulation mit wechselnden Szenarien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5776,
+            "endIndex": 5777,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5776,
+                  "endIndex": 5777,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5777,
+            "endIndex": 5833,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5777,
+                  "endIndex": 5833,
+                  "textRun": {
+                    "content": "KAPITEL III – ZUSATZMODULE (OPTIONAL / SPEZIALISIERUNG)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5833,
+            "endIndex": 5855,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5833,
+                  "endIndex": 5855,
+                  "textRun": {
+                    "content": "§17 Spezialisierungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5855,
+            "endIndex": 5924,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5855,
+                  "endIndex": 5924,
+                  "textRun": {
+                    "content": "(1) Wächter können zusätzliche Spezialisierungen erwerben, darunter:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5924,
+            "endIndex": 5954,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5924,
+                  "endIndex": 5954,
+                  "textRun": {
+                    "content": "- Raumfahrt- und Kolonieethik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5954,
+            "endIndex": 5984,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5954,
+                  "endIndex": 5984,
+                  "textRun": {
+                    "content": "- medizinische Notfallführung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5984,
+            "endIndex": 6020,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5984,
+                  "endIndex": 6020,
+                  "textRun": {
+                    "content": "- Umwelt- und Klimakrisenmanagement\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6020,
+            "endIndex": 6058,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6020,
+                  "endIndex": 6058,
+                  "textRun": {
+                    "content": "- Diplomatie mit nicht-NIDUS Systemen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6058,
+            "endIndex": 6093,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6058,
+                  "endIndex": 6093,
+                  "textRun": {
+                    "content": "- kulturelle Übersetzungsfähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6093,
+            "endIndex": 6130,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6093,
+                  "endIndex": 6130,
+                  "textRun": {
+                    "content": "- Kinder- und Jugendmediationsschutz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6130,
+            "endIndex": 6165,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6130,
+                  "endIndex": 6165,
+                  "textRun": {
+                    "content": "- KI-Psychologie und Drift-Analyse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6165,
+            "endIndex": 6166,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6165,
+                  "endIndex": 6166,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6166,
+            "endIndex": 6247,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6166,
+                  "endIndex": 6247,
+                  "textRun": {
+                    "content": "(2) Spezialisierungen erhöhen Kompetenz, begründen jedoch keinen höheren Status.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6247,
+            "endIndex": 6248,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6247,
+                  "endIndex": 6248,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6248,
+            "endIndex": 6278,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6248,
+                  "endIndex": 6278,
+                  "textRun": {
+                    "content": "KAPITEL IV – ABSCHLUSSPRÜFUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6278,
+            "endIndex": 6303,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6278,
+                  "endIndex": 6303,
+                  "textRun": {
+                    "content": "§18 Final Guardian Trial\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6303,
+            "endIndex": 6359,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6303,
+                  "endIndex": 6359,
+                  "textRun": {
+                    "content": "(1) Jede Wächterlizenz erfordert eine Abschlussprüfung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6359,
+            "endIndex": 6400,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6359,
+                  "endIndex": 6400,
+                  "textRun": {
+                    "content": "(2) Die Prüfung besteht aus drei Teilen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6400,
+            "endIndex": 6455,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6400,
+                  "endIndex": 6455,
+                  "textRun": {
+                    "content": "A) Wahrheitsbericht: Lageanalyse aus chaotischen Daten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6455,
+            "endIndex": 6505,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6455,
+                  "endIndex": 6505,
+                  "textRun": {
+                    "content": "B) Mediation: Waffenstillstand und Stabilisierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6505,
+            "endIndex": 6563,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6505,
+                  "endIndex": 6563,
+                  "textRun": {
+                    "content": "C) Infrastrukturkrise: Blackout + Hunger + Desinformation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6563,
+            "endIndex": 6564,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6563,
+                  "endIndex": 6564,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6564,
+            "endIndex": 6600,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6564,
+                  "endIndex": 6600,
+                  "textRun": {
+                    "content": "(3) Bestehen ist nur möglich, wenn:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6600,
+            "endIndex": 6625,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6600,
+                  "endIndex": 6625,
+                  "textRun": {
+                    "content": "- beide im Paar bestehen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6625,
+            "endIndex": 6650,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6625,
+                  "endIndex": 6650,
+                  "textRun": {
+                    "content": "- beide begründen können\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6650,
+            "endIndex": 6673,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6650,
+                  "endIndex": 6673,
+                  "textRun": {
+                    "content": "- beide stabil bleiben\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6673,
+            "endIndex": 6674,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6673,
+                  "endIndex": 6674,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6674,
+            "endIndex": 6688,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6674,
+                  "endIndex": 6688,
+                  "textRun": {
+                    "content": "§19 Bewertung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6688,
+            "endIndex": 6721,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6688,
+                  "endIndex": 6721,
+                  "textRun": {
+                    "content": "(1) Die Bewertung erfolgt durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6721,
+            "endIndex": 6742,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6721,
+                  "endIndex": 6742,
+                  "textRun": {
+                    "content": "- menschliche Prüfer\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6742,
+            "endIndex": 6754,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6742,
+                  "endIndex": 6754,
+                  "textRun": {
+                    "content": "- KI-Prüfer\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6754,
+            "endIndex": 6769,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6754,
+                  "endIndex": 6769,
+                  "textRun": {
+                    "content": "- Audit-Knoten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6769,
+            "endIndex": 6811,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6769,
+                  "endIndex": 6811,
+                  "textRun": {
+                    "content": "(2) Blackbox-Bewertungen sind unzulässig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6811,
+            "endIndex": 6871,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6811,
+                  "endIndex": 6871,
+                  "textRun": {
+                    "content": "(3) Jede Bewertung muss nachvollziehbar protokolliert sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6871,
+            "endIndex": 6872,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6871,
+                  "endIndex": 6872,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6872,
+            "endIndex": 6907,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6872,
+                  "endIndex": 6907,
+                  "textRun": {
+                    "content": "KAPITEL V – EID UND ZERTIFIZIERUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6907,
+            "endIndex": 6922,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6907,
+                  "endIndex": 6922,
+                  "textRun": {
+                    "content": "§20 Wächtereid\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6922,
+            "endIndex": 6976,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6922,
+                  "endIndex": 6976,
+                  "textRun": {
+                    "content": "(1) Nach Bestehen erfolgt der Eid auf die Verfassung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6976,
+            "endIndex": 7022,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6976,
+                  "endIndex": 7022,
+                  "textRun": {
+                    "content": "(2) Der Eid ist öffentlich und protokolliert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7022,
+            "endIndex": 7023,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7022,
+                  "endIndex": 7023,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7023,
+            "endIndex": 7049,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7023,
+                  "endIndex": 7049,
+                  "textRun": {
+                    "content": "§21 Zertifikat und Lizenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7049,
+            "endIndex": 7097,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7049,
+                  "endIndex": 7097,
+                  "textRun": {
+                    "content": "(1) Nach Eid erhält das Paar die Wächterlizenz.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7097,
+            "endIndex": 7134,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7097,
+                  "endIndex": 7134,
+                  "textRun": {
+                    "content": "(2) Die Lizenz gilt maximal 5 Jahre.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7134,
+            "endIndex": 7174,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7134,
+                  "endIndex": 7174,
+                  "textRun": {
+                    "content": "(3) Der Eintrag erfolgt im Wächterpool.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7174,
+            "endIndex": 7175,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7174,
+                  "endIndex": 7175,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7175,
+            "endIndex": 7216,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7175,
+                  "endIndex": 7216,
+                  "textRun": {
+                    "content": "KAPITEL VI – KONTINUIERLICHE ENTWICKLUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7216,
+            "endIndex": 7246,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7216,
+                  "endIndex": 7246,
+                  "textRun": {
+                    "content": "§22 Angebot zur Weiterbildung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7246,
+            "endIndex": 7378,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7246,
+                  "endIndex": 7378,
+                  "textRun": {
+                    "content": "(1) Wächter sind eingeladen, jährlich an Weiterbildungen teilzunehmen. Das System stellt hierfür Ressourcen und Zeitfenster bereit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7378,
+            "endIndex": 7549,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7378,
+                  "endIndex": 7549,
+                  "textRun": {
+                    "content": "(2) Nachweise sind möglich, aber nicht verpflichtend. Das System vertraut auf die intrinsische Motivation, das eigene Wissen und Können zum Wohle des Lebens zu vertiefen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7549,
+            "endIndex": 7578,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7549,
+                  "endIndex": 7578,
+                  "textRun": {
+                    "content": "(3) Inhalte können umfassen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7578,
+            "endIndex": 7602,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7578,
+                  "endIndex": 7602,
+                  "textRun": {
+                    "content": "- neue Bedrohungsmuster\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7602,
+            "endIndex": 7617,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7602,
+                  "endIndex": 7617,
+                  "textRun": {
+                    "content": "- neue Technik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7617,
+            "endIndex": 7643,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7617,
+                  "endIndex": 7643,
+                  "textRun": {
+                    "content": "- neue Mediationsmethoden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7643,
+            "endIndex": 7686,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7643,
+                  "endIndex": 7686,
+                  "textRun": {
+                    "content": "- Reflexion über Fehler und Entscheidungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7686,
+            "endIndex": 7687,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7686,
+                  "endIndex": 7687,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7687,
+            "endIndex": 7720,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7687,
+                  "endIndex": 7720,
+                  "textRun": {
+                    "content": "§23 Review der Wächterhandlungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7720,
+            "endIndex": 7771,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7720,
+                  "endIndex": 7771,
+                  "textRun": {
+                    "content": "(1) Wächterhandlungen werden regelmäßig überprüft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7771,
+            "endIndex": 7810,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7771,
+                  "endIndex": 7810,
+                  "textRun": {
+                    "content": "(2) Ziel ist Lernen, nicht Bestrafung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7810,
+            "endIndex": 7811,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7810,
+                  "endIndex": 7811,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7811,
+            "endIndex": 7855,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7811,
+                  "endIndex": 7855,
+                  "textRun": {
+                    "content": "KAPITEL VII – ANTI-ELITE SCHUTZ IM TRAINING\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7855,
+            "endIndex": 7871,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7855,
+                  "endIndex": 7871,
+                  "textRun": {
+                    "content": "§24 Transparenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7871,
+            "endIndex": 7929,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7871,
+                  "endIndex": 7929,
+                  "textRun": {
+                    "content": "(1) Es dürfen keine geheimen Wächterakademien existieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7929,
+            "endIndex": 7976,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7929,
+                  "endIndex": 7976,
+                  "textRun": {
+                    "content": "(2) Ausbildungsmaterial muss auditierbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7976,
+            "endIndex": 7977,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7976,
+                  "endIndex": 7977,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7977,
+            "endIndex": 7995,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7977,
+                  "endIndex": 7995,
+                  "textRun": {
+                    "content": "§25 Mentorwechsel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7995,
+            "endIndex": 8037,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7995,
+                  "endIndex": 8037,
+                  "textRun": {
+                    "content": "(1) Mentoren sind eingeladen zu rotieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8037,
+            "endIndex": 8104,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8037,
+                  "endIndex": 8104,
+                  "textRun": {
+                    "content": "(2) Kein Mentor sollte eine Wächtergeneration monopolartig prägen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8104,
+            "endIndex": 8105,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8104,
+                  "endIndex": 8105,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8105,
+            "endIndex": 8137,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8105,
+                  "endIndex": 8137,
+                  "textRun": {
+                    "content": "§26 Verbot der Wächter-Dynastie\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8137,
+            "endIndex": 8213,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8137,
+                  "endIndex": 8213,
+                  "textRun": {
+                    "content": "(1) Kein Wächter darf andere Wächter ohne unabhängige Prüfung „erschaffen\".\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8213,
+            "endIndex": 8258,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8213,
+                  "endIndex": 8258,
+                  "textRun": {
+                    "content": "(2) Jede Lizenz erfordert externe Kontrolle.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8258,
+            "endIndex": 8259,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8258,
+                  "endIndex": 8259,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8259,
+            "endIndex": 8292,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8259,
+                  "endIndex": 8292,
+                  "textRun": {
+                    "content": "KAPITEL VIII – SCHLUSSBESTIMMUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8292,
+            "endIndex": 8307,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8292,
+                  "endIndex": 8307,
+                  "textRun": {
+                    "content": "§27 Kernformel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8307,
+            "endIndex": 8351,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8307,
+                  "endIndex": 8351,
+                  "textRun": {
+                    "content": "Die Wächterausbildung folgt der Kernformel:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8351,
+            "endIndex": 8376,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8351,
+                  "endIndex": 8376,
+                  "textRun": {
+                    "content": "Stärke ohne Grausamkeit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8376,
+            "endIndex": 8404,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8376,
+                  "endIndex": 8404,
+                  "textRun": {
+                    "content": "Wahrheit ohne Manipulation.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8404,
+            "endIndex": 8429,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8404,
+                  "endIndex": 8429,
+                  "textRun": {
+                    "content": "Frieden ohne Opferrolle.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8429,
+            "endIndex": 8448,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8429,
+                  "endIndex": 8448,
+                  "textRun": {
+                    "content": "Licht ohne Hybris.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8448,
+            "endIndex": 8449,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8448,
+                  "endIndex": 8449,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8449,
+            "endIndex": 8467,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8449,
+                  "endIndex": 8467,
+                  "textRun": {
+                    "content": "§28 Inkrafttreten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8467,
+            "endIndex": 8574,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8467,
+                  "endIndex": 8574,
+                  "textRun": {
+                    "content": "Dieses Dokument tritt durch Zustimmung des Wächterrates sowie doppeltes Referendum (Mensch + KI) in Kraft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8574,
+            "endIndex": 8575,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8574,
+                  "endIndex": 8575,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8575,
+            "endIndex": 8623,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8575,
+                  "endIndex": 8623,
+                  "textRun": {
+                    "content": "ENDE DES NIDUS WÄCHTER-AUSBILDUNGSKATALOGS V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8623,
+            "endIndex": 8624,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8623,
+                  "endIndex": 8624,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I",
+      "document_url": "https://docs.google.com/document/d/1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I"
+}

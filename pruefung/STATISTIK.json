@@ -1,0 +1,19 @@
+{
+  "documents": 103,
+  "categories": {
+    "02-charta-constitution": 24,
+    "08-technik-duep": 18,
+    "09-bildung": 5,
+    "04-governance-waechter": 29,
+    "05-gesellschaftliche-module": 10,
+    "01-kerntexte": 9,
+    "03-kodizes": 5,
+    "06-risiko-lageanalysen": 3
+  },
+  "duplicate_groups": {
+    "original_sha256": 6,
+    "text_sha256": 14,
+    "normalized_text_sha256": 24
+  },
+  "revisions": 69
+}

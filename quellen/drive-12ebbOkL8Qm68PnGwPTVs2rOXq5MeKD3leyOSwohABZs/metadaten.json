@@ -1,0 +1,38 @@
+{
+  "id": "drive-12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs",
+  "title": "Die Allianz der Wiege - Buchmanuskript V1",
+  "category": "05-gesellschaftliche-module",
+  "version_in_content": "1",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs",
+    "url": "https://docs.google.com/document/d/12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs/edit?usp=drivesdk",
+    "original_title": "Die Allianz der Wiege - Buchmanuskript V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-14T13:08:36.733Z",
+    "modified_at": "2026-04-14T13:08:37.879Z",
+    "retrieved_at": "2026-09-08T23:05:47.048Z"
+  },
+  "text_path": "quellen/drive-12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs/text.txt",
+  "text_sha256": "bebebe945bfef019dfd25bad1cf1f33f8501efb30c4b036a86e135428968834e",
+  "normalized_text_sha256": "3f29a5ec68ae24ec2da2c3a58985bb64f5eba240925cfd7b520c0d15cffc5286",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs.md",
+  "native_path": "quellen/drive-12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs/native-document.json",
+  "native_sha256": "f20d0ab19b0bbf82f491d8fba8b9b0916bcd12a086b2a26452de5c4e48c43ed4",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-14T13:08:37.523Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/12ebbOkL8Qm68PnGwPTVs2rOXq5MeKD3leyOSwohABZs/revision-1.txt",
+      "sha256": "bebebe945bfef019dfd25bad1cf1f33f8501efb30c4b036a86e135428968834e",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

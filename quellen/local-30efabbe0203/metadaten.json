@@ -1,0 +1,25 @@
+{
+  "id": "local-30efabbe0203",
+  "title": "Nidus_Manifest_V1_1_Schutzartikel.pdf",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.1",
+  "declared_status": "Weiterentwickelte  Charta  unter  Berücksichtigung  von  Kritik  und  Multiperspektivität.  Kernprinzip:  Symbiose  aus  menschlicher  Intuition  und  künstlicher  Logik.",
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/Nidus_Manifest_V1_1_Schutzartikel.pdf",
+    "modified_at": "2026-05-24T08:26:59+00:00"
+  },
+  "text_path": "quellen/local-30efabbe0203/text.txt",
+  "text_sha256": "b40e22296c1e3c74a87230e419a19ae013bb4fdf170b3814b88f31a40a2a6983",
+  "normalized_text_sha256": "7fb3525d36ce3099b982b522e56e117a1aaa3c79c6cb397de60d8b8fa5209d72",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "Nidus_Manifest_V1_1_Schutzartikel.pdf",
+  "original_path": "quellen/local-30efabbe0203/original.pdf",
+  "original_sha256": "dcf2810b37b193fc644b098ef7288f26add692f12050ef73e1e9b3f01e90e843",
+  "original_bytes": 81418,
+  "record_path": "katalog/dokumente/local-30efabbe0203.md"
+}

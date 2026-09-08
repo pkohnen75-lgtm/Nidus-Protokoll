@@ -1,0 +1,25 @@
+{
+  "id": "local-be299d5fe9d0",
+  "title": "Teil 3 Code & Automatisierung – Die.txt",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/Teil 3 Code & Automatisierung – Die.txt",
+    "modified_at": "2026-04-27T17:36:34.034760+00:00"
+  },
+  "text_path": "quellen/local-be299d5fe9d0/text.txt",
+  "text_sha256": "17bbdfc3a6146462cff00dbbecd8aa83bd44355945344af5000d34b80556fa88",
+  "normalized_text_sha256": "8fc8a4f5cfd78dc1db9d0e1b4d88fbdfd3f736cf228175c559cf1cf8db63347b",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "Teil 3 Code & Automatisierung – Die.txt",
+  "original_path": "quellen/local-be299d5fe9d0/original.txt",
+  "original_sha256": "17bbdfc3a6146462cff00dbbecd8aa83bd44355945344af5000d34b80556fa88",
+  "original_bytes": 6917,
+  "record_path": "katalog/dokumente/local-be299d5fe9d0.md"
+}

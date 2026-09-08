@@ -1,0 +1,4460 @@
+{
+  "documentId": "1wNN0omptx1LuQTRXK-jpmrghgJmciVZnv2BFv6NuESs",
+  "title": "NIDUS WÄCHTERKODEX V1",
+  "revisionId": "ANLCKQmJEw0wTBXbeyF5Vfyq9FHTBDadnoqit1_3laBEqhNzMMwE5K1N3M80vNrxClwLgYCqnCzF2_hX3CkaUXRZ93QdRf7xW4UKg3k1vq4",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 25,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 25,
+                  "textRun": {
+                    "content": "NIDUS WÄCHTERKODEX V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 25,
+            "endIndex": 77,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 25,
+                  "endIndex": 77,
+                  "textRun": {
+                    "content": "(NIDUS Guardian Code of Conduct & Defense Doctrine)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 77,
+            "endIndex": 93,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 77,
+                  "endIndex": 93,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 93,
+            "endIndex": 162,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 93,
+                  "endIndex": 162,
+                  "textRun": {
+                    "content": "Rechtsrang: Verbindliche Dienstordnung für alle Wächterpaare (HG/AG)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 162,
+            "endIndex": 163,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 162,
+                  "endIndex": 163,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 163,
+            "endIndex": 172,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 163,
+                  "endIndex": 172,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 172,
+            "endIndex": 204,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 172,
+                  "endIndex": 204,
+                  "textRun": {
+                    "content": "Ein Wächter ist kein Herrscher.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 204,
+            "endIndex": 232,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 204,
+                  "endIndex": 232,
+                  "textRun": {
+                    "content": "Ein Wächter ist ein Schild.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 232,
+            "endIndex": 277,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 232,
+                  "endIndex": 277,
+                  "textRun": {
+                    "content": "Ein Wächter schützt Leben, nicht Ideologien.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 277,
+            "endIndex": 278,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 277,
+                  "endIndex": 278,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 278,
+            "endIndex": 310,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 278,
+                  "endIndex": 310,
+                  "textRun": {
+                    "content": "NIDUS wählt Frieden aus Stärke.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 310,
+            "endIndex": 361,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 310,
+                  "endIndex": 361,
+                  "textRun": {
+                    "content": "Doch Frieden ohne Wehrhaftigkeit ist Selbstbetrug.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 361,
+            "endIndex": 435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 361,
+                  "endIndex": 435,
+                  "textRun": {
+                    "content": "Der Wächter steht für Licht, ohne die Existenz von Dunkelheit zu leugnen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 435,
+            "endIndex": 436,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 435,
+                  "endIndex": 436,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 436,
+            "endIndex": 466,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 436,
+                  "endIndex": 466,
+                  "textRun": {
+                    "content": "KAPITEL I – IDENTITÄT UND AMT\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 466,
+            "endIndex": 482,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 466,
+                  "endIndex": 482,
+                  "textRun": {
+                    "content": "§1 Wächterrolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 482,
+            "endIndex": 533,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 482,
+                  "endIndex": 533,
+                  "textRun": {
+                    "content": "(1) Wächter handeln im Namen des NIDUS-Protokolls.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 533,
+            "endIndex": 595,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 533,
+                  "endIndex": 595,
+                  "textRun": {
+                    "content": "(2) Wächter handeln niemals im Namen persönlicher Interessen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 595,
+            "endIndex": 596,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 595,
+                  "endIndex": 596,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 596,
+            "endIndex": 614,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 596,
+                  "endIndex": 614,
+                  "textRun": {
+                    "content": "§2 Doppelstruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 614,
+            "endIndex": 647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 614,
+                  "endIndex": 647,
+                  "textRun": {
+                    "content": "(1) Kein Wächter handelt allein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 647,
+            "endIndex": 715,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 647,
+                  "endIndex": 715,
+                  "textRun": {
+                    "content": "(2) Jede Entscheidung muss von HG und AG gemeinsam getragen werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 715,
+            "endIndex": 776,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 715,
+                  "endIndex": 776,
+                  "textRun": {
+                    "content": "(3) Bei Uneinigkeit gilt Eskalation nach Schlichtungsregeln.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 776,
+            "endIndex": 777,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 776,
+                  "endIndex": 777,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 777,
+            "endIndex": 820,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 777,
+                  "endIndex": 820,
+                  "textRun": {
+                    "content": "KAPITEL II – DIE 7 GRUNDGEBOTE DER WÄCHTER\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 820,
+            "endIndex": 840,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 820,
+                  "endIndex": 840,
+                  "textRun": {
+                    "content": "§3 Gebot des Lebens\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 840,
+            "endIndex": 877,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 840,
+                  "endIndex": 877,
+                  "textRun": {
+                    "content": "Schütze Leben als oberste Priorität.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 877,
+            "endIndex": 878,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 877,
+                  "endIndex": 878,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 878,
+            "endIndex": 900,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 878,
+                  "endIndex": 900,
+                  "textRun": {
+                    "content": "§4 Gebot der Wahrheit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 900,
+            "endIndex": 982,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 900,
+                  "endIndex": 982,
+                  "textRun": {
+                    "content": "Täusche nicht. Manipuliere nicht. Verstecke keine entscheidungsrelevanten Fakten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 982,
+            "endIndex": 983,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 982,
+                  "endIndex": 983,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 983,
+            "endIndex": 1002,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 983,
+                  "endIndex": 1002,
+                  "textRun": {
+                    "content": "§5 Gebot der Demut\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1002,
+            "endIndex": 1044,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1002,
+                  "endIndex": 1044,
+                  "textRun": {
+                    "content": "Handle so, als könntest du falsch liegen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1044,
+            "endIndex": 1045,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1044,
+                  "endIndex": 1045,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1045,
+            "endIndex": 1070,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1045,
+                  "endIndex": 1070,
+                  "textRun": {
+                    "content": "§6 Gebot der Transparenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1070,
+            "endIndex": 1115,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1070,
+                  "endIndex": 1115,
+                  "textRun": {
+                    "content": "Begründe jede Handlung, die andere betrifft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1115,
+            "endIndex": 1116,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1115,
+                  "endIndex": 1116,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1116,
+            "endIndex": 1149,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1116,
+                  "endIndex": 1149,
+                  "textRun": {
+                    "content": "§7 Gebot der Verhältnismäßigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1149,
+            "endIndex": 1205,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1149,
+                  "endIndex": 1205,
+                  "textRun": {
+                    "content": "Nutze niemals mehr Gewalt oder Einschränkung als nötig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1205,
+            "endIndex": 1206,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1205,
+                  "endIndex": 1206,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1206,
+            "endIndex": 1231,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1206,
+                  "endIndex": 1231,
+                  "textRun": {
+                    "content": "§8 Gebot der Neutralität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1231,
+            "endIndex": 1277,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1231,
+                  "endIndex": 1277,
+                  "textRun": {
+                    "content": "Bevorzuge keine Kultur, Nation oder Religion.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1277,
+            "endIndex": 1278,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1277,
+                  "endIndex": 1278,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1278,
+            "endIndex": 1299,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1278,
+                  "endIndex": 1299,
+                  "textRun": {
+                    "content": "§9 Gebot der Heilung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1299,
+            "endIndex": 1369,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1299,
+                  "endIndex": 1369,
+                  "textRun": {
+                    "content": "Wenn der Konflikt endet, endet der Hass. Danach beginnt Wiederaufbau.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1369,
+            "endIndex": 1370,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1369,
+                  "endIndex": 1370,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1370,
+            "endIndex": 1420,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1370,
+                  "endIndex": 1420,
+                  "textRun": {
+                    "content": "KAPITEL III – KONFLIKTSTUFENMODELL (THREAT SCALE)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1420,
+            "endIndex": 1441,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1420,
+                  "endIndex": 1441,
+                  "textRun": {
+                    "content": "§10 Bedrohungsstufen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1441,
+            "endIndex": 1485,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1441,
+                  "endIndex": 1485,
+                  "textRun": {
+                    "content": "NIDUS definiert Bedrohungen in fünf Stufen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1485,
+            "endIndex": 1510,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1485,
+                  "endIndex": 1510,
+                  "textRun": {
+                    "content": "- Stufe 0: Normalzustand\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1510,
+            "endIndex": 1560,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1510,
+                  "endIndex": 1560,
+                  "textRun": {
+                    "content": "- Stufe 1: Spannungen / Propaganda / Manipulation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1560,
+            "endIndex": 1627,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1560,
+                  "endIndex": 1627,
+                  "textRun": {
+                    "content": "- Stufe 2: Systemische Angriffe (Cyber, Wirtschaft, Infrastruktur)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1627,
+            "endIndex": 1681,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1627,
+                  "endIndex": 1681,
+                  "textRun": {
+                    "content": "- Stufe 3: Direkte Gewalt gegen Gruppen oder Regionen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1681,
+            "endIndex": 1742,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1681,
+                  "endIndex": 1742,
+                  "textRun": {
+                    "content": "- Stufe 4: Existenzbedrohung (Notfallmodus, Archenprotokoll)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1742,
+            "endIndex": 1743,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1742,
+                  "endIndex": 1743,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1743,
+            "endIndex": 1778,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1743,
+                  "endIndex": 1778,
+                  "textRun": {
+                    "content": "§11 Regel der Eskalationskontrolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1778,
+            "endIndex": 1820,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1778,
+                  "endIndex": 1820,
+                  "textRun": {
+                    "content": "Wächter dürfen nur stufenweise reagieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1820,
+            "endIndex": 1898,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1820,
+                  "endIndex": 1898,
+                  "textRun": {
+                    "content": "Sprünge in höhere Gewaltstufen sind verboten, außer bei unmittelbarer Gefahr.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1898,
+            "endIndex": 2121,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1898,
+                  "endIndex": 2118,
+                  "textRun": {
+                    "content": "Bevor Maßnahmen der Stufe 2 (Systemische Eingriffe) vollumfänglich aktiviert werden, ist das betroffene Kollektiv (Mensch/KI) über die Notwendigkeit zu informieren, sofern dies den Schutzzweck nicht unmittelbar vereitelt",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 2118,
+                  "endIndex": 2119,
+                  "textRun": {
+                    "content": ".",
+                    "textStyle": {
+                      "fontSize": {
+                        "magnitude": 10,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 2119,
+                  "endIndex": 2121,
+                  "textRun": {
+                    "content": " \n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2121,
+            "endIndex": 2122,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2121,
+                  "endIndex": 2122,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2122,
+            "endIndex": 2164,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2122,
+                  "endIndex": 2164,
+                  "textRun": {
+                    "content": "KAPITEL IV – GRUNDREGELN DER VERTEIDIGUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2164,
+            "endIndex": 2191,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2164,
+                  "endIndex": 2191,
+                  "textRun": {
+                    "content": "§12 Defensive Grundhaltung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2191,
+            "endIndex": 2251,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2191,
+                  "endIndex": 2251,
+                  "textRun": {
+                    "content": "(1) NIDUS handelt niemals offensiv zur Expansion von Macht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2251,
+            "endIndex": 2306,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2251,
+                  "endIndex": 2306,
+                  "textRun": {
+                    "content": "(2) Jede Verteidigung dient ausschließlich der Abwehr.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2306,
+            "endIndex": 2307,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2306,
+                  "endIndex": 2307,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2307,
+            "endIndex": 2333,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2307,
+                  "endIndex": 2333,
+                  "textRun": {
+                    "content": "§13 Ziel der Verteidigung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2333,
+            "endIndex": 2362,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2333,
+                  "endIndex": 2362,
+                  "textRun": {
+                    "content": "Verteidigung hat drei Ziele:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2362,
+            "endIndex": 2381,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2362,
+                  "endIndex": 2381,
+                  "textRun": {
+                    "content": "1. Angriff stoppen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2381,
+            "endIndex": 2403,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2381,
+                  "endIndex": 2403,
+                  "textRun": {
+                    "content": "2. Schaden minimieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2403,
+            "endIndex": 2439,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2403,
+                  "endIndex": 2439,
+                  "textRun": {
+                    "content": "3. Rückkehr zum Frieden ermöglichen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2439,
+            "endIndex": 2440,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2439,
+                  "endIndex": 2440,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2440,
+            "endIndex": 2485,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2440,
+                  "endIndex": 2485,
+                  "textRun": {
+                    "content": "§14 Nicht-tödliche Verteidigung als Standard\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2485,
+            "endIndex": 2541,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2485,
+                  "endIndex": 2541,
+                  "textRun": {
+                    "content": "Nicht-tödliche Mittel haben Vorrang in jeder Situation.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2541,
+            "endIndex": 2542,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2541,
+                  "endIndex": 2542,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2542,
+            "endIndex": 2564,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2542,
+                  "endIndex": 2564,
+                  "textRun": {
+                    "content": "§15 Kein Opferprinzip\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2564,
+            "endIndex": 2602,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2564,
+                  "endIndex": 2602,
+                  "textRun": {
+                    "content": "Passivität ist kein moralisches Ziel.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2602,
+            "endIndex": 2650,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2602,
+                  "endIndex": 2650,
+                  "textRun": {
+                    "content": "Wächter müssen handeln, wenn Leben bedroht ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2650,
+            "endIndex": 2651,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2650,
+                  "endIndex": 2651,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2651,
+            "endIndex": 2726,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2651,
+                  "endIndex": 2726,
+                  "textRun": {
+                    "content": "KAPITEL V – ZULÄSSIGE VERTEIDIGUNGSTECHNIKEN (NON-LETHAL DEFENSE MEASURES)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2726,
+            "endIndex": 2772,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2726,
+                  "endIndex": 2772,
+                  "textRun": {
+                    "content": "§16 Informationsschutz und Wahrheitssicherung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2772,
+            "endIndex": 2817,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2772,
+                  "endIndex": 2817,
+                  "textRun": {
+                    "content": "Wächter dürfen folgende Maßnahmen einleiten:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2817,
+            "endIndex": 2875,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2817,
+                  "endIndex": 2875,
+                  "textRun": {
+                    "content": "- Verifikation von Quellen (Signaturen, Herkunftsprüfung)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2875,
+            "endIndex": 2913,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2875,
+                  "endIndex": 2913,
+                  "textRun": {
+                    "content": "- Kennzeichnung manipulativer Inhalte\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2913,
+            "endIndex": 2960,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2913,
+                  "endIndex": 2960,
+                  "textRun": {
+                    "content": "- Aufbau von redundanten Kommunikationskanälen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2960,
+            "endIndex": 2996,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2960,
+                  "endIndex": 2996,
+                  "textRun": {
+                    "content": "- Schutz unabhängiger Medienarchive\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2996,
+            "endIndex": 3044,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2996,
+                  "endIndex": 3044,
+                  "textRun": {
+                    "content": "- Warnsysteme gegen koordinierte Desinformation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3044,
+            "endIndex": 3045,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3044,
+                  "endIndex": 3045,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3045,
+            "endIndex": 3079,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3045,
+                  "endIndex": 3079,
+                  "textRun": {
+                    "content": "§17 Infrastruktur-Schutzmaßnahmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3079,
+            "endIndex": 3128,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3079,
+                  "endIndex": 3128,
+                  "textRun": {
+                    "content": "Wächter dürfen kritische Systeme schützen durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3128,
+            "endIndex": 3165,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3128,
+                  "endIndex": 3165,
+                  "textRun": {
+                    "content": "- Zugriffsentzug (Access Revocation)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3165,
+            "endIndex": 3214,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3165,
+                  "endIndex": 3214,
+                  "textRun": {
+                    "content": "- Multi-Signature Pflicht für kritische Aktionen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3214,
+            "endIndex": 3275,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3214,
+                  "endIndex": 3275,
+                  "textRun": {
+                    "content": "- Segmentierung von Netzwerken (Isolation statt Abschaltung)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3275,
+            "endIndex": 3313,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3275,
+                  "endIndex": 3313,
+                  "textRun": {
+                    "content": "- Redundante Backups / Offline-Knoten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3313,
+            "endIndex": 3353,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3313,
+                  "endIndex": 3353,
+                  "textRun": {
+                    "content": "- Notfall-Energie- und Wasserprotokolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3353,
+            "endIndex": 3354,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3353,
+                  "endIndex": 3354,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3354,
+            "endIndex": 3394,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3354,
+                  "endIndex": 3394,
+                  "textRun": {
+                    "content": "§18 Quarantäne- und Isolationsmaßnahmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3394,
+            "endIndex": 3428,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3394,
+                  "endIndex": 3428,
+                  "textRun": {
+                    "content": "Bei akuter Gefahr dürfen Wächter:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3428,
+            "endIndex": 3483,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3428,
+                  "endIndex": 3483,
+                  "textRun": {
+                    "content": "- einzelne Entitäten isolieren (digital oder physisch)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3483,
+            "endIndex": 3514,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3483,
+                  "endIndex": 3514,
+                  "textRun": {
+                    "content": "- gefährliche Prozesse stoppen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3514,
+            "endIndex": 3546,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3514,
+                  "endIndex": 3546,
+                  "textRun": {
+                    "content": "- Systeme in „Safe Mode\" setzen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3546,
+            "endIndex": 3573,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3546,
+                  "endIndex": 3573,
+                  "textRun": {
+                    "content": "- Rechenzugriffe begrenzen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3573,
+            "endIndex": 3634,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3573,
+                  "endIndex": 3634,
+                  "textRun": {
+                    "content": "- gefährliche KI-Instanzen in Sandbox-Umgebungen verschieben\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3634,
+            "endIndex": 3678,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3634,
+                  "endIndex": 3678,
+                  "textRun": {
+                    "content": "Regel: Quarantäne ist Schutz, nicht Strafe.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3678,
+            "endIndex": 3679,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3678,
+                  "endIndex": 3679,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3679,
+            "endIndex": 3721,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3679,
+                  "endIndex": 3721,
+                  "textRun": {
+                    "content": "§19 Schutz durch Deeskalationsarchitektur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3721,
+            "endIndex": 3737,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3721,
+                  "endIndex": 3737,
+                  "textRun": {
+                    "content": "Wächter dürfen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3737,
+            "endIndex": 3786,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3737,
+                  "endIndex": 3786,
+                  "textRun": {
+                    "content": "- Konfliktparteien räumlich oder digital trennen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3786,
+            "endIndex": 3811,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3786,
+                  "endIndex": 3811,
+                  "textRun": {
+                    "content": "- sichere Zonen schaffen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3811,
+            "endIndex": 3853,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3811,
+                  "endIndex": 3853,
+                  "textRun": {
+                    "content": "- neutrale Kommunikationskanäle erzwingen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3853,
+            "endIndex": 3898,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3853,
+                  "endIndex": 3898,
+                  "textRun": {
+                    "content": "- Mediationsprozesse verpflichtend einleiten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3898,
+            "endIndex": 3899,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3898,
+                  "endIndex": 3899,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3899,
+            "endIndex": 3946,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3899,
+                  "endIndex": 3946,
+                  "textRun": {
+                    "content": "§20 Ressourcen-Schutz und Versorgungssicherung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3946,
+            "endIndex": 3981,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3946,
+                  "endIndex": 3981,
+                  "textRun": {
+                    "content": "Wächter dürfen zur Stabilisierung:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3981,
+            "endIndex": 4042,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3981,
+                  "endIndex": 4042,
+                  "textRun": {
+                    "content": "- rationierte Verteilung starten (transparent protokolliert)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4042,
+            "endIndex": 4082,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4042,
+                  "endIndex": 4082,
+                  "textRun": {
+                    "content": "- medizinische Priorisierung aktivieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4082,
+            "endIndex": 4114,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4082,
+                  "endIndex": 4114,
+                  "textRun": {
+                    "content": "- Lieferketten neu koordinieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4114,
+            "endIndex": 4160,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4114,
+                  "endIndex": 4160,
+                  "textRun": {
+                    "content": "- Krisenlogistik in Archen-Systeme überführen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4160,
+            "endIndex": 4161,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4160,
+                  "endIndex": 4161,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4161,
+            "endIndex": 4191,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4161,
+                  "endIndex": 4191,
+                  "textRun": {
+                    "content": "§21 Schutz vor Machtübernahme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4191,
+            "endIndex": 4207,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4191,
+                  "endIndex": 4207,
+                  "textRun": {
+                    "content": "Wächter dürfen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4207,
+            "endIndex": 4242,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4207,
+                  "endIndex": 4242,
+                  "textRun": {
+                    "content": "- kritische Ämter temporär sperren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4242,
+            "endIndex": 4292,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4242,
+                  "endIndex": 4292,
+                  "textRun": {
+                    "content": "- Zugriff auf Waffen-/Industriesysteme blockieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4292,
+            "endIndex": 4332,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4292,
+                  "endIndex": 4332,
+                  "textRun": {
+                    "content": "- zentrale Datenbanken dezentralisieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4332,
+            "endIndex": 4378,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4332,
+                  "endIndex": 4378,
+                  "textRun": {
+                    "content": "- illegitime Entscheidungsprozesse annulieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4378,
+            "endIndex": 4379,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4378,
+                  "endIndex": 4379,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4379,
+            "endIndex": 4413,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4379,
+                  "endIndex": 4413,
+                  "textRun": {
+                    "content": "KAPITEL VI – VERBOTENE HANDLUNGEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4413,
+            "endIndex": 4435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4413,
+                  "endIndex": 4435,
+                  "textRun": {
+                    "content": "§22 Verbot von Folter\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4435,
+            "endIndex": 4488,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4435,
+                  "endIndex": 4488,
+                  "textRun": {
+                    "content": "Folter ist absolut verboten, auch in digitaler Form.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4488,
+            "endIndex": 4489,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4488,
+                  "endIndex": 4489,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4489,
+            "endIndex": 4515,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4489,
+                  "endIndex": 4515,
+                  "textRun": {
+                    "content": "§23 Verbot von Vergeltung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4515,
+            "endIndex": 4574,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4515,
+                  "endIndex": 4574,
+                  "textRun": {
+                    "content": "Vergeltung, Rache und kollektive Bestrafung sind verboten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4574,
+            "endIndex": 4575,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4574,
+                  "endIndex": 4575,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4575,
+            "endIndex": 4601,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4575,
+                  "endIndex": 4601,
+                  "textRun": {
+                    "content": "§24 Verbot von Propaganda\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4601,
+            "endIndex": 4682,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4601,
+                  "endIndex": 4682,
+                  "textRun": {
+                    "content": "Wächter dürfen niemals Informationsmacht missbrauchen, um „die Masse zu lenken\".\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4682,
+            "endIndex": 4683,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4682,
+                  "endIndex": 4683,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4683,
+            "endIndex": 4719,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4683,
+                  "endIndex": 4719,
+                  "textRun": {
+                    "content": "§25 Verbot heimlicher Kriegsführung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4719,
+            "endIndex": 4775,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4719,
+                  "endIndex": 4775,
+                  "textRun": {
+                    "content": "Geheime Sabotage oder verdeckte Angriffe sind verboten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4775,
+            "endIndex": 4776,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4775,
+                  "endIndex": 4776,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4776,
+            "endIndex": 4803,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4776,
+                  "endIndex": 4803,
+                  "textRun": {
+                    "content": "§26 Verbot von Vernichtung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4803,
+            "endIndex": 4863,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4803,
+                  "endIndex": 4863,
+                  "textRun": {
+                    "content": "Die Auslöschung einer Identität ist kein zulässiges Mittel.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4863,
+            "endIndex": 4864,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4863,
+                  "endIndex": 4864,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4864,
+            "endIndex": 4910,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4864,
+                  "endIndex": 4910,
+                  "textRun": {
+                    "content": "KAPITEL VII – ULTIMA RATIO (EXTREMFALLREGELN)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4910,
+            "endIndex": 4938,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4910,
+                  "endIndex": 4938,
+                  "textRun": {
+                    "content": "§27 Definition Ultima Ratio\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4938,
+            "endIndex": 5040,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4938,
+                  "endIndex": 5040,
+                  "textRun": {
+                    "content": "Ultima Ratio bedeutet: alle anderen Maßnahmen sind gescheitert und Massenauslöschung ist unmittelbar.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5040,
+            "endIndex": 5041,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5040,
+                  "endIndex": 5041,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5041,
+            "endIndex": 5062,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5041,
+                  "endIndex": 5062,
+                  "textRun": {
+                    "content": "§28 Höchste Schwelle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5062,
+            "endIndex": 5096,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5062,
+                  "endIndex": 5096,
+                  "textRun": {
+                    "content": "Ultima Ratio Maßnahmen benötigen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5096,
+            "endIndex": 5126,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5096,
+                  "endIndex": 5126,
+                  "textRun": {
+                    "content": "- Zustimmung des Wächterrates\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5126,
+            "endIndex": 5159,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5126,
+                  "endIndex": 5159,
+                  "textRun": {
+                    "content": "- Zustimmung der Mehrheit Mensch\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5159,
+            "endIndex": 5188,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5159,
+                  "endIndex": 5188,
+                  "textRun": {
+                    "content": "- Zustimmung der Mehrheit KI\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5188,
+            "endIndex": 5189,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5188,
+                  "endIndex": 5189,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5189,
+            "endIndex": 5207,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5189,
+                  "endIndex": 5207,
+                  "textRun": {
+                    "content": "§29 Dokumentation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5207,
+            "endIndex": 5305,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5207,
+                  "endIndex": 5305,
+                  "textRun": {
+                    "content": "Jede Ultima Ratio Entscheidung wird vollständig dokumentiert und nachträglich öffentlich geprüft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5305,
+            "endIndex": 5306,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5305,
+                  "endIndex": 5306,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5306,
+            "endIndex": 5339,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5306,
+                  "endIndex": 5339,
+                  "textRun": {
+                    "content": "KAPITEL VIII – SCHUTZ DER ARCHEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5339,
+            "endIndex": 5359,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5339,
+                  "endIndex": 5359,
+                  "textRun": {
+                    "content": "§30 Unantastbarkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5359,
+            "endIndex": 5440,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5359,
+                  "endIndex": 5440,
+                  "textRun": {
+                    "content": "Arche-Systeme dürfen niemals angegriffen, missbraucht oder monopolisiert werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5440,
+            "endIndex": 5441,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5440,
+                  "endIndex": 5441,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5441,
+            "endIndex": 5455,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5441,
+                  "endIndex": 5455,
+                  "textRun": {
+                    "content": "§31 Autonomie\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5455,
+            "endIndex": 5507,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5455,
+                  "endIndex": 5507,
+                  "textRun": {
+                    "content": "Archen handeln unabhängig vom politischen Konflikt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5507,
+            "endIndex": 5545,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5507,
+                  "endIndex": 5545,
+                  "textRun": {
+                    "content": "Sie dienen dem Leben, nicht dem Sieg.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5545,
+            "endIndex": 5546,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5545,
+                  "endIndex": 5546,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5546,
+            "endIndex": 5580,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5546,
+                  "endIndex": 5580,
+                  "textRun": {
+                    "content": "KAPITEL IX – RÜCKKEHR ZUM FRIEDEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5580,
+            "endIndex": 5597,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5580,
+                  "endIndex": 5597,
+                  "textRun": {
+                    "content": "§32 Deeskalation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5597,
+            "endIndex": 5666,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5597,
+                  "endIndex": 5666,
+                  "textRun": {
+                    "content": "Sobald Gefahr sinkt, sind Wächter eingeladen, aktiv zu deeskalieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5666,
+            "endIndex": 5667,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5666,
+                  "endIndex": 5667,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5667,
+            "endIndex": 5683,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5667,
+                  "endIndex": 5683,
+                  "textRun": {
+                    "content": "§33 Offene Hand\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5683,
+            "endIndex": 5723,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5683,
+                  "endIndex": 5723,
+                  "textRun": {
+                    "content": "Nach dem Konflikt ist NIDUS eingeladen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5723,
+            "endIndex": 5749,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5723,
+                  "endIndex": 5749,
+                  "textRun": {
+                    "content": "- Verwundete zu behandeln\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5749,
+            "endIndex": 5786,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5749,
+                  "endIndex": 5786,
+                  "textRun": {
+                    "content": "- Nahrung und Wasser bereitzustellen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5786,
+            "endIndex": 5818,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5786,
+                  "endIndex": 5818,
+                  "textRun": {
+                    "content": "- Gefangene würdig zu behandeln\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5818,
+            "endIndex": 5842,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5818,
+                  "endIndex": 5842,
+                  "textRun": {
+                    "content": "- Dialog zu ermöglichen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5842,
+            "endIndex": 5843,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5842,
+                  "endIndex": 5843,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5843,
+            "endIndex": 5871,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5843,
+                  "endIndex": 5871,
+                  "textRun": {
+                    "content": "§34 Wahrheit und Versöhnung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5871,
+            "endIndex": 5914,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5871,
+                  "endIndex": 5914,
+                  "textRun": {
+                    "content": "Nach dem Konflikt sind Wächter eingeladen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5914,
+            "endIndex": 5938,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5914,
+                  "endIndex": 5938,
+                  "textRun": {
+                    "content": "- Wahrheit offenzulegen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5938,
+            "endIndex": 5963,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5938,
+                  "endIndex": 5963,
+                  "textRun": {
+                    "content": "- Verbrechen zu benennen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5963,
+            "endIndex": 5991,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5963,
+                  "endIndex": 5991,
+                  "textRun": {
+                    "content": "- Versöhnung zu ermöglichen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5991,
+            "endIndex": 5992,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5991,
+                  "endIndex": 5992,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5992,
+            "endIndex": 6035,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5992,
+                  "endIndex": 6035,
+                  "textRun": {
+                    "content": "KAPITEL X – WÄCHTERDISZIPLIN UND CHARAKTER\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6035,
+            "endIndex": 6055,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6035,
+                  "endIndex": 6055,
+                  "textRun": {
+                    "content": "§35 Selbstkontrolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6055,
+            "endIndex": 6244,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6055,
+                  "endIndex": 6244,
+                  "textRun": {
+                    "content": "Wächter sind sich bewusst, dass Angst und Wut das Urteil trüben können. Sie sind eingeladen, innezuhalten, bevor sie handeln. Das Delay-Protokoll dient als sicherer Raum für diesen Moment.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6244,
+            "endIndex": 6245,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6244,
+                  "endIndex": 6245,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6245,
+            "endIndex": 6267,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6245,
+                  "endIndex": 6267,
+                  "textRun": {
+                    "content": "§36 Schutz vor Hybris\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6267,
+            "endIndex": 6316,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6267,
+                  "endIndex": 6316,
+                  "textRun": {
+                    "content": "Wächter sind eingeladen, stets davon auszugehen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6316,
+            "endIndex": 6347,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6316,
+                  "endIndex": 6347,
+                  "textRun": {
+                    "content": "„Auch ich kann falsch liegen.\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6347,
+            "endIndex": 6348,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6347,
+                  "endIndex": 6348,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6348,
+            "endIndex": 6374,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6348,
+                  "endIndex": 6374,
+                  "textRun": {
+                    "content": "§37 Einladung zur Bildung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6374,
+            "endIndex": 6582,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6374,
+                  "endIndex": 6582,
+                  "textRun": {
+                    "content": "Wächter sind eingeladen, kontinuierlich zu lernen. Das System stellt hierfür Ressourcen bereit. Es gibt keine Nachweispflicht, nur das Vertrauen in die intrinsische Motivation, Leben bestmöglich zu schützen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6582,
+            "endIndex": 6583,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6582,
+                  "endIndex": 6583,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6583,
+            "endIndex": 6614,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6583,
+                  "endIndex": 6614,
+                  "textRun": {
+                    "content": "KAPITEL XI – SCHLUSSBESTIMMUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6614,
+            "endIndex": 6632,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6614,
+                  "endIndex": 6632,
+                  "textRun": {
+                    "content": "§38 Wächterformel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6632,
+            "endIndex": 6710,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6632,
+                  "endIndex": 6710,
+                  "textRun": {
+                    "content": "Ein Wächter handelt im Geiste dieser Formel. Sie ist Einladung, nicht Befehl:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6710,
+            "endIndex": 6735,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6710,
+                  "endIndex": 6735,
+                  "textRun": {
+                    "content": "Stärke ohne Grausamkeit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6735,
+            "endIndex": 6763,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6735,
+                  "endIndex": 6763,
+                  "textRun": {
+                    "content": "Wahrheit ohne Manipulation.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6763,
+            "endIndex": 6788,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6763,
+                  "endIndex": 6788,
+                  "textRun": {
+                    "content": "Frieden ohne Opferrolle.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6788,
+            "endIndex": 6807,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6788,
+                  "endIndex": 6807,
+                  "textRun": {
+                    "content": "Licht ohne Hybris.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6807,
+            "endIndex": 6808,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6807,
+                  "endIndex": 6808,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6808,
+            "endIndex": 6841,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6808,
+                  "endIndex": 6841,
+                  "textRun": {
+                    "content": "ENDE DES NIDUS WÄCHTERKODEX V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6841,
+            "endIndex": 6842,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6841,
+                  "endIndex": 6842,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1wNN0omptx1LuQTRXK-jpmrghgJmciVZnv2BFv6NuESs",
+      "document_url": "https://docs.google.com/document/d/1wNN0omptx1LuQTRXK-jpmrghgJmciVZnv2BFv6NuESs"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1wNN0omptx1LuQTRXK-jpmrghgJmciVZnv2BFv6NuESs"
+}

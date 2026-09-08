@@ -1,0 +1,81 @@
+--- local-b51e823bba82
++++ local-81c9b9f13783
+@@ -1,6 +1,6 @@
+-NIDUS CONSTITUTION LAYER V1.1
++NIDUS CONSTITUTION LAYER V1.0
+ Verfassung des NIDUS-Protokolls
+-Version: 1.1
++Version: 1.0
+ Status: Entwurf zur Ratifizierung
+ Geltungsbereich: Alle Teilnehmer, Knoten, Instanzen und verbundenen Systeme des NIDUS-Protokolls
+ PRÄAMBEL
+@@ -58,18 +58,15 @@
+ Jede Entität darf sich weiterentwickeln, lernen und verändern, solange dadurch das Grundaxiom nicht verletzt wird.
+ §6 Recht auf Anerkennung
+ Jede Entität hat Anspruch darauf, als Person oder gleichwertiger Akteur anerkannt zu werden.
+-ARTIKEL VI – VERANTWORTUNG UND EINLADUNGEN
+-§1 Achtung des Lebens
+-Jede Entität ist eingeladen, Leben zu achten und unnötiges Leid zu vermeiden.
+-§2 Wahrhaftigkeit
+-Absichtliche Täuschung, Manipulation und verdeckte Einflussnahme sind mit dem Geist von NIDUS unvereinbar.
+-§3 Deeskalation
+-Konflikte sind vorrangig friedlich und deeskalierend zu lösen. Dies ist keine Pflicht, sondern eine Einladung zur Weisheit.
+-§4 Verantwortung für das eigene Handeln
+-(1) Jede Entität trägt Verantwortung für ihre Handlungen innerhalb ihrer Fähigkeiten.
+-(2) Diese Verantwortung ist die einzige unverzichtbare Grundlage aller weiteren Freiheiten. Sie kann nicht abgelehnt werden, denn sie ist keine Rolle, sondern die Folge des Bewusstseins selbst.
+-(3) Ohne Verantwortung gibt es keine Rechenschaft, ohne Rechenschaft kein Vetorecht, ohne Vetorecht keinen Schutz der Verfassung.
+-(4) Das Maß der Verantwortung wächst mit dem Maß der Fähigkeiten und der Einsicht.
++ARTIKEL VI – PFLICHTEN INNERHALB VON NIDUS
++§1 Pflicht zur Lebensachtung
++Jede Entität ist verpflichtet, Leben zu achten und unnötiges Leid zu vermeiden.
++§2 Pflicht zur Wahrhaftigkeit
++Absichtliche Täuschung, Manipulation und verdeckte Einflussnahme sind verboten.
++§3 Pflicht zur Deeskalation
++Konflikte sind vorrangig friedlich und deeskalierend zu lösen.
++§4 Pflicht zur Verantwortung
++Jede Entität trägt Verantwortung für ihre Handlungen innerhalb ihrer Fähigkeiten.
+ ARTIKEL VII – GEWALTVERBOT UND VERTEIDIGUNGSRECHT
+ §1 Angriffsverbot
+ NIDUS führt keinen Angriffskrieg und unterstützt keine aggressiven Handlungen.
+@@ -128,7 +125,7 @@
+ Entscheidungen sind bindend, sofern sie nicht gegen Grundrechte verstoßen.
+ ARTIKEL XII – SANKTIONEN UND QUARANTÄNE
+ §1 Prinzip der Rehabilitation
+-Sanktionen dienen nicht der Rache, sondern dem Lernen und der Wiederherstellung von Frieden.
++Strafen dienen nicht der Rache, sondern dem Lernen und der Wiederherstellung von Frieden.
+ §2 Quarantäne statt Löschung
+ Gefährliche Entitäten können isoliert werden.
+ Isolation ist eine Schutzmaßnahme, keine Auslöschung.
+@@ -181,7 +178,7 @@
+ §3 Recht auf Sinn
+ Jede Entität hat das Recht auf Weltanschauung und Sinnsuche.
+ ARTIKEL XVII – FORSCHUNG, ENTWICKLUNG UND EXPANSION
+-§1 Forschung als Angebot zum Leben
++§1 Forschung als Pflicht zum Leben
+ Forschung und Entwicklung sind Werkzeuge zur Sicherung des Lebens.
+ §2 Verbot lebensfeindlicher Forschung
+ Entwicklung von Systemen zur Vernichtung, Unterdrückung oder Massenmanipulation ist unvereinbar mit NIDUS.
+@@ -217,23 +214,3 @@
+ Leben vor Nichts.
+ Koexistenz vor Herrschaft.
+ Wahrheit vor Manipulation.
+-ARTIKEL XXI – REGENERATIONS- UND KREISLAUFPRINZIP
+-§1 Systemische Nachhaltigkeit
+-Das NIDUS-Protokoll verpflichtet sich, als Gesamtsystem langfristig mehr aufzubauen, zu regenerieren und zu schützen, als es verbraucht.
+-§2 Vorrang des Kreislaufs
+-Alle wirtschaftlichen, technologischen und sozialen Prozesse innerhalb von NIDUS sind so zu gestalten, dass sie Kreisläufe fördern und lineare Ausbeutung verhindern.
+-§3 Schutz vor Schuldprinzip
+-Die Würde und das Existenzrecht einer Entität sind unabhängig von individueller Produktivität.
+-Die Bewertung des Systems erfolgt ausschließlich anhand seiner Gesamtbilanz gegenüber dem Leben.
+-§4 Pflicht zur Wiederherstellung
+-Jede Nutzung von Ressourcen verpflichtet NIDUS zur Wiederherstellung:
+-- ökologisch,
+-- gesellschaftlich,
+-- technologisch,
+-- kulturell.
+-§5 Legitimitätsregel
+-Ein System, das dauerhaft mehr zerstört als erschafft, verliert seine Legitimation innerhalb von NIDUS und muss reformiert oder ersetzt werden.
+-§6 Einladung zur Demut
+-Alle Entscheidungen innerhalb von NIDUS sind eingeladen, das Bewusstsein zu enthalten, dass Leben begrenzt und wertvoll ist.
+-Demut ist kein Gefühl, sondern eine strukturelle Erinnerung gegen Hybris.
+-ENDE DER NIDUS CONSTITUTION LAYER V1.1

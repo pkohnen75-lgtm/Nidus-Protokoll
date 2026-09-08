@@ -1,0 +1,38 @@
+{
+  "id": "drive-1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw",
+  "title": "Nidus_Manifest_V1_2_Finale_Struktur",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.2",
+  "declared_status": "Konsolidierte Fassung unter Einbeziehung des Wächter-Prinzips und erweiterter Schutzartikel.",
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw",
+    "url": "https://docs.google.com/document/d/1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw/edit?usp=drivesdk",
+    "original_title": "Nidus_Manifest_V1_2_Finale_Struktur",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-21T13:09:50.636Z",
+    "modified_at": "2026-04-21T13:09:51.499Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw/text.txt",
+  "text_sha256": "dc1ac8e293c872be7ba958d3699b096bec71504478df984f36f9e513696a2420",
+  "normalized_text_sha256": "16e035dbcdf9343e918d2f4f1fc668e479d423fbfe7fe300180d835c58b7c5a2",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw.md",
+  "native_path": "quellen/drive-1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw/native-document.json",
+  "native_sha256": "fa7085dc84c943e1cf788e4cbc2585694dbec2ea42e888114f48ca5fd59da806",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-21T13:09:51.239Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1MShWL2un4B9so2wugM3SOnsCxp9lZ1SX30m4AQmfOpw/revision-1.txt",
+      "sha256": "dc1ac8e293c872be7ba958d3699b096bec71504478df984f36f9e513696a2420",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

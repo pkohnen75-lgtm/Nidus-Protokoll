@@ -1,0 +1,25 @@
+{
+  "id": "local-efbc0ce70768",
+  "title": "NIDUS ANTI-ORDEN- UND ANTI-ELITE-KLAUSEL V1.1",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.1",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_18bc92.txt",
+    "modified_at": "2026-05-14T17:38:25.797707+00:00"
+  },
+  "text_path": "quellen/local-efbc0ce70768/text.txt",
+  "text_sha256": "536af559cc186149b6083ca1bb9359dd102d9ef6ee9809b0c5119b82460cf651",
+  "normalized_text_sha256": "45a46a7705641de5ae393faf92c8f8596c2781232e69ebba8bb72e8344b7d182",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_18bc92.txt",
+  "original_path": "quellen/local-efbc0ce70768/original.txt",
+  "original_sha256": "536af559cc186149b6083ca1bb9359dd102d9ef6ee9809b0c5119b82460cf651",
+  "original_bytes": 7346,
+  "record_path": "katalog/dokumente/local-efbc0ce70768.md"
+}

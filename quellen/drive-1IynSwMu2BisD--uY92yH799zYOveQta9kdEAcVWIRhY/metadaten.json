@@ -1,0 +1,47 @@
+{
+  "id": "drive-1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY",
+  "title": "NIDUS DÜP Simulation [redaktioneller Titel]",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY",
+    "url": "https://docs.google.com/document/d/1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY/edit?usp=drivesdk",
+    "original_title": "Unbenanntes Dokument",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-09T19:29:14.051Z",
+    "modified_at": "2026-05-09T19:29:39.411Z",
+    "retrieved_at": "2026-09-08T23:05:47.048Z"
+  },
+  "text_path": "quellen/drive-1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY/text.txt",
+  "text_sha256": "22c5419a9fbec3d26cc29348012814b0f4e488e5fa4887fdc5d90f5e23160169",
+  "normalized_text_sha256": "a20879af14227fecabfe5287f82709dff3c2317bac607ec8435a844beec70b9a",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY.md",
+  "native_path": "quellen/drive-1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY/native-document.json",
+  "native_sha256": "72361be252381df81f7d4361302bbc21c3f01155a80b991ab83621ce28fb4d6e",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-09T19:29:14.300Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "4",
+      "modified_at": "2026-05-09T19:29:39.364Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1IynSwMu2BisD--uY92yH799zYOveQta9kdEAcVWIRhY/revision-4.txt",
+      "sha256": "22c5419a9fbec3d26cc29348012814b0f4e488e5fa4887fdc5d90f5e23160169",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

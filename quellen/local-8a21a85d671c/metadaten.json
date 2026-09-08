@@ -1,0 +1,25 @@
+{
+  "id": "local-8a21a85d671c",
+  "title": "NIDUS - Vorstellung in Ultra Leichter Sprache.pdf",
+  "category": "01-kerntexte",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS - Vorstellung in Ultra Leichter Sprache.pdf",
+    "modified_at": "2026-06-04T09:30:00+00:00"
+  },
+  "text_path": "quellen/local-8a21a85d671c/text.txt",
+  "text_sha256": "d9c879de40c646e7b7cb062dac8672449d77d97ca6ebce098776a0c452acc2d2",
+  "normalized_text_sha256": "79b90b96cddc62ab479bbb7f107468855922a61408e35e694015ffbdaa665685",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS - Vorstellung in Ultra Leichter Sprache.pdf",
+  "original_path": "quellen/local-8a21a85d671c/original.pdf",
+  "original_sha256": "9b2c0592f44e70e2320f19ea0210674a0d3ecaf633534528b0696311b3d218f5",
+  "original_bytes": 82895,
+  "record_path": "katalog/dokumente/local-8a21a85d671c.md"
+}

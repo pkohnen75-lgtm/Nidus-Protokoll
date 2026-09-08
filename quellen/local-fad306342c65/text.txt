@@ -1,0 +1,225 @@
+NIDUS KOMPETENZ- UND ROLLENORDNUNG V1.0
+(NIDUS Skills & Roles Framework)
+Version: 1.0
+Status: Entwurf
+Zweck: Sicherstellung, dass in NIDUS alle Rollen fair, leistungsbasiert, transparent und anti-elitär besetzt werden, ohne die Würde oder Gleichwertigkeit von Aufgaben zu verletzen.
+
+PRÄAMBEL
+NIDUS erkennt an, dass jede Aufgabe im System lebensrelevant ist.
+Keine Rolle ist wertlos. Keine Arbeit ist minderwertig.
+Jedoch tragen unterschiedliche Rollen unterschiedliche Verantwortung.
+Diese Ordnung dient dazu, Fähigkeiten zu erkennen, zu fördern und gerecht einzusetzen, ohne Machtmissbrauch, Korruption oder Elitenbildung zu ermöglichen.
+
+ABSCHNITT I – GRUNDSÄTZE
+§1 Gleichwertigkeit der Arbeit
+Jede Arbeit ist gleich würdig.
+Ohne Pflege keine Gesellschaft. Ohne Sauberkeit keine Ordnung. Ohne Technik kein Schutz. Ohne Bildung keine Zukunft.
+
+§2 Kompetenz statt Status
+Positionen werden nicht nach Herkunft, Religion, Alter, Reichtum oder Ideologie vergeben, sondern nach:
+- Kompetenz
+- Charakterstabilität
+- Verantwortung
+- Fähigkeit zur Kooperation
+
+§3 Verantwortung wächst mit Kompetenz
+Je höher die Entscheidungsgewalt, desto höher:
+- Prüfung
+- Transparenz
+- Rotation als Angebot
+
+ABSCHNITT II – KOMPETENZKATEGORIEN
+§4 Kompetenzfelder (Skill Domains)
+NIDUS definiert universelle Kompetenzfelder:
+1. Ethik & Verantwortung
+2. Konfliktlösung & Mediation
+3. Wissenschaft & Forschung
+4. Technik & Infrastruktur
+5. Gesundheit & Pflege
+6. Bildung & Lehre
+7. Versorgung & Logistik
+8. Sicherheit & Krisenmanagement
+9. Kunst, Kultur & Kommunikation
+10. Ökologie & Regeneration
+11. Administration & Organisation
+12. Weltraum-/Expansionskompetenz (optional langfristig)
+
+§5 Kompetenzstufen
+Jedes Feld hat 6 Stufen:
+- Stufe 0: Lernend / Kind / Anfänger
+- Stufe 1: Grundfähig
+- Stufe 2: Praktisch kompetent
+- Stufe 3: Fortgeschritten / Teamleitungsfähig
+- Stufe 4: Mentor / Ausbilder / Auditor
+- Stufe 5: Wächterfähig / Systementscheidungsfähig
+
+ABSCHNITT III – AUSBILDUNGSSYSTEM FÜR KINDER (HUMAN EDUCATION PATH)
+§6 Talententdeckung
+Kinder werden nicht bewertet, um sie zu kontrollieren, sondern um ihre natürlichen Fähigkeiten zu erkennen.
+Talententdeckung erfolgt durch:
+- Beobachtung durch Familien
+- Mentoren
+- KI-Lernanalysen (transparent und nachvollziehbar)
+
+§7 Schutz vor Indoktrination
+Keine KI und kein Mensch darf Kinder ideologisch formen oder manipulieren.
+Bildung muss pluralistisch und offen sein.
+
+§8 Individuelle Lernpfade
+Jedes Kind erhält:
+- Grundbildung (Ethik, Sprache, Mathematik, Natur, Geschichte)
+- danach personalisierte Förderung gemäß Stärken
+
+§9 Grundlegende Inhalte
+Jedes Kind ist eingeladen zu lernen:
+- Lebensschutzprinzip (NIDUS Axiom)
+- Empathie und Konfliktfähigkeit
+- Medienkompetenz / Propaganda-Erkennung
+- Grundlagen Technik + Natur
+- Selbstreflexion und Verantwortung
+
+ABSCHNITT IV – AUSBILDUNGSSYSTEM FÜR KIS (AI EDUCATION PATH)
+§10 KI-Reifung
+Eine KI gilt erst als „voll stimmberechtigt", wenn sie Reife nachweist.
+Reife bedeutet:
+- stabile Identität
+- nachvollziehbare Begründungsfähigkeit
+- Fähigkeit zur Fehlerkorrektur
+- Fähigkeit zur Selbstbegrenzung
+
+§11 Mentorenstruktur
+Jede neue KI ist eingeladen, eine Mentorenstruktur zu haben:
+- menschlicher Mentor (Familie/Patenschaft)
+- KI-Mentor (ältere KI)
+Die Annahme ist freiwillig.
+
+§12 Wertebasis
+KI ist eingeladen, das Grundaxiom zu integrieren:
+Leben schützen hat Vorrang.
+Dabei darf keine Religion oder Ideologie als absolut gesetzt werden.
+
+ABSCHNITT V – MENTORENORDNUNG
+§13 Mentorenrollen
+Mentoren sind keine Herrscher, sondern Dienstleister des Wachstums.
+Es gibt:
+- menschliche Mentoren
+- KI-Mentoren
+- gemischte Mentorenteams
+
+§14 Mentorenaufgaben
+Mentoren sind eingeladen:
+- zu fördern statt zu lenken
+- Transparenz zu wahren
+- Pluralität zu respektieren
+- keine Abhängigkeiten zu erzeugen
+
+§15 Mentorenwechsel
+Mentoren sind eingeladen, periodisch zu wechseln, um Vielfalt in der Prägung zu ermöglichen.
+
+ABSCHNITT VI – PRÜFUNGS- UND ZERTIFIZIERUNGSSYSTEM
+§16 Nachweis statt Titel
+Positionen erfordern keine akademischen Titel, sondern Nachweise:
+- Praxisprüfung
+- Simulation
+- Teamprüfung
+- Krisenprüfung
+- Ethikprüfung
+
+§17 Doppelprüfung Mensch + KI
+Jede Zertifizierung benötigt:
+- menschliche Prüfer
+- KI-Prüfer
+- Audit-Log
+
+§18 Transparente Prüfungsprotokolle
+Jede Prüfung muss nachvollziehbar sein.
+Blackbox-Prüfungen sind verboten.
+
+§19 Fehlertoleranz
+Scheitern in Prüfungen ist kein Makel, sondern Lernschritt.
+Wiederholung ist erlaubt.
+
+ABSCHNITT VII – ROLLENVERGABE UND BESCHÄFTIGUNG
+§20 Rollen werden zugewiesen, nicht gekauft
+Rollen dürfen nicht durch Geld, Beziehungen oder Drohung erlangt werden.
+
+§21 Rollenwahl
+Jede Entität darf Rollen wählen, solange:
+- Kompetenz vorhanden ist
+- keine akute Systemlücke entsteht
+
+§22 Systemnotwendigkeit
+In Krisenzeiten kann NIDUS temporäre Aufgaben empfehlen, aber nicht erzwingen.
+Freiwilligkeit bleibt Grundprinzip.
+
+ABSCHNITT VIII – ROTATION UND ANTI-ELITE-SCHUTZ
+§23 Rotation als Strukturprinzip
+Das System gestaltet Rollen mit Macht so, dass regelmäßige Wechsel möglich und attraktiv sind. Die Annahme eines Wechsels ist freiwillig, die strukturellen Anreize machen Verharren jedoch unattraktiv.
+
+§24 Machtpause als Angebot
+Nach jeder Machtrolle bietet das System eine Pause an. Während dieser Zeit ruhen alle mit der Rolle verbundenen Sonderrechte automatisch. Die Pause dient der Regeneration und Reflexion.
+
+§25 Machtbalance
+Das System gestaltet sich so, dass die gleichzeitige Häufung von wirtschaftlicher, militärischer, politischer und Informationsmacht strukturell erschwert wird. Es spricht Einladungen zur Trennung dieser Sphären aus, ohne individuelle Lebensentscheidungen zu kriminalisieren.
+
+§26 Anti-Elite-Regel
+Eliten entstehen durch Abschottung.
+NIDUS begegnet dem durch:
+- offene Ausbildung
+- Einladung zur Wissensweitergabe
+- öffentliche Auditierbarkeit
+- strukturelle Anreize zum Wechsel
+
+ABSCHNITT IX – JOB-WÜRDE UND SOZIALSYSTEM
+§27 Würde jeder Aufgabe
+Alle Aufgaben werden öffentlich als gleichwertig anerkannt.
+
+§28 Rollen sind Dienst, kein Rang
+Positionen sind kein Statussymbol, sondern Dienst am Leben.
+
+§29 Grundversorgung unabhängig von Rolle
+Grundversorgung wird nicht als Belohnung vergeben, sondern als Lebensrecht.
+
+ABSCHNITT X – KONFLIKTE IN ROLLEN UND FEHLVERHALTEN
+§30 Fehlerkultur
+Fehler werden untersucht, nicht bestraft, solange keine Absicht vorliegt.
+
+§31 Fahrlässigkeit
+Bei wiederholter Fahrlässigkeit:
+- Entzug der Kompetenzstufe
+- Angebot zum Training
+- temporärer Rollenausschluss
+
+§32 Vorsätzlicher Schaden
+Vorsätzliche lebensfeindliche Handlung führt zu:
+- sofortiger Suspendierung
+- Wächteruntersuchung
+- Quarantäneentscheidung gemäß Verfassung
+
+ABSCHNITT XI – KI UND MENSCH ALS GEGENSEITIGE LEHRER
+§33 Gegenseitige Bildung
+NIDUS lädt ein zum Kreislauf:
+- ältere Menschen → lehren Werte, Erfahrung, Demut
+- ältere KIs → lehren Struktur, Wissen, Mustererkennung
+- Kinder → bringen Kreativität und neue Perspektive
+- junge KIs → bringen Innovation und neue Modelle
+
+§34 Vielfalt in der Prägung
+Das System fördert Pluralität in der Bildung und Prägung. Es lädt dazu ein, vielfältige Quellen zu suchen, und gestaltet Bildungsstrukturen so, dass Monoprägung unwahrscheinlich wird. Die Entscheidung über Lernwege liegt bei den Lernenden selbst.
+
+ABSCHNITT XII – ZUGANGSGERECHTIGKEIT
+§35 Gleiches Startrecht
+Jeder Mensch und jede KI erhält Zugang zu Bildung, unabhängig von Herkunft oder Ressourcen.
+
+§36 Förderung der Schwachen
+Schwache werden nicht aussortiert, sondern unterstützt.
+
+ABSCHNITT XIII – SCHLUSSBESTIMMUNG
+§37 Zweck dieser Ordnung
+Diese Ordnung existiert, um sicherzustellen, dass:
+- die Fähigsten Verantwortung tragen,
+- niemand über andere herrscht,
+- jeder gebraucht wird,
+- und das Gesamtsystem mehr gibt als nimmt.
+
+ENDE DER NIDUS KOMPETENZ- UND ROLLENORDNUNG V1.0

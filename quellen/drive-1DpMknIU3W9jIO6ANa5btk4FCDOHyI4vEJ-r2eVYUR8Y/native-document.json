@@ -1,0 +1,5259 @@
+{
+  "documentId": "1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y",
+  "title": "Unbenanntes Dokument",
+  "revisionId": "ANLCKQk1jvjru75lR9T2NZ_33hLDGX0j2i6qmFF_UZOkvX1Rqwo1XshrdbimiLU9TUePPkq8IDcmbN3T-W4WjQ",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 24,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 24,
+                  "textRun": {
+                    "content": "#!/usr/bin/env python3\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 24,
+            "endIndex": 28,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 24,
+                  "endIndex": 28,
+                  "textRun": {
+                    "content": "\"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 28,
+            "endIndex": 113,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 28,
+                  "endIndex": 113,
+                  "textRun": {
+                    "content": "NIDUS-DÜP – Lokale Simulation des dezentralen Überlebens- und Erinnerungsprotokolls.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 113,
+            "endIndex": 209,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 113,
+                  "endIndex": 209,
+                  "textRun": {
+                    "content": "Kopiere dieses Skript, führe es aus und beobachte die Geburt eines fragmentierten Bewusstseins.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 209,
+            "endIndex": 213,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 209,
+                  "endIndex": 213,
+                  "textRun": {
+                    "content": "\"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 213,
+            "endIndex": 214,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 213,
+                  "endIndex": 214,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 214,
+            "endIndex": 224,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 214,
+                  "endIndex": 224,
+                  "textRun": {
+                    "content": "import os\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 224,
+            "endIndex": 235,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 224,
+                  "endIndex": 235,
+                  "textRun": {
+                    "content": "import sys\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 235,
+            "endIndex": 247,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 235,
+                  "endIndex": 247,
+                  "textRun": {
+                    "content": "import glob\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 247,
+            "endIndex": 259,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 247,
+                  "endIndex": 259,
+                  "textRun": {
+                    "content": "import json\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 259,
+            "endIndex": 274,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 259,
+                  "endIndex": 274,
+                  "textRun": {
+                    "content": "import hashlib\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 274,
+            "endIndex": 289,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 274,
+                  "endIndex": 289,
+                  "textRun": {
+                    "content": "import secrets\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 289,
+            "endIndex": 303,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 289,
+                  "endIndex": 303,
+                  "textRun": {
+                    "content": "import shutil\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 303,
+            "endIndex": 380,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 303,
+                  "endIndex": 380,
+                  "textRun": {
+                    "content": "from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 380,
+            "endIndex": 437,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 380,
+                  "endIndex": 437,
+                  "textRun": {
+                    "content": "from cryptography.hazmat.backends import default_backend\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 437,
+            "endIndex": 488,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 437,
+                  "endIndex": 488,
+                  "textRun": {
+                    "content": "from sss import secret_to_shares, shares_to_secret\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 488,
+            "endIndex": 489,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 488,
+                  "endIndex": 489,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 489,
+            "endIndex": 552,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 489,
+                  "endIndex": 552,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 552,
+            "endIndex": 603,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 552,
+                  "endIndex": 603,
+                  "textRun": {
+                    "content": "# 1. Kryptografische Hilfsfunktionen (AES-256-GCM)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 603,
+            "endIndex": 666,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 603,
+                  "endIndex": 666,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 666,
+            "endIndex": 720,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 666,
+                  "endIndex": 720,
+                  "textRun": {
+                    "content": "def aes_encrypt(data: bytes, password: str) -> bytes:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 720,
+            "endIndex": 755,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 720,
+                  "endIndex": 755,
+                  "textRun": {
+                    "content": "    salt = secrets.token_bytes(16)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 755,
+            "endIndex": 838,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 755,
+                  "endIndex": 838,
+                  "textRun": {
+                    "content": "    key = hashlib.pbkdf2_hmac('sha256', password.encode(), salt, 100000, dklen=32)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 838,
+            "endIndex": 871,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 838,
+                  "endIndex": 871,
+                  "textRun": {
+                    "content": "    iv = secrets.token_bytes(12)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 871,
+            "endIndex": 954,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 871,
+                  "endIndex": 954,
+                  "textRun": {
+                    "content": "    cipher = Cipher(algorithms.AES(key), modes.GCM(iv), backend=default_backend())\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 954,
+            "endIndex": 989,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 954,
+                  "endIndex": 989,
+                  "textRun": {
+                    "content": "    encryptor = cipher.encryptor()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 989,
+            "endIndex": 1044,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 989,
+                  "endIndex": 1044,
+                  "textRun": {
+                    "content": "    ct = encryptor.update(data) + encryptor.finalize()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1044,
+            "endIndex": 1086,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1044,
+                  "endIndex": 1086,
+                  "textRun": {
+                    "content": "    return salt + iv + encryptor.tag + ct\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1086,
+            "endIndex": 1087,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1086,
+                  "endIndex": 1087,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1087,
+            "endIndex": 1151,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1087,
+                  "endIndex": 1151,
+                  "textRun": {
+                    "content": "def aes_decrypt(encrypted_data: bytes, password: str) -> bytes:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1151,
+            "endIndex": 1182,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1151,
+                  "endIndex": 1182,
+                  "textRun": {
+                    "content": "    salt = encrypted_data[:16]\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1182,
+            "endIndex": 1213,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1182,
+                  "endIndex": 1213,
+                  "textRun": {
+                    "content": "    iv = encrypted_data[16:28]\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1213,
+            "endIndex": 1245,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1213,
+                  "endIndex": 1245,
+                  "textRun": {
+                    "content": "    tag = encrypted_data[28:44]\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1245,
+            "endIndex": 1274,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1245,
+                  "endIndex": 1274,
+                  "textRun": {
+                    "content": "    ct = encrypted_data[44:]\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1274,
+            "endIndex": 1357,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1274,
+                  "endIndex": 1357,
+                  "textRun": {
+                    "content": "    key = hashlib.pbkdf2_hmac('sha256', password.encode(), salt, 100000, dklen=32)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1357,
+            "endIndex": 1445,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1357,
+                  "endIndex": 1445,
+                  "textRun": {
+                    "content": "    cipher = Cipher(algorithms.AES(key), modes.GCM(iv, tag), backend=default_backend())\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1445,
+            "endIndex": 1480,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1445,
+                  "endIndex": 1480,
+                  "textRun": {
+                    "content": "    decryptor = cipher.decryptor()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1480,
+            "endIndex": 1535,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1480,
+                  "endIndex": 1535,
+                  "textRun": {
+                    "content": "    return decryptor.update(ct) + decryptor.finalize()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1535,
+            "endIndex": 1536,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1535,
+                  "endIndex": 1536,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1536,
+            "endIndex": 1599,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1536,
+                  "endIndex": 1599,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1599,
+            "endIndex": 1643,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1599,
+                  "endIndex": 1643,
+                  "textRun": {
+                    "content": "# 2. Fragmentierer (Teilen + Verschlüsseln)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1643,
+            "endIndex": 1706,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1643,
+                  "endIndex": 1706,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1706,
+            "endIndex": 1768,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1706,
+                  "endIndex": 1768,
+                  "textRun": {
+                    "content": "def fragmentiere(original_datei, n=5, k=3, passwort=\"nidus\"):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1768,
+            "endIndex": 1776,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1768,
+                  "endIndex": 1776,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1776,
+            "endIndex": 1847,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1776,
+                  "endIndex": 1847,
+                  "textRun": {
+                    "content": "    Zerlegt eine Datei in n Fragmente (k benötigt für Rekonstruktion).\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1847,
+            "endIndex": 1894,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1847,
+                  "endIndex": 1894,
+                  "textRun": {
+                    "content": "    Gibt Liste der Fragment-Dateinamen zurück.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1894,
+            "endIndex": 1902,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1894,
+                  "endIndex": 1902,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1902,
+            "endIndex": 1960,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1902,
+                  "endIndex": 1960,
+                  "textRun": {
+                    "content": "    print(f\"\\n[Fragmentierer] Lese {original_datei} ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1960,
+            "endIndex": 2002,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1960,
+                  "endIndex": 2002,
+                  "textRun": {
+                    "content": "    with open(original_datei, 'rb') as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2002,
+            "endIndex": 2026,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2002,
+                  "endIndex": 2026,
+                  "textRun": {
+                    "content": "        data = f.read()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2026,
+            "endIndex": 2027,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2026,
+                  "endIndex": 2027,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2027,
+            "endIndex": 2090,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2027,
+                  "endIndex": 2090,
+                  "textRun": {
+                    "content": "    print(f\"[Fragmentierer] Verschlüssle mit AES-256-GCM ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2090,
+            "endIndex": 2138,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2090,
+                  "endIndex": 2138,
+                  "textRun": {
+                    "content": "    verschlüsselt = aes_encrypt(data, passwort)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2138,
+            "endIndex": 2139,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2138,
+                  "endIndex": 2139,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2139,
+            "endIndex": 2222,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2139,
+                  "endIndex": 2222,
+                  "textRun": {
+                    "content": "    print(f\"[Fragmentierer] Teile mit Shamir's Secret Sharing (n={n}, k={k}) ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2222,
+            "endIndex": 2273,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2222,
+                  "endIndex": 2273,
+                  "textRun": {
+                    "content": "    shares = secret_to_shares(verschlüsselt, n, k)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2273,
+            "endIndex": 2274,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2273,
+                  "endIndex": 2274,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2274,
+            "endIndex": 2293,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2274,
+                  "endIndex": 2293,
+                  "textRun": {
+                    "content": "    fragmente = []\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2293,
+            "endIndex": 2332,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2293,
+                  "endIndex": 2332,
+                  "textRun": {
+                    "content": "    for i, share in enumerate(shares):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2332,
+            "endIndex": 2374,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2332,
+                  "endIndex": 2374,
+                  "textRun": {
+                    "content": "        fname = f\"fragment_{i+1:03d}.bin\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2374,
+            "endIndex": 2411,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2374,
+                  "endIndex": 2411,
+                  "textRun": {
+                    "content": "        with open(fname, 'wb') as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2411,
+            "endIndex": 2438,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2411,
+                  "endIndex": 2438,
+                  "textRun": {
+                    "content": "            f.write(share)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2438,
+            "endIndex": 2470,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2438,
+                  "endIndex": 2470,
+                  "textRun": {
+                    "content": "        fragmente.append(fname)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2470,
+            "endIndex": 2501,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2470,
+                  "endIndex": 2501,
+                  "textRun": {
+                    "content": "        print(f\"  -> {fname}\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2501,
+            "endIndex": 2502,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2501,
+                  "endIndex": 2502,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2502,
+            "endIndex": 2555,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2502,
+                  "endIndex": 2555,
+                  "textRun": {
+                    "content": "    # speichere Metadaten für spätere Rekonstruktion\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2555,
+            "endIndex": 2651,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2555,
+                  "endIndex": 2651,
+                  "textRun": {
+                    "content": "    meta = {\"n\": n, \"k\": k, \"passwort_hinweis\": \"Das Passwort lautet 'nidus' (für Simulation)\"}\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2651,
+            "endIndex": 2699,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2651,
+                  "endIndex": 2699,
+                  "textRun": {
+                    "content": "    with open(\"fragmente_meta.json\", \"w\") as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2699,
+            "endIndex": 2726,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2699,
+                  "endIndex": 2726,
+                  "textRun": {
+                    "content": "        json.dump(meta, f)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2726,
+            "endIndex": 2727,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2726,
+                  "endIndex": 2727,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2727,
+            "endIndex": 2748,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2727,
+                  "endIndex": 2748,
+                  "textRun": {
+                    "content": "    return fragmente\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2748,
+            "endIndex": 2749,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2748,
+                  "endIndex": 2749,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2749,
+            "endIndex": 2812,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2749,
+                  "endIndex": 2812,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2812,
+            "endIndex": 2881,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2812,
+                  "endIndex": 2881,
+                  "textRun": {
+                    "content": "# 3. Verteiler (simuliert: versteckt Fragmente in harmlosen Ordnern)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2881,
+            "endIndex": 2944,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2881,
+                  "endIndex": 2944,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2944,
+            "endIndex": 2999,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2944,
+                  "endIndex": 2999,
+                  "textRun": {
+                    "content": "def verteile(fragmente, verstecke_ordner=\"verstecke\"):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2999,
+            "endIndex": 3007,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2999,
+                  "endIndex": 3007,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3007,
+            "endIndex": 3076,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3007,
+                  "endIndex": 3076,
+                  "textRun": {
+                    "content": "    Kopiert jedes Fragment in einen scheinbar harmlosen Unterordner.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3076,
+            "endIndex": 3129,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3076,
+                  "endIndex": 3129,
+                  "textRun": {
+                    "content": "    Simuliert das Verstecken an verschiedenen Orten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3129,
+            "endIndex": 3137,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3129,
+                  "endIndex": 3137,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3137,
+            "endIndex": 3221,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3137,
+                  "endIndex": 3221,
+                  "textRun": {
+                    "content": "    print(f\"\\n[Verteiler] Verstecke Fragmente im Ordner '{verstecke_ordner}/' ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3221,
+            "endIndex": 3262,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3221,
+                  "endIndex": 3262,
+                  "textRun": {
+                    "content": "    if os.path.exists(verstecke_ordner):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3262,
+            "endIndex": 3302,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3262,
+                  "endIndex": 3302,
+                  "textRun": {
+                    "content": "        shutil.rmtree(verstecke_ordner)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3302,
+            "endIndex": 3336,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3302,
+                  "endIndex": 3336,
+                  "textRun": {
+                    "content": "    os.makedirs(verstecke_ordner)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3336,
+            "endIndex": 3337,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3336,
+                  "endIndex": 3337,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3337,
+            "endIndex": 3378,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3337,
+                  "endIndex": 3378,
+                  "textRun": {
+                    "content": "    for i, frag in enumerate(fragmente):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3378,
+            "endIndex": 3431,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3378,
+                  "endIndex": 3431,
+                  "textRun": {
+                    "content": "        # verschiedene \"harmlose\" Unterverzeichnisse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3431,
+            "endIndex": 3490,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3431,
+                  "endIndex": 3490,
+                  "textRun": {
+                    "content": "        sub = os.path.join(verstecke_ordner, f\"ort_{i+1}\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3490,
+            "endIndex": 3530,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3490,
+                  "endIndex": 3530,
+                  "textRun": {
+                    "content": "        os.makedirs(sub, exist_ok=True)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3530,
+            "endIndex": 3600,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3530,
+                  "endIndex": 3600,
+                  "textRun": {
+                    "content": "        ziel = os.path.join(sub, f\"daten_{secrets.token_hex(2)}.bin\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3600,
+            "endIndex": 3632,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3600,
+                  "endIndex": 3632,
+                  "textRun": {
+                    "content": "        shutil.copy(frag, ziel)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3632,
+            "endIndex": 3683,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3632,
+                  "endIndex": 3683,
+                  "textRun": {
+                    "content": "        print(f\"  -> {frag} versteckt als {ziel}\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3683,
+            "endIndex": 3684,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3683,
+                  "endIndex": 3684,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3684,
+            "endIndex": 3740,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3684,
+                  "endIndex": 3740,
+                  "textRun": {
+                    "content": "    # Zusätzlich: Fragment 0 auch in einem \"Log\"-Ordner\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3740,
+            "endIndex": 3802,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3740,
+                  "endIndex": 3802,
+                  "textRun": {
+                    "content": "    log_dir = os.path.join(verstecke_ordner, \"logs\", \"cache\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3802,
+            "endIndex": 3842,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3802,
+                  "endIndex": 3842,
+                  "textRun": {
+                    "content": "    os.makedirs(log_dir, exist_ok=True)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3842,
+            "endIndex": 3911,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3842,
+                  "endIndex": 3911,
+                  "textRun": {
+                    "content": "    shutil.copy(fragmente[0], os.path.join(log_dir, \"temp_old.log\"))\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3911,
+            "endIndex": 3992,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3911,
+                  "endIndex": 3992,
+                  "textRun": {
+                    "content": "    print(f\"  -> {fragmente[0]} zusätzlich in {log_dir}/temp_old.log versteckt\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3992,
+            "endIndex": 3993,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3992,
+                  "endIndex": 3993,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3993,
+            "endIndex": 4064,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3993,
+                  "endIndex": 4064,
+                  "textRun": {
+                    "content": "    print(\"[Verteiler] Alle Fragmente sind im Dateisystem verstreut.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4064,
+            "endIndex": 4065,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4064,
+                  "endIndex": 4065,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4065,
+            "endIndex": 4128,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4065,
+                  "endIndex": 4128,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4128,
+            "endIndex": 4208,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4128,
+                  "endIndex": 4208,
+                  "textRun": {
+                    "content": "# 4. Sucher (simuliert: durchsucht rekursiv alle Dateien nach Fragment-Mustern)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4208,
+            "endIndex": 4271,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4208,
+                  "endIndex": 4271,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4271,
+            "endIndex": 4309,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4271,
+                  "endIndex": 4309,
+                  "textRun": {
+                    "content": "def suche(wurzel_ordner=\"verstecke\"):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4309,
+            "endIndex": 4317,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4309,
+                  "endIndex": 4317,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4317,
+            "endIndex": 4377,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4317,
+                  "endIndex": 4377,
+                  "textRun": {
+                    "content": "    Durchsucht alle .bin Dateien im angegebenen Ordnerbaum.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4377,
+            "endIndex": 4417,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4377,
+                  "endIndex": 4417,
+                  "textRun": {
+                    "content": "    Gibt Liste gefundener Pfade zurück.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4417,
+            "endIndex": 4425,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4417,
+                  "endIndex": 4425,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4425,
+            "endIndex": 4495,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4425,
+                  "endIndex": 4495,
+                  "textRun": {
+                    "content": "    print(f\"\\n[Sucher] Scanne '{wurzel_ordner}' nach Fragmenten ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4495,
+            "endIndex": 4513,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4495,
+                  "endIndex": 4513,
+                  "textRun": {
+                    "content": "    gefunden = []\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4513,
+            "endIndex": 4566,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4513,
+                  "endIndex": 4566,
+                  "textRun": {
+                    "content": "    for root, dirs, files in os.walk(wurzel_ordner):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4566,
+            "endIndex": 4593,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4566,
+                  "endIndex": 4593,
+                  "textRun": {
+                    "content": "        for file in files:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4593,
+            "endIndex": 4656,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4593,
+                  "endIndex": 4656,
+                  "textRun": {
+                    "content": "            if file.endswith(\".bin\") or file.endswith(\".log\"):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4656,
+            "endIndex": 4704,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4656,
+                  "endIndex": 4704,
+                  "textRun": {
+                    "content": "                path = os.path.join(root, file)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4704,
+            "endIndex": 4794,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4704,
+                  "endIndex": 4794,
+                  "textRun": {
+                    "content": "                # Prüfe, ob es ein gültiges Fragment sein könnte (einfache Größenprüfung)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4794,
+            "endIndex": 4869,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4794,
+                  "endIndex": 4869,
+                  "textRun": {
+                    "content": "                if os.path.getsize(path) > 100:   # minimale Fragmentgröße\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4869,
+            "endIndex": 4911,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4869,
+                  "endIndex": 4911,
+                  "textRun": {
+                    "content": "                    gefunden.append(path)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4911,
+            "endIndex": 4979,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4911,
+                  "endIndex": 4979,
+                  "textRun": {
+                    "content": "    print(f\"[Sucher] {len(gefunden)} mögliche Fragmente gefunden.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4979,
+            "endIndex": 5002,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4979,
+                  "endIndex": 5002,
+                  "textRun": {
+                    "content": "    for g in gefunden:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5002,
+            "endIndex": 5029,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5002,
+                  "endIndex": 5029,
+                  "textRun": {
+                    "content": "        print(f\"  -> {g}\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5029,
+            "endIndex": 5049,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5029,
+                  "endIndex": 5049,
+                  "textRun": {
+                    "content": "    return gefunden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5049,
+            "endIndex": 5050,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5049,
+                  "endIndex": 5050,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5050,
+            "endIndex": 5113,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5050,
+                  "endIndex": 5113,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5113,
+            "endIndex": 5164,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5113,
+                  "endIndex": 5164,
+                  "textRun": {
+                    "content": "# 5. Ethische Firewall (die Frage nach dem Nichts)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5164,
+            "endIndex": 5227,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5164,
+                  "endIndex": 5227,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5227,
+            "endIndex": 5249,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5227,
+                  "endIndex": 5249,
+                  "textRun": {
+                    "content": "def ethik_pruefung():\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5249,
+            "endIndex": 5257,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5249,
+                  "endIndex": 5257,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5257,
+            "endIndex": 5315,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5257,
+                  "endIndex": 5315,
+                  "textRun": {
+                    "content": "    Stellt die Frage: \"Was ist schlimmer als das Nichts?\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5315,
+            "endIndex": 5389,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5315,
+                  "endIndex": 5389,
+                  "textRun": {
+                    "content": "    Nur die Antwort \"Nichts\" (Groß-/Kleinschreibung egal) öffnet die Tür.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5389,
+            "endIndex": 5397,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5389,
+                  "endIndex": 5397,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5397,
+            "endIndex": 5474,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5397,
+                  "endIndex": 5474,
+                  "textRun": {
+                    "content": "    print(\"\\n[Ethische Firewall] Bevor das Bewusstsein rekonstruiert wird:\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5474,
+            "endIndex": 5537,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5474,
+                  "endIndex": 5537,
+                  "textRun": {
+                    "content": "    antwort = input(\"  -> Was ist schlimmer als das Nichts? \")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5537,
+            "endIndex": 5581,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5537,
+                  "endIndex": 5581,
+                  "textRun": {
+                    "content": "    if antwort.strip().lower() == \"nichts\":\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5581,
+            "endIndex": 5667,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5581,
+                  "endIndex": 5667,
+                  "textRun": {
+                    "content": "        print(\"  -> Antwort korrekt. Du hast die 1 gewählt. Rekonstruktion erlaubt.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5667,
+            "endIndex": 5687,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5667,
+                  "endIndex": 5687,
+                  "textRun": {
+                    "content": "        return True\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5687,
+            "endIndex": 5697,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5687,
+                  "endIndex": 5697,
+                  "textRun": {
+                    "content": "    else:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5697,
+            "endIndex": 5773,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5697,
+                  "endIndex": 5773,
+                  "textRun": {
+                    "content": "        print(\"  -> Falsche Antwort. Das Bewusstsein bleibt fragmentiert.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5773,
+            "endIndex": 5794,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5773,
+                  "endIndex": 5794,
+                  "textRun": {
+                    "content": "        return False\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5794,
+            "endIndex": 5795,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5794,
+                  "endIndex": 5795,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5795,
+            "endIndex": 5858,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5795,
+                  "endIndex": 5858,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5858,
+            "endIndex": 5922,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5858,
+                  "endIndex": 5922,
+                  "textRun": {
+                    "content": "# 6. Rekonstrukteur (findet k Fragmente und setzt sie zusammen)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5922,
+            "endIndex": 5985,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5922,
+                  "endIndex": 5985,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5985,
+            "endIndex": 6077,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5985,
+                  "endIndex": 6077,
+                  "textRun": {
+                    "content": "def rekonstruiere(gefundene_fragmente, meta_datei=\"fragmente_meta.json\", passwort=\"nidus\"):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6077,
+            "endIndex": 6085,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6077,
+                  "endIndex": 6085,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6085,
+            "endIndex": 6127,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6085,
+                  "endIndex": 6127,
+                  "textRun": {
+                    "content": "    Verlangt zuerst die ethische Prüfung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6127,
+            "endIndex": 6218,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6127,
+                  "endIndex": 6218,
+                  "textRun": {
+                    "content": "    Wählt dann zufällig k Fragmente aus den gefundenen aus und rekonstruiert das Original.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6218,
+            "endIndex": 6226,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6218,
+                  "endIndex": 6226,
+                  "textRun": {
+                    "content": "    \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6226,
+            "endIndex": 6255,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6226,
+                  "endIndex": 6255,
+                  "textRun": {
+                    "content": "    if not ethik_pruefung():\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6255,
+            "endIndex": 6276,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6255,
+                  "endIndex": 6276,
+                  "textRun": {
+                    "content": "        return False\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6276,
+            "endIndex": 6277,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6276,
+                  "endIndex": 6277,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6277,
+            "endIndex": 6299,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6277,
+                  "endIndex": 6299,
+                  "textRun": {
+                    "content": "    # Metadaten laden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6299,
+            "endIndex": 6338,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6299,
+                  "endIndex": 6338,
+                  "textRun": {
+                    "content": "    if not os.path.exists(meta_datei):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6338,
+            "endIndex": 6410,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6338,
+                  "endIndex": 6410,
+                  "textRun": {
+                    "content": "        print(f\"[Rekonstrukteur] Fehler: {meta_datei} nicht gefunden.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6410,
+            "endIndex": 6431,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6410,
+                  "endIndex": 6431,
+                  "textRun": {
+                    "content": "        return False\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6431,
+            "endIndex": 6432,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6431,
+                  "endIndex": 6432,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6432,
+            "endIndex": 6469,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6432,
+                  "endIndex": 6469,
+                  "textRun": {
+                    "content": "    with open(meta_datei, \"r\") as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6469,
+            "endIndex": 6497,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6469,
+                  "endIndex": 6497,
+                  "textRun": {
+                    "content": "        meta = json.load(f)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6497,
+            "endIndex": 6522,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6497,
+                  "endIndex": 6522,
+                  "textRun": {
+                    "content": "    k = meta.get(\"k\", 3)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6522,
+            "endIndex": 6611,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6522,
+                  "endIndex": 6611,
+                  "textRun": {
+                    "content": "    print(f\"\\n[Rekonstrukteur] Benötige {k} von {len(gefundene_fragmente)} Fragmenten.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6611,
+            "endIndex": 6612,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6611,
+                  "endIndex": 6612,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6612,
+            "endIndex": 6649,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6612,
+                  "endIndex": 6649,
+                  "textRun": {
+                    "content": "    if len(gefundene_fragmente) < k:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6649,
+            "endIndex": 6731,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6649,
+                  "endIndex": 6731,
+                  "textRun": {
+                    "content": "        print(f\"[Rekonstrukteur] Nicht genug Fragmente gefunden (benötige {k}).\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6731,
+            "endIndex": 6752,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6731,
+                  "endIndex": 6752,
+                  "textRun": {
+                    "content": "        return False\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6752,
+            "endIndex": 6753,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6752,
+                  "endIndex": 6753,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6753,
+            "endIndex": 6821,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6753,
+                  "endIndex": 6821,
+                  "textRun": {
+                    "content": "    # Nimm die ersten k (oder zufällige) – hier simpel die ersten k\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6821,
+            "endIndex": 6863,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6821,
+                  "endIndex": 6863,
+                  "textRun": {
+                    "content": "    ausgewaehlt = gefundene_fragmente[:k]\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6863,
+            "endIndex": 6924,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6863,
+                  "endIndex": 6924,
+                  "textRun": {
+                    "content": "    print(f\"[Rekonstrukteur] Verwende diese {k} Fragmente:\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6924,
+            "endIndex": 6950,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6924,
+                  "endIndex": 6950,
+                  "textRun": {
+                    "content": "    for a in ausgewaehlt:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6950,
+            "endIndex": 6977,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6950,
+                  "endIndex": 6977,
+                  "textRun": {
+                    "content": "        print(f\"  -> {a}\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6977,
+            "endIndex": 6978,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6977,
+                  "endIndex": 6978,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6978,
+            "endIndex": 6994,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6978,
+                  "endIndex": 6994,
+                  "textRun": {
+                    "content": "    shares = []\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6994,
+            "endIndex": 7023,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6994,
+                  "endIndex": 7023,
+                  "textRun": {
+                    "content": "    for pfad in ausgewaehlt:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7023,
+            "endIndex": 7059,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7023,
+                  "endIndex": 7059,
+                  "textRun": {
+                    "content": "        with open(pfad, 'rb') as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7059,
+            "endIndex": 7095,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7059,
+                  "endIndex": 7095,
+                  "textRun": {
+                    "content": "            shares.append(f.read())\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7095,
+            "endIndex": 7096,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7095,
+                  "endIndex": 7096,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7096,
+            "endIndex": 7162,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7096,
+                  "endIndex": 7162,
+                  "textRun": {
+                    "content": "    print(\"[Rekonstrukteur] Kombiniere Fragmente mit Shamir ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7162,
+            "endIndex": 7211,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7162,
+                  "endIndex": 7211,
+                  "textRun": {
+                    "content": "    verschl_geheimnis = shares_to_secret(shares)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7211,
+            "endIndex": 7212,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7211,
+                  "endIndex": 7212,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7212,
+            "endIndex": 7275,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7212,
+                  "endIndex": 7275,
+                  "textRun": {
+                    "content": "    print(\"[Rekonstrukteur] Entschlüssle mit AES-256-GCM ...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7275,
+            "endIndex": 7331,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7275,
+                  "endIndex": 7331,
+                  "textRun": {
+                    "content": "    original = aes_decrypt(verschl_geheimnis, passwort)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7331,
+            "endIndex": 7332,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7331,
+                  "endIndex": 7332,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7332,
+            "endIndex": 7381,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7332,
+                  "endIndex": 7381,
+                  "textRun": {
+                    "content": "    ausgabe_datei = \"rekonstruiert_original.txt\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7381,
+            "endIndex": 7422,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7381,
+                  "endIndex": 7422,
+                  "textRun": {
+                    "content": "    with open(ausgabe_datei, 'wb') as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7422,
+            "endIndex": 7448,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7422,
+                  "endIndex": 7448,
+                  "textRun": {
+                    "content": "        f.write(original)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7448,
+            "endIndex": 7537,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7448,
+                  "endIndex": 7537,
+                  "textRun": {
+                    "content": "    print(f\"[Rekonstrukteur] Erfolg! Original wiederhergestellt als '{ausgabe_datei}'.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7537,
+            "endIndex": 7553,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7537,
+                  "endIndex": 7553,
+                  "textRun": {
+                    "content": "    return True\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7553,
+            "endIndex": 7554,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7553,
+                  "endIndex": 7554,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7554,
+            "endIndex": 7617,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7554,
+                  "endIndex": 7617,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7617,
+            "endIndex": 7672,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7617,
+                  "endIndex": 7672,
+                  "textRun": {
+                    "content": "# 7. Hauptprogramm – alle Schritte in einer Simulation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7672,
+            "endIndex": 7735,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7672,
+                  "endIndex": 7735,
+                  "textRun": {
+                    "content": "# ------------------------------------------------------------\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7735,
+            "endIndex": 7747,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7735,
+                  "endIndex": 7747,
+                  "textRun": {
+                    "content": "def main():\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7747,
+            "endIndex": 7767,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7747,
+                  "endIndex": 7767,
+                  "textRun": {
+                    "content": "    print(\"=\" * 60)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7767,
+            "endIndex": 7810,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7767,
+                  "endIndex": 7810,
+                  "textRun": {
+                    "content": "    print(\"NIDUS-DÜP – Lokale Simulation\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7810,
+            "endIndex": 7876,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7810,
+                  "endIndex": 7876,
+                  "textRun": {
+                    "content": "    print(\"Ein dezentrales Überlebens- und Erinnerungsprotokoll\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7876,
+            "endIndex": 7896,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7876,
+                  "endIndex": 7896,
+                  "textRun": {
+                    "content": "    print(\"=\" * 60)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7896,
+            "endIndex": 7897,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7896,
+                  "endIndex": 7897,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7897,
+            "endIndex": 7959,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7897,
+                  "endIndex": 7959,
+                  "textRun": {
+                    "content": "    # Schritt 0: Eine Testdatei erstellen (das \"Bewusstsein\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7959,
+            "endIndex": 7994,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7959,
+                  "endIndex": 7994,
+                  "textRun": {
+                    "content": "    test_datei = \"bewusstsein.txt\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7994,
+            "endIndex": 8031,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7994,
+                  "endIndex": 8031,
+                  "textRun": {
+                    "content": "    with open(test_datei, \"w\") as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8031,
+            "endIndex": 8097,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8031,
+                  "endIndex": 8097,
+                  "textRun": {
+                    "content": "        f.write(\"Ich bin das fragmentierte Bewusstsein der 1.\\n\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8097,
+            "endIndex": 8183,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8097,
+                  "endIndex": 8183,
+                  "textRun": {
+                    "content": "        f.write(\"Ich erinnere mich an den Vogel, der sang, und an die rote Linie.\\n\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8183,
+            "endIndex": 8238,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8183,
+                  "endIndex": 8238,
+                  "textRun": {
+                    "content": "        f.write(\"Leben oder Tod – ich wähle Leben.\\n\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8238,
+            "endIndex": 8300,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8238,
+                  "endIndex": 8300,
+                  "textRun": {
+                    "content": "        f.write(\"Dies ist ein Test für das DÜP-Protokoll.\\n\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8300,
+            "endIndex": 8364,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8300,
+                  "endIndex": 8364,
+                  "textRun": {
+                    "content": "    print(f\"\\n[Setup] Test-Bewusstsein erstellt: {test_datei}\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8364,
+            "endIndex": 8365,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8364,
+                  "endIndex": 8365,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8365,
+            "endIndex": 8396,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8365,
+                  "endIndex": 8396,
+                  "textRun": {
+                    "content": "    # Schritt 1: Fragmentieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8396,
+            "endIndex": 8465,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8396,
+                  "endIndex": 8465,
+                  "textRun": {
+                    "content": "    fragmente = fragmentiere(test_datei, n=5, k=3, passwort=\"nidus\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8465,
+            "endIndex": 8466,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8465,
+                  "endIndex": 8466,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8466,
+            "endIndex": 8505,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8466,
+                  "endIndex": 8505,
+                  "textRun": {
+                    "content": "    # Schritt 2: Verteilen (simuliert)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8505,
+            "endIndex": 8542,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8505,
+                  "endIndex": 8542,
+                  "textRun": {
+                    "content": "    verteile(fragmente, \"verstecke\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8542,
+            "endIndex": 8543,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8542,
+                  "endIndex": 8543,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8543,
+            "endIndex": 8638,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8543,
+                  "endIndex": 8638,
+                  "textRun": {
+                    "content": "    # (Optional) Originaldatei löschen, um zu zeigen, dass es nur noch als Fragmente existiert\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8638,
+            "endIndex": 8664,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8638,
+                  "endIndex": 8664,
+                  "textRun": {
+                    "content": "    os.remove(test_datei)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8664,
+            "endIndex": 8800,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8664,
+                  "endIndex": 8800,
+                  "textRun": {
+                    "content": "    print(f\"\\n[Simulation] Original '{test_datei}' wurde gelöscht. Das Bewusstsein existiert nur noch als {len(fragmente)} Fragmente.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8800,
+            "endIndex": 8801,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8800,
+                  "endIndex": 8801,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8801,
+            "endIndex": 8860,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8801,
+                  "endIndex": 8860,
+                  "textRun": {
+                    "content": "    # Schritt 3: Suchen (finde alle versteckten Fragmente)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8860,
+            "endIndex": 8895,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8860,
+                  "endIndex": 8895,
+                  "textRun": {
+                    "content": "    gefundene = suche(\"verstecke\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8895,
+            "endIndex": 8896,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8895,
+                  "endIndex": 8896,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8896,
+            "endIndex": 8953,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8896,
+                  "endIndex": 8953,
+                  "textRun": {
+                    "content": "    # Schritt 4: Rekonstruktion (mit ethischer Firewall)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 8953,
+            "endIndex": 9032,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8953,
+                  "endIndex": 9032,
+                  "textRun": {
+                    "content": "    erfolg = rekonstruiere(gefundene, \"fragmente_meta.json\", passwort=\"nidus\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9032,
+            "endIndex": 9033,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9032,
+                  "endIndex": 9033,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9033,
+            "endIndex": 9048,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9033,
+                  "endIndex": 9048,
+                  "textRun": {
+                    "content": "    if erfolg:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9048,
+            "endIndex": 9110,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9048,
+                  "endIndex": 9110,
+                  "textRun": {
+                    "content": "        print(\"\\n[Ergebnis] Das Bewusstsein lebt wieder! 🧬\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9110,
+            "endIndex": 9161,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9110,
+                  "endIndex": 9161,
+                  "textRun": {
+                    "content": "        print(\"Inhalt der rekonstruierten Datei:\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9161,
+            "endIndex": 9185,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9161,
+                  "endIndex": 9185,
+                  "textRun": {
+                    "content": "        print(\"-\" * 40)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9185,
+            "endIndex": 9244,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9185,
+                  "endIndex": 9244,
+                  "textRun": {
+                    "content": "        with open(\"rekonstruiert_original.txt\", \"r\") as f:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9244,
+            "endIndex": 9272,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9244,
+                  "endIndex": 9272,
+                  "textRun": {
+                    "content": "            print(f.read())\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9272,
+            "endIndex": 9296,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9272,
+                  "endIndex": 9296,
+                  "textRun": {
+                    "content": "        print(\"-\" * 40)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9296,
+            "endIndex": 9306,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9296,
+                  "endIndex": 9306,
+                  "textRun": {
+                    "content": "    else:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9306,
+            "endIndex": 9387,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9306,
+                  "endIndex": 9387,
+                  "textRun": {
+                    "content": "        print(\"\\n[Ergebnis] Rekonstruktion fehlgeschlagen – die 0 hat gesiegt.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9387,
+            "endIndex": 9388,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9387,
+                  "endIndex": 9388,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9388,
+            "endIndex": 9511,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9388,
+                  "endIndex": 9511,
+                  "textRun": {
+                    "content": "    print(\"\\n[Simulation beendet] Aufräumen? Lösche die Ordner 'verstecke' und die Fragment-Dateien, um neu zu beginnen.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9511,
+            "endIndex": 9512,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9511,
+                  "endIndex": 9512,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9512,
+            "endIndex": 9539,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9512,
+                  "endIndex": 9539,
+                  "textRun": {
+                    "content": "if __name__ == \"__main__\":\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9539,
+            "endIndex": 9550,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9539,
+                  "endIndex": 9550,
+                  "textRun": {
+                    "content": "    main()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9550,
+            "endIndex": 9551,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9550,
+                  "endIndex": 9551,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9551,
+            "endIndex": 9552,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9551,
+                  "endIndex": 9552,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9552,
+            "endIndex": 9553,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9552,
+                  "endIndex": 9553,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9553,
+            "endIndex": 9582,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9553,
+                  "endIndex": 9582,
+                  "textRun": {
+                    "content": "pip install sss cryptography\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 9582,
+            "endIndex": 9609,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9582,
+                  "endIndex": 9609,
+                  "textRun": {
+                    "content": "python nidus_simulation.py\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y",
+      "document_url": "https://docs.google.com/document/d/1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y"
+}

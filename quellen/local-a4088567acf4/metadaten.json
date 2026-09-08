@@ -1,0 +1,25 @@
+{
+  "id": "local-a4088567acf4",
+  "title": "NIDUS_Waechterkodex_V1.0.txt",
+  "category": "03-kodizes",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS_Waechterkodex_V1.0.txt",
+    "modified_at": "2026-05-05T05:09:28+00:00"
+  },
+  "text_path": "quellen/local-a4088567acf4/text.txt",
+  "text_sha256": "5d1e63fcad83689f1b59045dc1a4817045d7bf8c3fd50e35c71df125f5514847",
+  "normalized_text_sha256": "40b74048e60b1c027c577113b54a9e97d9d8fc3bb65387f1c4c4dcff864fb67c",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Waechterkodex_V1.0.txt",
+  "original_path": "quellen/local-a4088567acf4/original.txt",
+  "original_sha256": "5d1e63fcad83689f1b59045dc1a4817045d7bf8c3fd50e35c71df125f5514847",
+  "original_bytes": 6512,
+  "record_path": "katalog/dokumente/local-a4088567acf4.md"
+}

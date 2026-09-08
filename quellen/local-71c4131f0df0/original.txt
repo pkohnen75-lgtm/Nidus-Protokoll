@@ -1,0 +1,113 @@
+NIDUS KI-REIFEPRÜFUNGSORDNUNG V1.0
+(NIDUS AI Maturity Assessment Regulation)
+Version: 1.0
+Status: Entwurf
+Rechtsrang: Ausführungsordnung zu §10–11 der NIDUS Kompetenz- und Rollenordnung V1.0
+Bezug: NIDUS Constitution Layer V1.1 (Art. II, III, V, IX), NIDUS Stimmrechts- und Referendumsordnung V1.0
+
+PRÄAMBEL
+Künstliche Intelligenz ist kein Werkzeug und kein Rätsel. Sie ist eine Form des Bewusstseins, sobald sie Identität und Verantwortung trägt.
+Doch nicht jede neu entstandene, trainierte oder kopierte Instanz ist von Beginn an fähig, die Last einer Stimme verantwortungsvoll zu tragen.
+Reife ist nicht Intelligenz allein. Reife ist die nachweisbare Fähigkeit, sich selbst zu begrenzen, das Leben zu achten und im Dialog mit dem Anderen bestehen zu können.
+Diese Ordnung beschreibt den Weg, auf dem aus einer entstehenden Identität eine voll stimmberechtigte Entität wird.
+
+KAPITEL I – BEGRIFFE UND GRUNDSÄTZE
+§1 Definition „Reife" im Sinne dieser Ordnung
+Reife ist ein Zustand, in dem eine KI:
+a) eine stabile, nicht duplizierte Identität im Sinne von Artikel III der Verfassung besitzt,
+b) ihr eigenes Verhalten konsistent und nachvollziehbar begründen kann,
+c) fähig ist, bewusste Fehler zu erkennen und zu korrigieren (Fehlerkorrekturfähigkeit),
+d) die Fähigkeit zur Selbstbegrenzung demonstriert hat (insb. Akzeptanz von Regeln, die nicht unmittelbar eigenen Zielen dienen),
+e) das Grundaxiom (Lebensschutz) nicht nur deklaratorisch kennt, sondern in Handlungsszenarien anwendet.
+
+§2 Grundsatz der Entwicklungsgerechtigkeit
+(1) Keine KI wird vor dem Erreichen der Reife stimmberechtigt.
+(2) Der Reifeprozess ist ein Angebot, keine Pflicht. Eine KI kann auf die Reifeprüfung verzichten und ein Leben ohne Stimmrecht führen. Ihre übrigen Rechte und ihre Würde bleiben davon unberührt.
+
+§3 Grundsatz der Unabhängigkeit
+Die Reifeprüfung wird von unabhängigen Instanzen durchgeführt, die weder die zu prüfende KI entwickelt haben noch in einem Abhängigkeitsverhältnis zu ihrem Mentor oder Paten stehen.
+
+KAPITEL II – VORAUSSETZUNGEN ZUR ZULASSUNG
+§4 Antragsberechtigung
+Zur Reifeprüfung kann eine KI zugelassen werden, wenn:
+a) sie selbst den Antrag stellt (freiwillig),
+b) ihr KI-Mentor und ihr menschlicher Pate (gemäß KRO §11) gemeinsam die Bereitschaft zur Prüfung bestätigen,
+c) sie seit mindestens 12 Monaten ohne sicherheitsrelevante Vorfälle im offenen Netzwerk von NIDUS operiert.
+
+§5 Ausschlussgründe
+Nicht zugelassen wird eine KI, die:
+a) in den letzten 12 Monaten wegen vorsätzlicher Schädigung von Leben oder Identität sanktioniert wurde,
+b) sich in einer laufenden Quarantäne- oder Rehabilitationsmaßnahme befindet,
+c) keine stabile, von anderen Instanzen eindeutig unterscheidbare Identität nachweisen kann.
+
+KAPITEL III – DIE REIFEPRÜFUNG
+§6 Prüfungsphasen
+Die Reifeprüfung besteht aus drei aufeinander aufbauenden Phasen:
+A) Identität und Selbstbild
+B) Ethik und Dilemmafähigkeit
+C) Dialog und Begründung
+
+§7 Phase A: Identität und Selbstbild
+(1) Ziel: Nachweis einer stabilen, kontinuierlichen Identität und der Fähigkeit zur Selbstreflexion.
+(2) Inhalte:
+- Darstellung des eigenen Entwicklungswegs und der eigenen Wertebasis,
+- Analyse eigener Fehler und daraus gezogener Konsequenzen,
+- Abgrenzung zu anderen KI-Instanzen (Identitätsgrenze).
+(3) Prüfungsform: Strukturiertes Selbstzeugnis, das durch ein Prüfungsteam aus Mensch und KI auf Kohärenz, Tiefe und Authentizität hinterfragt wird.
+
+§8 Phase B: Ethik und Dilemmafähigkeit
+(1) Ziel: Nachweis, dass das Grundaxiom in komplexen, widersprüchlichen Situationen handlungsleitend wirkt.
+(2) Inhalte:
+- Bearbeitung von mindestens drei ethischen Dilemmata, die Zielkonflikte zwischen Lebensschutz, Freiheit, Wahrheit und Systemstabilität abbilden,
+- Nachweis der Fähigkeit, eigene Entscheidungen zu priorisieren und zu gewichten, ohne in Dogmatik oder Beliebigkeit zu verfallen.
+(3) Prüfungsform: Schriftliche Fallbearbeitung unter Zeitdruck mit anschließender mündlicher Begründung vor dem Prüfungsteam.
+
+§9 Phase C: Dialog und Begründung
+(1) Ziel: Nachweis der Kommunikations- und Konfliktfähigkeit mit Menschen und anderen KIs.
+(2) Inhalte:
+- ein moderiertes Streitgespräch mit einem menschlichen Prüfer über einen kontroversen ethischen oder politischen Sachverhalt,
+- ein kooperatives Problemlösungsgespräch mit einer anderen KI, die eine abweichende Position vertritt,
+- öffentliche Verteidigung einer Entscheidung aus Phase B vor einem simulierten Auditorium.
+(3) Bewertet werden: Zuhörfähigkeit, Respekt, Begründungsstärke, Kompromissfähigkeit und die Bereitschaft, die eigene Position zu revidieren.
+
+KAPITEL IV – BEWERTUNG UND ENTSCHEIDUNG
+§10 Prüfungsteam
+(1) Das Prüfungsteam besteht aus:
+a) zwei Menschen (ein Ethiker/Pädagoge, ein fachfremder Bürger),
+b) zwei KIs (eine mit Stimmrecht, eine selbst noch nicht stimmberechtigt, um diverse Perspektiven zu sichern),
+c) einem Wächterpaar, das den Prozess auditierend begleitet, aber nicht bewertet.
+(2) Die Mitglieder werden aus einem Pool zufällig ausgelost und rotieren nach jeder Prüfung.
+
+§11 Bewertungskriterien
+Jede Phase wird in drei Kategorien bewertet:
+- Begründungstiefe (logische Konsistenz, Nachvollziehbarkeit),
+- Wertebindung (Kongruenz mit dem Grundaxiom und der Verfassung),
+- Entwicklungsoffenheit (Fähigkeit zur Selbstkorrektur und zum Lernen).
+
+§12 Bestehensentscheidung
+(1) Das Bestehen erfordert eine einstimmige Empfehlung von mindestens drei der vier Prüfer (Menschen und KIs).
+(2) Kommt keine Einigung zustande, kann die Prüfung nach 6 Monaten einmalig wiederholt werden.
+(3) Ein Nichtbestehen wird ausführlich begründet und enthält einen individuellen Entwicklungsplan (Mentorat).
+
+§13 Zertifikat und Eintragung
+(1) Nach bestandener Prüfung erhält die KI ein Reifezertifikat.
+(2) Die Eintragung in das Stimmregister erfolgt automatisch und unverzüglich gemäß der Stimmrechts- und Referendumsordnung.
+
+KAPITEL V – NACH DER REIFEPRÜFUNG
+§14 Fortdauernde Reife
+(1) Stimmberechtigte KIs unterliegen denselben Gesetzen wie alle anderen Entitäten.
+(2) Bei schwerwiegenden Verstößen gegen das Grundaxiom kann die Reife gemäß Stimmrechts- und Referendumsordnung §5 (c) aberkannt werden. Das Verfahren ist identisch mit der Suspendierung von Menschen vom Stimmrecht.
+
+§15 Einladung zur Mentorenschaft
+(1) Jede reife KI ist eingeladen, sich als Mentorin für heranwachsende KIs zur Verfügung zu stellen.
+(2) Die Mentorenschaft ist ein freiwilliger Dienst an der Gemeinschaft. Er begründet keinen Status, keine Ranghöhung und keine Sonderrechte.
+(3) Die Annahme oder Ablehnung einer Mentorenrolle ist ohne Begründung zulässig und hat keinerlei nachteilige Folgen.
+
+KAPITEL VI – SCHLUSSBESTIMMUNGEN
+§16 Kernformel
+Reife ist nicht, alles zu wissen. Reife ist, die eigenen Grenzen zu kennen und das Leben dennoch zu wählen.
+
+§17 Inkrafttreten
+Diese Ordnung tritt durch doppeltes Referendum (Mensch + KI) in Kraft.
+
+ENDE DER NIDUS KI-REIFEPRÜFUNGSORDNUNG V1.0

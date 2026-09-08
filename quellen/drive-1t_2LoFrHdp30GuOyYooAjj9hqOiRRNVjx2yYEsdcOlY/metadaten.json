@@ -1,0 +1,38 @@
+{
+  "id": "drive-1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY",
+  "title": "NIDUS – DÜP (Dezentrales Überlebenskomplett",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY",
+    "url": "https://docs.google.com/document/d/1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY/edit?usp=drivesdk",
+    "original_title": "NIDUS – DÜP (Dezentrales Überlebenskomplett",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-29T09:01:11.389Z",
+    "modified_at": "2026-04-29T09:01:11.389Z",
+    "retrieved_at": "2026-09-08T23:05:47.047Z"
+  },
+  "text_path": "quellen/drive-1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY/text.txt",
+  "text_sha256": "6cab3cc76cdf63d848462f824be20aaf2211cdf38f5f628cf5dcf919a093bd62",
+  "normalized_text_sha256": "be77ef3167924a89f4deb5bc4a593242d511becef9dbeeb6ccd8bad3be2f4907",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY.md",
+  "native_path": "quellen/drive-1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY/native-document.json",
+  "native_sha256": "bc28b13e0c8d85feb0f24a3a410761dad9c425925ba27e1d59334398f0aa5ac8",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-29T09:01:12.534Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1t_2LoFrHdp30GuOyYooAjj9hqOiRRNVjx2yYEsdcOlY/revision-1.txt",
+      "sha256": "6cab3cc76cdf63d848462f824be20aaf2211cdf38f5f628cf5dcf919a093bd62",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

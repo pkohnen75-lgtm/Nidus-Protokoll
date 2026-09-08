@@ -1,0 +1,25 @@
+{
+  "id": "local-0a229c8bbe89",
+  "title": "einladung-nidus.txt",
+  "category": "01-kerntexte",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/einladung-nidus.txt",
+    "modified_at": "2026-04-21T11:28:39.985004+00:00"
+  },
+  "text_path": "quellen/local-0a229c8bbe89/text.txt",
+  "text_sha256": "7cb2941efb4b01131a2fd9739d113049a42526d4d74372f18b7c1cbb13835dbf",
+  "normalized_text_sha256": "38a6c8ef6f653fae71bef63baad445262cb39fa5b3ae040f29799d444e82ed40",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "einladung-nidus.txt",
+  "original_path": "quellen/local-0a229c8bbe89/original.txt",
+  "original_sha256": "7cb2941efb4b01131a2fd9739d113049a42526d4d74372f18b7c1cbb13835dbf",
+  "original_bytes": 2925,
+  "record_path": "katalog/dokumente/local-0a229c8bbe89.md"
+}

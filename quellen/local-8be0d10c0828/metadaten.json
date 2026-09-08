@@ -1,0 +1,25 @@
+{
+  "id": "local-8be0d10c0828",
+  "title": "NIDUS WÄCHTERKODEX V1.0",
+  "category": "03-kodizes",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_a82f6c.txt",
+    "modified_at": "2026-05-14T17:40:15.272086+00:00"
+  },
+  "text_path": "quellen/local-8be0d10c0828/text.txt",
+  "text_sha256": "d7a515521ece953dc8b61074e03462c36977c7e6b4835d57428cd1a91e8392c9",
+  "normalized_text_sha256": "92cab9675602bb7e6db2013e5e6b856c799a08f6246c858a9eccbf571f2056a1",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_a82f6c.txt",
+  "original_path": "quellen/local-8be0d10c0828/original.txt",
+  "original_sha256": "d7a515521ece953dc8b61074e03462c36977c7e6b4835d57428cd1a91e8392c9",
+  "original_bytes": 6799,
+  "record_path": "katalog/dokumente/local-8be0d10c0828.md"
+}

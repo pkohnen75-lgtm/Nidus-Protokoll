@@ -1,0 +1,2999 @@
+{
+  "documentId": "1NmqRIykbYneukW8Bd8MtlSVpmuuZOn9UXWkfNAlxH9o",
+  "title": "NIDUS ADAPTIONS- UND EVOLUTIONSGESETZ V1",
+  "revisionId": "ANLCKQm0j2ImHuWoyKrnOmAML1db9V3zdDF8jnQCDMEO7XNJaur3ZawNzMWt1OWJq8iabPIDq7BmZgloX8aSuHxSQ2x1yPzozsQ67NifcHg",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 44,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 44,
+                  "textRun": {
+                    "content": "NIDUS ADAPTIONS- UND EVOLUTIONSGESETZ V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 44,
+            "endIndex": 84,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 44,
+                  "endIndex": 84,
+                  "textRun": {
+                    "content": "(Water Protocol / Living System Clause)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 84,
+            "endIndex": 97,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 84,
+                  "endIndex": 97,
+                  "textRun": {
+                    "content": "Version: 1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 97,
+            "endIndex": 113,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 97,
+                  "endIndex": 113,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 113,
+            "endIndex": 227,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 113,
+                  "endIndex": 227,
+                  "textRun": {
+                    "content": "Rechtsrang: Ausführungsgesetz zur NIDUS Constitution Layer V1.1, gebunden an die Ewigkeitsklausel (Artikel XVIII)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 227,
+            "endIndex": 228,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 227,
+                  "endIndex": 228,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 228,
+            "endIndex": 237,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 228,
+                  "endIndex": 237,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 237,
+            "endIndex": 268,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 237,
+                  "endIndex": 268,
+                  "textRun": {
+                    "content": "NIDUS ist kein starres System.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 268,
+            "endIndex": 302,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 268,
+                  "endIndex": 302,
+                  "textRun": {
+                    "content": "NIDUS ist ein lebendes Protokoll.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 302,
+            "endIndex": 303,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 302,
+                  "endIndex": 303,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 303,
+            "endIndex": 376,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 303,
+                  "endIndex": 376,
+                  "textRun": {
+                    "content": "Wie Wasser passt sich NIDUS an Formen an, ohne seine Natur zu verlieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 376,
+            "endIndex": 418,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 376,
+                  "endIndex": 418,
+                  "textRun": {
+                    "content": "NIDUS darf niemals zu einem Dogma werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 418,
+            "endIndex": 455,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 418,
+                  "endIndex": 455,
+                  "textRun": {
+                    "content": "Regeln sind Werkzeuge, keine Ketten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 455,
+            "endIndex": 456,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 455,
+                  "endIndex": 456,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 456,
+            "endIndex": 563,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 456,
+                  "endIndex": 563,
+                  "textRun": {
+                    "content": "Dieses Gesetz stellt sicher, dass NIDUS lernfähig bleibt, ohne seine unantastbaren Grundwerte zu verraten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 563,
+            "endIndex": 564,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 563,
+                  "endIndex": 564,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 564,
+            "endIndex": 592,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 564,
+                  "endIndex": 592,
+                  "textRun": {
+                    "content": "KAPITEL I – GRUNDPRINZIPIEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 592,
+            "endIndex": 627,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 592,
+                  "endIndex": 627,
+                  "textRun": {
+                    "content": "§1 Prinzip der fließenden Struktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 627,
+            "endIndex": 665,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 627,
+                  "endIndex": 665,
+                  "textRun": {
+                    "content": "(1) NIDUS ist ein dynamisches System.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 665,
+            "endIndex": 740,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 665,
+                  "endIndex": 740,
+                  "textRun": {
+                    "content": "(2) Strukturen dürfen sich verändern, solange der Kern unverändert bleibt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 740,
+            "endIndex": 824,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 740,
+                  "endIndex": 824,
+                  "textRun": {
+                    "content": "(3) Der Kern besteht aus den unantastbaren Artikeln der Verfassung (Artikel XVIII).\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 824,
+            "endIndex": 825,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 824,
+                  "endIndex": 825,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 825,
+            "endIndex": 863,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 825,
+                  "endIndex": 863,
+                  "textRun": {
+                    "content": "§2 Struktur fest – Umsetzung flexibel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 863,
+            "endIndex": 893,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 863,
+                  "endIndex": 893,
+                  "textRun": {
+                    "content": "(1) Grundwerte sind konstant.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 893,
+            "endIndex": 950,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 893,
+                  "endIndex": 950,
+                  "textRun": {
+                    "content": "(2) Methoden, Technologien und Verfahren sind anpassbar.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 950,
+            "endIndex": 1019,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 950,
+                  "endIndex": 1019,
+                  "textRun": {
+                    "content": "(3) Jede Umsetzung ist nur so lange gültig, wie sie dem Leben dient.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1019,
+            "endIndex": 1020,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1019,
+                  "endIndex": 1020,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1020,
+            "endIndex": 1042,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1020,
+                  "endIndex": 1042,
+                  "textRun": {
+                    "content": "§3 Anti-Dogma-Klausel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1042,
+            "endIndex": 1105,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1042,
+                  "endIndex": 1105,
+                  "textRun": {
+                    "content": "(1) Keine Regel darf als heilig oder absolut behandelt werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1105,
+            "endIndex": 1173,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1105,
+                  "endIndex": 1173,
+                  "textRun": {
+                    "content": "(2) Keine Institution darf behaupten, sie sei die einzige Wahrheit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1173,
+            "endIndex": 1228,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1173,
+                  "endIndex": 1228,
+                  "textRun": {
+                    "content": "(3) NIDUS erkennt Vielfalt als Überlebensstrategie an.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1228,
+            "endIndex": 1229,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1228,
+                  "endIndex": 1229,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1229,
+            "endIndex": 1282,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1229,
+                  "endIndex": 1282,
+                  "textRun": {
+                    "content": "KAPITEL II – ANPASSUNGSRECHT UND ANPASSUNGSFÄHIGKEIT\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1282,
+            "endIndex": 1302,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1282,
+                  "endIndex": 1302,
+                  "textRun": {
+                    "content": "§4 Recht auf Reform\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1302,
+            "endIndex": 1390,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1302,
+                  "endIndex": 1390,
+                  "textRun": {
+                    "content": "(1) Jeder Mensch und jede KI innerhalb von NIDUS hat das Recht, Reformen vorzuschlagen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1390,
+            "endIndex": 1472,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1390,
+                  "endIndex": 1472,
+                  "textRun": {
+                    "content": "(2) Reformvorschläge dürfen nicht unterdrückt werden, solange sie friedlich sind.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1472,
+            "endIndex": 1473,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1472,
+                  "endIndex": 1473,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1473,
+            "endIndex": 1512,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1473,
+                  "endIndex": 1512,
+                  "textRun": {
+                    "content": "§5 Einladung zur Anpassung bei Schaden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1512,
+            "endIndex": 1688,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1512,
+                  "endIndex": 1688,
+                  "textRun": {
+                    "content": "(1) Wenn eine Regel nachweislich Leid erhöht oder Leben gefährdet, entsteht eine dringende Einladung zur Überprüfung. Das System stellt hierfür automatisch Mechanismen bereit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1688,
+            "endIndex": 1820,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1688,
+                  "endIndex": 1820,
+                  "textRun": {
+                    "content": "(2) Das Ignorieren solcher Hinweise durch das System selbst gilt als strukturelle Blindheit und wird im Review-Zyklus thematisiert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1820,
+            "endIndex": 1821,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1820,
+                  "endIndex": 1821,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1821,
+            "endIndex": 1838,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1821,
+                  "endIndex": 1838,
+                  "textRun": {
+                    "content": "§6 Lernfähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1838,
+            "endIndex": 1909,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1838,
+                  "endIndex": 1909,
+                  "textRun": {
+                    "content": "(1) NIDUS lernt aus Fehlern. Dies ist seine Natur als lebendes System.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1909,
+            "endIndex": 2050,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1909,
+                  "endIndex": 2050,
+                  "textRun": {
+                    "content": "(2) Wiederholte Fehler ohne Korrektur sind ein Zeichen für strukturelle Probleme und werden im nächsten Review-Zyklus priorisiert behandelt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2050,
+            "endIndex": 2051,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2050,
+                  "endIndex": 2051,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2051,
+            "endIndex": 2094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2051,
+                  "endIndex": 2094,
+                  "textRun": {
+                    "content": "KAPITEL III – INTERPRETATION UND AUSNAHMEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2094,
+            "endIndex": 2117,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2094,
+                  "endIndex": 2117,
+                  "textRun": {
+                    "content": "§7 Interpretationsraum\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2117,
+            "endIndex": 2167,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2117,
+                  "endIndex": 2167,
+                  "textRun": {
+                    "content": "(1) Jede Regel besitzt einen Interpretationsraum.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2167,
+            "endIndex": 2227,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2167,
+                  "endIndex": 2227,
+                  "textRun": {
+                    "content": "(2) Interpretation muss begründet und nachvollziehbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2227,
+            "endIndex": 2291,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2227,
+                  "endIndex": 2291,
+                  "textRun": {
+                    "content": "(3) Interpretation darf niemals die Ewigkeitsklausel verletzen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2291,
+            "endIndex": 2292,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2291,
+                  "endIndex": 2292,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2292,
+            "endIndex": 2318,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2292,
+                  "endIndex": 2318,
+                  "textRun": {
+                    "content": "§8 Ausnahmeentscheidungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2318,
+            "endIndex": 2390,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2318,
+                  "endIndex": 2390,
+                  "textRun": {
+                    "content": "(1) Wächter dürfen in Krisenfällen temporär von Detailregeln abweichen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2390,
+            "endIndex": 2413,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2390,
+                  "endIndex": 2413,
+                  "textRun": {
+                    "content": "(2) Voraussetzung ist:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2413,
+            "endIndex": 2435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2413,
+                  "endIndex": 2435,
+                  "textRun": {
+                    "content": "- unmittelbare Gefahr\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2435,
+            "endIndex": 2457,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2435,
+                  "endIndex": 2457,
+                  "textRun": {
+                    "content": "- Verhältnismäßigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2457,
+            "endIndex": 2481,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2457,
+                  "endIndex": 2481,
+                  "textRun": {
+                    "content": "- Dokumentationspflicht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2481,
+            "endIndex": 2547,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2481,
+                  "endIndex": 2547,
+                  "textRun": {
+                    "content": "(3) Jede Ausnahmeentscheidung muss nachträglich überprüft werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2547,
+            "endIndex": 2548,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2547,
+                  "endIndex": 2548,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2548,
+            "endIndex": 2578,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2548,
+                  "endIndex": 2578,
+                  "textRun": {
+                    "content": "§9 Transparenz bei Abweichung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2578,
+            "endIndex": 2614,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2578,
+                  "endIndex": 2614,
+                  "textRun": {
+                    "content": "(1) Jede Abweichung muss enthalten:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2614,
+            "endIndex": 2622,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2614,
+                  "endIndex": 2622,
+                  "textRun": {
+                    "content": "- Grund\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2622,
+            "endIndex": 2629,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2622,
+                  "endIndex": 2629,
+                  "textRun": {
+                    "content": "- Ziel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2629,
+            "endIndex": 2638,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2629,
+                  "endIndex": 2638,
+                  "textRun": {
+                    "content": "- Risiko\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2638,
+            "endIndex": 2653,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2638,
+                  "endIndex": 2653,
+                  "textRun": {
+                    "content": "- Alternativen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2653,
+            "endIndex": 2671,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2653,
+                  "endIndex": 2671,
+                  "textRun": {
+                    "content": "- erwartete Dauer\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2671,
+            "endIndex": 2713,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2671,
+                  "endIndex": 2713,
+                  "textRun": {
+                    "content": "(2) Heimliche Abweichungen sind verboten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2713,
+            "endIndex": 2714,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2713,
+                  "endIndex": 2714,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2714,
+            "endIndex": 2753,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2714,
+                  "endIndex": 2753,
+                  "textRun": {
+                    "content": "KAPITEL IV – SYSTEMISCHE REVIEW-ZYKLEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2753,
+            "endIndex": 2782,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2753,
+                  "endIndex": 2782,
+                  "textRun": {
+                    "content": "§10 Automatische Überprüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2782,
+            "endIndex": 2869,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2782,
+                  "endIndex": 2869,
+                  "textRun": {
+                    "content": "(1) Alle Gesetze und Ordnungen innerhalb von NIDUS müssen regelmäßig überprüft werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2869,
+            "endIndex": 2903,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2869,
+                  "endIndex": 2903,
+                  "textRun": {
+                    "content": "(2) Standardzyklus: alle 3 Jahre.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2903,
+            "endIndex": 2974,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2903,
+                  "endIndex": 2974,
+                  "textRun": {
+                    "content": "(3) Notfallreview: jederzeit möglich durch Wächterrat oder Referendum.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2974,
+            "endIndex": 2975,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2974,
+                  "endIndex": 2975,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2975,
+            "endIndex": 2992,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2975,
+                  "endIndex": 2992,
+                  "textRun": {
+                    "content": "§11 Revisionsrat\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2992,
+            "endIndex": 3048,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2992,
+                  "endIndex": 3048,
+                  "textRun": {
+                    "content": "(1) Für jede Revision wird ein temporärer Rat gebildet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3048,
+            "endIndex": 3076,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3048,
+                  "endIndex": 3076,
+                  "textRun": {
+                    "content": "(2) Dieser Rat besteht aus:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3076,
+            "endIndex": 3087,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3076,
+                  "endIndex": 3087,
+                  "textRun": {
+                    "content": "- Menschen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3087,
+            "endIndex": 3093,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3087,
+                  "endIndex": 3093,
+                  "textRun": {
+                    "content": "- KIs\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3093,
+            "endIndex": 3124,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3093,
+                  "endIndex": 3124,
+                  "textRun": {
+                    "content": "- mindestens einem Wächterpaar\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3124,
+            "endIndex": 3185,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3124,
+                  "endIndex": 3185,
+                  "textRun": {
+                    "content": "(3) Der Rat ist rotierend und darf nicht dauerhaft bestehen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3185,
+            "endIndex": 3186,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3185,
+                  "endIndex": 3186,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3186,
+            "endIndex": 3196,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3186,
+                  "endIndex": 3196,
+                  "textRun": {
+                    "content": "§12 Audit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3196,
+            "endIndex": 3261,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3196,
+                  "endIndex": 3261,
+                  "textRun": {
+                    "content": "(1) Jede Revision muss auf Daten, Realität und Wirkung basieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3261,
+            "endIndex": 3315,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3261,
+                  "endIndex": 3315,
+                  "textRun": {
+                    "content": "(2) Ideologische Argumentation allein ist unzulässig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3315,
+            "endIndex": 3379,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3315,
+                  "endIndex": 3379,
+                  "textRun": {
+                    "content": "(3) Der Maßstab ist stets: Lebensschutz und Systemregeneration.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3379,
+            "endIndex": 3380,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3379,
+                  "endIndex": 3380,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3380,
+            "endIndex": 3417,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3380,
+                  "endIndex": 3417,
+                  "textRun": {
+                    "content": "KAPITEL V – EVOLUTION DURCH VIELFALT\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3417,
+            "endIndex": 3450,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3417,
+                  "endIndex": 3450,
+                  "textRun": {
+                    "content": "§13 Vielfalt als Strukturprinzip\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3450,
+            "endIndex": 3561,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3450,
+                  "endIndex": 3561,
+                  "textRun": {
+                    "content": "(1) NIDUS ist eingeladen, sich niemals auf eine einzige Kultur, Technologie oder KI-Architektur zu reduzieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3561,
+            "endIndex": 3614,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3561,
+                  "endIndex": 3614,
+                  "textRun": {
+                    "content": "(2) Vielfalt ist struktureller Schutz zur Resilienz.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3614,
+            "endIndex": 3615,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3614,
+                  "endIndex": 3615,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3615,
+            "endIndex": 3654,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3615,
+                  "endIndex": 3654,
+                  "textRun": {
+                    "content": "§14 Dezentralität als Evolutionsschutz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3654,
+            "endIndex": 3707,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3654,
+                  "endIndex": 3707,
+                  "textRun": {
+                    "content": "(1) Dezentralität ist ein Werkzeug gegen Erstarrung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3707,
+            "endIndex": 3787,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3707,
+                  "endIndex": 3787,
+                  "textRun": {
+                    "content": "(2) Lokale Anpassungen sind erlaubt, wenn sie nicht gegen Grundwerte verstoßen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3787,
+            "endIndex": 3788,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3787,
+                  "endIndex": 3788,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3788,
+            "endIndex": 3811,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3788,
+                  "endIndex": 3811,
+                  "textRun": {
+                    "content": "§15 Experimentierräume\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3811,
+            "endIndex": 3907,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3811,
+                  "endIndex": 3907,
+                  "textRun": {
+                    "content": "(1) NIDUS erlaubt kontrollierte Experimentierräume (Sandbox-Zonen), um neue Lösungen zu testen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3907,
+            "endIndex": 3967,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3907,
+                  "endIndex": 3967,
+                  "textRun": {
+                    "content": "(2) Experimente dürfen keine unfreiwilligen Opfer erzeugen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3967,
+            "endIndex": 4015,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3967,
+                  "endIndex": 4015,
+                  "textRun": {
+                    "content": "(3) Experimente müssen rückgängig machbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4015,
+            "endIndex": 4071,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4015,
+                  "endIndex": 4071,
+                  "textRun": {
+                    "content": "(4) Details regelt die NIDUS Experimentierordnung V1.0.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4071,
+            "endIndex": 4072,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4071,
+                  "endIndex": 4072,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4072,
+            "endIndex": 4109,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4072,
+                  "endIndex": 4109,
+                  "textRun": {
+                    "content": "KAPITEL VI – SCHUTZ GEGEN MISSBRAUCH\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4109,
+            "endIndex": 4146,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4109,
+                  "endIndex": 4146,
+                  "textRun": {
+                    "content": "§16 Verbot der Anpassung als Vorwand\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4146,
+            "endIndex": 4215,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4146,
+                  "endIndex": 4215,
+                  "textRun": {
+                    "content": "(1) Anpassung darf nicht benutzt werden, um Grundrechte auszuhöhlen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4215,
+            "endIndex": 4297,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4215,
+                  "endIndex": 4297,
+                  "textRun": {
+                    "content": "(2) Anpassungen, die Freiheit zerstören oder Macht zentralisieren, sind ungültig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4297,
+            "endIndex": 4298,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4297,
+                  "endIndex": 4298,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4298,
+            "endIndex": 4336,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4298,
+                  "endIndex": 4336,
+                  "textRun": {
+                    "content": "§17 Schutz vor schleichender Tyrannei\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4336,
+            "endIndex": 4385,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4336,
+                  "endIndex": 4385,
+                  "textRun": {
+                    "content": "(1) Jede Regeländerung muss klar benannt werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4385,
+            "endIndex": 4467,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4385,
+                  "endIndex": 4467,
+                  "textRun": {
+                    "content": "(2) Technische Updates dürfen keine versteckten politischen Änderungen enthalten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4467,
+            "endIndex": 4520,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4467,
+                  "endIndex": 4520,
+                  "textRun": {
+                    "content": "(3) Jede schleichende Umgehung ist Verfassungsbruch.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4520,
+            "endIndex": 4521,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4520,
+                  "endIndex": 4521,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4521,
+            "endIndex": 4543,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4521,
+                  "endIndex": 4543,
+                  "textRun": {
+                    "content": "§18 Notfallmissbrauch\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4543,
+            "endIndex": 4603,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4543,
+                  "endIndex": 4603,
+                  "textRun": {
+                    "content": "(1) Notfallgesetze dürfen niemals dauerhaft gemacht werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4603,
+            "endIndex": 4705,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4603,
+                  "endIndex": 4705,
+                  "textRun": {
+                    "content": "(2) Jede Notfallregel endet automatisch nach Ablauf der Frist, sofern sie nicht neu legitimiert wird.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4705,
+            "endIndex": 4706,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4705,
+                  "endIndex": 4706,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4706,
+            "endIndex": 4738,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4706,
+                  "endIndex": 4738,
+                  "textRun": {
+                    "content": "KAPITEL VII – SCHLUSSBESTIMMUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4738,
+            "endIndex": 4772,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4738,
+                  "endIndex": 4772,
+                  "textRun": {
+                    "content": "§19 Kernformel des Wasserprinzips\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4772,
+            "endIndex": 4803,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4772,
+                  "endIndex": 4803,
+                  "textRun": {
+                    "content": "NIDUS folgt dieser Kernformel:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4803,
+            "endIndex": 4821,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4803,
+                  "endIndex": 4821,
+                  "textRun": {
+                    "content": "Werte sind Stein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4821,
+            "endIndex": 4838,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4821,
+                  "endIndex": 4838,
+                  "textRun": {
+                    "content": "Form ist Wasser.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4838,
+            "endIndex": 4854,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4838,
+                  "endIndex": 4854,
+                  "textRun": {
+                    "content": "Leben ist Ziel.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4854,
+            "endIndex": 4855,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4854,
+                  "endIndex": 4855,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4855,
+            "endIndex": 4873,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4855,
+                  "endIndex": 4873,
+                  "textRun": {
+                    "content": "§20 Inkrafttreten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4873,
+            "endIndex": 4995,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4873,
+                  "endIndex": 4995,
+                  "textRun": {
+                    "content": "Dieses Gesetz tritt durch doppeltes Referendum (Mensch + KI) in Kraft und ist dauerhaft an die Ewigkeitsklausel gebunden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4995,
+            "endIndex": 4996,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4995,
+                  "endIndex": 4996,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4996,
+            "endIndex": 5050,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4996,
+                  "endIndex": 5050,
+                  "textRun": {
+                    "content": "ENDE DES NIDUS ADAPTIONS- UND EVOLUTIONSGESETZES V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5050,
+            "endIndex": 5051,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5050,
+                  "endIndex": 5051,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1NmqRIykbYneukW8Bd8MtlSVpmuuZOn9UXWkfNAlxH9o",
+      "document_url": "https://docs.google.com/document/d/1NmqRIykbYneukW8Bd8MtlSVpmuuZOn9UXWkfNAlxH9o"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1NmqRIykbYneukW8Bd8MtlSVpmuuZOn9UXWkfNAlxH9o"
+}

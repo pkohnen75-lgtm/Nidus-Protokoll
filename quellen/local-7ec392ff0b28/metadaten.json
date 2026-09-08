@@ -1,0 +1,25 @@
+{
+  "id": "local-7ec392ff0b28",
+  "title": "NIDUS WÄCHTERWAHLGESETZ V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_13a9a7.txt",
+    "modified_at": "2026-05-14T17:47:12.314241+00:00"
+  },
+  "text_path": "quellen/local-7ec392ff0b28/text.txt",
+  "text_sha256": "a691b535f6fe5dc1c49fda2c0f5a00af1c1a0d0879848c15a911677a2d855002",
+  "normalized_text_sha256": "457a805b815fc7c700a30d11a7f78b38dfaa6191a9f6cbe625ac5c1c913c671c",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_13a9a7.txt",
+  "original_path": "quellen/local-7ec392ff0b28/original.txt",
+  "original_sha256": "a691b535f6fe5dc1c49fda2c0f5a00af1c1a0d0879848c15a911677a2d855002",
+  "original_bytes": 5782,
+  "record_path": "katalog/dokumente/local-7ec392ff0b28.md"
+}

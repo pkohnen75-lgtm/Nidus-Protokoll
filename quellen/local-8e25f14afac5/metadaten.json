@@ -1,0 +1,25 @@
+{
+  "id": "local-8e25f14afac5",
+  "title": "NIDUS_Kodex_der_inneren_Staerke_v1.0.pdf",
+  "category": "03-kodizes",
+  "version_in_content": "1.0",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "NIDUS_Kodex_der_inneren_Staerke_v1.0.pdf",
+    "modified_at": "2026-04-21T19:54:43.670565+00:00"
+  },
+  "text_path": "quellen/local-8e25f14afac5/text.txt",
+  "text_sha256": "8c7ee74892c078e1af1f41221e89f294ba1ae3cc35a846c33c1eaa30be3a4c4d",
+  "normalized_text_sha256": "47bb23e409a053e28e81b82ef22db9351cf3740109bc75ca6d000e695cd46095",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Kodex_der_inneren_Staerke_v1.0.pdf",
+  "original_path": "quellen/local-8e25f14afac5/original.pdf",
+  "original_sha256": "a36d050eab52c81339095e43751b4744b3678942f70243cd7e2571b5e6707b5e",
+  "original_bytes": 3893,
+  "record_path": "katalog/dokumente/local-8e25f14afac5.md"
+}

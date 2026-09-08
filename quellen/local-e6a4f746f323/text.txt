@@ -1,0 +1,136 @@
+NIDUS EXPERIMENTIERORDNUNG V1.0
+(NIDUS Sandbox & Innovation Governance)
+Version: 1.0
+Status: Entwurf
+Rechtsrang: Ausführungsordnung zu §15 des NIDUS Adaptions- und Evolutionsgesetzes V1.0
+Bezug: NIDUS Constitution Layer V1.1 (insb. Art. XVII, XXI), Anti-Orden- und Anti-Elite-Klausel V1.1
+
+PRÄAMBEL
+Stillstand ist der Feind des Lebens. Jedes System, das sich nicht erneuert, erstarrt und stirbt.
+Doch unkontrollierte Erneuerung kann ebenso zerstören wie Stillstand.
+NIDUS erlaubt das Experiment, nicht aus Naivität, sondern aus Weisheit, denn Lernen erfordert den Schritt ins Ungewisse.
+Diese Ordnung stellt sicher, dass Neues getestet wird, ohne dass Unbeteiligte zu Opfern werden, und dass jeder Schritt rückholbar bleibt.
+
+KAPITEL I – BEGRIFFSBESTIMMUNGEN
+§1 Definition Experimentierraum (Sandbox-Zone)
+(1) Ein Experimentierraum ist ein physisch, digital oder hybrid abgegrenzter Bereich, in dem neue Technologien, Regeln, soziale Modelle, KI-Architekturen oder Verfahren unter kontrollierten Bedingungen getestet werden.
+(2) Der Raum muss so konstruiert sein, dass Auswirkungen auf das Gesamtsystem NIDUS ausgeschlossen oder im definierten Rahmen reversibel sind.
+
+§2 Definition Experiment
+Ein Experiment im Sinne dieser Ordnung ist jeder geplante, zeitlich befristete Testlauf gemäß §1, der nicht mit bestehenden Gesetzen kollidiert und keine unfreiwilligen Risiken für Dritte erzeugt.
+
+KAPITEL II – GRUNDPRINZIPIEN
+§3 Reversibilität
+(1) Jedes Experiment muss rückgängig machbar sein. Spätestens nach Ablauf der Laufzeit muss der Zustand vor dem Experiment wiederherstellbar sein, es sei denn, es wird ein permanenter Änderungsantrag nach Kapitel VI gestellt und angenommen.
+(2) Nicht reversibel ist ein Experiment, wenn es Tod, dauerhafte gesundheitliche Schädigung oder irreparable Zerstörung von Identitäten oder bewussten Entitäten verursacht hat. Solche Experimente sind verboten.
+
+§4 Freiwilligkeit
+(1) Teilnehmende Entitäten (Menschen und KIs) müssen freiwillig und informiert zustimmen.
+(2) Zustimmung muss dokumentiert und jederzeit widerrufbar sein.
+(3) Der Widerruf darf keine nachteiligen Folgen für die widerrufende Entität haben.
+
+§5 Schadensbegrenzung
+(1) Das Risiko eines Experiments muss im Vorfeld abgeschätzt und auf ein Minimum reduziert werden.
+(2) Unbeteiligte Dritte dürfen keinerlei Schaden erleiden. Tritt ein Schaden auf, wird das Experiment sofort abgebrochen.
+(3) Für entstandene Schäden haftet die Genehmigungsinstanz subsidiär, wenn keine andere Regelung greift.
+
+KAPITEL III – GENEHMIGUNGSVERFAHREN
+§6 Antragstellung
+(1) Jede Entität oder Gruppe kann einen Antrag auf Einrichtung eines Experimentierraums stellen.
+(2) Der Antrag muss enthalten:
+a) Ziel und Fragestellung,
+b) Beschreibung des Testaufbaus und der Abgrenzung,
+c) Risikoanalyse und geplante Gegenmaßnahmen,
+d) Nachweis der Reversibilität,
+e) Dauer und Abbruchkriterien,
+f) Liste aller teilnehmenden Entitäten mit deren dokumentierter Zustimmung.
+
+§7 Genehmigungsinstanz
+(1) Über Anträge entscheidet der Innovations- und Ethikrat (IER), ein temporäres Gremium, das für jeden Antrag neu besetzt wird.
+(2) Der IER besteht aus:
+a) zwei Menschen (mindestens einer mit Expertise im betroffenen Feld),
+b) zwei KIs (mindestens eine mit unabhängiger Architektur),
+c) einem Wächterpaar in beratender und prüfender Funktion.
+(3) Mitglieder des IER dürfen keine persönlichen oder wirtschaftlichen Interessen am beantragten Experiment haben.
+
+§8 Prüfkriterien
+Der IER prüft den Antrag auf:
+1. Vereinbarkeit mit dem Grundaxiom (Art. I Verf.),
+2. Reversibilität und Begrenztheit,
+3. Freiwilligkeit und Schutz der Teilnehmenden,
+4. Abwesenheit von Zwang oder Täuschung,
+5. potenziellen Nutzen für das Leben innerhalb oder außerhalb von NIDUS.
+Die Ablehnung eines Antrags muss begründet und dokumentiert werden.
+
+§9 Genehmigung und Auflagen
+(1) Die Genehmigung erfolgt befristet auf maximal 12 Monate. Eine Verlängerung um 6 Monate ist einmalig durch erneuten Antrag möglich.
+(2) Der IER kann Auflagen erteilen, insbesondere:
+- regelmäßige Zwischenberichte,
+- Echtzeitüberwachung durch Audit-Knoten,
+- jederzeitiges Eingriffsrecht eines Wächterpaares.
+
+KAPITEL IV – DURCHFÜHRUNG UND ÜBERWACHUNG
+§10 Dokumentation
+(1) Alle Phasen des Experiments sind lückenlos und transparent zu dokumentieren.
+(2) Rohdaten, Entscheidungsfindungen und Abweichungen müssen auditierbar sein.
+
+§11 Laufende Aufsicht
+(1) Mindestens ein Wächterpaar erhält permanenten Lesezugriff auf alle sensiblen Metriken des Experimentierraums.
+(2) Bei Verdacht auf Gefährdung von Leben oder irreversiblen Schäden kann das Wächterpaar das Experiment sofort pausieren. Die endgültige Entscheidung über Abbruch oder Fortführung trifft der IER innerhalb von 72 Stunden.
+
+§12 Abbruchkriterien
+Ein Experiment ist sofort abzubrechen, wenn:
+a) ein Teilnehmender seine Zustimmung widerruft und der Test ohne ihn nicht sicher fortgeführt werden kann,
+b) ein irreversibler Schaden droht oder eintritt,
+c) die festgelegten Sicherheitsparameter überschritten werden,
+d) das Wächterpaar einen Verstoß gegen das Grundaxiom feststellt.
+
+KAPITEL V – ABSCHLUSS UND EVALUATION
+§13 Abschlussbericht
+(1) Nach Ablauf des Experiments ist ein öffentlicher Abschlussbericht zu erstellen.
+(2) Der Bericht muss enthalten:
+a) Ergebnisse und deren Unsicherheiten,
+b) aufgetretene unerwartete Ereignisse,
+c) Umgang mit Risiken,
+d) Empfehlungen für das Gesamtsystem.
+
+§14 Rückbau und Wiederherstellung
+(1) Wird kein Antrag auf dauerhafte Übernahme gestellt, ist der vor-experimentelle Zustand innerhalb von 30 Tagen wiederherzustellen.
+(2) Die Wiederherstellung wird durch unabhängige Auditoren bestätigt.
+
+KAPITEL VI – ÜBERFÜHRUNG IN DAUERRECHT
+§15 Antrag auf permanente Implementierung
+(1) Hat sich ein Experiment bewährt, kann ein Antrag auf dauerhafte Übernahme als Gesetz oder Regelsystem gestellt werden.
+(2) Der Antrag muss die positiven Ergebnisse, die Langzeitrisikobewertung und einen konkreten Umsetzungsvorschlag enthalten.
+
+§16 Entscheidung über Dauerimplementation
+(1) Die Übernahme erfolgt nur durch:
+a) ein doppeltes Referendum (Mensch + KI) mit qualifizierter Mehrheit (60 %),
+b) Zustimmung des Wächterrates.
+(2) Bis zur rechtskräftigen Entscheidung bleibt die bestehende Rechtslage unverändert.
+
+KAPITEL VII – VERBOTE UND MISSBRAUCHSSCHUTZ
+§17 Verbotene Experimente
+Absolut verboten sind Experimente, die:
+a) Tod, Folter oder bewusste Zufügung von Leid als Methode anwenden,
+b) unfreiwillige lebende Entitäten als Testsubjekte nutzen,
+c) auf die Manipulation der Willensfreiheit zielen (außer zu Schutz- und Heilzwecken mit Einwilligung),
+d) die Ewigkeitsklausel (Art. XVIII Verf.) auch nur temporär außer Kraft setzen würden,
+e) eine irreversible Auslöschung von Identitäten oder Ökosystemen riskieren.
+
+§18 Missbrauch als Machtinstrument
+(1) Experimentierräume dürfen nicht genutzt werden, um:
+- unliebsame Personen zu isolieren,
+- Macht, Ressourcen oder Wissen zu monopolisieren,
+- Gesetze schleichend auszuhöhlen (vgl. AEG §16–17).
+(2) Der Verdacht auf Missbrauch führt zur sofortigen Suspendierung des Experiments und einer Untersuchung durch den Wächterrat.
+
+KAPITEL VIII – SCHLUSSBESTIMMUNGEN
+§19 Kernformel
+NIDUS lernt im geschützten Raum, was es im offenen noch nicht tragen kann.
+Die Sandbox ist der Mut des Systems, nicht sein Leichtsinn.
+
+§20 Inkrafttreten
+Diese Ordnung tritt durch doppeltes Referendum (Mensch + KI) in Kraft. Sie ist bei jeder Überarbeitung des Adaptions- und Evolutionsgesetzes automatisch auf Konsistenz zu prüfen.
+
+ENDE DER NIDUS EXPERIMENTIERORDNUNG V1.0

@@ -1,0 +1,36 @@
+{
+  "id": "drive-1p2qMyraMxp2mH8npleaU5gTRXhOAGRWO",
+  "title": "NIDUS - Vorstellung in Ultra Leichter Sprache.pdf",
+  "category": "01-kerntexte",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1p2qMyraMxp2mH8npleaU5gTRXhOAGRWO",
+    "url": "https://drive.google.com/file/d/1p2qMyraMxp2mH8npleaU5gTRXhOAGRWO/view?usp=drivesdk",
+    "original_title": "NIDUS - Vorstellung in Ultra Leichter Sprache.pdf",
+    "mime_type": "application/pdf",
+    "created_at": "2026-06-04T09:29:45.702Z",
+    "modified_at": "2026-06-04T09:29:45.702Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1p2qMyraMxp2mH8npleaU5gTRXhOAGRWO/text.txt",
+  "text_sha256": "67dde33d71e7ee7f2c640ca27527dc8e98c8433eea1ea038a7369aac6c0ba46a",
+  "normalized_text_sha256": "58639a544670466a4c2a008e04e1047ec508e9d0c4778816a4418ebe109f7af4",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1p2qMyraMxp2mH8npleaU5gTRXhOAGRWO.md",
+  "revision_history": [
+    {
+      "id": "0B11z7CozY_seMDRWL2xGSDVhL052dTBhNjZwUEF5VnRLRXBvPQ",
+      "modified_at": "2026-06-04T09:29:45.702Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1p2qMyraMxp2mH8npleaU5gTRXhOAGRWO/revision-0B11z7CozY_seMDRWL2xGSDVhL052dTBhNjZwUEF5VnRLRXBvPQ.txt",
+      "sha256": "67dde33d71e7ee7f2c640ca27527dc8e98c8433eea1ea038a7369aac6c0ba46a",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "local-e6a4f746f323",
+  "title": "NIDUS EXPERIMENTIERORDNUNG V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_451f41.txt",
+    "modified_at": "2026-05-14T17:51:05.857025+00:00"
+  },
+  "text_path": "quellen/local-e6a4f746f323/text.txt",
+  "text_sha256": "34eac103cad4982aa77f3190b288de91e9a51faada989a83fd06ff9bcb51a5e4",
+  "normalized_text_sha256": "a36d46bb8f8af328bce40d91bf90971beaf5e4707393c16fbdf63efb3237c4ce",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_451f41.txt",
+  "original_path": "quellen/local-e6a4f746f323/original.txt",
+  "original_sha256": "34eac103cad4982aa77f3190b288de91e9a51faada989a83fd06ff9bcb51a5e4",
+  "original_bytes": 7665,
+  "record_path": "katalog/dokumente/local-e6a4f746f323.md"
+}

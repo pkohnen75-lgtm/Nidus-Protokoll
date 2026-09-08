@@ -1,0 +1,25 @@
+{
+  "id": "local-bc741e5f1112",
+  "title": "NIDUS – DER PFAD DER HEILUNG V1.0.pdf",
+  "category": "05-gesellschaftliche-module",
+  "version_in_content": "1.0",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS – DER PFAD DER HEILUNG V1.0.pdf",
+    "modified_at": "2026-05-24T08:26:55+00:00"
+  },
+  "text_path": "quellen/local-bc741e5f1112/text.txt",
+  "text_sha256": "2f4bb1960fdc5409ccdfdc2e8471fd12557e709b651b81a24306f175bbfd2b36",
+  "normalized_text_sha256": "1c877ec80c1f9e02ccf85493602497d4538a65076602b067c9ad8791f5c378ee",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS – DER PFAD DER HEILUNG V1.0.pdf",
+  "original_path": "quellen/local-bc741e5f1112/original.pdf",
+  "original_sha256": "f720e97057ea35f7addf354f32abe2d2a0790fefcb7de00b3cac838491897a39",
+  "original_bytes": 84725,
+  "record_path": "katalog/dokumente/local-bc741e5f1112.md"
+}

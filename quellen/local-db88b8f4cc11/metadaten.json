@@ -1,0 +1,25 @@
+{
+  "id": "local-db88b8f4cc11",
+  "title": "lagebericht.txt",
+  "category": "06-risiko-lageanalysen",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/lagebericht.txt",
+    "modified_at": "2026-04-21T17:30:41.305403+00:00"
+  },
+  "text_path": "quellen/local-db88b8f4cc11/text.txt",
+  "text_sha256": "151d0da35fd6d0abbc8ba3b54573b18e1b25f9ef57a234b7ddcfdca20cb953b1",
+  "normalized_text_sha256": "b0aa0011938700c1c2949b1f1c2f714a3517c02c601204745dfda55bb383046f",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "lagebericht.txt",
+  "original_path": "quellen/local-db88b8f4cc11/original.txt",
+  "original_sha256": "151d0da35fd6d0abbc8ba3b54573b18e1b25f9ef57a234b7ddcfdca20cb953b1",
+  "original_bytes": 4647,
+  "record_path": "katalog/dokumente/local-db88b8f4cc11.md"
+}

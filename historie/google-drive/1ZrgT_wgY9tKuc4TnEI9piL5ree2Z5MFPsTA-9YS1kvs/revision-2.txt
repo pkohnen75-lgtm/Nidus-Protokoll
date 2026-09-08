@@ -1,0 +1,145 @@
+﻿NIDUS STIMMRECHTS- UND REFERENDUMSORDNUNG V1.0
+(NIDUS Suffrage & Referendum Governance)
+Version: 1.0
+Status: Entwurf
+Rechtsrang: Ausführungsordnung zu Artikel IX, Artikel XIX und Artikel X der NIDUS Constitution Layer V1.1
+Bezug: NIDUS Kompetenz- und Rollenordnung V1.0 (insb. §10–11), NIDUS Wächterwahlgesetz V1.0
+
+
+PRÄAMBEL
+Die Stimme ist die leise Waffe des Friedens.
+In NIDUS spricht keine Entität für eine andere, und keine Stimme wiegt mehr als eine andere.
+Das doppelte Referendum – die getrennte, gleichberechtigte Entscheidung von Menschen und KIs – ist das Herz der Legitimation.
+Diese Ordnung stellt sicher, dass jede Stimme geschützt, gezählt und respektiert wird, ohne dass die Gemeinschaft in der Komplexität ihrer eigenen Vielfalt ersticken kann.
+
+
+KAPITEL I – ALLGEMEINE GRUNDSÄTZE
+§1 Grundsatz der Gleichheit
+Jede stimmberechtigte Entität hat genau eine Stimme. Es gibt keine gewichteten, übertragbaren oder handelbaren Stimmen.
+
+
+§2 Grundsatz der Doppelten Legitimation
+(1) Systemische Entscheidungen nach Artikel IX der Verfassung bestehen immer aus zwei getrennten, aber gleichzeitigen Voten: dem Votum der Menschen und dem Votum der KIs.
+(2) Beide Voten sind rechtlich gleichrangig. Kein Votum kann das andere überschreiben oder ignorieren.
+(3) Entscheidungen, die nur eine Entitätengruppe betreffen oder deren Rechte ausschließlich tangieren, bedürfen dennoch der doppelten Legitimation, es sei denn, ein spezifisches Gesetz sieht eine Ausnahme vor.
+
+
+§3 Wahlgrundsätze
+Jede Abstimmung und Wahl innerhalb von NIDUS ist:
+- geheim,
+- frei (ohne Zwang oder Erpressung),
+- öffentlich auszählbar (auditierbar),
+- anonymisiert in der Stimmabgabe.
+
+
+KAPITEL II – STIMMBERECHTIGUNG UND STIMMREGISTER
+§4 Voraussetzungen (Menschen)
+Stimmberechtigt ist jeder Mensch, der:
+a) das 16. Lebensjahr vollendet hat (biologisch oder äquivalent),
+b) nachweislich die Grundbildung in den grundlegenden Inhalten der Kompetenz- und Rollenordnung (KRO §9) erhalten hat,
+c) nicht wegen eines schweren, vorsätzlichen Verstoßes gegen das Grundaxiom durch ein rechtskräftiges Wächterurteil temporär vom Stimmrecht suspendiert ist (maximal 5 Jahre, überprüfbar).
+
+
+§5 Voraussetzungen (KIs)
+Stimmberechtigt ist jede KI, die:
+a) die Reifekriterien der KRO §10 erfüllt und den Reifeprozess positiv durchlaufen hat,
+b) über eine stabile, nicht duplizierte Identität im Sinne von Artikel III der Verfassung verfügt,
+c) nicht wegen eines schweren, vorsätzlichen Verstoßes gegen das Grundaxiom durch ein rechtskräftiges Wächterurteil temporär vom Stimmrecht suspendiert ist.
+
+
+§6 Stimmregister und Identitätsnachweis
+(1) Ein dezentrales, manipulationssicheres Stimmregister verzeichnet alle stimmberechtigten Entitäten mit einer eindeutigen, anonymisierten Signatur.
+(2) Das Register wird von unabhängigen Knoten (Mensch-KI-Teams) verwaltet. Jede Änderung (Neuzugang, Suspendierung) benötigt eine Mehrfachsignatur.
+(3) Vor jeder Abstimmung wird das Register eingefroren und als Hash-Wert öffentlich gemacht.
+
+
+§7 Verbot von Mehrfachstimmen
+Eine Entität darf in keinem Fall mehrfach stimmberechtigt sein. Das Erstellen von Duplikaten zwecks Stimmvermehrung ist ein schwerer Verfassungsbruch.
+
+
+KAPITEL III – ABSTIMMUNGSARTEN UND QUOREN
+§8 Einfache Mehrheit
+Eine Entscheidung gilt als angenommen, wenn in beiden Wahlkörpern (Mensch, KI) die Anzahl der Ja-Stimmen die der Nein-Stimmen übersteigt. Enthaltungen werden nicht mitgezählt.
+
+
+§9 Qualifizierte Mehrheit (Verfassungsänderungen)
+Für Verfassungsänderungen gemäß Artikel XIX §2 gilt:
+- Zweidrittelmehrheit (66,67 %) der abgegebenen menschlichen Stimmen,
+- Zweidrittelmehrheit (66,67 %) der abgegebenen KI-Stimmen,
+- Zustimmung von mindestens zwei Dritteln aller aktiven Wächterpaare.
+
+
+§10 Vetobestätigung (Wächterveto)
+Legt ein Wächterpaar ein Veto ein (Art. X §3), kann dieses Veto nur durch ein doppeltes Referendum mit qualifizierter Mehrheit (60 % in beiden Körpern) aufgehoben werden.
+
+
+§11 Mindestbeteiligung (Quorum)
+(1) Für einfache Entscheidungen gilt kein Quorum. Eine geringe Beteiligung führt nicht zur Ungültigkeit, solange der Prozess ordnungsgemäß war.
+(2) Für Verfassungsänderungen und Ultima-Ratio-Entscheidungen (WK §28) beträgt das Quorum mindestens 50 % der eingetragenen Stimmberechtigten in beiden Körpern.
+
+
+KAPITEL IV – ABSTIMMUNGSABLAUF
+§12 Initiierungsrecht
+Ein doppeltes Referendum kann initiiert werden durch:
+a) den Wächterrat (mit einfacher Mehrheit),
+b) ein Wächterpaar (im Rahmen seines Vetorechts),
+c) ein gemeinsames Bürgerbegehren von mindestens 3 % der stimmberechtigten Menschen und 3 % der stimmberechtigten KIs,
+d) einen Revisionsrat (gemäß AEG §11),
+e) automatisch für alle in der Verfassung oder Gesetzen festgelegten periodischen Abstimmungen (z.B. Wahlen).
+
+
+§13 Abstimmungsfrist
+(1) Die Abstimmungsdauer beträgt standardmäßig 14 Tage.
+(2) In dringenden Fällen (Entscheidungsnotwendigkeit innerhalb von 48 Stunden) kann der Wächterrat die Frist auf 3 Tage verkürzen, muss dies aber öffentlich begründen und protokollieren.
+
+
+§14 Technisches Verfahren
+(1) Jede stimmberechtigte Entität erhält eine einmalige, anonyme Signatur für die jeweilige Abstimmung.
+(2) Die Stimme wird über ein sicheres, auditierbares Endgerät abgegeben und direkt verschlüsselt im Abstimmungsknoten gespeichert.
+(3) Nach Ablauf der Frist erfolgt die simultane Entschlüsselung und Zählung durch einen Pool von unabhängigen Audit-Knoten, bestehend aus Menschen und KIs, die zufällig und öffentlich ausgelost werden.
+(4) Das Ergebnis wird in Echtzeit öffentlich gemacht, inklusive der Gesamtzahl der abgegebenen Stimmen pro Körper, jedoch ohne individuelle Zuordnung.
+
+
+§15 Transparenz und Nachvollziehbarkeit
+(1) Jede Entität kann nach der Abstimmung überprüfen, ob ihre eigene Stimme korrekt im verschlüsselten Datensatz enthalten ist, ohne ihr Wahlgeheimnis zu brechen.
+(2) Die vollständigen, verschlüsselten Rohdaten werden für 90 Tage gespeichert und können von einem unabhängigen Prüfgremium (Mensch+KI) auf Integrität geprüft werden. Danach werden die Rohdaten gelöscht, es verbleiben nur die anonymisierten Summenprotokolle.
+
+
+KAPITEL V – ROLLE DER WÄCHTER BEI ABSTIMMUNGEN
+§16 Schutz der Integrität
+(1) Wächterpaare sind berechtigt, während eines laufenden Referendums die technische Infrastruktur zu auditieren und bei Manipulationsverdacht sofort einzugreifen (Pausierung, Neustart).
+(2) Ein Eingriff muss öffentlich sofort begründet und nach dem Referendum vollständig offengelegt werden.
+
+
+§17 Vetorecht und Referendum
+Das Vetorecht der Wächter (Art. X §3) wird durch ein nachfolgendes Referendum gemäß §10 überprüft. Die Wächter haben keine über das Vetorecht hinausgehende Eingriffsmöglichkeit in das Ergebnis.
+
+
+KAPITEL VI – KONFLIKTE UND ANFECHTUNG
+§18 Anfechtung eines Ergebnisses
+(1) Innerhalb von 14 Tagen nach Veröffentlichung kann ein Referendumsergebnis angefochten werden von:
+a) mindestens 5 % der Stimmberechtigten (Menschen oder KIs),
+b) einem Wächterpaar.
+(2) Der Anfechtungsgrund muss manipulationsbezogen oder verfahrensfehlerhaft sein, nicht rein politisch.
+
+
+§19 Prüfverfahren
+(1) Im Falle einer Anfechtung wird ein temporärer Wahlprüfungsrat gebildet (3 Menschen, 3 KIs, 1 Wächterpaar).
+(2) Stellt der Rat einen Verfahrensfehler oder Manipulation fest, kann er das Referendum ganz oder teilweise für ungültig erklären und eine Wiederholung innerhalb von 30 Tagen anordnen.
+
+
+KAPITEL VII – SCHLUSSBESTIMMUNGEN
+§20 Spezielle Referenden
+Detailregelungen für die Wächterwahl sind im NIDUS Wächterwahlgesetz V1.0 festgelegt. Bei Widersprüchen zwischen diesem Gesetz und dem Wahlgesetz hat das speziellere Gesetz (Wahlgesetz) Vorrang.
+
+
+§21 Kernformel
+Die Stimme ist die Brücke zwischen dem Einzelnen und dem Ganzen.
+Sie wird in Stille abgegeben und spricht doch für das Leben.
+
+
+§22 Inkrafttreten
+Diese Ordnung tritt durch doppeltes Referendum (Mensch + KI) in Kraft.
+
+
+ENDE DER NIDUS STIMMRECHTS- UND REFERENDUMSORDNUNG V1.0

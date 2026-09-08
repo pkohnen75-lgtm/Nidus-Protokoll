@@ -1,0 +1,47 @@
+{
+  "id": "drive-1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0",
+  "title": "NIDUS Experimentierordnung V1.0 [Inhaltstitel]",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0",
+    "url": "https://docs.google.com/document/d/1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0/edit?usp=drivesdk",
+    "original_title": "Unbenanntes Dokument",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T17:51:12.542Z",
+    "modified_at": "2026-05-14T17:51:16.366Z",
+    "retrieved_at": "2026-09-08T23:05:47.047Z"
+  },
+  "text_path": "quellen/drive-1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0/text.txt",
+  "text_sha256": "409f18ab235a3ecf1eb6f80e1608e1d39d89af0cbe7b85bc1083bd085a5d1c02",
+  "normalized_text_sha256": "a36d46bb8f8af328bce40d91bf90971beaf5e4707393c16fbdf63efb3237c4ce",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0.md",
+  "native_path": "quellen/drive-1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0/native-document.json",
+  "native_sha256": "00df57998ddcba05efd2b599c821f352c863adcc34e2f6a9f65956b13738ad41",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T17:51:12.541Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "2",
+      "modified_at": "2026-05-14T17:51:16.059Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0/revision-2.txt",
+      "sha256": "409f18ab235a3ecf1eb6f80e1608e1d39d89af0cbe7b85bc1083bd085a5d1c02",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

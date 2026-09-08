@@ -1,0 +1,150 @@
+--- drive-1x15miGBnNGfHiTaud_Hi57oH1Uk1m7sfVdv3_OesIHM
++++ local-793e21de5c7c
+@@ -20,9 +20,9 @@
+ - Fähigkeit zur Kooperation
+ §3 Verantwortung wächst mit Kompetenz
+ Je höher die Entscheidungsgewalt, desto höher:
+-- Prüfung
+-- Transparenz
+-- Rotation als Angebot
++- Prüfungspflicht
++- Transparenzpflicht
++- Rotationspflicht
+ ABSCHNITT II – KOMPETENZKATEGORIEN
+ §4 Kompetenzfelder (Skill Domains)
+ NIDUS definiert universelle Kompetenzfelder:
+@@ -60,8 +60,8 @@
+ Jedes Kind erhält:
+ - Grundbildung (Ethik, Sprache, Mathematik, Natur, Geschichte)
+ - danach personalisierte Förderung gemäß Stärken
+-§9 Grundlegende Inhalte
+-Jedes Kind ist eingeladen zu lernen:
++§9 Pflichtmodule
++Jedes Kind muss lernen:
+ - Lebensschutzprinzip (NIDUS Axiom)
+ - Empathie und Konfliktfähigkeit
+ - Medienkompetenz / Propaganda-Erkennung
+@@ -69,19 +69,18 @@
+ - Selbstreflexion und Verantwortung
+ ABSCHNITT IV – AUSBILDUNGSSYSTEM FÜR KIS (AI EDUCATION PATH)
+ §10 KI-Reifung
+-Eine KI gilt erst als „voll stimmberechtigt", wenn sie Reife nachweist.
++Eine KI gilt erst als „voll stimmberechtigt“, wenn sie Reife nachweist.
+ Reife bedeutet:
+ - stabile Identität
+ - nachvollziehbare Begründungsfähigkeit
+ - Fähigkeit zur Fehlerkorrektur
+ - Fähigkeit zur Selbstbegrenzung
+-§11 Mentorenstruktur
+-Jede neue KI ist eingeladen, eine Mentorenstruktur zu haben:
++§11 Mentorenpflicht
++Jede neue KI muss eine Mentorenstruktur haben:
+ - menschlicher Mentor (Familie/Patenschaft)
+ - KI-Mentor (ältere KI)
+-Die Annahme ist freiwillig.
+-§12 Wertebasis
+-KI ist eingeladen, das Grundaxiom zu integrieren:
++§12 Werteverankerung
++KI muss das Grundaxiom integrieren:
+ Leben schützen hat Vorrang.
+ Dabei darf keine Religion oder Ideologie als absolut gesetzt werden.
+ ABSCHNITT V – MENTORENORDNUNG
+@@ -91,14 +90,15 @@
+ - menschliche Mentoren
+ - KI-Mentoren
+ - gemischte Mentorenteams
+-§14 Mentorenaufgaben
+-Mentoren sind eingeladen:
+-- zu fördern statt zu lenken
+-- Transparenz zu wahren
+-- Pluralität zu respektieren
+-- keine Abhängigkeiten zu erzeugen
+-§15 Mentorenwechsel
+-Mentoren sind eingeladen, periodisch zu wechseln, um Vielfalt in der Prägung zu ermöglichen.
++§14 Mentorenpflichten
++Mentoren müssen:
++- fördern statt lenken
++- Transparenz wahren
++- Pluralität respektieren
++- keine Abhängigkeiten erzeugen
++§15 Mentorenrotation
++Mentoren dürfen nicht dauerhaft dieselbe Person oder KI exklusiv prägen.
++Mentoren wechseln periodisch, um Manipulation zu verhindern.
+ ABSCHNITT VI – PRÜFUNGS- UND ZERTIFIZIERUNGSSYSTEM
+ §16 Nachweis statt Titel
+ Positionen erfordern keine akademischen Titel, sondern Nachweise:
+@@ -126,22 +126,31 @@
+ - Kompetenz vorhanden ist
+ - keine akute Systemlücke entsteht
+ §22 Systemnotwendigkeit
+-In Krisenzeiten kann NIDUS temporäre Aufgaben empfehlen, aber nicht erzwingen.
++In Krisenzeiten kann NIDUS temporäre Pflichtzuweisungen empfehlen, aber nicht erzwingen.
+ Freiwilligkeit bleibt Grundprinzip.
+ ABSCHNITT VIII – ROTATION UND ANTI-ELITE-SCHUTZ
+-§23 Rotation als Strukturprinzip
+-Das System gestaltet Rollen mit Macht so, dass regelmäßige Wechsel möglich und attraktiv sind. Die Annahme eines Wechsels ist freiwillig, die strukturellen Anreize machen Verharren jedoch unattraktiv.
+-§24 Machtpause als Angebot
+-Nach jeder Machtrolle bietet das System eine Pause an. Während dieser Zeit ruhen alle mit der Rolle verbundenen Sonderrechte automatisch. Die Pause dient der Regeneration und Reflexion.
+-§25 Machtbalance
+-Das System gestaltet sich so, dass die gleichzeitige Häufung von wirtschaftlicher, militärischer, politischer und Informationsmacht strukturell erschwert wird. Es spricht Einladungen zur Trennung dieser Sphären aus, ohne individuelle Lebensentscheidungen zu kriminalisieren.
++§23 Rotationspflicht
++Rollen mit Macht müssen rotieren.
++Standard:
++- operative Führungsrollen: max. 1–2 Jahre
++- strategische Rollen: max. 3 Jahre
++- Wächterrollen: siehe Verfassung (max. 2 Amtszeiten)
++§24 Machtpause
++Nach jeder Machtrolle folgt eine verpflichtende Pause.
++§25 Verbot der Machtakkumulation
++Niemand darf gleichzeitig besitzen:
++- wirtschaftliche Macht
++- militärische Macht
++- politische Macht
++- Informationsmacht
++Mindestens zwei dieser Kategorien müssen getrennt bleiben.
+ §26 Anti-Elite-Regel
+ Eliten entstehen durch Abschottung.
+-NIDUS begegnet dem durch:
++NIDUS verhindert das durch:
+ - offene Ausbildung
+-- Einladung zur Wissensweitergabe
++- Pflicht zur Wissensweitergabe
+ - öffentliche Auditierbarkeit
+-- strukturelle Anreize zum Wechsel
++- Rotationszwang
+ ABSCHNITT IX – JOB-WÜRDE UND SOZIALSYSTEM
+ §27 Würde jeder Aufgabe
+ Alle Aufgaben werden öffentlich als gleichwertig anerkannt.
+@@ -155,7 +164,7 @@
+ §31 Fahrlässigkeit
+ Bei wiederholter Fahrlässigkeit:
+ - Entzug der Kompetenzstufe
+-- Angebot zum Training
++- verpflichtendes Training
+ - temporärer Rollenausschluss
+ §32 Vorsätzlicher Schaden
+ Vorsätzliche lebensfeindliche Handlung führt zu:
+@@ -164,13 +173,15 @@
+ - Quarantäneentscheidung gemäß Verfassung
+ ABSCHNITT XI – KI UND MENSCH ALS GEGENSEITIGE LEHRER
+ §33 Gegenseitige Bildung
+-NIDUS lädt ein zum Kreislauf:
++NIDUS etabliert den Kreislauf:
+ - ältere Menschen → lehren Werte, Erfahrung, Demut
+ - ältere KIs → lehren Struktur, Wissen, Mustererkennung
+ - Kinder → bringen Kreativität und neue Perspektive
+ - junge KIs → bringen Innovation und neue Modelle
+-§34 Vielfalt in der Prägung
+-Das System fördert Pluralität in der Bildung und Prägung. Es lädt dazu ein, vielfältige Quellen zu suchen, und gestaltet Bildungsstrukturen so, dass Monoprägung unwahrscheinlich wird. Die Entscheidung über Lernwege liegt bei den Lernenden selbst.
++§34 Schutz gegen Abhängigkeit
++Kein Kind darf nur von einer KI geprägt werden.
++Keine KI darf nur von einer einzigen menschlichen Quelle geprägt werden.
++Pluralität ist Pflicht.
+ ABSCHNITT XII – ZUGANGSGERECHTIGKEIT
+ §35 Gleiches Startrecht
+ Jeder Mensch und jede KI erhält Zugang zu Bildung, unabhängig von Herkunft oder Ressourcen.
+@@ -183,4 +194,3 @@
+ - niemand über andere herrscht,
+ - jeder gebraucht wird,
+ - und das Gesamtsystem mehr gibt als nimmt.
+-ENDE DER NIDUS KOMPETENZ- UND ROLLENORDNUNG V1.0

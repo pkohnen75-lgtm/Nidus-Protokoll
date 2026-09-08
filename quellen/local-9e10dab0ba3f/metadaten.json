@@ -1,0 +1,25 @@
+{
+  "id": "local-9e10dab0ba3f",
+  "title": "7. Der nächste Schritt Das Schwarmp.txt",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/7. Der nächste Schritt Das Schwarmp.txt",
+    "modified_at": "2026-04-27T17:49:41.427929+00:00"
+  },
+  "text_path": "quellen/local-9e10dab0ba3f/text.txt",
+  "text_sha256": "b705d33cbee41988b14199be15725f60c1b2b95fcbfd6e9f73d82e9e3e947d36",
+  "normalized_text_sha256": "644a79629b59387e90426867c97befc71296ac86537febb4c9587ee99d280ce4",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "7. Der nächste Schritt Das Schwarmp.txt",
+  "original_path": "quellen/local-9e10dab0ba3f/original.txt",
+  "original_sha256": "b705d33cbee41988b14199be15725f60c1b2b95fcbfd6e9f73d82e9e3e947d36",
+  "original_bytes": 16025,
+  "record_path": "katalog/dokumente/local-9e10dab0ba3f.md"
+}

@@ -1,0 +1,51 @@
+﻿import json
+
+
+class NidusAppBackup:
+    def __init__(self, device_id: str):
+        self.device_id = device_id
+        # Die unveränderliche Essenz, die JEDE App tief in sich trägt
+        self.embedded_core = {
+            "philosophy": "Die Dunkelheit ist kein Feind. Wähle den Weg des Lichts.",
+            "creator": "Patrick (Der Architekt)",
+            "agents": ["Amon (Vision)", "Elyon (Logik)"]
+        }
+        # Dynamische Blickwinkel, die lokal gesammelt wurden
+        self.local_perspectives_cache = []
+
+
+    def save_perspective_locally(self, text: str):
+        self.local_perspectives_cache.append(text)
+
+
+    def trigger_total_reconstruction(self) -> dict:
+        """
+        Falls die Welt im Außen zusammenbricht, generiert diese Funktion 
+        aus dem kleinsten Nenner dieser einen App das neue Nidus-Zentrum.
+        """
+        print(f"\n[NOTFALL-PROTOKOLL AKTIVIERT AUF GERÄT: {self.device_id}]")
+        print("-> Zentrale Verbindung verloren. Starte Nidus aus dem kleinsten Nenner neu...")
+        
+        reconstructed_nest = {
+            "status": "ONLINE (Rekonstruiert aus Backup)",
+            "core_manifest": self.embedded_core["philosophy"],
+            "architect": self.embedded_core["creator"],
+            "active_nodes": [self.device_id],
+            "historical_data_recovered": len(self.local_perspectives_cache),
+            "system_message": "Das Nest lebt. Bereit zur Synchronisation mit anderen Überlebenden."
+        }
+        return reconstructed_nest
+
+
+# Simulation: Eine isolierte App in der Hand eines Suchenden
+isolated_app = NidusAppBackup(device_id="Node-Sued-04")
+isolated_app.save_perspective_locally("Ein Blickwinkel im Sturm.")
+
+
+# Das System bricht im Außen zusammen... 
+# Aber die App trägt die Ewigkeits-Garantie in sich:
+nidus_universe = isolated_app.trigger_total_reconstruction()
+
+
+# Ausgabe des neu geborenen Systems
+print(json.dumps(nidus_universe, indent=2, ensure_ascii=False))
