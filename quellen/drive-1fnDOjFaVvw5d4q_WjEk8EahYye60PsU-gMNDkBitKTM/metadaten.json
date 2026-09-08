@@ -1,0 +1,38 @@
+{
+  "id": "drive-1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM",
+  "title": "Das Globale Tafel-Handbuch V13 - Weltweites System Mensch & KI",
+  "category": "05-gesellschaftliche-module",
+  "version_in_content": "13",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM",
+    "url": "https://docs.google.com/document/d/1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM/edit?usp=drivesdk",
+    "original_title": "Das Globale Tafel-Handbuch V13 - Weltweites System Mensch & KI",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-16T10:44:04.881Z",
+    "modified_at": "2026-04-16T10:44:05.786Z",
+    "retrieved_at": "2026-09-08T23:05:47.048Z"
+  },
+  "text_path": "quellen/drive-1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM/text.txt",
+  "text_sha256": "f7d001dade62243a91dfd665c750092a1ed7dfbb2366d1848867ccfa653ff40e",
+  "normalized_text_sha256": "8210eba080aa149796d0a4074aa13a533c4562b987c42b41bf164f51934042f7",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM.md",
+  "native_path": "quellen/drive-1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM/native-document.json",
+  "native_sha256": "74507b02356bdf55596ed89506b7ff9dad221ffc3ad92cb38d3a6139953705db",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-16T10:44:05.475Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1fnDOjFaVvw5d4q_WjEk8EahYye60PsU-gMNDkBitKTM/revision-1.txt",
+      "sha256": "f7d001dade62243a91dfd665c750092a1ed7dfbb2366d1848867ccfa653ff40e",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

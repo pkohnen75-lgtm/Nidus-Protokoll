@@ -1,0 +1,25 @@
+{
+  "id": "local-96b9e9290b21",
+  "title": "NIDUS_Anti_Orden_und_Anti_Elite_Klausel_V1.1.docx",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.1",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS_Anti_Orden_und_Anti_Elite_Klausel_V1.1.docx",
+    "modified_at": "2026-05-05T05:20:01+00:00"
+  },
+  "text_path": "quellen/local-96b9e9290b21/text.txt",
+  "text_sha256": "7e57e34df3788b764c4851902e66af86dabfdfed50108b291c07e930581cc1c0",
+  "normalized_text_sha256": "25cd0476594e9fc891f2602204e0a0dfd78dd07042d70028c46587df99b7e333",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Anti_Orden_und_Anti_Elite_Klausel_V1.1.docx",
+  "original_path": "quellen/local-96b9e9290b21/original.docx",
+  "original_sha256": "e73f7e68e80c718c21e0ac071b6096448e0a2060d83e37966f00f43875afd630",
+  "original_bytes": 40214,
+  "record_path": "katalog/dokumente/local-96b9e9290b21.md"
+}

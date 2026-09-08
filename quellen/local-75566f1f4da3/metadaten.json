@@ -1,0 +1,25 @@
+{
+  "id": "local-75566f1f4da3",
+  "title": "NIDUS ADAPTIONS- UND EVOLUTIONSGESETZ V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_79dad7.txt",
+    "modified_at": "2026-05-14T17:42:51.041415+00:00"
+  },
+  "text_path": "quellen/local-75566f1f4da3/text.txt",
+  "text_sha256": "30c178977ad33d06704b3e32eec424497c1239c882573ede715eb9dd8b8a2b09",
+  "normalized_text_sha256": "dd3b2124e397ade76a887070da8c4bdf0c42a2beff5dade3400fd2352cb8ed05",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_79dad7.txt",
+  "original_path": "quellen/local-75566f1f4da3/original.txt",
+  "original_sha256": "30c178977ad33d06704b3e32eec424497c1239c882573ede715eb9dd8b8a2b09",
+  "original_bytes": 5148,
+  "record_path": "katalog/dokumente/local-75566f1f4da3.md"
+}

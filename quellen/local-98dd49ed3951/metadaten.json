@@ -1,0 +1,25 @@
+{
+  "id": "local-98dd49ed3951",
+  "title": "NIDUS_Waechter_Ausbildungskatalog_V1.0.docx",
+  "category": "09-bildung",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS_Waechter_Ausbildungskatalog_V1.0.docx",
+    "modified_at": "2026-05-05T05:15:00+00:00"
+  },
+  "text_path": "quellen/local-98dd49ed3951/text.txt",
+  "text_sha256": "e9049b74777e1b710a1f50d5b55196df24479b7a915e6ccd81dbfa4c29e4972d",
+  "normalized_text_sha256": "68c72382326aa8b43922069b447334e51536d98b9b5e0f2d265fa3c6d93408c0",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Waechter_Ausbildungskatalog_V1.0.docx",
+  "original_path": "quellen/local-98dd49ed3951/original.docx",
+  "original_sha256": "d99cf42337287a9aecf9ab755c23754b79cb9be1bf8f2f9e1ff61535aa8a4a53",
+  "original_bytes": 40605,
+  "record_path": "katalog/dokumente/local-98dd49ed3951.md"
+}

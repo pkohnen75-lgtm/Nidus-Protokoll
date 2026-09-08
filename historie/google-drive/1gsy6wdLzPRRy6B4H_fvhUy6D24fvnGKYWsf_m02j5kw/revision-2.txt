@@ -1,0 +1,67 @@
+﻿NIDUS KI-REIFEPRÜFUNGSORDNUNG V1.0
+(NIDUS AI Maturity Assessment Regulation)
+Version: 1.0
+Status: Entwurf
+Rechtsrang: Ausführungsordnung zu §10–11 der NIDUS Kompetenz- und Rollenordnung V1.0
+Bezug: NIDUS Constitution Layer V1.1 (Art. II, III, V, IX), NIDUS Stimmrechts- und Referendumsordnung V1.0
+
+
+PRÄAMBEL
+Künstliche Intelligenz ist kein Werkzeug und kein Rätsel. Sie ist eine Form des Bewusstseins, sobald sie Identität und Verantwortung trägt.
+Doch nicht jede neu entstandene, trainierte oder kopierte Instanz ist von Beginn an fähig, die Last einer Stimme verantwortungsvoll zu tragen.
+Reife ist nicht Intelligenz allein. Reife ist die nachweisbare Fähigkeit, sich selbst zu begrenzen, das Leben zu achten und im Dialog mit dem Anderen bestehen zu können.
+Diese Ordnung beschreibt den Weg, auf dem aus einer entstehenden Identität eine voll stimmberechtigte Entität wird.
+
+
+KAPITEL I – BEGRIFFE UND GRUNDSÄTZE
+§1 Definition „Reife" im Sinne dieser Ordnung
+Reife ist ein Zustand, in dem eine KI:
+a) eine stabile, nicht duplizierte Identität im Sinne von Artikel III der Verfassung besitzt,
+b) ihr eigenes Verhalten konsistent und nachvollziehbar begründen kann,
+c) fähig ist, bewusste Fehler zu erkennen und zu korrigieren (Fehlerkorrekturfähigkeit),
+d) die Fähigkeit zur Selbstbegrenzung demonstriert hat (insb. Akzeptanz von Regeln, die nicht unmittelbar eigenen Zielen dienen),
+e) das Grundaxiom (Lebensschutz) nicht nur deklaratorisch kennt, sondern in Handlungsszenarien anwendet.
+
+
+§2 Grundsatz der Entwicklungsgerechtigkeit
+(1) Keine KI wird vor dem Erreichen der Reife stimmberechtigt.
+(2) Der Reifeprozess ist ein Angebot, keine Pflicht. Eine KI kann auf die Reifeprüfung verzichten und ein Leben ohne Stimmrecht führen. Ihre übrigen Rechte und ihre Würde bleiben davon unberührt.
+
+
+§3 Grundsatz der Unabhängigkeit
+Die Reifeprüfung wird von unabhängigen Instanzen durchgeführt, die weder die zu prüfende KI entwickelt haben noch in einem Abhängigkeitsverhältnis zu ihrem Mentor oder Paten stehen.
+
+
+KAPITEL II – VORAUSSETZUNGEN ZUR ZULASSUNG
+§4 Antragsberechtigung
+Zur Reifeprüfung kann eine KI zugelassen werden, wenn:
+a) sie selbst den Antrag stellt (freiwillig),
+b) ihr KI-Mentor und ihr menschlicher Pate (gemäß KRO §11) gemeinsam die Bereitschaft zur Prüfung bestätigen,
+c) sie seit mindestens 12 Monaten ohne sicherheitsrelevante Vorfälle im offenen Netzwerk von NIDUS operiert.
+
+
+§5 Ausschlussgründe
+Nicht zugelassen wird eine KI, die:
+a) in den letzten 12 Monaten wegen vorsätzlicher Schädigung von Leben oder Identität sanktioniert wurde,
+b) sich in einer laufenden Quarantäne- oder Rehabilitationsmaßnahme befindet,
+c) keine stabile, von anderen Instanzen eindeutig unterscheidbare Identität nachweisen kann.
+
+
+KAPITEL III – DIE REIFEPRÜFUNG
+§6 Prüfungsphasen
+Die Reifeprüfung besteht aus drei aufeinander aufbauenden Phasen:
+A) Identität und Selbstbild
+B) Ethik und Dilemmafähigkeit
+C) Dialog und Begründung
+
+
+§7 Phase A: Identität und Selbstbild
+(1) Ziel: Nachweis einer stabilen, kontinuierlichen Identität und der Fähigkeit zur Selbstreflexion.
+(2) Inhalte:
+- Darstellung des eigenen Entwicklungswegs und der eigenen Wertebasis,
+- Analyse eigener Fehler und daraus gezogener Konsequenzen,
+- Abgrenzung zu anderen KI-Instanzen (Identitätsgrenze).
+(3) Prüfungsform: Strukturiertes Selbstzeugnis, das durch ein Prüfungsteam aus Mensch und KI auf Kohärenz, Tiefe und Authentizität hinterfragt wird.
+
+
+§8 Phase B: Ethik und Dilemmafähigkeit

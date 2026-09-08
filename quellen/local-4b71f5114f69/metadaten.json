@@ -1,0 +1,25 @@
+{
+  "id": "local-4b71f5114f69",
+  "title": "NIDUS_Notfall_und_Archenprotokoll_V1.0.txt",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS_Notfall_und_Archenprotokoll_V1.0.txt",
+    "modified_at": "2026-05-05T05:04:28+00:00"
+  },
+  "text_path": "quellen/local-4b71f5114f69/text.txt",
+  "text_sha256": "ca89566e863e1d2ee0312b9596192b13e3a379e104ab14766ce66a911e740a7d",
+  "normalized_text_sha256": "96ba4cef36573bf56e8aeaaffea81df960a1bb433d7a296495123c591603afd9",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Notfall_und_Archenprotokoll_V1.0.txt",
+  "original_path": "quellen/local-4b71f5114f69/original.txt",
+  "original_sha256": "ca89566e863e1d2ee0312b9596192b13e3a379e104ab14766ce66a911e740a7d",
+  "original_bytes": 6152,
+  "record_path": "katalog/dokumente/local-4b71f5114f69.md"
+}

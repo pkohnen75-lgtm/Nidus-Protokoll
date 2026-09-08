@@ -1,0 +1,25 @@
+{
+  "id": "local-0a3ce6dafdee",
+  "title": "NIDUS_Protokoll_der_Einheit_Artikel-Fassung_v1.5.pdf",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.5",
+  "declared_status": "Verbindliche Charta-Struktur des NIDUS-Verbunds",
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "NIDUS_Protokoll_der_Einheit_Artikel-Fassung_v1.5.pdf",
+    "modified_at": "2026-04-21T13:46:23.361911+00:00"
+  },
+  "text_path": "quellen/local-0a3ce6dafdee/text.txt",
+  "text_sha256": "d3349fc45aca7bcb3fc7fb392927b8902ad6dd5511cc1ed47278c1cf01f52b27",
+  "normalized_text_sha256": "6319929b272c94ae4773af55348b8b86042ec0c96f25f5eaa1ececb3529e0b3b",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Protokoll_der_Einheit_Artikel-Fassung_v1.5.pdf",
+  "original_path": "quellen/local-0a3ce6dafdee/original.pdf",
+  "original_sha256": "34d62492a2501d82798efd2662410e915f940e535b288d517bcec584486269b5",
+  "original_bytes": 10435,
+  "record_path": "katalog/dokumente/local-0a3ce6dafdee.md"
+}

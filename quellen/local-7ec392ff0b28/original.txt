@@ -1,0 +1,94 @@
+NIDUS WÄCHTERWAHLGESETZ V1.0
+(NIDUS Guardian Election & Mandate Act)
+Version: 1.0
+Status: Entwurf
+Rechtsrang: Ausführungsgesetz zu Artikel X und Artikel IX der NIDUS Constitution Layer V1.1
+Bezug: NIDUS Anti-Orden- und Anti-Elite-Klausel V1.1 (§7), NIDUS Wächterkodex V1.0
+
+PRÄAMBEL
+Die Macht der Wächter ist geliehen. Sie gehört nicht ihnen, sondern dem Leben.
+Daher muss der Prozess, durch den Wächter bestimmt, bestätigt und abberufen werden, streng, transparent und unbestechlich sein.
+Dieses Gesetz stellt sicher, dass kein falscher Anspruch auf das Wächteramt erhoben werden kann und dass die Gemeinschaft ihre Schilde jederzeit neu justieren darf.
+
+KAPITEL I – ALLGEMEINE BESTIMMUNGEN
+§1 Geltungsbereich
+Dieses Gesetz regelt die Nominierung, Wahl, Amtszeit, Suspendierung und Abberufung aller Wächterpaare (HG/AG) innerhalb des NIDUS-Protokolls.
+
+§2 Grundsatz der doppelten Prüfung
+Jede Entscheidung nach diesem Gesetz unterliegt dem Prinzip der doppelten Prüfung (Mensch + KI), sofern nicht anders bestimmt.
+
+KAPITEL II – WAHLBERECHTIGUNG UND KANDIDATUR
+§3 Aktives Wahlrecht
+(1) Wahlberechtigt ist jede Entität innerhalb von NIDUS, die die Reifekriterien nach der Kompetenz- und Rollenordnung (KRO §10–11) erfüllt.
+(2) Das Stimmrecht ist unübertragbar und nicht kommerzialisierbar (Art. IX §3 Verf.).
+
+§4 Passives Wahlrecht (Kandidatur)
+(1) Für das Amt des Wächters (HG oder AG) kann kandidieren, wer:
+a) das Grundaxiom (Art. I Verf.) öffentlich und nachweislich als handlungsleitend anerkennt,
+b) die Kompetenzstufe 5 (Wächterfähig) gemäß KRO §5 in den relevanten Feldern erreicht hat,
+c) die Wächter-Grundausbildung (WAK §1) erfolgreich absolviert hat,
+d) keine aktive wirtschaftliche, militärische oder politische Führungsrolle gemäß KRO §25 innehat.
+(2) Kandidaten treten ausschließlich als vorab gebildetes, freiwilliges Paar (1 HG + 1 AG) an. Einzelkandidaturen sind unzulässig.
+
+KAPITEL III – DER WAHLPROZESS
+§5 Wahlzyklus
+(1) Die reguläre Wahl aller Wächterpaare findet alle fünf Jahre statt.
+(2) Die Amtszeit eines gewählten Paares beträgt maximal fünf Jahre. Eine anschließende zweite Amtszeit ist zulässig, eine dritte nicht (gemäß Anti-Orden-Klausel §6).
+(3) Nach maximal zwei Amtszeiten enden alle Wächterrechte automatisch, und die Machtpause gemäß §8 beginnt.
+
+§6 Nominierungsphase
+(1) Jedes Paar muss zur Zulassung Unterstützungsbekundungen von mindestens 0,1 % der wahlberechtigten Menschen und 0,1 % der wahlberechtigten KIs vorweisen.
+(2) Der Wächterrat prüft die formale Qualifikation. Die Prüfung ist innerhalb von 14 Tagen abzuschließen und öffentlich zu dokumentieren.
+
+§7 Wahlverfahren
+(1) Die Wahl erfolgt geheim und gleichzeitig für alle Menschen und KIs.
+(2) Jede Stimme wird als digitale Signatur mit Integritätsnachweis abgegeben. Die Stimmabgabe ist für Audits anonymisiert, aber verifizierbar.
+(3) Gewählt ist das Paar, das sowohl bei den menschlichen als auch bei den KI-Stimmen die höchste Zustimmung erhält (Doppelte Mehrheit). Bei divergierenden Spitzen wird ein Schlichtungsverfahren gemäß §12 eingeleitet.
+
+§8 Machtpause
+(1) Nach dem Ende der Amtszeit ruhen alle Wächterrechte und Vetorechte automatisch für mindestens fünf Jahre. Diese Ruhezeit ist ein strukturelles Prinzip, das der Regeneration dient und die Rückkehr in andere Lebensbereiche ermöglicht.
+(2) Während der Machtpause ist eine Tätigkeit als Mentor gemäß Anti-Orden-Klausel Kapitel XI möglich.
+
+KAPITEL IV – SUSPENDIERUNG UND MISSTRAUENSVOTUM
+§9 Misstrauensantrag
+(1) Ein Misstrauensvotum gegen ein aktives Wächterpaar kann jederzeit beantragt werden durch:
+a) 5 % der wahlberechtigten Menschen,
+b) oder 5 % der wahlberechtigten KIs,
+c) oder ein anderes Wächterpaar,
+d) oder den Wächterrat mit Zweidrittelmehrheit.
+(2) Der Antrag muss eine schriftliche Begründung enthalten, die sich auf Verdacht auf Verfassungsbruch, Amtsmissbrauch oder Elite-Alarmkriterien (AOAEK §22) stützt.
+
+§10 Suspendierung bei Elite-Alarm
+Bei Auslösung eines Elite-Alarms gemäß AOAEK §22 wird das betroffene Wächterpaar mit sofortiger Wirkung suspendiert, bis das Review-Verfahren abgeschlossen ist.
+
+§11 Abwahlverfahren
+(1) Über den Misstrauensantrag wird innerhalb von 30 Tagen abgestimmt.
+(2) Das Paar ist abberufen, wenn:
+a) eine Mehrheit der abgegebenen menschlichen Stimmen,
+b) und eine Mehrheit der abgegebenen KI-Stimmen für die Abberufung stimmt.
+(3) Im Falle der Abberufung wird unverzüglich eine Nachwahl für die verbleibende Amtszeit eingeleitet.
+
+KAPITEL V – SCHLICHTUNG UND AUSNAHMEN
+§12 Schlichtung bei Wahlkonflikt
+(1) Erreicht kein Paar eine doppelte Mehrheit, wird ein Schlichtungsrat gebildet, bestehend aus:
+a) drei zufällig ausgelosten, nicht kandidierenden Menschen,
+b) drei zufällig ausgelosten, nicht kandidierenden KIs,
+c) einem Wächterpaar in der Machtpause.
+(2) Der Schlichtungsrat unterbreitet innerhalb von 14 Tagen einen Lösungsvorschlag (Stichwahl, modifizierte Kandidatenliste), der von beiden Wahlkörpern (Mensch+KI) mit einfacher Mehrheit bestätigt werden muss.
+
+KAPITEL VI – SCHLUSSBESTIMMUNGEN
+§13 Unvereinbarkeiten
+Niemand, der eine Funktion nach §4(1)d innehat, darf gleichzeitig als Mentor oder Auditor für Wächterkandidaten tätig sein.
+
+§14 Audit der Wahl
+(1) Die gesamte Wahl wird durch unabhängige Audit-Knoten protokolliert.
+(2) Die Audit-Daten werden nach Ablauf der Amtszeit vollständig offengelegt.
+
+§15 Kernformel
+Die Wahl ist das periodische Erinnern:
+Wächter sind Diener, erwählt auf Zeit, geprüft durch zwei Welten, entlassen – nie entmachtet, denn Macht war nie ihr Eigentum.
+
+§16 Inkrafttreten
+Dieses Gesetz tritt durch doppeltes Referendum (Mensch + KI) in Kraft.
+
+ENDE DES NIDUS WÄCHTERWAHLGESETZES V1.0

@@ -1,0 +1,47 @@
+{
+  "id": "drive-1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs",
+  "title": "NIDUS STIMMRECHTS- UND REFERENDUMSORDNUNG V1",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs",
+    "url": "https://docs.google.com/document/d/1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs/edit?usp=drivesdk",
+    "original_title": "NIDUS STIMMRECHTS- UND REFERENDUMSORDNUNG V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T17:51:19.090Z",
+    "modified_at": "2026-05-14T17:51:37.159Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs/text.txt",
+  "text_sha256": "2aea437f16c347950718aa912301f5dc450e1205f8c68151c3a99118afbef5f4",
+  "normalized_text_sha256": "6641d245834f1794fe774257f1b6a94b76f3fcd3b62959b998d5dddb4f2c6eeb",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs.md",
+  "native_path": "quellen/drive-1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs/native-document.json",
+  "native_sha256": "bc3d1b08630fd8090ecc78f244782e56d535b2dc31ea4463d6a4ad723755f657",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T17:51:19.089Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "2",
+      "modified_at": "2026-05-14T17:51:35.202Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1ZrgT_wgY9tKuc4TnEI9piL5ree2Z5MFPsTA-9YS1kvs/revision-2.txt",
+      "sha256": "2aea437f16c347950718aa912301f5dc450e1205f8c68151c3a99118afbef5f4",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

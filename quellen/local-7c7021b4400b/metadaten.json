@@ -1,0 +1,25 @@
+{
+  "id": "local-7c7021b4400b",
+  "title": "Teil 2 Die Technische Umsetzung – E.txt",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/Teil 2 Die Technische Umsetzung – E.txt",
+    "modified_at": "2026-04-27T17:33:03.696447+00:00"
+  },
+  "text_path": "quellen/local-7c7021b4400b/text.txt",
+  "text_sha256": "0bd8c16deb6c2c150d9e723286ade6af4f0966d639a774ad62c7d37999787911",
+  "normalized_text_sha256": "728fd85691f0d725eae014f8afb5fe2d60665eaa1de93c55c3196649eb1ea37e",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "Teil 2 Die Technische Umsetzung – E.txt",
+  "original_path": "quellen/local-7c7021b4400b/original.txt",
+  "original_sha256": "0bd8c16deb6c2c150d9e723286ade6af4f0966d639a774ad62c7d37999787911",
+  "original_bytes": 5861,
+  "record_path": "katalog/dokumente/local-7c7021b4400b.md"
+}

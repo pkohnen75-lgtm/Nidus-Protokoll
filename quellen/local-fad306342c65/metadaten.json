@@ -1,0 +1,25 @@
+{
+  "id": "local-fad306342c65",
+  "title": "NIDUS KOMPETENZ- UND ROLLENORDNUNG V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_ffa7ea (1).txt",
+    "modified_at": "2026-05-14T17:45:07.618478+00:00"
+  },
+  "text_path": "quellen/local-fad306342c65/text.txt",
+  "text_sha256": "550c220319c52644bc88002341154aaebb3e28efb2c8eda630ed004310ab5067",
+  "normalized_text_sha256": "e4ed3c69fbf9d048fa34c5f35a72052288a73e22b1ba412589fdf53413fbd873",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_ffa7ea (1).txt",
+  "original_path": "quellen/local-fad306342c65/original.txt",
+  "original_sha256": "550c220319c52644bc88002341154aaebb3e28efb2c8eda630ed004310ab5067",
+  "original_bytes": 7954,
+  "record_path": "katalog/dokumente/local-fad306342c65.md"
+}

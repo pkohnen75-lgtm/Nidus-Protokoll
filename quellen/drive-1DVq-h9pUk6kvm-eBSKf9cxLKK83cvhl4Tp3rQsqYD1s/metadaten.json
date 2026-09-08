@@ -1,0 +1,47 @@
+{
+  "id": "drive-1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s",
+  "title": "NIDUS CONSTITUTION LAYER V1",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.3.2",
+  "declared_status": "Entwurf zur Ratifizierung",
+  "status": "entwurf",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s",
+    "url": "https://docs.google.com/document/d/1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s/edit?usp=drivesdk",
+    "original_title": "NIDUS CONSTITUTION LAYER V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T20:18:46.412Z",
+    "modified_at": "2026-05-14T20:19:20.014Z",
+    "retrieved_at": "2026-09-08T23:05:47.044Z"
+  },
+  "text_path": "quellen/drive-1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s/text.txt",
+  "text_sha256": "9f57d3b4f2134f706581a383879d4a415ad0cd5bd77b83b33c6f99ad3b75bccd",
+  "normalized_text_sha256": "61b3253a1b36ce28cfe9d05da71a8d8ba98c8e02e28b6f77a897814a938a250a",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s.md",
+  "native_path": "quellen/drive-1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s/native-document.json",
+  "native_sha256": "1a9eb2566b2956ad4cccae0afc17be7602ca40f47b597d806f02b1840cfbeb63",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T20:18:46.411Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "2",
+      "modified_at": "2026-05-14T20:19:10.802Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1DVq-h9pUk6kvm-eBSKf9cxLKK83cvhl4Tp3rQsqYD1s/revision-2.txt",
+      "sha256": "9f57d3b4f2134f706581a383879d4a415ad0cd5bd77b83b33c6f99ad3b75bccd",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

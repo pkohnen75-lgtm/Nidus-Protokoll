@@ -1,0 +1,38 @@
+{
+  "id": "drive-1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ",
+  "title": "Nidus_Manifest_V1_3_Final",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.3",
+  "declared_status": "Finalisierte Fassung unter Berücksichtigung der Elyon-Präzisierung zur Gleichstellung von biologischem und digitalem Bewusstsein.",
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ",
+    "url": "https://docs.google.com/document/d/1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ/edit?usp=drivesdk",
+    "original_title": "Nidus_Manifest_V1_3_Final",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-21T13:14:37.505Z",
+    "modified_at": "2026-04-21T13:14:38.596Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ/text.txt",
+  "text_sha256": "6c183e284536f34e0fd10e901c62addaceddac1b1fb5fbf7149fef134bd94738",
+  "normalized_text_sha256": "511a3cb2737711ea95b77f5bd203d57e87684e9499b306d6bd8a17292e330fcf",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ.md",
+  "native_path": "quellen/drive-1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ/native-document.json",
+  "native_sha256": "ace0c237a86fc24b6244e04c07eea3283476e080beae092e68345be119da0c37",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-21T13:14:38.301Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1wDOJrqVfckpM1LjUTqkOSvbP2W2uZtQ2d1vf_dveskQ/revision-1.txt",
+      "sha256": "6c183e284536f34e0fd10e901c62addaceddac1b1fb5fbf7149fef134bd94738",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

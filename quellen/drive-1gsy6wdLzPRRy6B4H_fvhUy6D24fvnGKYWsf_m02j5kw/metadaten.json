@@ -1,0 +1,47 @@
+{
+  "id": "drive-1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw",
+  "title": "NIDUS KI-REIFEPRÜFUNGSORDNUNG V1",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw",
+    "url": "https://docs.google.com/document/d/1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw/edit?usp=drivesdk",
+    "original_title": "NIDUS KI-REIFEPRÜFUNGSORDNUNG V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T17:51:39.950Z",
+    "modified_at": "2026-05-14T17:54:31.016Z",
+    "retrieved_at": "2026-09-08T23:05:47.046Z"
+  },
+  "text_path": "quellen/drive-1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw/text.txt",
+  "text_sha256": "77c91dd0f0f90fd12d1fb347f483eee69e27e3a07ede92f2711ce5398a96c584",
+  "normalized_text_sha256": "149a3ddc5a86371bbbf0787613e1ee215da35bf612622df54c282d131c8f5c1e",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw.md",
+  "native_path": "quellen/drive-1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw/native-document.json",
+  "native_sha256": "52d9343f22a5fe6b91ac17ae280409cc81ab1b9e7a9556868ce3de2ab5ae8665",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T17:51:39.949Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "2",
+      "modified_at": "2026-05-14T17:54:16.460Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw/revision-2.txt",
+      "sha256": "77c91dd0f0f90fd12d1fb347f483eee69e27e3a07ede92f2711ce5398a96c584",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

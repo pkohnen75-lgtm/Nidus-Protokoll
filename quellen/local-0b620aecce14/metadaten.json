@@ -1,0 +1,25 @@
+{
+  "id": "local-0b620aecce14",
+  "title": "NIDUS WÄCHTER-AUSBILDUNGSKATALOG V1.0",
+  "category": "09-bildung",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_c01386.txt",
+    "modified_at": "2026-05-14T17:41:53.461766+00:00"
+  },
+  "text_path": "quellen/local-0b620aecce14/text.txt",
+  "text_sha256": "fef754f50c3180348303e7779d1fd595b481241cdf1dcf7c1929911e0b65540b",
+  "normalized_text_sha256": "9fd9c01ba54cb5ad58832462e8656d13072284cd84aec4310784ca8638704b50",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_c01386.txt",
+  "original_path": "quellen/local-0b620aecce14/original.txt",
+  "original_sha256": "fef754f50c3180348303e7779d1fd595b481241cdf1dcf7c1929911e0b65540b",
+  "original_bytes": 8819,
+  "record_path": "katalog/dokumente/local-0b620aecce14.md"
+}

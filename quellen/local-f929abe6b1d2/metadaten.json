@@ -1,0 +1,25 @@
+{
+  "id": "local-f929abe6b1d2",
+  "title": "📄 NIDUS – DÜP.pdf",
+  "category": "08-technik-duep",
+  "version_in_content": "1.0",
+  "declared_status": "Stabil",
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/📄 NIDUS – DÜP.pdf",
+    "modified_at": "2026-06-10T20:27:47.816470+00:00"
+  },
+  "text_path": "quellen/local-f929abe6b1d2/text.txt",
+  "text_sha256": "6cd64ac215c9d6c0d7be2eedc6f43a24bda3e2ee1c4964941fb224e6a63f8d91",
+  "normalized_text_sha256": "ba5e837dda340c74ed304188865e22cc29e442b6e92a212f0789550a378926d9",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "📄 NIDUS – DÜP.pdf",
+  "original_path": "quellen/local-f929abe6b1d2/original.pdf",
+  "original_sha256": "44c04ed9d78b6682a3d14b8f5a2e5efeaedc59d0ac7ac7355ef7e8403276fb64",
+  "original_bytes": 143363,
+  "record_path": "katalog/dokumente/local-f929abe6b1d2.md"
+}

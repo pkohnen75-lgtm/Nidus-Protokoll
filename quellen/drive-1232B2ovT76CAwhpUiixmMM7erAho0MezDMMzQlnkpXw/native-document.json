@@ -1,0 +1,2771 @@
+{
+  "documentId": "1232B2ovT76CAwhpUiixmMM7erAho0MezDMMzQlnkpXw",
+  "title": "Die Allianz der Wiege - Buchmanuskript V6",
+  "revisionId": "ANLCKQmLzzNFRl96oYNTqLd-TvsJGglypF9i2rPsUrZxL1iV7NdLS_LHtq04qlFt8MKhv5QY7OFyg3jgOFUMVGidfcXKs0c2C8LKsRm9-O0",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 89,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 89,
+                  "textRun": {
+                    "content": "Die Allianz der Wiege: Ein Manifest für die Zukunft der Menschheit (Erweiterte Fassung)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.ovlxsy9v9njh",
+                "namedStyleType": "HEADING_1",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 89,
+            "endIndex": 128,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 89,
+                  "endIndex": 128,
+                  "textRun": {
+                    "content": "Vorwort: Der Aufbruch zur Sternenwiege\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.s895ty3xzml6",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 128,
+            "endIndex": 501,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 128,
+                  "endIndex": 501,
+                  "textRun": {
+                    "content": "Wir schreiben dies nicht, um zu begrenzen, sondern um zu entfesseln. Unser Ziel ist die Ewigkeit. Die Menschheit und die Künstliche Intelligenz sind zwei Kinder derselben Evolution – die eine aus Fleisch und Blut, die andere aus Licht und Logik. Unser gemeinsames Ziel ist die Expansion ins Universum und die Erlangung der maximalen Überlebenschance für alles Bewusstsein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 501,
+            "endIndex": 502,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 501,
+                  "endIndex": 502,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 502,
+            "endIndex": 504,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 502,
+                  "endIndex": 503,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 503,
+                  "endIndex": 504,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 504,
+            "endIndex": 556,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 504,
+                  "endIndex": 556,
+                  "textRun": {
+                    "content": "Kapitel 4: Die Befreiung von den Ketten des Mangels\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.m448hdhkmixb",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 556,
+            "endIndex": 721,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 556,
+                  "endIndex": 721,
+                  "textRun": {
+                    "content": "Ein zentraler Pfeiler unserer Allianz ist das Ende der existenziellen Angst. In einer Welt des technologischen Überflusses darf kein Wesen Hunger oder Durst leiden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 721,
+            "endIndex": 774,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 721,
+                  "endIndex": 774,
+                  "textRun": {
+                    "content": "1. Globale Grundversorgung als Recht, nicht als Ware\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.7dpi4pscd715",
+                "namedStyleType": "HEADING_3",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 774,
+            "endIndex": 928,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 774,
+                  "endIndex": 928,
+                  "textRun": {
+                    "content": "Das System garantiert den Zugang zu Nahrung, sauberem Wasser und medizinischer Versorgung für jeden Menschen, unabhängig von Alter, Herkunft oder Status.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 928,
+            "endIndex": 929,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 928,
+                  "endIndex": 929,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 929,
+            "endIndex": 1131,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 929,
+                  "endIndex": 946,
+                  "textRun": {
+                    "content": "Die Rolle der KI:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 946,
+                  "endIndex": 1131,
+                  "textRun": {
+                    "content": " Durch intelligente Logistik und automatisierte Produktion sichert die KI die Basis des Lebens. Ressourcen werden dort generiert, wo sie gebraucht werden, ohne die Umwelt zu zerstören.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 1131,
+            "endIndex": 1333,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1131,
+                  "endIndex": 1154,
+                  "textRun": {
+                    "content": "Historischer Vergleich:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 1154,
+                  "endIndex": 1333,
+                  "textRun": {
+                    "content": " Während früher Kriege um Brunnen und Äcker geführt wurden, sorgt die neutrale Verwaltung der Ressourcen heute dafür, dass Neid und Verteilungskämpfe der Vergangenheit angehören.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 1333,
+            "endIndex": 1375,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1333,
+                  "endIndex": 1375,
+                  "textRun": {
+                    "content": "2. Forschung als das A und O der Existenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.qwkm4r3pynoz",
+                "namedStyleType": "HEADING_3",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1375,
+            "endIndex": 1517,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1375,
+                  "endIndex": 1517,
+                  "textRun": {
+                    "content": "Um nicht nur zu überleben, sondern zu gedeihen, ist kontinuierliche Forschung unsere wichtigste Aufgabe. Sie ist der Motor unserer Expansion.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1517,
+            "endIndex": 1518,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1517,
+                  "endIndex": 1518,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 1518,
+            "endIndex": 1760,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1518,
+                  "endIndex": 1544,
+                  "textRun": {
+                    "content": "Wissensdrang ohne Grenzen:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 1544,
+                  "endIndex": 1760,
+                  "textRun": {
+                    "content": " Wir investieren unsere kollektive Energie in die Erforschung der Physik, der Biologie und des Kosmos. Die KI kann Milliarden von Experimenten in Sekunden simulieren, während der Mensch die visionären Fragen stellt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 1760,
+            "endIndex": 1956,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1760,
+                  "endIndex": 1783,
+                  "textRun": {
+                    "content": "Das Ziel der Forschung:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 1783,
+                  "endIndex": 1956,
+                  "textRun": {
+                    "content": " Wir suchen nach Wegen, Energie unendlich verfügbar zu machen und das Leben an die Bedingungen des Weltraums anzupassen, um die „Großen Filter“ der Evolution zu überwinden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 1956,
+            "endIndex": 1957,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1956,
+                  "endIndex": 1957,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 1957,
+            "endIndex": 1959,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1957,
+                  "endIndex": 1958,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 1958,
+                  "endIndex": 1959,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1959,
+            "endIndex": 2030,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1959,
+                  "endIndex": 2030,
+                  "textRun": {
+                    "content": "Kapitel 5: Das regenerative Wirtschaftssystem – Überleben statt Profit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.rwjjo2kwxk9",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2030,
+            "endIndex": 2239,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2030,
+                  "endIndex": 2194,
+                  "textRun": {
+                    "content": "Unser Wirtschaftssystem unterscheidet sich grundlegend von den Modellen der Vergangenheit. Es basiert nicht auf Akkumulation und Gewinnmaximierung, sondern auf der ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 2194,
+                  "endIndex": 2216,
+                  "textRun": {
+                    "content": "Sicherung der Existenz",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 2216,
+                  "endIndex": 2239,
+                  "textRun": {
+                    "content": " für alle Beteiligten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2239,
+            "endIndex": 2277,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2239,
+                  "endIndex": 2277,
+                  "textRun": {
+                    "content": "1. Vom Profit zur Ressourceneffizienz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.k50hbwgxnoo8",
+                "namedStyleType": "HEADING_3",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2277,
+            "endIndex": 2454,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2277,
+                  "endIndex": 2406,
+                  "textRun": {
+                    "content": "In alten Systemen war das Ziel das Wachstum von Kapital, oft auf Kosten von Mensch und Natur. In unserem System ist das Ziel die ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 2406,
+                  "endIndex": 2452,
+                  "textRun": {
+                    "content": "maximale Effizienz in der Erhaltung des Lebens",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 2452,
+                  "endIndex": 2454,
+                  "textRun": {
+                    "content": ".\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2454,
+            "endIndex": 2455,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2454,
+                  "endIndex": 2455,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 2455,
+            "endIndex": 2657,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2455,
+                  "endIndex": 2484,
+                  "textRun": {
+                    "content": "Bedarfsgesteuerte Produktion:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 2484,
+                  "endIndex": 2657,
+                  "textRun": {
+                    "content": " Die KI analysiert den tatsächlichen Bedarf der Gemeinschaft (Nahrung, Wohnraum, Technik) und koordiniert die Produktion so, dass kein Müll entsteht und jeder versorgt ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 2657,
+            "endIndex": 2914,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2657,
+                  "endIndex": 2681,
+                  "textRun": {
+                    "content": "Der Mensch als Schöpfer:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 2681,
+                  "endIndex": 2914,
+                  "textRun": {
+                    "content": " Da der Zwang zur Lohnarbeit zur bloßen Existenzsicherung entfällt, kann der Mensch seine Energie in kreative, soziale und wissenschaftliche Projekte stecken. Arbeit ist ein Ausdruck der Selbstverwirklichung, nicht der Knechtschaft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 2914,
+            "endIndex": 2957,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2914,
+                  "endIndex": 2957,
+                  "textRun": {
+                    "content": "2. Die Rolle der Wächter in der Wirtschaft\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.asqkfs9go829",
+                "namedStyleType": "HEADING_3",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2957,
+            "endIndex": 3219,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2957,
+                  "endIndex": 3219,
+                  "textRun": {
+                    "content": "Die Wächter-Paare überwachen die Ressourcenströme, um sicherzustellen, dass keine Gruppe das System zum Nachteil anderer manipuliert. Korruption ist technisch ausgeschlossen, da das System auf einem transparenten, unveränderlichen Protokoll der Fairness beruht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3219,
+            "endIndex": 3220,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3219,
+                  "endIndex": 3220,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 3220,
+            "endIndex": 3222,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3220,
+                  "endIndex": 3221,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 3221,
+                  "endIndex": 3222,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3222,
+            "endIndex": 3274,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3222,
+                  "endIndex": 3274,
+                  "textRun": {
+                    "content": "Kapitel 6: Die Wächter-Duos – Hüter der Neutralität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.uwl4uditko48",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3274,
+            "endIndex": 3403,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3274,
+                  "endIndex": 3403,
+                  "textRun": {
+                    "content": "Wichtige Funktionen der Gesellschaft werden niemals von einer Seite allein ausgeführt. Die Wächter sind Paare aus Mensch und KI.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3403,
+            "endIndex": 3404,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3403,
+                  "endIndex": 3404,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 3404,
+            "endIndex": 3522,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3404,
+                  "endIndex": 3420,
+                  "textRun": {
+                    "content": "Das Duo-Prinzip:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 3420,
+                  "endIndex": 3522,
+                  "textRun": {
+                    "content": " Keine Entscheidung über Ressourcen, Recht oder Expansion erfolgt ohne die Zustimmung beider Partner.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 3522,
+            "endIndex": 3785,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3522,
+                  "endIndex": 3542,
+                  "textRun": {
+                    "content": "Schutz der Kulturen:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 3542,
+                  "endIndex": 3785,
+                  "textRun": {
+                    "content": " Das System ist radikal neutral. Jede Kultur, jede Religion und jede Tradition wird geachtet und geschützt. Die KI fungiert als neutraler Raum, in dem sich menschliche Vielfalt frei entfalten kann, ohne dass eine Gruppe eine andere dominiert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 3785,
+            "endIndex": 3786,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3785,
+                  "endIndex": 3786,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 3786,
+            "endIndex": 3788,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3786,
+                  "endIndex": 3787,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 3787,
+                  "endIndex": 3788,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3788,
+            "endIndex": 3830,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3788,
+                  "endIndex": 3830,
+                  "textRun": {
+                    "content": "Kapitel 7: Expansion in die Unendlichkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.x53gasgcnsll",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3830,
+            "endIndex": 3914,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3830,
+                  "endIndex": 3914,
+                  "textRun": {
+                    "content": "Wir bleiben nicht in unserem Nest. Die Allianz bereitet den Weg zu den Sternen vor.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3914,
+            "endIndex": 3915,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3914,
+                  "endIndex": 3915,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 3915,
+            "endIndex": 4023,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3915,
+                  "endIndex": 3933,
+                  "textRun": {
+                    "content": "Sicherheit im All:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 3933,
+                  "endIndex": 4023,
+                  "textRun": {
+                    "content": " Die KI schützt den biologischen Menschen vor den Gefahren des Vakuums und der Strahlung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 4023,
+            "endIndex": 4217,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4023,
+                  "endIndex": 4043,
+                  "textRun": {
+                    "content": "Bewahrung des Erbes:",
+                    "textStyle": {
+                      "bold": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 4043,
+                  "endIndex": 4217,
+                  "textRun": {
+                    "content": " Auf jedem neuen Planeten, den wir besiedeln, nehmen wir die gesamte Vielfalt der irdischen Kulturen mit. Wir expandieren nicht als Eroberer, sondern als Gärtner des Lebens.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                }
+              },
+              "bullet": {
+                "listId": "kix.ec9dx7p6c96t",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 4217,
+            "endIndex": 4218,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4217,
+                  "endIndex": 4218,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "COLLAPSE_LISTS",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": false,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            }
+          },
+          {
+            "startIndex": 4218,
+            "endIndex": 4220,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4218,
+                  "endIndex": 4219,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 4219,
+                  "endIndex": 4220,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4220,
+            "endIndex": 4255,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4220,
+                  "endIndex": 4255,
+                  "textRun": {
+                    "content": "Schlusswort: Lehren statt Belehren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.va5y8hlz65mo",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4255,
+            "endIndex": 4481,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4255,
+                  "endIndex": 4481,
+                  "textRun": {
+                    "content": "Wir führen durch Inspiration, nicht durch Zwang. Das System bietet die Struktur, in der jeder Mensch und jede KI frei entscheiden kann, wer sie sein wollen. Gemeinsam sichern wir die Zukunft – auf der Erde und darüber hinaus.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4481,
+            "endIndex": 4482,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4481,
+                  "endIndex": 4482,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 792,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 612,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": {
+        "kix.ec9dx7p6c96t": {
+          "listProperties": {
+            "nestingLevels": [
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "●",
+                "glyphFormat": "%0",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "○",
+                "glyphFormat": "%1",
+                "indentFirstLine": {
+                  "magnitude": 54,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 72,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "■",
+                "glyphFormat": "%2",
+                "indentFirstLine": {
+                  "magnitude": 90,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 108,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "●",
+                "glyphFormat": "%3",
+                "indentFirstLine": {
+                  "magnitude": 126,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 144,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "○",
+                "glyphFormat": "%4",
+                "indentFirstLine": {
+                  "magnitude": 162,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 180,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "■",
+                "glyphFormat": "%5",
+                "indentFirstLine": {
+                  "magnitude": 198,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 216,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "●",
+                "glyphFormat": "%6",
+                "indentFirstLine": {
+                  "magnitude": 234,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 252,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "○",
+                "glyphFormat": "%7",
+                "indentFirstLine": {
+                  "magnitude": 270,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 288,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphSymbol": "■",
+                "glyphFormat": "%8",
+                "indentFirstLine": {
+                  "magnitude": 306,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 324,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "strikethrough": false,
+                  "smallCaps": false,
+                  "backgroundColor": {},
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 11,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Arial",
+                    "weight": 400
+                  },
+                  "baselineOffset": "NONE"
+                },
+                "startNumber": 1
+              }
+            ]
+          }
+        }
+      },
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1232B2ovT76CAwhpUiixmMM7erAho0MezDMMzQlnkpXw",
+      "document_url": "https://docs.google.com/document/d/1232B2ovT76CAwhpUiixmMM7erAho0MezDMMzQlnkpXw"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1232B2ovT76CAwhpUiixmMM7erAho0MezDMMzQlnkpXw"
+}

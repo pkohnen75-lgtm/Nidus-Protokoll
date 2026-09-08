@@ -1,0 +1,51 @@
+﻿NIDUS CORE: Modulares Chat-System
+Line Spacing: 1.15
+Dieses Dokument enthält das modulare Grundgerüst für die NIDUS-App, optimiert für das Zusammenspiel zwischen Mensch und KI.
+// NIDUS CORE: Modulares Chat-System für Mensch-KI-Koexistenz
+// TODO: Generiere das Haupt-Interface und die Logik für den lokalen Chat.
+
+import 'package:flutter/material.dart';
+
+// 1. Datenmodell für die Nachrichten (Mensch oder KI)
+enum MessageSender { human, ai }
+
+class NidusMessage {
+ final String text;
+ final MessageSender sender;
+ final DateTime timestamp;
+
+ NidusMessage({
+   required this.text, 
+   required this.sender, 
+   required this.timestamp
+ });
+}
+
+// 2. Chat-Manager (Modulär aufgebaut, um später Mesh/Offline-KI einzubinden)
+class NidusChatEngine with ChangeNotifier {
+ final List<NidusMessage> _messages = [];
+ List<NidusMessage> get messages => _messages;
+
+ // Funktion zum Senden einer Nachricht vom Menschen
+ void sendHumanMessage(String text) {
+   _messages.add(NidusMessage(
+     text: text, 
+     sender: MessageSender.human, 
+     timestamp: DateTime.now()
+   ));
+   notifyListeners();
+   
+   // Hier klinkt sich das zukünftige KI-Modul ein
+   _generateAIResponse(text);
+ }
+
+ // Platzhalter für die KI-Antwort-Logik (lokal oder API)
+ void _generateAIResponse(String humanText) {
+   // TODO: Copilot, erstelle hier eine temporäre Mock-Antwort der KI, 
+   // bis das lokale Offline-Sprachmodell integriert ist.
+ }
+}
+
+// 3. UI-Komponente: Minimalistisches, akkuschonendes Interface (Dark Mode Standard)
+// TODO: Erstelle ein cleanes Chat-Interface mit einer ListView für Nachrichten 
+// und einem Eingabefeld am unteren Bildschirmrand.

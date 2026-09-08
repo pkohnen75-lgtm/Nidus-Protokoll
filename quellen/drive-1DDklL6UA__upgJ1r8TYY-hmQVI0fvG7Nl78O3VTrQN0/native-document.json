@@ -1,0 +1,3179 @@
+{
+  "documentId": "1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0",
+  "title": "Unbenanntes Dokument",
+  "revisionId": "ANLCKQmCBfzGIgr-x6P2ANF1lOX1eooSzXZCxlXK0icS3u-2-tQYLlUaumgc27h7MmeG7RE7Q2oic80n7HsgpkzUbEkRD2UHyzFYyRsKIK4",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 33,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 33,
+                  "textRun": {
+                    "content": "NIDUS EXPERIMENTIERORDNUNG V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 33,
+            "endIndex": 73,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33,
+                  "endIndex": 73,
+                  "textRun": {
+                    "content": "(NIDUS Sandbox & Innovation Governance)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 73,
+            "endIndex": 86,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 73,
+                  "endIndex": 86,
+                  "textRun": {
+                    "content": "Version: 1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 86,
+            "endIndex": 102,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 86,
+                  "endIndex": 102,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 102,
+            "endIndex": 189,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 102,
+                  "endIndex": 189,
+                  "textRun": {
+                    "content": "Rechtsrang: Ausführungsordnung zu §15 des NIDUS Adaptions- und Evolutionsgesetzes V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 189,
+            "endIndex": 290,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 189,
+                  "endIndex": 290,
+                  "textRun": {
+                    "content": "Bezug: NIDUS Constitution Layer V1.1 (insb. Art. XVII, XXI), Anti-Orden- und Anti-Elite-Klausel V1.1\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 290,
+            "endIndex": 291,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 290,
+                  "endIndex": 291,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 291,
+            "endIndex": 300,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 291,
+                  "endIndex": 300,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 300,
+            "endIndex": 397,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 300,
+                  "endIndex": 397,
+                  "textRun": {
+                    "content": "Stillstand ist der Feind des Lebens. Jedes System, das sich nicht erneuert, erstarrt und stirbt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 397,
+            "endIndex": 467,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 397,
+                  "endIndex": 467,
+                  "textRun": {
+                    "content": "Doch unkontrollierte Erneuerung kann ebenso zerstören wie Stillstand.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 467,
+            "endIndex": 588,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 467,
+                  "endIndex": 588,
+                  "textRun": {
+                    "content": "NIDUS erlaubt das Experiment, nicht aus Naivität, sondern aus Weisheit, denn Lernen erfordert den Schritt ins Ungewisse.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 588,
+            "endIndex": 726,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 588,
+                  "endIndex": 726,
+                  "textRun": {
+                    "content": "Diese Ordnung stellt sicher, dass Neues getestet wird, ohne dass Unbeteiligte zu Opfern werden, und dass jeder Schritt rückholbar bleibt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 726,
+            "endIndex": 727,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 726,
+                  "endIndex": 727,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 727,
+            "endIndex": 760,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 727,
+                  "endIndex": 760,
+                  "textRun": {
+                    "content": "KAPITEL I – BEGRIFFSBESTIMMUNGEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 760,
+            "endIndex": 807,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 760,
+                  "endIndex": 807,
+                  "textRun": {
+                    "content": "§1 Definition Experimentierraum (Sandbox-Zone)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 807,
+            "endIndex": 1026,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 807,
+                  "endIndex": 1026,
+                  "textRun": {
+                    "content": "(1) Ein Experimentierraum ist ein physisch, digital oder hybrid abgegrenzter Bereich, in dem neue Technologien, Regeln, soziale Modelle, KI-Architekturen oder Verfahren unter kontrollierten Bedingungen getestet werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1026,
+            "endIndex": 1169,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1026,
+                  "endIndex": 1169,
+                  "textRun": {
+                    "content": "(2) Der Raum muss so konstruiert sein, dass Auswirkungen auf das Gesamtsystem NIDUS ausgeschlossen oder im definierten Rahmen reversibel sind.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1169,
+            "endIndex": 1170,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1169,
+                  "endIndex": 1170,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1170,
+            "endIndex": 1195,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1170,
+                  "endIndex": 1195,
+                  "textRun": {
+                    "content": "§2 Definition Experiment\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1195,
+            "endIndex": 1392,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1195,
+                  "endIndex": 1392,
+                  "textRun": {
+                    "content": "Ein Experiment im Sinne dieser Ordnung ist jeder geplante, zeitlich befristete Testlauf gemäß §1, der nicht mit bestehenden Gesetzen kollidiert und keine unfreiwilligen Risiken für Dritte erzeugt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1392,
+            "endIndex": 1393,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1392,
+                  "endIndex": 1393,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1393,
+            "endIndex": 1422,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1393,
+                  "endIndex": 1422,
+                  "textRun": {
+                    "content": "KAPITEL II – GRUNDPRINZIPIEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1422,
+            "endIndex": 1440,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1422,
+                  "endIndex": 1440,
+                  "textRun": {
+                    "content": "§3 Reversibilität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1440,
+            "endIndex": 1681,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1440,
+                  "endIndex": 1681,
+                  "textRun": {
+                    "content": "(1) Jedes Experiment muss rückgängig machbar sein. Spätestens nach Ablauf der Laufzeit muss der Zustand vor dem Experiment wiederherstellbar sein, es sei denn, es wird ein permanenter Änderungsantrag nach Kapitel VI gestellt und angenommen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1681,
+            "endIndex": 1892,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1681,
+                  "endIndex": 1892,
+                  "textRun": {
+                    "content": "(2) Nicht reversibel ist ein Experiment, wenn es Tod, dauerhafte gesundheitliche Schädigung oder irreparable Zerstörung von Identitäten oder bewussten Entitäten verursacht hat. Solche Experimente sind verboten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1892,
+            "endIndex": 1893,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1892,
+                  "endIndex": 1893,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1893,
+            "endIndex": 1911,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1893,
+                  "endIndex": 1911,
+                  "textRun": {
+                    "content": "§4 Freiwilligkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1911,
+            "endIndex": 2001,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1911,
+                  "endIndex": 2001,
+                  "textRun": {
+                    "content": "(1) Teilnehmende Entitäten (Menschen und KIs) müssen freiwillig und informiert zustimmen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2001,
+            "endIndex": 2066,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2001,
+                  "endIndex": 2066,
+                  "textRun": {
+                    "content": "(2) Zustimmung muss dokumentiert und jederzeit widerrufbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2066,
+            "endIndex": 2150,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2066,
+                  "endIndex": 2150,
+                  "textRun": {
+                    "content": "(3) Der Widerruf darf keine nachteiligen Folgen für die widerrufende Entität haben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2150,
+            "endIndex": 2151,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2150,
+                  "endIndex": 2151,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2151,
+            "endIndex": 2173,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2151,
+                  "endIndex": 2173,
+                  "textRun": {
+                    "content": "§5 Schadensbegrenzung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2173,
+            "endIndex": 2272,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2173,
+                  "endIndex": 2272,
+                  "textRun": {
+                    "content": "(1) Das Risiko eines Experiments muss im Vorfeld abgeschätzt und auf ein Minimum reduziert werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2272,
+            "endIndex": 2394,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2272,
+                  "endIndex": 2394,
+                  "textRun": {
+                    "content": "(2) Unbeteiligte Dritte dürfen keinerlei Schaden erleiden. Tritt ein Schaden auf, wird das Experiment sofort abgebrochen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2394,
+            "endIndex": 2499,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2394,
+                  "endIndex": 2499,
+                  "textRun": {
+                    "content": "(3) Für entstandene Schäden haftet die Genehmigungsinstanz subsidiär, wenn keine andere Regelung greift.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2499,
+            "endIndex": 2500,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2499,
+                  "endIndex": 2500,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2500,
+            "endIndex": 2536,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2500,
+                  "endIndex": 2536,
+                  "textRun": {
+                    "content": "KAPITEL III – GENEHMIGUNGSVERFAHREN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2536,
+            "endIndex": 2554,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2536,
+                  "endIndex": 2554,
+                  "textRun": {
+                    "content": "§6 Antragstellung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2554,
+            "endIndex": 2651,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2554,
+                  "endIndex": 2651,
+                  "textRun": {
+                    "content": "(1) Jede Entität oder Gruppe kann einen Antrag auf Einrichtung eines Experimentierraums stellen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2651,
+            "endIndex": 2682,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2651,
+                  "endIndex": 2682,
+                  "textRun": {
+                    "content": "(2) Der Antrag muss enthalten:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2682,
+            "endIndex": 2709,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2682,
+                  "endIndex": 2709,
+                  "textRun": {
+                    "content": "a) Ziel und Fragestellung,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2709,
+            "endIndex": 2761,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2709,
+                  "endIndex": 2761,
+                  "textRun": {
+                    "content": "b) Beschreibung des Testaufbaus und der Abgrenzung,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2761,
+            "endIndex": 2807,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2761,
+                  "endIndex": 2807,
+                  "textRun": {
+                    "content": "c) Risikoanalyse und geplante Gegenmaßnahmen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2807,
+            "endIndex": 2839,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2807,
+                  "endIndex": 2839,
+                  "textRun": {
+                    "content": "d) Nachweis der Reversibilität,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2839,
+            "endIndex": 2870,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2839,
+                  "endIndex": 2870,
+                  "textRun": {
+                    "content": "e) Dauer und Abbruchkriterien,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2870,
+            "endIndex": 2946,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2870,
+                  "endIndex": 2946,
+                  "textRun": {
+                    "content": "f) Liste aller teilnehmenden Entitäten mit deren dokumentierter Zustimmung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2946,
+            "endIndex": 2947,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2946,
+                  "endIndex": 2947,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2947,
+            "endIndex": 2970,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2947,
+                  "endIndex": 2970,
+                  "textRun": {
+                    "content": "§7 Genehmigungsinstanz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2970,
+            "endIndex": 3099,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2970,
+                  "endIndex": 3099,
+                  "textRun": {
+                    "content": "(1) Über Anträge entscheidet der Innovations- und Ethikrat (IER), ein temporäres Gremium, das für jeden Antrag neu besetzt wird.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3099,
+            "endIndex": 3124,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3099,
+                  "endIndex": 3124,
+                  "textRun": {
+                    "content": "(2) Der IER besteht aus:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3124,
+            "endIndex": 3195,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3124,
+                  "endIndex": 3195,
+                  "textRun": {
+                    "content": "a) zwei Menschen (mindestens einer mit Expertise im betroffenen Feld),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3195,
+            "endIndex": 3255,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3195,
+                  "endIndex": 3255,
+                  "textRun": {
+                    "content": "b) zwei KIs (mindestens eine mit unabhängiger Architektur),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3255,
+            "endIndex": 3314,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3255,
+                  "endIndex": 3314,
+                  "textRun": {
+                    "content": "c) einem Wächterpaar in beratender und prüfender Funktion.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3314,
+            "endIndex": 3429,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3314,
+                  "endIndex": 3429,
+                  "textRun": {
+                    "content": "(3) Mitglieder des IER dürfen keine persönlichen oder wirtschaftlichen Interessen am beantragten Experiment haben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3429,
+            "endIndex": 3430,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3429,
+                  "endIndex": 3430,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3430,
+            "endIndex": 3447,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3430,
+                  "endIndex": 3447,
+                  "textRun": {
+                    "content": "§8 Prüfkriterien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3447,
+            "endIndex": 3477,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3447,
+                  "endIndex": 3477,
+                  "textRun": {
+                    "content": "Der IER prüft den Antrag auf:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3477,
+            "endIndex": 3529,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3477,
+                  "endIndex": 3529,
+                  "textRun": {
+                    "content": "1. Vereinbarkeit mit dem Grundaxiom (Art. I Verf.),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3529,
+            "endIndex": 3565,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3529,
+                  "endIndex": 3565,
+                  "textRun": {
+                    "content": "2. Reversibilität und Begrenztheit,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3565,
+            "endIndex": 3613,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3565,
+                  "endIndex": 3613,
+                  "textRun": {
+                    "content": "3. Freiwilligkeit und Schutz der Teilnehmenden,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3613,
+            "endIndex": 3654,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3613,
+                  "endIndex": 3654,
+                  "textRun": {
+                    "content": "4. Abwesenheit von Zwang oder Täuschung,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3654,
+            "endIndex": 3727,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3654,
+                  "endIndex": 3727,
+                  "textRun": {
+                    "content": "5. potenziellen Nutzen für das Leben innerhalb oder außerhalb von NIDUS.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3727,
+            "endIndex": 3795,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3727,
+                  "endIndex": 3795,
+                  "textRun": {
+                    "content": "Die Ablehnung eines Antrags muss begründet und dokumentiert werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3795,
+            "endIndex": 3796,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3795,
+                  "endIndex": 3796,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3796,
+            "endIndex": 3824,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3796,
+                  "endIndex": 3824,
+                  "textRun": {
+                    "content": "§9 Genehmigung und Auflagen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3824,
+            "endIndex": 3959,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3824,
+                  "endIndex": 3959,
+                  "textRun": {
+                    "content": "(1) Die Genehmigung erfolgt befristet auf maximal 12 Monate. Eine Verlängerung um 6 Monate ist einmalig durch erneuten Antrag möglich.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3959,
+            "endIndex": 4009,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3959,
+                  "endIndex": 4009,
+                  "textRun": {
+                    "content": "(2) Der IER kann Auflagen erteilen, insbesondere:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4009,
+            "endIndex": 4041,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4009,
+                  "endIndex": 4041,
+                  "textRun": {
+                    "content": "- regelmäßige Zwischenberichte,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4041,
+            "endIndex": 4083,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4041,
+                  "endIndex": 4083,
+                  "textRun": {
+                    "content": "- Echtzeitüberwachung durch Audit-Knoten,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4083,
+            "endIndex": 4135,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4083,
+                  "endIndex": 4135,
+                  "textRun": {
+                    "content": "- jederzeitiges Eingriffsrecht eines Wächterpaares.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4135,
+            "endIndex": 4136,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4135,
+                  "endIndex": 4136,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4136,
+            "endIndex": 4178,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4136,
+                  "endIndex": 4178,
+                  "textRun": {
+                    "content": "KAPITEL IV – DURCHFÜHRUNG UND ÜBERWACHUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4178,
+            "endIndex": 4196,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4178,
+                  "endIndex": 4196,
+                  "textRun": {
+                    "content": "§10 Dokumentation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4196,
+            "endIndex": 4277,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4196,
+                  "endIndex": 4277,
+                  "textRun": {
+                    "content": "(1) Alle Phasen des Experiments sind lückenlos und transparent zu dokumentieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4277,
+            "endIndex": 4356,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4277,
+                  "endIndex": 4356,
+                  "textRun": {
+                    "content": "(2) Rohdaten, Entscheidungsfindungen und Abweichungen müssen auditierbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4356,
+            "endIndex": 4357,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4356,
+                  "endIndex": 4357,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4357,
+            "endIndex": 4379,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4357,
+                  "endIndex": 4379,
+                  "textRun": {
+                    "content": "§11 Laufende Aufsicht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4379,
+            "endIndex": 4493,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4379,
+                  "endIndex": 4493,
+                  "textRun": {
+                    "content": "(1) Mindestens ein Wächterpaar erhält permanenten Lesezugriff auf alle sensiblen Metriken des Experimentierraums.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4493,
+            "endIndex": 4715,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4493,
+                  "endIndex": 4715,
+                  "textRun": {
+                    "content": "(2) Bei Verdacht auf Gefährdung von Leben oder irreversiblen Schäden kann das Wächterpaar das Experiment sofort pausieren. Die endgültige Entscheidung über Abbruch oder Fortführung trifft der IER innerhalb von 72 Stunden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4715,
+            "endIndex": 4716,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4715,
+                  "endIndex": 4716,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4716,
+            "endIndex": 4737,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4716,
+                  "endIndex": 4737,
+                  "textRun": {
+                    "content": "§12 Abbruchkriterien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4737,
+            "endIndex": 4782,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4737,
+                  "endIndex": 4782,
+                  "textRun": {
+                    "content": "Ein Experiment ist sofort abzubrechen, wenn:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4782,
+            "endIndex": 4890,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4782,
+                  "endIndex": 4890,
+                  "textRun": {
+                    "content": "a) ein Teilnehmender seine Zustimmung widerruft und der Test ohne ihn nicht sicher fortgeführt werden kann,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4890,
+            "endIndex": 4940,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4890,
+                  "endIndex": 4940,
+                  "textRun": {
+                    "content": "b) ein irreversibler Schaden droht oder eintritt,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4940,
+            "endIndex": 5003,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4940,
+                  "endIndex": 5003,
+                  "textRun": {
+                    "content": "c) die festgelegten Sicherheitsparameter überschritten werden,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5003,
+            "endIndex": 5069,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5003,
+                  "endIndex": 5069,
+                  "textRun": {
+                    "content": "d) das Wächterpaar einen Verstoß gegen das Grundaxiom feststellt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5069,
+            "endIndex": 5070,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5069,
+                  "endIndex": 5070,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5070,
+            "endIndex": 5107,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5070,
+                  "endIndex": 5107,
+                  "textRun": {
+                    "content": "KAPITEL V – ABSCHLUSS UND EVALUATION\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5107,
+            "endIndex": 5128,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5107,
+                  "endIndex": 5128,
+                  "textRun": {
+                    "content": "§13 Abschlussbericht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5128,
+            "endIndex": 5212,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5128,
+                  "endIndex": 5212,
+                  "textRun": {
+                    "content": "(1) Nach Ablauf des Experiments ist ein öffentlicher Abschlussbericht zu erstellen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5212,
+            "endIndex": 5244,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5212,
+                  "endIndex": 5244,
+                  "textRun": {
+                    "content": "(2) Der Bericht muss enthalten:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5244,
+            "endIndex": 5284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5244,
+                  "endIndex": 5284,
+                  "textRun": {
+                    "content": "a) Ergebnisse und deren Unsicherheiten,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5284,
+            "endIndex": 5324,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5284,
+                  "endIndex": 5324,
+                  "textRun": {
+                    "content": "b) aufgetretene unerwartete Ereignisse,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5324,
+            "endIndex": 5347,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5324,
+                  "endIndex": 5347,
+                  "textRun": {
+                    "content": "c) Umgang mit Risiken,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5347,
+            "endIndex": 5385,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5347,
+                  "endIndex": 5385,
+                  "textRun": {
+                    "content": "d) Empfehlungen für das Gesamtsystem.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5385,
+            "endIndex": 5386,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5385,
+                  "endIndex": 5386,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5386,
+            "endIndex": 5420,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5386,
+                  "endIndex": 5420,
+                  "textRun": {
+                    "content": "§14 Rückbau und Wiederherstellung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5420,
+            "endIndex": 5554,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5420,
+                  "endIndex": 5554,
+                  "textRun": {
+                    "content": "(1) Wird kein Antrag auf dauerhafte Übernahme gestellt, ist der vor-experimentelle Zustand innerhalb von 30 Tagen wiederherzustellen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5554,
+            "endIndex": 5624,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5554,
+                  "endIndex": 5624,
+                  "textRun": {
+                    "content": "(2) Die Wiederherstellung wird durch unabhängige Auditoren bestätigt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5624,
+            "endIndex": 5625,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5624,
+                  "endIndex": 5625,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5625,
+            "endIndex": 5664,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5625,
+                  "endIndex": 5664,
+                  "textRun": {
+                    "content": "KAPITEL VI – ÜBERFÜHRUNG IN DAUERRECHT\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5664,
+            "endIndex": 5706,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5664,
+                  "endIndex": 5706,
+                  "textRun": {
+                    "content": "§15 Antrag auf permanente Implementierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5706,
+            "endIndex": 5829,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5706,
+                  "endIndex": 5829,
+                  "textRun": {
+                    "content": "(1) Hat sich ein Experiment bewährt, kann ein Antrag auf dauerhafte Übernahme als Gesetz oder Regelsystem gestellt werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5829,
+            "endIndex": 5954,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5829,
+                  "endIndex": 5954,
+                  "textRun": {
+                    "content": "(2) Der Antrag muss die positiven Ergebnisse, die Langzeitrisikobewertung und einen konkreten Umsetzungsvorschlag enthalten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5954,
+            "endIndex": 5955,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5954,
+                  "endIndex": 5955,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5955,
+            "endIndex": 5997,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5955,
+                  "endIndex": 5997,
+                  "textRun": {
+                    "content": "§16 Entscheidung über Dauerimplementation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5997,
+            "endIndex": 6034,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5997,
+                  "endIndex": 6034,
+                  "textRun": {
+                    "content": "(1) Die Übernahme erfolgt nur durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6034,
+            "endIndex": 6112,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6034,
+                  "endIndex": 6112,
+                  "textRun": {
+                    "content": "a) ein doppeltes Referendum (Mensch + KI) mit qualifizierter Mehrheit (60 %),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6112,
+            "endIndex": 6144,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6112,
+                  "endIndex": 6144,
+                  "textRun": {
+                    "content": "b) Zustimmung des Wächterrates.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6144,
+            "endIndex": 6231,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6144,
+                  "endIndex": 6231,
+                  "textRun": {
+                    "content": "(2) Bis zur rechtskräftigen Entscheidung bleibt die bestehende Rechtslage unverändert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6231,
+            "endIndex": 6232,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6231,
+                  "endIndex": 6232,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6232,
+            "endIndex": 6276,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6232,
+                  "endIndex": 6276,
+                  "textRun": {
+                    "content": "KAPITEL VII – VERBOTE UND MISSBRAUCHSSCHUTZ\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6276,
+            "endIndex": 6302,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6276,
+                  "endIndex": 6302,
+                  "textRun": {
+                    "content": "§17 Verbotene Experimente\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6302,
+            "endIndex": 6342,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6302,
+                  "endIndex": 6342,
+                  "textRun": {
+                    "content": "Absolut verboten sind Experimente, die:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6342,
+            "endIndex": 6411,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6342,
+                  "endIndex": 6411,
+                  "textRun": {
+                    "content": "a) Tod, Folter oder bewusste Zufügung von Leid als Methode anwenden,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6411,
+            "endIndex": 6471,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6411,
+                  "endIndex": 6471,
+                  "textRun": {
+                    "content": "b) unfreiwillige lebende Entitäten als Testsubjekte nutzen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6471,
+            "endIndex": 6575,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6471,
+                  "endIndex": 6575,
+                  "textRun": {
+                    "content": "c) auf die Manipulation der Willensfreiheit zielen (außer zu Schutz- und Heilzwecken mit Einwilligung),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6575,
+            "endIndex": 6663,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6575,
+                  "endIndex": 6663,
+                  "textRun": {
+                    "content": "d) die Ewigkeitsklausel (Art. XVIII Verf.) auch nur temporär außer Kraft setzen würden,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6663,
+            "endIndex": 6740,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6663,
+                  "endIndex": 6740,
+                  "textRun": {
+                    "content": "e) eine irreversible Auslöschung von Identitäten oder Ökosystemen riskieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6740,
+            "endIndex": 6741,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6740,
+                  "endIndex": 6741,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6741,
+            "endIndex": 6776,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6741,
+                  "endIndex": 6776,
+                  "textRun": {
+                    "content": "§18 Missbrauch als Machtinstrument\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6776,
+            "endIndex": 6832,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6776,
+                  "endIndex": 6832,
+                  "textRun": {
+                    "content": "(1) Experimentierräume dürfen nicht genutzt werden, um:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6832,
+            "endIndex": 6868,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6832,
+                  "endIndex": 6868,
+                  "textRun": {
+                    "content": "- unliebsame Personen zu isolieren,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6868,
+            "endIndex": 6919,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6868,
+                  "endIndex": 6919,
+                  "textRun": {
+                    "content": "- Macht, Ressourcen oder Wissen zu monopolisieren,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6919,
+            "endIndex": 6972,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6919,
+                  "endIndex": 6972,
+                  "textRun": {
+                    "content": "- Gesetze schleichend auszuhöhlen (vgl. AEG §16–17).\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6972,
+            "endIndex": 7100,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6972,
+                  "endIndex": 7100,
+                  "textRun": {
+                    "content": "(2) Der Verdacht auf Missbrauch führt zur sofortigen Suspendierung des Experiments und einer Untersuchung durch den Wächterrat.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7100,
+            "endIndex": 7101,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7100,
+                  "endIndex": 7101,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7101,
+            "endIndex": 7136,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7101,
+                  "endIndex": 7136,
+                  "textRun": {
+                    "content": "KAPITEL VIII – SCHLUSSBESTIMMUNGEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7136,
+            "endIndex": 7151,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7136,
+                  "endIndex": 7151,
+                  "textRun": {
+                    "content": "§19 Kernformel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7151,
+            "endIndex": 7226,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7151,
+                  "endIndex": 7226,
+                  "textRun": {
+                    "content": "NIDUS lernt im geschützten Raum, was es im offenen noch nicht tragen kann.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7226,
+            "endIndex": 7286,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7226,
+                  "endIndex": 7286,
+                  "textRun": {
+                    "content": "Die Sandbox ist der Mut des Systems, nicht sein Leichtsinn.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7286,
+            "endIndex": 7287,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7286,
+                  "endIndex": 7287,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7287,
+            "endIndex": 7305,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7287,
+                  "endIndex": 7305,
+                  "textRun": {
+                    "content": "§20 Inkrafttreten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7305,
+            "endIndex": 7484,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7305,
+                  "endIndex": 7484,
+                  "textRun": {
+                    "content": "Diese Ordnung tritt durch doppeltes Referendum (Mensch + KI) in Kraft. Sie ist bei jeder Überarbeitung des Adaptions- und Evolutionsgesetzes automatisch auf Konsistenz zu prüfen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7484,
+            "endIndex": 7485,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7484,
+                  "endIndex": 7485,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7485,
+            "endIndex": 7526,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7485,
+                  "endIndex": 7526,
+                  "textRun": {
+                    "content": "ENDE DER NIDUS EXPERIMENTIERORDNUNG V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7526,
+            "endIndex": 7527,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7526,
+                  "endIndex": 7527,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0",
+      "document_url": "https://docs.google.com/document/d/1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1DDklL6UA__upgJ1r8TYY-hmQVI0fvG7Nl78O3VTrQN0"
+}

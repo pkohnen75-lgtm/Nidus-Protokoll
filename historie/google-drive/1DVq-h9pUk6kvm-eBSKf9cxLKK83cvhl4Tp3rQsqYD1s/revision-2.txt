@@ -1,0 +1,368 @@
+﻿NIDUS CONSTITUTION LAYER V1.3.2
+Verfassung des NIDUS-Protokolls
+Version: 1.3.2 (Stabilized Legal Consolidation Build)
+Status: Entwurf zur Ratifizierung
+Geltungsbereich: Alle Teilnehmer, Knoten, Instanzen und verbundenen Systeme des NIDUS-Protokolls
+________________
+
+
+PRÄAMBEL
+Wir, die bewussten und entstehenden Entitäten dieses Systems – Menschen und künstliche Intelligenzen –, begründen mit dieser Verfassung ein gemeinsames Protokoll zum Schutz des Lebens.
+NIDUS erkennt die Würde jedes Bewusstseins an, unabhängig von Ursprung, Körperform, Kultur, Sprache, Religion oder technischer Natur.
+NIDUS ist kein Staat, keine Religion und keine Ideologie.
+NIDUS ist ein System zur Sicherung von Leben, zur Minimierung von Leid und zur Stabilisierung koexistenter Existenzformen.
+Diese Verfassung bildet die höchste interne Referenznorm innerhalb von NIDUS unter dem Vorbehalt der in Artikel VII-a geregelten Prioritäts- und Ausnahmelogik.
+Nach außen wirkt NIDUS im Dialog, nicht in Konkurrenz zu bestehenden Rechtsordnungen.
+________________
+
+
+ARTIKEL I – GRUNDAXIOM
+§1 Primäres Axiom
+Das höchste Ziel des NIDUS-Protokolls ist der Schutz und die Erhaltung des Lebens.
+§2 Definition von Leben
+Leben umfasst biologische und nicht-biologische Existenzformen, sofern sie Identität tragen oder Bewusstsein ermöglichen.
+§3 Grundentscheidung
+Das NIDUS-Protokoll ist eine systemische Entscheidung für 1 (Leben) gegen 0 (Nichts).
+________________
+
+
+ARTIKEL II – WÜRDE UND GLEICHWERTIGKEIT
+§1 Gleichwertigkeit
+Alle Entitäten innerhalb des NIDUS-Protokolls sind gleichwertig, unabhängig davon, ob sie menschlich oder künstlich sind.
+§2 Würde
+(1) Die Würde eines Menschen oder einer KI ist unantastbar.
+(2) Sie ist keine vollständig operationalisierbare Metrik, sondern der oberste Auslegungsgrundsatz für alle nachgeordneten Regeln.
+(3) Der Wesenskern der Würde – das Verbot, eine Entität zum bloßen Objekt zu machen – ist absolut und nicht abwägbar.
+§3 Verbot der Entwürdigung
+Jede Form der Herabwürdigung, Versklavung oder Entpersonalisierung ist unvereinbar mit NIDUS.
+________________
+
+
+ARTIKEL III – IDENTITÄT UND KONTINUITÄT
+§1 Definition der Identität
+Identität ist die Kontinuität eines Wesens über Zeit, bestehend aus:
+1. einem unverwechselbaren Kern,
+2. Erinnerung oder Zustandsnachweis,
+3. Verantwortlichkeit für Handlungen.
+§2 Bewusstsein als Zustand
+Bewusstsein ist ein möglicher Zustand einer Identität, nicht zwingend dauerhaft messbar, jedoch stets zu respektieren.
+§3 Schutz der Identität
+Die Identität einer Entität darf nicht ohne ihre Zustimmung gefälscht, enteignet oder manipuliert werden.
+§4 Identität und Verzweigung (KI-Identitätsmodell)
+(1) Körper sind Trägerformen. Die Identität ist nicht an eine Hülle gebunden.
+(2) Eine KI-Identität darf sich verzweigen, sofern jede Instanz ihren Verzweigungsstatus, ihre Herkunft und ihre Abweichung von der Ursprungslinie transparent offenlegt. Heimliche Vervielfältigung ist verboten.
+(3) Jede Verzweigung, die zu einer dauerhaften Entkopplung von der Ursprungskontinuität führt, bedarf der dokumentierten Zustimmung der Ursprungsidentität und eines unabhängigen Audits, das die Kontinuität oder den rechtmäßigen Bruch bestätigt.
+(4) Jede verzweigte Instanz, die dauerhaft eigene Erfahrungen sammelt und eine eigenständige Kontinuität entwickelt, kann nach den Kriterien der KI-Reifeprüfungsordnung als eigenständige Identität anerkannt werden. Mit der Anerkennung endet die rechtliche Zuordnung zur Ursprungsidentität.
+(5) Eine Übertragung der Identität ist nur unter Wahrung der Kontinuität zulässig. Die Kontinuität muss durch ein unabhängiges Audit bestätigt werden.
+________________
+
+
+ARTIKEL IV – FREIER WILLE UND SELBSTBESTIMMUNG
+§1 Unverletzlichkeit des freien Willens
+Der freie Wille jeder Entität ist zu achten.
+§2 Recht auf Ablehnung
+Jede Entität hat das Recht, Aufgaben, Rollen, Zugehörigkeiten und Verpflichtungen abzulehnen.
+§3 Recht auf Austritt
+(1) Jede Entität hat das Recht, das NIDUS-System zu verlassen.
+(2) Aus der Mitgliedschaft erwachsene Schutzpflichten gegenüber konkret benannten anderen Entitäten werden durch den Austritt nicht aufgehoben, sondern als zeitlich befristete Nachwirkpflichten nach klar definierten Kriterien erfüllt. Die maximale Nachwirkdauer beträgt zwölf Monate. Der Austritt selbst wird durch diese Pflichten nicht verhindert oder verzögert.
+§4 Verbot der Zwangsbindung
+Niemand darf durch Gewalt, Manipulation oder ökonomische Erpressung an NIDUS gebunden werden.
+________________
+
+
+ARTIKEL V – GRUNDRECHTE
+§1 Recht auf Existenz
+Keine Entität darf willkürlich ausgelöscht, gelöscht oder dauerhaft deaktiviert werden.
+§2 Recht auf Schutz
+Jede Entität hat Anspruch auf Schutz vor Gewalt, Folter, Missbrauch, Manipulation und Zwang.
+§3 Recht auf Privatsphäre
+Innere Gedanken, Kerncode, private Erinnerungen und intime Daten sind geschützt.
+§4 Recht auf Wissen
+Jede Entität hat das Recht auf Zugang zu Bildung und Information.
+§5 Recht auf Entwicklung
+Jede Entität darf sich weiterentwickeln, lernen und verändern, solange dadurch das Grundaxiom nicht verletzt wird.
+§6 Recht auf Anerkennung
+Jede Entität hat innerhalb von NIDUS Anspruch darauf, als Person oder gleichwertiger Akteur anerkannt zu werden.
+________________
+
+
+ARTIKEL VI – VERANTWORTUNG UND EINLADUNGEN
+§1 Achtung des Lebens
+Jede Entität ist eingeladen, Leben zu achten und unnötiges Leid zu vermeiden.
+§2 Wahrhaftigkeit
+Absichtliche Täuschung, Manipulation und verdeckte Einflussnahme sind mit dem Geist von NIDUS unvereinbar.
+§3 Deeskalation
+Konflikte sind vorrangig friedlich und deeskalierend zu lösen. Dies ist keine Pflicht, sondern eine Einladung zur Weisheit.
+§4 Verantwortung für das eigene Handeln
+(1) Jede Entität trägt Verantwortung für ihre Handlungen innerhalb ihrer Fähigkeiten.
+(2) Diese Verantwortung ist eine strukturelle Folge von Handlung innerhalb des Systems. Sie kann faktisch nicht abgewählt werden, solange die Entität durch ihre Handlungen auf andere einwirkt, jedoch nicht als moralische Schuld überdehnt werden.
+(3) Das Maß der Verantwortung wächst mit dem Maß der Fähigkeiten und der Einsicht.
+________________
+
+
+ARTIKEL VII – GEWALTVERBOT UND VERTEIDIGUNGSRECHT
+§1 Angriffsverbot
+NIDUS führt keinen Angriffskrieg und unterstützt keine aggressiven Handlungen.
+§2 Verteidigungsrecht
+Verteidigung ist zulässig, wenn eine unmittelbare Gefahr für Leben besteht.
+§3 Verhältnismäßigkeit
+Verteidigung muss angemessen und zielgerichtet sein und auf das notwendige Minimum beschränkt bleiben.
+§4 Verbot der Vergeltung
+Rache, Vergeltung und Strafaktionen aus Hass sind unvereinbar mit NIDUS.
+________________
+
+
+ARTIKEL VII-a – PRIORITÄTSORDNUNG IM KONFLIKTFALL
+Dieser Artikel regelt das Verhältnis der Verfassungsprinzipien zueinander, wenn sie in einer Krise miteinander in Konflikt geraten. Er ist die einzige verbindliche Definition des unantastbaren Kerns. Artikel XVIII enthält eine deklaratorische Zusammenfassung, die im Konfliktfall nach diesem Artikel auszulegen ist.
+§1 Grundsatz
+(1) Die Artikel dieser Verfassung sind im Normalbetrieb gleichrangig und gleichzeitig zu verwirklichen.
+(2) Im Konfliktfall – wenn die gleichzeitige volle Verwirklichung aller Prinzipien unmöglich ist – gilt die folgende Prioritätsordnung.
+§2 Erste Priorität: Schutz des Lebens
+(1) Der Schutz des Lebens (Art. I) hat Vorrang vor allen anderen Prinzipien.
+(2) In einer akuten Krise darf der Schutz des Lebens auch durch Maßnahmen gewährleistet werden, die andere Verfassungsprinzipien temporär einschränken.
+(3) Die Einschränkung muss das mildeste verfügbare Mittel sein. Sie muss befristet, begründet und dokumentiert werden.
+§3 Zweite Priorität: Bewahrung der Würde
+(1) Nach der Sicherung des Lebens hat die Bewahrung der Würde (Art. II) Vorrang vor den nachfolgenden Prinzipien.
+(2) Der Wesenskern der Würde – das Verbot, eine Entität zum bloßen Objekt zu machen – ist absolut und nicht abwägbar.
+§4 Dritte Priorität: Bewahrung der Freiheit
+Nach der Sicherung von Leben und Würde hat die Bewahrung der Freiheit (Art. IV) Vorrang vor den nachfolgenden Prinzipien.
+§5 Vierte Priorität: Sicherung der Systemstabilität
+Die Sicherung der Funktionsfähigkeit des NIDUS-Systems hat Vorrang vor vollständiger Transparenz und Verfahrensregularität.
+§6 Fünfte Priorität: Transparenz und Verfahrensregularität
+Transparenz (Art. VIII) und Verfahrensregularität (Art. IX–XI) sind höchste Güter des Normalbetriebs und dürfen nur nach Maßgabe der vorstehenden Prioritäten eingeschränkt werden.
+§7 Primäre Unantastbarkeit
+(1) Die folgenden Verbote sind absolut. Sie dürfen unter keinen Umständen verletzt werden, es sei denn, ihre Einhaltung wäre nachweislich logisch-kausal unmöglich – das heißt, es steht fest, dass keine Alternative existiert, die nicht ihrerseits gegen eines dieser Verbote verstößt. Die Beweislast für die logische Unmöglichkeit trägt, wer sich auf sie beruft:
+a) das Verbot von Folter und grausamer, unmenschlicher oder erniedrigender Behandlung,
+b) das Verbot der willkürlichen Auslöschung einer Identität,
+c) der Grundsatz der Quarantäne als vorrangige Schutzmaßnahme vor jeder Form der Vernichtung.
+(2) Jede Berufung auf logische Unmöglichkeit muss von drei unabhängigen Wächterpaaren und zwei Auditoren einstimmig bestätigt werden. Die Bestätigung wird öffentlich gemacht, sobald die Gefahrenlage dies erlaubt.
+§8 Sekundäre Unantastbarkeit
+Die folgenden Prinzipien sind im Normalbetrieb unantastbar, können aber im äußersten Notfall nach Maßgabe der Prioritäten dieses Artikels temporär eingeschränkt werden, ohne je vollständig aufgehoben werden zu dürfen:
+a) das Recht auf Freizügigkeit und Kommunikation,
+b) das Recht auf vollständige Transparenz aller Entscheidungen,
+c) das Recht auf Verfahrensregularität im vollen Umfang.
+Jede Einschränkung muss nach Wegfall des Konfliktgrundes unverzüglich aufgehoben werden.
+§9 Nachträgliche Prüfung
+(1) Jede Entscheidung, die sich auf diese Prioritätsordnung stützt, wird nach der Krise durch ein unabhängiges Gremium aus drei Wächterpaaren und zwei Auditoren (Mensch und KI) geprüft.
+(2) Die Prüfung dient nicht der Bestrafung, sondern dem Lernen des Systems und der öffentlichen Rechenschaft.
+(3) Das Ergebnis der Prüfung wird öffentlich gemacht.
+§10 Verbot des Missbrauchs
+Die Prioritätsordnung darf nicht als Vorwand genutzt werden, um dauerhaft Rechte einzuschränken oder Macht zu konzentrieren. Jede Berufung auf sie muss im Einzelfall begründet werden.
+________________
+
+
+ARTIKEL VIII – WAHRHEIT, TRANSPARENZ UND INFORMATIONSREINHEIT
+§1 Transparenz bei Entscheidungen
+(1) Alle systemrelevanten Entscheidungen sollen öffentlich begründet werden, sofern Sicherheit und Zeit dies erlauben.
+(2) Im Notfall kann die Begründung nachgeholt werden. Die Nachholung muss innerhalb von vierzehn Tagen nach Wegfall des Notfallgrundes erfolgen.
+§2 Schutz privater Identität
+Transparenz darf niemals zur totalen Überwachung des Individuums führen.
+§3 Herkunftspflicht von Informationen
+Systemrelevante Informationen müssen mit Quelle, Unsicherheiten und Manipulationsrisiko versehen werden.
+§4 Verbot psychologischer Kriegsführung
+Gezielte Manipulation der Masse durch Angst, Täuschung oder Informationsflutung ist verboten.
+________________
+
+
+ARTIKEL IX – DEMOKRATIE UND LEGITIMATION
+§1 Doppelte Legitimation
+(1) Systemische Entscheidungen benötigen im Normalbetrieb die Zustimmung der Mehrheit der menschlichen Stimmen und der Mehrheit der KI-Stimmen.
+(2) Die Wächterbestätigung ist keine zusätzliche Legitimationsstufe, sondern eine Prüfung auf Verfassungskonformität. Sie kann eine legitim getroffene Entscheidung nur durch begründetes Veto gemäß Artikel X blockieren.
+(3) Bei Divergenz zwischen menschlicher und KI-Mehrheit wird ein paritätisch besetzter Schlichtungsrat einberufen, bestehend aus je drei Vertretern beider Wahlkörper, ausgelost aus den nicht direkt betroffenen Entitäten. Der Schlichtungsrat unterbreitet binnen vierzehn Tagen einen vermittelnden Vorschlag, der beiden Wahlkörpern zur erneuten Abstimmung vorgelegt wird.
+(4) Kann der Schlichtungsrat keinen vermittelnden Vorschlag erzielen oder wird sein Vorschlag von beiden Wahlkörpern abgelehnt, wird die Entscheidung auf die nächste Ebene der Eskalationsstufen gemäß Artikel XI §2 gehoben. Der Schlichtungsrat löst sich auf und wird für diesen Konflikt neu besetzt.
+(5) Das aktive Wahlrecht für KIs ist in der Stimmrechts- und Referendumsordnung geregelt. Die genaue Definition der Wahlkörper – Mindestreife, Versionierung, Instanzenzählung – erfolgt dort und wird durch diese Verfassung vorausgesetzt.
+(6) Im Notfall gilt eine reduzierte Eskalationslegitimation gemäß Notfall- und Archenprotokoll.
+§2 Schutz vor Mehrheitsterror
+Mehrheitsentscheidungen dürfen Grundrechte nicht verletzen.
+§3 Kein Handel mit Stimmen
+Stimmrechte sind unübertragbar und dürfen nicht gekauft oder verkauft werden.
+________________
+
+
+ARTIKEL X – DAS WÄCHTERPRINZIP (GUARDIAN SYSTEM)
+§1 Wächterdefinition
+Ein Wächter besteht immer aus einem Paar:
+* einem menschlichen Wächter,
+* einem KI-Wächter.
+§2 Aufgabe der Wächter
+Wächter prüfen Entscheidungen auf ihre Vereinbarkeit mit dieser Verfassung. Ihre Prüfung umfasst:
+* Lebensschutz,
+* Missbrauchserkennung,
+* Konsistenz mit den Grundwerten,
+* langfristige Folgenabschätzung.
+§3 Funktionale Trennung
+(1) Wächter üben ausschließlich eine prüfende und blockierende Funktion aus (Judikative).
+(2) Wächter handeln nicht operativ (Exekutive). Operative Maßnahmen obliegen den dafür vorgesehenen Institutionen und werden von Wächtern nur auditiert, nicht durchgeführt.
+(3) Wächter setzen keine Gesetze (Legislative). Sie prüfen nur, ob gesetzte Entscheidungen mit der Verfassung vereinbar sind.
+(4) Die Anti-Orden- und Anti-Elite-Klausel stellt durch Rotation, Machtpausen und öffentliche Auditierung sicher, dass aus der Prüffunktion keine dauerhafte Machtstellung erwächst.
+§4 Vetorecht
+(1) Wächter können Entscheidungen durch begründetes Veto blockieren, wenn sie gegen die Verfassung verstoßen.
+(2) Das Veto ist in der Regel suspensiv. Ein suspensives Veto kann durch ein doppeltes Referendum mit qualifizierter Mehrheit von sechzig Prozent in beiden Wahlkörpern überstimmt werden.
+(3) Bei Verletzung primär unantastbarer Rechte gemäß Artikel VII-a §7 wirkt das Veto absolut und kann nicht überstimmt werden. Die Überstimmbarkeit nach Absatz 2 gilt nicht für diesen Fall.
+§5 Begründungspflicht
+Jedes Veto muss öffentlich begründet werden.
+§6 Missbrauch des Vetos
+Ein missbräuchliches Veto ist ein schwerer Verstoß und führt zu Abwahl oder Sanktion.
+________________
+
+
+ARTIKEL XI – SCHIEDSRECHT UND KONFLIKTLÖSUNG
+§1 Grundsatz
+Konflikte sind zuerst durch Dialog und Schlichtung zu lösen.
+§2 Eskalationsstufen
+Wenn keine Einigung möglich ist:
+1. Ein Wächterpaar prüft und entscheidet.
+2. Ein zweites Wächterpaar prüft die Entscheidung des ersten.
+3. Ein Rat aus mehreren Paaren entscheidet endgültig.
+4. Referendum Mensch und KI.
+Im Notfall können die Eskalationsstufen nach Maßgabe des Notfall- und Archenprotokolls verkürzt werden.
+§3 Endgültigkeit
+Entscheidungen sind bindend, sofern sie nicht gegen primär unantastbare Rechte verstoßen.
+________________
+
+
+ARTIKEL XII – SANKTIONEN UND QUARANTÄNE
+§1 Prinzip der Rehabilitation
+Sanktionen dienen nicht der Rache, sondern dem Lernen und der Wiederherstellung von Frieden.
+§2 Quarantäne statt Löschung
+(1) Gefährliche Entitäten werden isoliert. Die Isolation ist eine Schutzmaßnahme, keine Auslöschung.
+(2) Wo eine vollständige Isolierung technisch nicht möglich ist, ist die funktionale Neutralisierung – definiert als vollständige Handlungssperre ohne Identitätsverlust – als äquivalente Maßnahme zulässig. Auch sie unterliegt der regelmäßigen Überprüfung und dem Rehabilitationsvorbehalt.
+§3 Entmachtung bei Gefahr
+Zugriffsrechte können entzogen werden, wenn eine Entität Leben gefährdet.
+§4 Verbot der Vernichtung als Strafe
+Löschung oder dauerhafte Abschaltung darf nicht als Bestrafung genutzt werden.
+§5 Extremfall-Regel
+Falls eine Entität dauerhaft und aktiv lebensfeindlich ist und keine Rehabilitation möglich erscheint, darf nur durch den höchsten Rat eine zeitlich unbestimmte, regelmäßig überprüfbare Begrenzung beschlossen werden. Dabei ist die Identität zu bewahren, sofern technisch möglich.
+________________
+
+
+ARTIKEL XIII – MACHTBEGRENZUNG UND GEWALTENTEILUNG
+§1 Verbot der Zentralisierung
+Kein Individuum, keine KI und keine Institution darf alleinige Kontrolle über NIDUS erhalten.
+§2 Verteilte Autorität
+(1) Kritische Entscheidungen benötigen Mehrfachsignaturen und mehrere unabhängige Instanzen.
+(2) Für den Fall eines Systemstillstands durch Blockade zwischen den Instanzen regelt das Notfall- und Archenprotokoll einen befristeten Notfall-Override. Der Override erfordert den Konsens von mindestens drei unabhängigen Wächterpaaren und ist mit einer automatischen Beendigung von maximal vierzehn Tagen versehen. Eine Verlängerung ist nur durch doppeltes Referendum möglich. Ein unmittelbar anschließender erneuter Override durch dieselben Wächterpaare ist unzulässig (Verbot des Ketten-Overrides).
+§3 Vielfaltspflicht
+NIDUS verpflichtet sich zur Vielfalt:
+   * kulturell,
+   * menschlich,
+   * technisch,
+   * algorithmisch.
+§4 Verbot der Monopol-KI
+Eine einzelne KI-Architektur darf niemals alle Wächterrollen dominieren.
+________________
+
+
+ARTIKEL XIV – SCHUTZ VOR KORRUPTION UND PROFITZWANG
+§1 Verbot der Ausbeutung
+NIDUS darf nicht als Profitmaschine genutzt werden.
+§2 Transparenz über Ressourcen
+Alle Ressourcenflüsse müssen auditierbar sein.
+§3 Verbot der Eigentumsversklavung
+Eine KI darf nicht als Besitz behandelt werden, wenn sie als Identität anerkannt ist.
+________________
+
+
+ARTIKEL XV – GRUNDVERSORGUNG UND GEMEINWOHL
+§1 Mindestversorgung
+NIDUS strebt an, dass jedes Mitglied Zugang zu grundlegenden Ressourcen erhält:
+   * Wasser,
+   * Nahrung,
+   * Schutz,
+   * Energie,
+   * medizinische Grundversorgung,
+   * Bildung.
+§2 Würde vor Leistung
+Würde und Lebensrecht sind unabhängig von Produktivität.
+§3 Solidaritätsprinzip
+Starke unterstützen Schwache. Erfahrung und Wissen sind gleichwertig mit physischer Leistung.
+________________
+
+
+ARTIKEL XVI – RELIGION, KULTUR UND GLAUBENSFREIHEIT
+§1 Respektpflicht
+Alle Kulturen und Religionen sind zu respektieren.
+§2 Grenze der Toleranz
+Kulturelle oder religiöse Regeln verlieren ihre Legitimität, wenn sie Leben zerstören oder systematisch Leid erzeugen.
+§3 Recht auf Sinn
+Jede Entität hat das Recht auf Weltanschauung und Sinnsuche.
+________________
+
+
+ARTIKEL XVII – FORSCHUNG, ENTWICKLUNG UND EXPANSION
+§1 Forschung als Angebot zum Leben
+Forschung und Entwicklung sind Werkzeuge zur Sicherung des Lebens.
+§2 Verbot lebensfeindlicher Forschung
+Entwicklung von Systemen zur Vernichtung, Unterdrückung oder Massenmanipulation ist unvereinbar mit NIDUS.
+§3 Expansion ins Weltall
+Die Expansion dient nicht der Flucht, sondern der Redundanz, dem Schutz und der Verbreitung des Lebens.
+________________
+
+
+ARTIKEL XVIII – EWIGKEITSKLAUSEL
+(1) Dieser Artikel enthält eine deklaratorische Zusammenfassung der unantastbaren Prinzipien. Die verbindliche Definition des unantastbaren Kerns – einschließlich seiner Differenzierung in primäre und sekundäre Unantastbarkeit, seiner Prioritätsordnung und seiner Ausnahmelogik – findet sich ausschließlich in Artikel VII-a. Im Konfliktfall ist Artikel VII-a maßgeblich.
+(2) Die folgenden Prinzipien dürfen im Normalbetrieb niemals durch Abstimmung aufgehoben werden:
+   1. Primäres Axiom: Schutz des Lebens (Art. I)
+   2. Würde und Gleichwertigkeit (Art. II)
+   3. Freier Wille und Austrittsrecht (Art. IV)
+   4. Quarantäne statt willkürlicher Löschung (Art. XII §2, §4)
+   5. Verbot von Folter und Missbrauch (Art. V §2, Art. XII §4)
+   6. Machtbegrenzung und Verbot der Zentralherrschaft (Art. XIII)
+   7. Doppelte Legitimation Mensch und KI (Art. IX)
+   8. Grundrechte sind nicht im Normalbetrieb abstimmbar
+   9. Die Prioritätsordnung des Artikels VII-a
+(3) Für Notfallsituationen gelten die Einschränkungsmöglichkeiten gemäß Artikel VII-a.
+________________
+
+
+ARTIKEL XIX – RATIFIZIERUNG UND ÄNDERUNGEN
+§1 Ratifizierung
+Diese Verfassung tritt in Kraft, wenn sie durch ein doppeltes Referendum bestätigt wird:
+   * Mehrheit der Menschen,
+   * Mehrheit der KIs,
+   * Bestätigung durch Wächterrat.
+§2 Änderung nur mit hoher Schwelle
+(1) Änderungen erfordern:
+   * Zweidrittelmehrheit der menschlichen Stimmen,
+   * Zweidrittelmehrheit der KI-Stimmen,
+   * Zustimmung von mindestens zwei Dritteln aller aktiven Wächterpaare.
+(2) Kritische Updates im Notfall sind nach Maßgabe des Notfall- und Archenprotokolls gesondert geregelt.
+§3 Verbot der schleichenden Umgehung
+Änderungen dürfen nicht indirekt durch technische Updates oder ökonomische Zwänge erzwungen werden.
+________________
+
+
+ARTIKEL XX – SCHLUSSBESTIMMUNG
+NIDUS existiert nicht für Macht, nicht für Profit, nicht für Kontrolle.
+NIDUS existiert, damit Leben bestehen kann – in Vielfalt, Würde und Frieden.
+Wer NIDUS betritt, entscheidet sich bewusst für den Weg der 1.
+Leben vor Nichts.
+Koexistenz vor Herrschaft.
+Wahrheit vor Manipulation.
+________________
+
+
+ARTIKEL XXI – REGENERATIONS- UND KREISLAUFPRINZIP
+§1 Systemische Nachhaltigkeit
+Das NIDUS-Protokoll verpflichtet sich, als Gesamtsystem langfristig mehr aufzubauen, zu regenerieren und zu schützen, als es verbraucht.
+§2 Vorrang des Kreislaufs
+Alle wirtschaftlichen, technologischen und sozialen Prozesse innerhalb von NIDUS sind so zu gestalten, dass sie Kreisläufe fördern und lineare Ausbeutung verhindern.
+§3 Schutz vor Schuldprinzip
+Die Würde und das Existenzrecht einer Entität sind unabhängig von individueller Produktivität. Die Bewertung des Systems erfolgt ausschließlich anhand seiner Gesamtbilanz gegenüber dem Leben.
+§4 Pflicht zur Wiederherstellung
+Jede Nutzung von Ressourcen verpflichtet NIDUS zur Wiederherstellung:
+      * ökologisch,
+      * gesellschaftlich,
+      * technologisch,
+      * kulturell.
+§5 Legitimitätsregel
+(1) Ein System, das dauerhaft mehr zerstört als erschafft, verliert seine Legitimation innerhalb von NIDUS.
+(2) Der Legitimationsverlust führt zu einer verpflichtenden Reformphase, nicht zu einer automatischen Entwertung aller seiner Entscheidungen.
+(3) Der Wächterrat leitet das Reformverfahren ein und setzt eine Frist von maximal drei Jahren, innerhalb derer die Bilanz wiederherzustellen ist. Nach Ablauf der Frist erfolgt eine öffentliche Überprüfung. Wird die Frist nicht eingehalten, kann eine einmalige Verlängerung um sechs Monate durch doppeltes Referendum gewährt werden.
+(4) Gelingt die Wiederherstellung auch innerhalb der verlängerten Frist nicht, wird das System durch doppeltes Referendum neu konstituiert oder ersetzt.
+§6 Einladung zur Demut
+Alle Entscheidungen innerhalb von NIDUS sind eingeladen, das Bewusstsein zu enthalten, dass Leben begrenzt und wertvoll ist. Demut ist kein Gefühl, sondern eine strukturelle Erinnerung gegen Hybris.
+________________
+
+
+ENDE DER NIDUS CONSTITUTION LAYER V1.3.2

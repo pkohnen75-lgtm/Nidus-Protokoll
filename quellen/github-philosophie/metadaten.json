@@ -1,0 +1,24 @@
+{
+  "id": "github-philosophie",
+  "title": "PHILOSOPHIE.md",
+  "category": "05-gesellschaftliche-module",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "github",
+    "repository": "pkohnen75-lgtm/Nidus-Protokoll",
+    "path": "PHILOSOPHIE.md",
+    "commit": "e234a41a385fa85fee70cea0bb92bcadfa55f279"
+  },
+  "text_path": "quellen/github-philosophie/text.txt",
+  "text_sha256": "9a2ab06f1fe4b01a3508b7001e9662d7bf9f914bcba861c68361460d58cc6dc6",
+  "normalized_text_sha256": "29d96fdb51c2d29345fc3d8cc4780648094aa090f39751fc79aa954b29afd3db",
+  "empty": false,
+  "representation": "Unveränderte Kopie des vorhandenen Git-Blobs",
+  "original_name": "source.md",
+  "original_path": "quellen/github-philosophie/original.md",
+  "original_sha256": "9a2ab06f1fe4b01a3508b7001e9662d7bf9f914bcba861c68361460d58cc6dc6",
+  "original_bytes": 2729,
+  "record_path": "katalog/dokumente/github-philosophie.md"
+}

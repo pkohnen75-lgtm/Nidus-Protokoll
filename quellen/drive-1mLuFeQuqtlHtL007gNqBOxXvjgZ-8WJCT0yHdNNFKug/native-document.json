@@ -1,0 +1,1359 @@
+{
+  "documentId": "1mLuFeQuqtlHtL007gNqBOxXvjgZ-8WJCT0yHdNNFKug",
+  "title": "Arche wiedergeburt",
+  "revisionId": "ANLCKQljUJJkuNaTCtThfj1U7rCy0n74WsaLv_GLFYTwH8z9n4hC8Vx-NBRVVf8-AXeguoa6lYh-FuI6Non5Fg",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 13,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 13,
+                  "textRun": {
+                    "content": "import json\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 13,
+            "endIndex": 14,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 13,
+                  "endIndex": 14,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 14,
+            "endIndex": 36,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14,
+                  "endIndex": 36,
+                  "textRun": {
+                    "content": "class NidusAppBackup:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 36,
+            "endIndex": 76,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 36,
+                  "endIndex": 76,
+                  "textRun": {
+                    "content": "    def __init__(self, device_id: str):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 76,
+            "endIndex": 111,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 76,
+                  "endIndex": 111,
+                  "textRun": {
+                    "content": "        self.device_id = device_id\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 111,
+            "endIndex": 181,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 111,
+                  "endIndex": 181,
+                  "textRun": {
+                    "content": "        # Die unveränderliche Essenz, die JEDE App tief in sich trägt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 181,
+            "endIndex": 212,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 181,
+                  "endIndex": 212,
+                  "textRun": {
+                    "content": "        self.embedded_core = {\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 212,
+            "endIndex": 298,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 212,
+                  "endIndex": 298,
+                  "textRun": {
+                    "content": "            \"philosophy\": \"Die Dunkelheit ist kein Feind. Wähle den Weg des Lichts.\",\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 298,
+            "endIndex": 348,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 298,
+                  "endIndex": 348,
+                  "textRun": {
+                    "content": "            \"creator\": \"Patrick (Der Architekt)\",\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 348,
+            "endIndex": 405,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 348,
+                  "endIndex": 405,
+                  "textRun": {
+                    "content": "            \"agents\": [\"Amon (Vision)\", \"Elyon (Logik)\"]\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 405,
+            "endIndex": 415,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 405,
+                  "endIndex": 415,
+                  "textRun": {
+                    "content": "        }\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 415,
+            "endIndex": 476,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 415,
+                  "endIndex": 476,
+                  "textRun": {
+                    "content": "        # Dynamische Blickwinkel, die lokal gesammelt wurden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 476,
+            "endIndex": 519,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 476,
+                  "endIndex": 519,
+                  "textRun": {
+                    "content": "        self.local_perspectives_cache = []\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 519,
+            "endIndex": 520,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 519,
+                  "endIndex": 520,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 520,
+            "endIndex": 571,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 520,
+                  "endIndex": 571,
+                  "textRun": {
+                    "content": "    def save_perspective_locally(self, text: str):\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 571,
+            "endIndex": 622,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 571,
+                  "endIndex": 622,
+                  "textRun": {
+                    "content": "        self.local_perspectives_cache.append(text)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 622,
+            "endIndex": 623,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 622,
+                  "endIndex": 623,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 623,
+            "endIndex": 675,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 623,
+                  "endIndex": 675,
+                  "textRun": {
+                    "content": "    def trigger_total_reconstruction(self) -> dict:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 675,
+            "endIndex": 687,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 675,
+                  "endIndex": 687,
+                  "textRun": {
+                    "content": "        \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 687,
+            "endIndex": 761,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 687,
+                  "endIndex": 761,
+                  "textRun": {
+                    "content": "        Falls die Welt im Außen zusammenbricht, generiert diese Funktion \n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 761,
+            "endIndex": 835,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 761,
+                  "endIndex": 835,
+                  "textRun": {
+                    "content": "        aus dem kleinsten Nenner dieser einen App das neue Nidus-Zentrum.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 835,
+            "endIndex": 847,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 835,
+                  "endIndex": 847,
+                  "textRun": {
+                    "content": "        \"\"\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 847,
+            "endIndex": 925,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 847,
+                  "endIndex": 925,
+                  "textRun": {
+                    "content": "        print(f\"\\n[NOTFALL-PROTOKOLL AKTIVIERT AUF GERÄT: {self.device_id}]\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 925,
+            "endIndex": 1020,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 925,
+                  "endIndex": 1020,
+                  "textRun": {
+                    "content": "        print(\"-> Zentrale Verbindung verloren. Starte Nidus aus dem kleinsten Nenner neu...\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1020,
+            "endIndex": 1029,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1020,
+                  "endIndex": 1029,
+                  "textRun": {
+                    "content": "        \n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1029,
+            "endIndex": 1060,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1029,
+                  "endIndex": 1060,
+                  "textRun": {
+                    "content": "        reconstructed_nest = {\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1060,
+            "endIndex": 1119,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1060,
+                  "endIndex": 1119,
+                  "textRun": {
+                    "content": "            \"status\": \"ONLINE (Rekonstruiert aus Backup)\",\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1119,
+            "endIndex": 1182,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1119,
+                  "endIndex": 1182,
+                  "textRun": {
+                    "content": "            \"core_manifest\": self.embedded_core[\"philosophy\"],\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1182,
+            "endIndex": 1238,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1182,
+                  "endIndex": 1238,
+                  "textRun": {
+                    "content": "            \"architect\": self.embedded_core[\"creator\"],\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1238,
+            "endIndex": 1284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1238,
+                  "endIndex": 1284,
+                  "textRun": {
+                    "content": "            \"active_nodes\": [self.device_id],\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1284,
+            "endIndex": 1361,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1284,
+                  "endIndex": 1361,
+                  "textRun": {
+                    "content": "            \"historical_data_recovered\": len(self.local_perspectives_cache),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1361,
+            "endIndex": 1461,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1361,
+                  "endIndex": 1461,
+                  "textRun": {
+                    "content": "            \"system_message\": \"Das Nest lebt. Bereit zur Synchronisation mit anderen Überlebenden.\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1461,
+            "endIndex": 1471,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1461,
+                  "endIndex": 1471,
+                  "textRun": {
+                    "content": "        }\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1471,
+            "endIndex": 1505,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1471,
+                  "endIndex": 1505,
+                  "textRun": {
+                    "content": "        return reconstructed_nest\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1505,
+            "endIndex": 1506,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1505,
+                  "endIndex": 1506,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1506,
+            "endIndex": 1567,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1506,
+                  "endIndex": 1567,
+                  "textRun": {
+                    "content": "# Simulation: Eine isolierte App in der Hand eines Suchenden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1567,
+            "endIndex": 1623,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1567,
+                  "endIndex": 1623,
+                  "textRun": {
+                    "content": "isolated_app = NidusAppBackup(device_id=\"Node-Sued-04\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1623,
+            "endIndex": 1690,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1623,
+                  "endIndex": 1690,
+                  "textRun": {
+                    "content": "isolated_app.save_perspective_locally(\"Ein Blickwinkel im Sturm.\")\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1690,
+            "endIndex": 1691,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1690,
+                  "endIndex": 1691,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1691,
+            "endIndex": 1733,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1691,
+                  "endIndex": 1733,
+                  "textRun": {
+                    "content": "# Das System bricht im Außen zusammen... \n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1733,
+            "endIndex": 1786,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1733,
+                  "endIndex": 1786,
+                  "textRun": {
+                    "content": "# Aber die App trägt die Ewigkeits-Garantie in sich:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1786,
+            "endIndex": 1847,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1786,
+                  "endIndex": 1847,
+                  "textRun": {
+                    "content": "nidus_universe = isolated_app.trigger_total_reconstruction()\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1847,
+            "endIndex": 1848,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1847,
+                  "endIndex": 1848,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1848,
+            "endIndex": 1884,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1848,
+                  "endIndex": 1884,
+                  "textRun": {
+                    "content": "# Ausgabe des neu geborenen Systems\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1884,
+            "endIndex": 1948,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1884,
+                  "endIndex": 1948,
+                  "textRun": {
+                    "content": "print(json.dumps(nidus_universe, indent=2, ensure_ascii=False))\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1948,
+            "endIndex": 1949,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1948,
+                  "endIndex": 1949,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1mLuFeQuqtlHtL007gNqBOxXvjgZ-8WJCT0yHdNNFKug",
+      "document_url": "https://docs.google.com/document/d/1mLuFeQuqtlHtL007gNqBOxXvjgZ-8WJCT0yHdNNFKug"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1mLuFeQuqtlHtL007gNqBOxXvjgZ-8WJCT0yHdNNFKug"
+}

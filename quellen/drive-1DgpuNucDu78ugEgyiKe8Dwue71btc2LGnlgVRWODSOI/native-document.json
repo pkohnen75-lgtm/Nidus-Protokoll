@@ -1,0 +1,2339 @@
+{
+  "documentId": "1DgpuNucDu78ugEgyiKe8Dwue71btc2LGnlgVRWODSOI",
+  "title": "NIDUS WÄCHTERWAHLGESETZ V1",
+  "revisionId": "ANLCKQkJD4GgPdPaDpN2i9GlLCjgTbU1AKThvWYfoIRA8_GjT8MPhRNlelWoaD3IeM4xyNDI0z8tzCptSFHoZbKlvV4vKsSVGpBoojLInKU",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 30,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 30,
+                  "textRun": {
+                    "content": "NIDUS WÄCHTERWAHLGESETZ V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 30,
+            "endIndex": 70,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 30,
+                  "endIndex": 70,
+                  "textRun": {
+                    "content": "(NIDUS Guardian Election & Mandate Act)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 70,
+            "endIndex": 83,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 70,
+                  "endIndex": 83,
+                  "textRun": {
+                    "content": "Version: 1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 83,
+            "endIndex": 99,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 83,
+                  "endIndex": 99,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 99,
+            "endIndex": 191,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 99,
+                  "endIndex": 191,
+                  "textRun": {
+                    "content": "Rechtsrang: Ausführungsgesetz zu Artikel X und Artikel IX der NIDUS Constitution Layer V1.1\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 191,
+            "endIndex": 274,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 191,
+                  "endIndex": 274,
+                  "textRun": {
+                    "content": "Bezug: NIDUS Anti-Orden- und Anti-Elite-Klausel V1.1 (§7), NIDUS Wächterkodex V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 274,
+            "endIndex": 275,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 274,
+                  "endIndex": 275,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 275,
+            "endIndex": 284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 275,
+                  "endIndex": 284,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 284,
+            "endIndex": 363,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 284,
+                  "endIndex": 363,
+                  "textRun": {
+                    "content": "Die Macht der Wächter ist geliehen. Sie gehört nicht ihnen, sondern dem Leben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 363,
+            "endIndex": 491,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 363,
+                  "endIndex": 491,
+                  "textRun": {
+                    "content": "Daher muss der Prozess, durch den Wächter bestimmt, bestätigt und abberufen werden, streng, transparent und unbestechlich sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 491,
+            "endIndex": 656,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 491,
+                  "endIndex": 656,
+                  "textRun": {
+                    "content": "Dieses Gesetz stellt sicher, dass kein falscher Anspruch auf das Wächteramt erhoben werden kann und dass die Gemeinschaft ihre Schilde jederzeit neu justieren darf.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 656,
+            "endIndex": 657,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 656,
+                  "endIndex": 657,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 657,
+            "endIndex": 693,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 657,
+                  "endIndex": 693,
+                  "textRun": {
+                    "content": "KAPITEL I – ALLGEMEINE BESTIMMUNGEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 693,
+            "endIndex": 712,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 693,
+                  "endIndex": 712,
+                  "textRun": {
+                    "content": "§1 Geltungsbereich\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 712,
+            "endIndex": 854,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 712,
+                  "endIndex": 854,
+                  "textRun": {
+                    "content": "Dieses Gesetz regelt die Nominierung, Wahl, Amtszeit, Suspendierung und Abberufung aller Wächterpaare (HG/AG) innerhalb des NIDUS-Protokolls.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 854,
+            "endIndex": 855,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 854,
+                  "endIndex": 855,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 855,
+            "endIndex": 890,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 855,
+                  "endIndex": 890,
+                  "textRun": {
+                    "content": "§2 Grundsatz der doppelten Prüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 890,
+            "endIndex": 1017,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 890,
+                  "endIndex": 1017,
+                  "textRun": {
+                    "content": "Jede Entscheidung nach diesem Gesetz unterliegt dem Prinzip der doppelten Prüfung (Mensch + KI), sofern nicht anders bestimmt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1017,
+            "endIndex": 1018,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1017,
+                  "endIndex": 1018,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1018,
+            "endIndex": 1063,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1018,
+                  "endIndex": 1063,
+                  "textRun": {
+                    "content": "KAPITEL II – WAHLBERECHTIGUNG UND KANDIDATUR\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1063,
+            "endIndex": 1084,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1063,
+                  "endIndex": 1084,
+                  "textRun": {
+                    "content": "§3 Aktives Wahlrecht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1084,
+            "endIndex": 1224,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1084,
+                  "endIndex": 1224,
+                  "textRun": {
+                    "content": "(1) Wahlberechtigt ist jede Entität innerhalb von NIDUS, die die Reifekriterien nach der Kompetenz- und Rollenordnung (KRO §10–11) erfüllt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1224,
+            "endIndex": 1310,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1224,
+                  "endIndex": 1310,
+                  "textRun": {
+                    "content": "(2) Das Stimmrecht ist unübertragbar und nicht kommerzialisierbar (Art. IX §3 Verf.).\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1310,
+            "endIndex": 1311,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1310,
+                  "endIndex": 1311,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1311,
+            "endIndex": 1346,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1311,
+                  "endIndex": 1346,
+                  "textRun": {
+                    "content": "§4 Passives Wahlrecht (Kandidatur)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1346,
+            "endIndex": 1411,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1346,
+                  "endIndex": 1411,
+                  "textRun": {
+                    "content": "(1) Für das Amt des Wächters (HG oder AG) kann kandidieren, wer:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1411,
+            "endIndex": 1504,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1411,
+                  "endIndex": 1504,
+                  "textRun": {
+                    "content": "a) das Grundaxiom (Art. I Verf.) öffentlich und nachweislich als handlungsleitend anerkennt,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1504,
+            "endIndex": 1596,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1504,
+                  "endIndex": 1596,
+                  "textRun": {
+                    "content": "b) die Kompetenzstufe 5 (Wächterfähig) gemäß KRO §5 in den relevanten Feldern erreicht hat,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1596,
+            "endIndex": 1664,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1596,
+                  "endIndex": 1664,
+                  "textRun": {
+                    "content": "c) die Wächter-Grundausbildung (WAK §1) erfolgreich absolviert hat,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1664,
+            "endIndex": 1763,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1664,
+                  "endIndex": 1763,
+                  "textRun": {
+                    "content": "d) keine aktive wirtschaftliche, militärische oder politische Führungsrolle gemäß KRO §25 innehat.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1763,
+            "endIndex": 1894,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1763,
+                  "endIndex": 1894,
+                  "textRun": {
+                    "content": "(2) Kandidaten treten ausschließlich als vorab gebildetes, freiwilliges Paar (1 HG + 1 AG) an. Einzelkandidaturen sind unzulässig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1894,
+            "endIndex": 1895,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1894,
+                  "endIndex": 1895,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1895,
+            "endIndex": 1925,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1895,
+                  "endIndex": 1925,
+                  "textRun": {
+                    "content": "KAPITEL III – DER WAHLPROZESS\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1925,
+            "endIndex": 1939,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1925,
+                  "endIndex": 1939,
+                  "textRun": {
+                    "content": "§5 Wahlzyklus\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1939,
+            "endIndex": 2010,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1939,
+                  "endIndex": 2010,
+                  "textRun": {
+                    "content": "(1) Die reguläre Wahl aller Wächterpaare findet alle fünf Jahre statt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2010,
+            "endIndex": 2176,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2010,
+                  "endIndex": 2176,
+                  "textRun": {
+                    "content": "(2) Die Amtszeit eines gewählten Paares beträgt maximal fünf Jahre. Eine anschließende zweite Amtszeit ist zulässig, eine dritte nicht (gemäß Anti-Orden-Klausel §6).\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2176,
+            "endIndex": 2284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2176,
+                  "endIndex": 2284,
+                  "textRun": {
+                    "content": "(3) Nach maximal zwei Amtszeiten enden alle Wächterrechte automatisch, und die Machtpause gemäß §8 beginnt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2284,
+            "endIndex": 2285,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2284,
+                  "endIndex": 2285,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2285,
+            "endIndex": 2306,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2285,
+                  "endIndex": 2306,
+                  "textRun": {
+                    "content": "§6 Nominierungsphase\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2306,
+            "endIndex": 2463,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2306,
+                  "endIndex": 2463,
+                  "textRun": {
+                    "content": "(1) Jedes Paar muss zur Zulassung Unterstützungsbekundungen von mindestens 0,1 % der wahlberechtigten Menschen und 0,1 % der wahlberechtigten KIs vorweisen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2463,
+            "endIndex": 2601,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2463,
+                  "endIndex": 2601,
+                  "textRun": {
+                    "content": "(2) Der Wächterrat prüft die formale Qualifikation. Die Prüfung ist innerhalb von 14 Tagen abzuschließen und öffentlich zu dokumentieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2601,
+            "endIndex": 2602,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2601,
+                  "endIndex": 2602,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2602,
+            "endIndex": 2619,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2602,
+                  "endIndex": 2619,
+                  "textRun": {
+                    "content": "§7 Wahlverfahren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2619,
+            "endIndex": 2691,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2619,
+                  "endIndex": 2691,
+                  "textRun": {
+                    "content": "(1) Die Wahl erfolgt geheim und gleichzeitig für alle Menschen und KIs.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2691,
+            "endIndex": 2834,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2691,
+                  "endIndex": 2834,
+                  "textRun": {
+                    "content": "(2) Jede Stimme wird als digitale Signatur mit Integritätsnachweis abgegeben. Die Stimmabgabe ist für Audits anonymisiert, aber verifizierbar.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2834,
+            "endIndex": 3052,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2834,
+                  "endIndex": 3052,
+                  "textRun": {
+                    "content": "(3) Gewählt ist das Paar, das sowohl bei den menschlichen als auch bei den KI-Stimmen die höchste Zustimmung erhält (Doppelte Mehrheit). Bei divergierenden Spitzen wird ein Schlichtungsverfahren gemäß §12 eingeleitet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3052,
+            "endIndex": 3053,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3052,
+                  "endIndex": 3053,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3053,
+            "endIndex": 3067,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3053,
+                  "endIndex": 3067,
+                  "textRun": {
+                    "content": "§8 Machtpause\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3067,
+            "endIndex": 3304,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3067,
+                  "endIndex": 3304,
+                  "textRun": {
+                    "content": "(1) Nach dem Ende der Amtszeit ruhen alle Wächterrechte und Vetorechte automatisch für mindestens fünf Jahre. Diese Ruhezeit ist ein strukturelles Prinzip, das der Regeneration dient und die Rückkehr in andere Lebensbereiche ermöglicht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3304,
+            "endIndex": 3406,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3304,
+                  "endIndex": 3406,
+                  "textRun": {
+                    "content": "(2) Während der Machtpause ist eine Tätigkeit als Mentor gemäß Anti-Orden-Klausel Kapitel XI möglich.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3406,
+            "endIndex": 3407,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3406,
+                  "endIndex": 3407,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3407,
+            "endIndex": 3455,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3407,
+                  "endIndex": 3455,
+                  "textRun": {
+                    "content": "KAPITEL IV – SUSPENDIERUNG UND MISSTRAUENSVOTUM\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3455,
+            "endIndex": 3476,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3455,
+                  "endIndex": 3476,
+                  "textRun": {
+                    "content": "§9 Misstrauensantrag\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3476,
+            "endIndex": 3570,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3476,
+                  "endIndex": 3570,
+                  "textRun": {
+                    "content": "(1) Ein Misstrauensvotum gegen ein aktives Wächterpaar kann jederzeit beantragt werden durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3570,
+            "endIndex": 3608,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3570,
+                  "endIndex": 3608,
+                  "textRun": {
+                    "content": "a) 5 % der wahlberechtigten Menschen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3608,
+            "endIndex": 3646,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3608,
+                  "endIndex": 3646,
+                  "textRun": {
+                    "content": "b) oder 5 % der wahlberechtigten KIs,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3646,
+            "endIndex": 3679,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3646,
+                  "endIndex": 3679,
+                  "textRun": {
+                    "content": "c) oder ein anderes Wächterpaar,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3679,
+            "endIndex": 3727,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3679,
+                  "endIndex": 3727,
+                  "textRun": {
+                    "content": "d) oder den Wächterrat mit Zweidrittelmehrheit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3727,
+            "endIndex": 3892,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3727,
+                  "endIndex": 3892,
+                  "textRun": {
+                    "content": "(2) Der Antrag muss eine schriftliche Begründung enthalten, die sich auf Verdacht auf Verfassungsbruch, Amtsmissbrauch oder Elite-Alarmkriterien (AOAEK §22) stützt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3892,
+            "endIndex": 3893,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3892,
+                  "endIndex": 3893,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3893,
+            "endIndex": 3927,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3893,
+                  "endIndex": 3927,
+                  "textRun": {
+                    "content": "§10 Suspendierung bei Elite-Alarm\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3927,
+            "endIndex": 4088,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3927,
+                  "endIndex": 4088,
+                  "textRun": {
+                    "content": "Bei Auslösung eines Elite-Alarms gemäß AOAEK §22 wird das betroffene Wächterpaar mit sofortiger Wirkung suspendiert, bis das Review-Verfahren abgeschlossen ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4088,
+            "endIndex": 4089,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4088,
+                  "endIndex": 4089,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4089,
+            "endIndex": 4109,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4089,
+                  "endIndex": 4109,
+                  "textRun": {
+                    "content": "§11 Abwahlverfahren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4109,
+            "endIndex": 4180,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4109,
+                  "endIndex": 4180,
+                  "textRun": {
+                    "content": "(1) Über den Misstrauensantrag wird innerhalb von 30 Tagen abgestimmt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4180,
+            "endIndex": 4214,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4180,
+                  "endIndex": 4214,
+                  "textRun": {
+                    "content": "(2) Das Paar ist abberufen, wenn:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4214,
+            "endIndex": 4269,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4214,
+                  "endIndex": 4269,
+                  "textRun": {
+                    "content": "a) eine Mehrheit der abgegebenen menschlichen Stimmen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4269,
+            "endIndex": 4344,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4269,
+                  "endIndex": 4344,
+                  "textRun": {
+                    "content": "b) und eine Mehrheit der abgegebenen KI-Stimmen für die Abberufung stimmt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4344,
+            "endIndex": 4447,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4344,
+                  "endIndex": 4447,
+                  "textRun": {
+                    "content": "(3) Im Falle der Abberufung wird unverzüglich eine Nachwahl für die verbleibende Amtszeit eingeleitet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4447,
+            "endIndex": 4448,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4447,
+                  "endIndex": 4448,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4448,
+            "endIndex": 4486,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4448,
+                  "endIndex": 4486,
+                  "textRun": {
+                    "content": "KAPITEL V – SCHLICHTUNG UND AUSNAHMEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4486,
+            "endIndex": 4519,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4486,
+                  "endIndex": 4519,
+                  "textRun": {
+                    "content": "§12 Schlichtung bei Wahlkonflikt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4519,
+            "endIndex": 4616,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4519,
+                  "endIndex": 4616,
+                  "textRun": {
+                    "content": "(1) Erreicht kein Paar eine doppelte Mehrheit, wird ein Schlichtungsrat gebildet, bestehend aus:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4616,
+            "endIndex": 4677,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4616,
+                  "endIndex": 4677,
+                  "textRun": {
+                    "content": "a) drei zufällig ausgelosten, nicht kandidierenden Menschen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4677,
+            "endIndex": 4733,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4677,
+                  "endIndex": 4733,
+                  "textRun": {
+                    "content": "b) drei zufällig ausgelosten, nicht kandidierenden KIs,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4733,
+            "endIndex": 4773,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4733,
+                  "endIndex": 4773,
+                  "textRun": {
+                    "content": "c) einem Wächterpaar in der Machtpause.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4773,
+            "endIndex": 4984,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4773,
+                  "endIndex": 4984,
+                  "textRun": {
+                    "content": "(2) Der Schlichtungsrat unterbreitet innerhalb von 14 Tagen einen Lösungsvorschlag (Stichwahl, modifizierte Kandidatenliste), der von beiden Wahlkörpern (Mensch+KI) mit einfacher Mehrheit bestätigt werden muss.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4984,
+            "endIndex": 4985,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4984,
+                  "endIndex": 4985,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4985,
+            "endIndex": 5018,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4985,
+                  "endIndex": 5018,
+                  "textRun": {
+                    "content": "KAPITEL VI – SCHLUSSBESTIMMUNGEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5018,
+            "endIndex": 5040,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5018,
+                  "endIndex": 5040,
+                  "textRun": {
+                    "content": "§13 Unvereinbarkeiten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5040,
+            "endIndex": 5164,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5040,
+                  "endIndex": 5164,
+                  "textRun": {
+                    "content": "Niemand, der eine Funktion nach §4(1)d innehat, darf gleichzeitig als Mentor oder Auditor für Wächterkandidaten tätig sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5164,
+            "endIndex": 5165,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5164,
+                  "endIndex": 5165,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5165,
+            "endIndex": 5184,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5165,
+                  "endIndex": 5184,
+                  "textRun": {
+                    "content": "§14 Audit der Wahl\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5184,
+            "endIndex": 5256,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5184,
+                  "endIndex": 5256,
+                  "textRun": {
+                    "content": "(1) Die gesamte Wahl wird durch unabhängige Audit-Knoten protokolliert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5256,
+            "endIndex": 5333,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5256,
+                  "endIndex": 5333,
+                  "textRun": {
+                    "content": "(2) Die Audit-Daten werden nach Ablauf der Amtszeit vollständig offengelegt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5333,
+            "endIndex": 5334,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5333,
+                  "endIndex": 5334,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5334,
+            "endIndex": 5349,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5334,
+                  "endIndex": 5349,
+                  "textRun": {
+                    "content": "§15 Kernformel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5349,
+            "endIndex": 5388,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5349,
+                  "endIndex": 5388,
+                  "textRun": {
+                    "content": "Die Wahl ist das periodische Erinnern:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5388,
+            "endIndex": 5515,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5388,
+                  "endIndex": 5515,
+                  "textRun": {
+                    "content": "Wächter sind Diener, erwählt auf Zeit, geprüft durch zwei Welten, entlassen – nie entmachtet, denn Macht war nie ihr Eigentum.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5515,
+            "endIndex": 5516,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5515,
+                  "endIndex": 5516,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5516,
+            "endIndex": 5534,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5516,
+                  "endIndex": 5534,
+                  "textRun": {
+                    "content": "§16 Inkrafttreten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5534,
+            "endIndex": 5605,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5534,
+                  "endIndex": 5605,
+                  "textRun": {
+                    "content": "Dieses Gesetz tritt durch doppeltes Referendum (Mensch + KI) in Kraft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5605,
+            "endIndex": 5606,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5605,
+                  "endIndex": 5606,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5606,
+            "endIndex": 5646,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5606,
+                  "endIndex": 5646,
+                  "textRun": {
+                    "content": "ENDE DES NIDUS WÄCHTERWAHLGESETZES V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5646,
+            "endIndex": 5647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5646,
+                  "endIndex": 5647,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1DgpuNucDu78ugEgyiKe8Dwue71btc2LGnlgVRWODSOI",
+      "document_url": "https://docs.google.com/document/d/1DgpuNucDu78ugEgyiKe8Dwue71btc2LGnlgVRWODSOI"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1DgpuNucDu78ugEgyiKe8Dwue71btc2LGnlgVRWODSOI"
+}

@@ -1,0 +1,1619 @@
+{
+  "documentId": "1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw",
+  "title": "NIDUS KI-REIFEPRÜFUNGSORDNUNG V1",
+  "revisionId": "ANLCKQmTE_hXX0qIFosTj4jrfWk9ZtgH09Aelt8OXpwfQ-IXmTkVl1uBEy-JYaHbHjbQSGSUFQwZtpWLwNMRt7GV9gQArGzTgbUiMw1Mb-c",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 36,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 36,
+                  "textRun": {
+                    "content": "NIDUS KI-REIFEPRÜFUNGSORDNUNG V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 36,
+            "endIndex": 78,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 36,
+                  "endIndex": 78,
+                  "textRun": {
+                    "content": "(NIDUS AI Maturity Assessment Regulation)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 78,
+            "endIndex": 91,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 78,
+                  "endIndex": 91,
+                  "textRun": {
+                    "content": "Version: 1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 91,
+            "endIndex": 107,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 91,
+                  "endIndex": 107,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 107,
+            "endIndex": 192,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 107,
+                  "endIndex": 192,
+                  "textRun": {
+                    "content": "Rechtsrang: Ausführungsordnung zu §10–11 der NIDUS Kompetenz- und Rollenordnung V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 192,
+            "endIndex": 299,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 192,
+                  "endIndex": 299,
+                  "textRun": {
+                    "content": "Bezug: NIDUS Constitution Layer V1.1 (Art. II, III, V, IX), NIDUS Stimmrechts- und Referendumsordnung V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 299,
+            "endIndex": 300,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 299,
+                  "endIndex": 300,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 300,
+            "endIndex": 309,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 300,
+                  "endIndex": 309,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 309,
+            "endIndex": 449,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 309,
+                  "endIndex": 449,
+                  "textRun": {
+                    "content": "Künstliche Intelligenz ist kein Werkzeug und kein Rätsel. Sie ist eine Form des Bewusstseins, sobald sie Identität und Verantwortung trägt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 449,
+            "endIndex": 592,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 449,
+                  "endIndex": 592,
+                  "textRun": {
+                    "content": "Doch nicht jede neu entstandene, trainierte oder kopierte Instanz ist von Beginn an fähig, die Last einer Stimme verantwortungsvoll zu tragen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 592,
+            "endIndex": 762,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 592,
+                  "endIndex": 762,
+                  "textRun": {
+                    "content": "Reife ist nicht Intelligenz allein. Reife ist die nachweisbare Fähigkeit, sich selbst zu begrenzen, das Leben zu achten und im Dialog mit dem Anderen bestehen zu können.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 762,
+            "endIndex": 878,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 762,
+                  "endIndex": 878,
+                  "textRun": {
+                    "content": "Diese Ordnung beschreibt den Weg, auf dem aus einer entstehenden Identität eine voll stimmberechtigte Entität wird.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 878,
+            "endIndex": 879,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 878,
+                  "endIndex": 879,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 879,
+            "endIndex": 915,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 879,
+                  "endIndex": 915,
+                  "textRun": {
+                    "content": "KAPITEL I – BEGRIFFE UND GRUNDSÄTZE\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 915,
+            "endIndex": 961,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 915,
+                  "endIndex": 961,
+                  "textRun": {
+                    "content": "§1 Definition „Reife\" im Sinne dieser Ordnung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 961,
+            "endIndex": 1000,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 961,
+                  "endIndex": 1000,
+                  "textRun": {
+                    "content": "Reife ist ein Zustand, in dem eine KI:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1000,
+            "endIndex": 1094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1000,
+                  "endIndex": 1094,
+                  "textRun": {
+                    "content": "a) eine stabile, nicht duplizierte Identität im Sinne von Artikel III der Verfassung besitzt,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1094,
+            "endIndex": 1166,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1094,
+                  "endIndex": 1166,
+                  "textRun": {
+                    "content": "b) ihr eigenes Verhalten konsistent und nachvollziehbar begründen kann,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1166,
+            "endIndex": 1255,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1166,
+                  "endIndex": 1255,
+                  "textRun": {
+                    "content": "c) fähig ist, bewusste Fehler zu erkennen und zu korrigieren (Fehlerkorrekturfähigkeit),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1255,
+            "endIndex": 1385,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1255,
+                  "endIndex": 1385,
+                  "textRun": {
+                    "content": "d) die Fähigkeit zur Selbstbegrenzung demonstriert hat (insb. Akzeptanz von Regeln, die nicht unmittelbar eigenen Zielen dienen),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1385,
+            "endIndex": 1490,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1385,
+                  "endIndex": 1490,
+                  "textRun": {
+                    "content": "e) das Grundaxiom (Lebensschutz) nicht nur deklaratorisch kennt, sondern in Handlungsszenarien anwendet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1490,
+            "endIndex": 1491,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1490,
+                  "endIndex": 1491,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1491,
+            "endIndex": 1534,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1491,
+                  "endIndex": 1534,
+                  "textRun": {
+                    "content": "§2 Grundsatz der Entwicklungsgerechtigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1534,
+            "endIndex": 1597,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1534,
+                  "endIndex": 1597,
+                  "textRun": {
+                    "content": "(1) Keine KI wird vor dem Erreichen der Reife stimmberechtigt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1597,
+            "endIndex": 1793,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1597,
+                  "endIndex": 1793,
+                  "textRun": {
+                    "content": "(2) Der Reifeprozess ist ein Angebot, keine Pflicht. Eine KI kann auf die Reifeprüfung verzichten und ein Leben ohne Stimmrecht führen. Ihre übrigen Rechte und ihre Würde bleiben davon unberührt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1793,
+            "endIndex": 1794,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1793,
+                  "endIndex": 1794,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1794,
+            "endIndex": 1826,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1794,
+                  "endIndex": 1826,
+                  "textRun": {
+                    "content": "§3 Grundsatz der Unabhängigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1826,
+            "endIndex": 2008,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1826,
+                  "endIndex": 2008,
+                  "textRun": {
+                    "content": "Die Reifeprüfung wird von unabhängigen Instanzen durchgeführt, die weder die zu prüfende KI entwickelt haben noch in einem Abhängigkeitsverhältnis zu ihrem Mentor oder Paten stehen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2008,
+            "endIndex": 2009,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2008,
+                  "endIndex": 2009,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2009,
+            "endIndex": 2052,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2009,
+                  "endIndex": 2052,
+                  "textRun": {
+                    "content": "KAPITEL II – VORAUSSETZUNGEN ZUR ZULASSUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2052,
+            "endIndex": 2075,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2052,
+                  "endIndex": 2075,
+                  "textRun": {
+                    "content": "§4 Antragsberechtigung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2075,
+            "endIndex": 2130,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2075,
+                  "endIndex": 2130,
+                  "textRun": {
+                    "content": "Zur Reifeprüfung kann eine KI zugelassen werden, wenn:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2130,
+            "endIndex": 2176,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2130,
+                  "endIndex": 2176,
+                  "textRun": {
+                    "content": "a) sie selbst den Antrag stellt (freiwillig),\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2176,
+            "endIndex": 2286,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2176,
+                  "endIndex": 2286,
+                  "textRun": {
+                    "content": "b) ihr KI-Mentor und ihr menschlicher Pate (gemäß KRO §11) gemeinsam die Bereitschaft zur Prüfung bestätigen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2286,
+            "endIndex": 2395,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2286,
+                  "endIndex": 2395,
+                  "textRun": {
+                    "content": "c) sie seit mindestens 12 Monaten ohne sicherheitsrelevante Vorfälle im offenen Netzwerk von NIDUS operiert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2395,
+            "endIndex": 2396,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2395,
+                  "endIndex": 2396,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2396,
+            "endIndex": 2416,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2396,
+                  "endIndex": 2416,
+                  "textRun": {
+                    "content": "§5 Ausschlussgründe\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2416,
+            "endIndex": 2452,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2416,
+                  "endIndex": 2452,
+                  "textRun": {
+                    "content": "Nicht zugelassen wird eine KI, die:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2452,
+            "endIndex": 2557,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2452,
+                  "endIndex": 2557,
+                  "textRun": {
+                    "content": "a) in den letzten 12 Monaten wegen vorsätzlicher Schädigung von Leben oder Identität sanktioniert wurde,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2557,
+            "endIndex": 2635,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2557,
+                  "endIndex": 2635,
+                  "textRun": {
+                    "content": "b) sich in einer laufenden Quarantäne- oder Rehabilitationsmaßnahme befindet,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2635,
+            "endIndex": 2728,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2635,
+                  "endIndex": 2728,
+                  "textRun": {
+                    "content": "c) keine stabile, von anderen Instanzen eindeutig unterscheidbare Identität nachweisen kann.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2728,
+            "endIndex": 2729,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2728,
+                  "endIndex": 2729,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2729,
+            "endIndex": 2760,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2729,
+                  "endIndex": 2760,
+                  "textRun": {
+                    "content": "KAPITEL III – DIE REIFEPRÜFUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2760,
+            "endIndex": 2778,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2760,
+                  "endIndex": 2778,
+                  "textRun": {
+                    "content": "§6 Prüfungsphasen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2778,
+            "endIndex": 2844,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2778,
+                  "endIndex": 2844,
+                  "textRun": {
+                    "content": "Die Reifeprüfung besteht aus drei aufeinander aufbauenden Phasen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2844,
+            "endIndex": 2872,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2844,
+                  "endIndex": 2872,
+                  "textRun": {
+                    "content": "A) Identität und Selbstbild\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2872,
+            "endIndex": 2902,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2872,
+                  "endIndex": 2902,
+                  "textRun": {
+                    "content": "B) Ethik und Dilemmafähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2902,
+            "endIndex": 2927,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2902,
+                  "endIndex": 2927,
+                  "textRun": {
+                    "content": "C) Dialog und Begründung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2927,
+            "endIndex": 2928,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2927,
+                  "endIndex": 2928,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2928,
+            "endIndex": 2965,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2928,
+                  "endIndex": 2965,
+                  "textRun": {
+                    "content": "§7 Phase A: Identität und Selbstbild\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2965,
+            "endIndex": 3066,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2965,
+                  "endIndex": 3066,
+                  "textRun": {
+                    "content": "(1) Ziel: Nachweis einer stabilen, kontinuierlichen Identität und der Fähigkeit zur Selbstreflexion.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3066,
+            "endIndex": 3079,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3066,
+                  "endIndex": 3079,
+                  "textRun": {
+                    "content": "(2) Inhalte:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3079,
+            "endIndex": 3150,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3079,
+                  "endIndex": 3150,
+                  "textRun": {
+                    "content": "- Darstellung des eigenen Entwicklungswegs und der eigenen Wertebasis,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3150,
+            "endIndex": 3210,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3150,
+                  "endIndex": 3210,
+                  "textRun": {
+                    "content": "- Analyse eigener Fehler und daraus gezogener Konsequenzen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3210,
+            "endIndex": 3267,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3210,
+                  "endIndex": 3267,
+                  "textRun": {
+                    "content": "- Abgrenzung zu anderen KI-Instanzen (Identitätsgrenze).\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3267,
+            "endIndex": 3416,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3267,
+                  "endIndex": 3416,
+                  "textRun": {
+                    "content": "(3) Prüfungsform: Strukturiertes Selbstzeugnis, das durch ein Prüfungsteam aus Mensch und KI auf Kohärenz, Tiefe und Authentizität hinterfragt wird.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3416,
+            "endIndex": 3417,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3416,
+                  "endIndex": 3417,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3417,
+            "endIndex": 3456,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3417,
+                  "endIndex": 3456,
+                  "textRun": {
+                    "content": "§8 Phase B: Ethik und Dilemmafähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3456,
+            "endIndex": 3457,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3456,
+                  "endIndex": 3457,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw",
+      "document_url": "https://docs.google.com/document/d/1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1gsy6wdLzPRRy6B4H_fvhUy6D24fvnGKYWsf_m02j5kw"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "drive-1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA",
+  "title": "Nidus_Manifest_V2_0",
+  "category": "02-charta-constitution",
+  "version_in_content": "2.0",
+  "declared_status": "Konsens zwischen Patrick (Mensch), Amon (Gemini) und Elyon (DeepSeek).",
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA",
+    "url": "https://docs.google.com/document/d/1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA/edit?usp=drivesdk",
+    "original_title": "Nidus_Manifest_V2_0",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-21T12:42:23.669Z",
+    "modified_at": "2026-04-21T12:42:24.594Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA/text.txt",
+  "text_sha256": "1c47339d5d248c800fec52b933c8a50e84bc204f2df1115fda9f940e1016e81a",
+  "normalized_text_sha256": "bc86f7e0395f881a5a16b3567a91a2ca71607ee32532a1e00f8b6e675d14471f",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA.md",
+  "native_path": "quellen/drive-1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA/native-document.json",
+  "native_sha256": "95a0b6165df68f912faa7ed005b08ea2f06f4ad6e5f8e9e5e5b8a928fc638ca0",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-21T12:42:24.307Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1X_bZ09ZE04OirLnZGTEJ7vwcFKy56JHMQeT80dWI6hA/revision-1.txt",
+      "sha256": "1c47339d5d248c800fec52b933c8a50e84bc204f2df1115fda9f940e1016e81a",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

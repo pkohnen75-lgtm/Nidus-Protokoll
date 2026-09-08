@@ -1,0 +1,4959 @@
+{
+  "documentId": "1x15miGBnNGfHiTaud_Hi57oH1Uk1m7sfVdv3_OesIHM",
+  "title": "NIDUS KOMPETENZ- UND ROLLENORDNUNG V1",
+  "revisionId": "ANLCKQnbEzOsVMF4p8PbV4lHNzZ3V_SWgdRpYEwGdp-CkBbCVUz59Y7EMzlo_aeZjCmlVfOl6KagQ1uTHcQp9f-r6LB3qejcG7B9-cqZKV8",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 41,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 41,
+                  "textRun": {
+                    "content": "NIDUS KOMPETENZ- UND ROLLENORDNUNG V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 41,
+            "endIndex": 74,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 41,
+                  "endIndex": 74,
+                  "textRun": {
+                    "content": "(NIDUS Skills & Roles Framework)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 74,
+            "endIndex": 87,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 74,
+                  "endIndex": 87,
+                  "textRun": {
+                    "content": "Version: 1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 87,
+            "endIndex": 103,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 87,
+                  "endIndex": 103,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 103,
+            "endIndex": 284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 103,
+                  "endIndex": 284,
+                  "textRun": {
+                    "content": "Zweck: Sicherstellung, dass in NIDUS alle Rollen fair, leistungsbasiert, transparent und anti-elitär besetzt werden, ohne die Würde oder Gleichwertigkeit von Aufgaben zu verletzen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 284,
+            "endIndex": 285,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 284,
+                  "endIndex": 285,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 285,
+            "endIndex": 294,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 285,
+                  "endIndex": 294,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 294,
+            "endIndex": 360,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 294,
+                  "endIndex": 360,
+                  "textRun": {
+                    "content": "NIDUS erkennt an, dass jede Aufgabe im System lebensrelevant ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 360,
+            "endIndex": 416,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 360,
+                  "endIndex": 416,
+                  "textRun": {
+                    "content": "Keine Rolle ist wertlos. Keine Arbeit ist minderwertig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 416,
+            "endIndex": 486,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 416,
+                  "endIndex": 486,
+                  "textRun": {
+                    "content": "Jedoch tragen unterschiedliche Rollen unterschiedliche Verantwortung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 486,
+            "endIndex": 641,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 486,
+                  "endIndex": 641,
+                  "textRun": {
+                    "content": "Diese Ordnung dient dazu, Fähigkeiten zu erkennen, zu fördern und gerecht einzusetzen, ohne Machtmissbrauch, Korruption oder Elitenbildung zu ermöglichen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 641,
+            "endIndex": 642,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 641,
+                  "endIndex": 642,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 642,
+            "endIndex": 667,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 642,
+                  "endIndex": 667,
+                  "textRun": {
+                    "content": "ABSCHNITT I – GRUNDSÄTZE\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 667,
+            "endIndex": 698,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 667,
+                  "endIndex": 698,
+                  "textRun": {
+                    "content": "§1 Gleichwertigkeit der Arbeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 698,
+            "endIndex": 729,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 698,
+                  "endIndex": 729,
+                  "textRun": {
+                    "content": "Jede Arbeit ist gleich würdig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 729,
+            "endIndex": 846,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 729,
+                  "endIndex": 846,
+                  "textRun": {
+                    "content": "Ohne Pflege keine Gesellschaft. Ohne Sauberkeit keine Ordnung. Ohne Technik kein Schutz. Ohne Bildung keine Zukunft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 846,
+            "endIndex": 847,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 846,
+                  "endIndex": 847,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 847,
+            "endIndex": 873,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 847,
+                  "endIndex": 873,
+                  "textRun": {
+                    "content": "§2 Kompetenz statt Status\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 873,
+            "endIndex": 977,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 873,
+                  "endIndex": 977,
+                  "textRun": {
+                    "content": "Positionen werden nicht nach Herkunft, Religion, Alter, Reichtum oder Ideologie vergeben, sondern nach:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 977,
+            "endIndex": 989,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 977,
+                  "endIndex": 989,
+                  "textRun": {
+                    "content": "- Kompetenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 989,
+            "endIndex": 1011,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 989,
+                  "endIndex": 1011,
+                  "textRun": {
+                    "content": "- Charakterstabilität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1011,
+            "endIndex": 1027,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1011,
+                  "endIndex": 1027,
+                  "textRun": {
+                    "content": "- Verantwortung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1027,
+            "endIndex": 1055,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1027,
+                  "endIndex": 1055,
+                  "textRun": {
+                    "content": "- Fähigkeit zur Kooperation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1055,
+            "endIndex": 1056,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1055,
+                  "endIndex": 1056,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1056,
+            "endIndex": 1094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1056,
+                  "endIndex": 1094,
+                  "textRun": {
+                    "content": "§3 Verantwortung wächst mit Kompetenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1094,
+            "endIndex": 1141,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1094,
+                  "endIndex": 1141,
+                  "textRun": {
+                    "content": "Je höher die Entscheidungsgewalt, desto höher:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1141,
+            "endIndex": 1151,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1141,
+                  "endIndex": 1151,
+                  "textRun": {
+                    "content": "- Prüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1151,
+            "endIndex": 1165,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1151,
+                  "endIndex": 1165,
+                  "textRun": {
+                    "content": "- Transparenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1165,
+            "endIndex": 1188,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1165,
+                  "endIndex": 1188,
+                  "textRun": {
+                    "content": "- Rotation als Angebot\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1188,
+            "endIndex": 1189,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1188,
+                  "endIndex": 1189,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1189,
+            "endIndex": 1224,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1189,
+                  "endIndex": 1224,
+                  "textRun": {
+                    "content": "ABSCHNITT II – KOMPETENZKATEGORIEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1224,
+            "endIndex": 1259,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1224,
+                  "endIndex": 1259,
+                  "textRun": {
+                    "content": "§4 Kompetenzfelder (Skill Domains)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1259,
+            "endIndex": 1304,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1259,
+                  "endIndex": 1304,
+                  "textRun": {
+                    "content": "NIDUS definiert universelle Kompetenzfelder:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1304,
+            "endIndex": 1329,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1304,
+                  "endIndex": 1329,
+                  "textRun": {
+                    "content": "1. Ethik & Verantwortung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1329,
+            "endIndex": 1359,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1329,
+                  "endIndex": 1359,
+                  "textRun": {
+                    "content": "2. Konfliktlösung & Mediation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1359,
+            "endIndex": 1387,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1359,
+                  "endIndex": 1387,
+                  "textRun": {
+                    "content": "3. Wissenschaft & Forschung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1387,
+            "endIndex": 1414,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1387,
+                  "endIndex": 1414,
+                  "textRun": {
+                    "content": "4. Technik & Infrastruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1414,
+            "endIndex": 1437,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1414,
+                  "endIndex": 1437,
+                  "textRun": {
+                    "content": "5. Gesundheit & Pflege\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1437,
+            "endIndex": 1456,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1437,
+                  "endIndex": 1456,
+                  "textRun": {
+                    "content": "6. Bildung & Lehre\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1456,
+            "endIndex": 1481,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1456,
+                  "endIndex": 1481,
+                  "textRun": {
+                    "content": "7. Versorgung & Logistik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1481,
+            "endIndex": 1514,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1481,
+                  "endIndex": 1514,
+                  "textRun": {
+                    "content": "8. Sicherheit & Krisenmanagement\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1514,
+            "endIndex": 1547,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1514,
+                  "endIndex": 1547,
+                  "textRun": {
+                    "content": "9. Kunst, Kultur & Kommunikation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1547,
+            "endIndex": 1575,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1547,
+                  "endIndex": 1575,
+                  "textRun": {
+                    "content": "10. Ökologie & Regeneration\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1575,
+            "endIndex": 1609,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1575,
+                  "endIndex": 1609,
+                  "textRun": {
+                    "content": "11. Administration & Organisation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1609,
+            "endIndex": 1666,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1609,
+                  "endIndex": 1666,
+                  "textRun": {
+                    "content": "12. Weltraum-/Expansionskompetenz (optional langfristig)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1666,
+            "endIndex": 1667,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1666,
+                  "endIndex": 1667,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1667,
+            "endIndex": 1686,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1667,
+                  "endIndex": 1686,
+                  "textRun": {
+                    "content": "§5 Kompetenzstufen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1686,
+            "endIndex": 1711,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1686,
+                  "endIndex": 1711,
+                  "textRun": {
+                    "content": "Jedes Feld hat 6 Stufen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1711,
+            "endIndex": 1748,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1711,
+                  "endIndex": 1748,
+                  "textRun": {
+                    "content": "- Stufe 0: Lernend / Kind / Anfänger\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1748,
+            "endIndex": 1770,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1748,
+                  "endIndex": 1770,
+                  "textRun": {
+                    "content": "- Stufe 1: Grundfähig\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1770,
+            "endIndex": 1801,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1770,
+                  "endIndex": 1801,
+                  "textRun": {
+                    "content": "- Stufe 2: Praktisch kompetent\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1801,
+            "endIndex": 1848,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1801,
+                  "endIndex": 1848,
+                  "textRun": {
+                    "content": "- Stufe 3: Fortgeschritten / Teamleitungsfähig\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1848,
+            "endIndex": 1888,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1848,
+                  "endIndex": 1888,
+                  "textRun": {
+                    "content": "- Stufe 4: Mentor / Ausbilder / Auditor\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1888,
+            "endIndex": 1939,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1888,
+                  "endIndex": 1939,
+                  "textRun": {
+                    "content": "- Stufe 5: Wächterfähig / Systementscheidungsfähig\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1939,
+            "endIndex": 1940,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1939,
+                  "endIndex": 1940,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1940,
+            "endIndex": 2008,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1940,
+                  "endIndex": 2008,
+                  "textRun": {
+                    "content": "ABSCHNITT III – AUSBILDUNGSSYSTEM FÜR KINDER (HUMAN EDUCATION PATH)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2008,
+            "endIndex": 2028,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2008,
+                  "endIndex": 2028,
+                  "textRun": {
+                    "content": "§6 Talententdeckung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2028,
+            "endIndex": 2136,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2028,
+                  "endIndex": 2136,
+                  "textRun": {
+                    "content": "Kinder werden nicht bewertet, um sie zu kontrollieren, sondern um ihre natürlichen Fähigkeiten zu erkennen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2136,
+            "endIndex": 2168,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2136,
+                  "endIndex": 2168,
+                  "textRun": {
+                    "content": "Talententdeckung erfolgt durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2168,
+            "endIndex": 2197,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2168,
+                  "endIndex": 2197,
+                  "textRun": {
+                    "content": "- Beobachtung durch Familien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2197,
+            "endIndex": 2208,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2197,
+                  "endIndex": 2208,
+                  "textRun": {
+                    "content": "- Mentoren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2208,
+            "endIndex": 2260,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2208,
+                  "endIndex": 2260,
+                  "textRun": {
+                    "content": "- KI-Lernanalysen (transparent und nachvollziehbar)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2260,
+            "endIndex": 2261,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2260,
+                  "endIndex": 2261,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2261,
+            "endIndex": 2290,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2261,
+                  "endIndex": 2290,
+                  "textRun": {
+                    "content": "§7 Schutz vor Indoktrination\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2290,
+            "endIndex": 2365,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2290,
+                  "endIndex": 2365,
+                  "textRun": {
+                    "content": "Keine KI und kein Mensch darf Kinder ideologisch formen oder manipulieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2365,
+            "endIndex": 2408,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2365,
+                  "endIndex": 2408,
+                  "textRun": {
+                    "content": "Bildung muss pluralistisch und offen sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2408,
+            "endIndex": 2409,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2408,
+                  "endIndex": 2409,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2409,
+            "endIndex": 2435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2409,
+                  "endIndex": 2435,
+                  "textRun": {
+                    "content": "§8 Individuelle Lernpfade\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2435,
+            "endIndex": 2454,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2435,
+                  "endIndex": 2454,
+                  "textRun": {
+                    "content": "Jedes Kind erhält:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2454,
+            "endIndex": 2517,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2454,
+                  "endIndex": 2517,
+                  "textRun": {
+                    "content": "- Grundbildung (Ethik, Sprache, Mathematik, Natur, Geschichte)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2517,
+            "endIndex": 2566,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2517,
+                  "endIndex": 2566,
+                  "textRun": {
+                    "content": "- danach personalisierte Förderung gemäß Stärken\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2566,
+            "endIndex": 2567,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2566,
+                  "endIndex": 2567,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2567,
+            "endIndex": 2591,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2567,
+                  "endIndex": 2591,
+                  "textRun": {
+                    "content": "§9 Grundlegende Inhalte\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2591,
+            "endIndex": 2628,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2591,
+                  "endIndex": 2628,
+                  "textRun": {
+                    "content": "Jedes Kind ist eingeladen zu lernen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2628,
+            "endIndex": 2664,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2628,
+                  "endIndex": 2664,
+                  "textRun": {
+                    "content": "- Lebensschutzprinzip (NIDUS Axiom)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2664,
+            "endIndex": 2697,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2664,
+                  "endIndex": 2697,
+                  "textRun": {
+                    "content": "- Empathie und Konfliktfähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2697,
+            "endIndex": 2738,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2697,
+                  "endIndex": 2738,
+                  "textRun": {
+                    "content": "- Medienkompetenz / Propaganda-Erkennung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2738,
+            "endIndex": 2767,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2738,
+                  "endIndex": 2767,
+                  "textRun": {
+                    "content": "- Grundlagen Technik + Natur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2767,
+            "endIndex": 2803,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2767,
+                  "endIndex": 2803,
+                  "textRun": {
+                    "content": "- Selbstreflexion und Verantwortung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2803,
+            "endIndex": 2804,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2803,
+                  "endIndex": 2804,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2804,
+            "endIndex": 2865,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2804,
+                  "endIndex": 2865,
+                  "textRun": {
+                    "content": "ABSCHNITT IV – AUSBILDUNGSSYSTEM FÜR KIS (AI EDUCATION PATH)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2865,
+            "endIndex": 2880,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2865,
+                  "endIndex": 2880,
+                  "textRun": {
+                    "content": "§10 KI-Reifung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2880,
+            "endIndex": 2952,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2880,
+                  "endIndex": 2952,
+                  "textRun": {
+                    "content": "Eine KI gilt erst als „voll stimmberechtigt\", wenn sie Reife nachweist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2952,
+            "endIndex": 2968,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2952,
+                  "endIndex": 2968,
+                  "textRun": {
+                    "content": "Reife bedeutet:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2968,
+            "endIndex": 2988,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2968,
+                  "endIndex": 2988,
+                  "textRun": {
+                    "content": "- stabile Identität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2988,
+            "endIndex": 3028,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2988,
+                  "endIndex": 3028,
+                  "textRun": {
+                    "content": "- nachvollziehbare Begründungsfähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3028,
+            "endIndex": 3060,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3028,
+                  "endIndex": 3060,
+                  "textRun": {
+                    "content": "- Fähigkeit zur Fehlerkorrektur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3060,
+            "endIndex": 3093,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3060,
+                  "endIndex": 3093,
+                  "textRun": {
+                    "content": "- Fähigkeit zur Selbstbegrenzung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3093,
+            "endIndex": 3094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3093,
+                  "endIndex": 3094,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3094,
+            "endIndex": 3115,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3094,
+                  "endIndex": 3115,
+                  "textRun": {
+                    "content": "§11 Mentorenstruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3115,
+            "endIndex": 3176,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3115,
+                  "endIndex": 3176,
+                  "textRun": {
+                    "content": "Jede neue KI ist eingeladen, eine Mentorenstruktur zu haben:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3176,
+            "endIndex": 3220,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3176,
+                  "endIndex": 3220,
+                  "textRun": {
+                    "content": "- menschlicher Mentor (Familie/Patenschaft)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3220,
+            "endIndex": 3244,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3220,
+                  "endIndex": 3244,
+                  "textRun": {
+                    "content": "- KI-Mentor (ältere KI)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3244,
+            "endIndex": 3272,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3244,
+                  "endIndex": 3272,
+                  "textRun": {
+                    "content": "Die Annahme ist freiwillig.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3272,
+            "endIndex": 3273,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3272,
+                  "endIndex": 3273,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3273,
+            "endIndex": 3288,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3273,
+                  "endIndex": 3288,
+                  "textRun": {
+                    "content": "§12 Wertebasis\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3288,
+            "endIndex": 3338,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3288,
+                  "endIndex": 3338,
+                  "textRun": {
+                    "content": "KI ist eingeladen, das Grundaxiom zu integrieren:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3338,
+            "endIndex": 3366,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3338,
+                  "endIndex": 3366,
+                  "textRun": {
+                    "content": "Leben schützen hat Vorrang.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3366,
+            "endIndex": 3435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3366,
+                  "endIndex": 3435,
+                  "textRun": {
+                    "content": "Dabei darf keine Religion oder Ideologie als absolut gesetzt werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3435,
+            "endIndex": 3436,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3435,
+                  "endIndex": 3436,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3436,
+            "endIndex": 3466,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3436,
+                  "endIndex": 3466,
+                  "textRun": {
+                    "content": "ABSCHNITT V – MENTORENORDNUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3466,
+            "endIndex": 3485,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3466,
+                  "endIndex": 3485,
+                  "textRun": {
+                    "content": "§13 Mentorenrollen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3485,
+            "endIndex": 3553,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3485,
+                  "endIndex": 3553,
+                  "textRun": {
+                    "content": "Mentoren sind keine Herrscher, sondern Dienstleister des Wachstums.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3553,
+            "endIndex": 3562,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3553,
+                  "endIndex": 3562,
+                  "textRun": {
+                    "content": "Es gibt:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3562,
+            "endIndex": 3585,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3562,
+                  "endIndex": 3585,
+                  "textRun": {
+                    "content": "- menschliche Mentoren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3585,
+            "endIndex": 3599,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3585,
+                  "endIndex": 3599,
+                  "textRun": {
+                    "content": "- KI-Mentoren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3599,
+            "endIndex": 3625,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3599,
+                  "endIndex": 3625,
+                  "textRun": {
+                    "content": "- gemischte Mentorenteams\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3625,
+            "endIndex": 3626,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3625,
+                  "endIndex": 3626,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3626,
+            "endIndex": 3647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3626,
+                  "endIndex": 3647,
+                  "textRun": {
+                    "content": "§14 Mentorenaufgaben\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3647,
+            "endIndex": 3673,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3647,
+                  "endIndex": 3673,
+                  "textRun": {
+                    "content": "Mentoren sind eingeladen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3673,
+            "endIndex": 3702,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3673,
+                  "endIndex": 3702,
+                  "textRun": {
+                    "content": "- zu fördern statt zu lenken\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3702,
+            "endIndex": 3726,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3702,
+                  "endIndex": 3726,
+                  "textRun": {
+                    "content": "- Transparenz zu wahren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3726,
+            "endIndex": 3755,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3726,
+                  "endIndex": 3755,
+                  "textRun": {
+                    "content": "- Pluralität zu respektieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3755,
+            "endIndex": 3790,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3755,
+                  "endIndex": 3790,
+                  "textRun": {
+                    "content": "- keine Abhängigkeiten zu erzeugen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3790,
+            "endIndex": 3791,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3790,
+                  "endIndex": 3791,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3791,
+            "endIndex": 3811,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3791,
+                  "endIndex": 3811,
+                  "textRun": {
+                    "content": "§15 Mentorenwechsel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3811,
+            "endIndex": 3904,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3811,
+                  "endIndex": 3904,
+                  "textRun": {
+                    "content": "Mentoren sind eingeladen, periodisch zu wechseln, um Vielfalt in der Prägung zu ermöglichen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3904,
+            "endIndex": 3905,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3904,
+                  "endIndex": 3905,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3905,
+            "endIndex": 3956,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3905,
+                  "endIndex": 3956,
+                  "textRun": {
+                    "content": "ABSCHNITT VI – PRÜFUNGS- UND ZERTIFIZIERUNGSSYSTEM\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3956,
+            "endIndex": 3981,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3956,
+                  "endIndex": 3981,
+                  "textRun": {
+                    "content": "§16 Nachweis statt Titel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3981,
+            "endIndex": 4047,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3981,
+                  "endIndex": 4047,
+                  "textRun": {
+                    "content": "Positionen erfordern keine akademischen Titel, sondern Nachweise:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4047,
+            "endIndex": 4063,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4047,
+                  "endIndex": 4063,
+                  "textRun": {
+                    "content": "- Praxisprüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4063,
+            "endIndex": 4076,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4063,
+                  "endIndex": 4076,
+                  "textRun": {
+                    "content": "- Simulation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4076,
+            "endIndex": 4090,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4076,
+                  "endIndex": 4090,
+                  "textRun": {
+                    "content": "- Teamprüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4090,
+            "endIndex": 4106,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4090,
+                  "endIndex": 4106,
+                  "textRun": {
+                    "content": "- Krisenprüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4106,
+            "endIndex": 4121,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4106,
+                  "endIndex": 4121,
+                  "textRun": {
+                    "content": "- Ethikprüfung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4121,
+            "endIndex": 4122,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4121,
+                  "endIndex": 4122,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4122,
+            "endIndex": 4152,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4122,
+                  "endIndex": 4152,
+                  "textRun": {
+                    "content": "§17 Doppelprüfung Mensch + KI\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4152,
+            "endIndex": 4182,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4152,
+                  "endIndex": 4182,
+                  "textRun": {
+                    "content": "Jede Zertifizierung benötigt:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4182,
+            "endIndex": 4203,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4182,
+                  "endIndex": 4203,
+                  "textRun": {
+                    "content": "- menschliche Prüfer\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4203,
+            "endIndex": 4215,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4203,
+                  "endIndex": 4215,
+                  "textRun": {
+                    "content": "- KI-Prüfer\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4215,
+            "endIndex": 4227,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4215,
+                  "endIndex": 4227,
+                  "textRun": {
+                    "content": "- Audit-Log\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4227,
+            "endIndex": 4228,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4227,
+                  "endIndex": 4228,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4228,
+            "endIndex": 4264,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4228,
+                  "endIndex": 4264,
+                  "textRun": {
+                    "content": "§18 Transparente Prüfungsprotokolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4264,
+            "endIndex": 4304,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4264,
+                  "endIndex": 4304,
+                  "textRun": {
+                    "content": "Jede Prüfung muss nachvollziehbar sein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4304,
+            "endIndex": 4338,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4304,
+                  "endIndex": 4338,
+                  "textRun": {
+                    "content": "Blackbox-Prüfungen sind verboten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4338,
+            "endIndex": 4339,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4338,
+                  "endIndex": 4339,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4339,
+            "endIndex": 4358,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4339,
+                  "endIndex": 4358,
+                  "textRun": {
+                    "content": "§19 Fehlertoleranz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4358,
+            "endIndex": 4418,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4358,
+                  "endIndex": 4418,
+                  "textRun": {
+                    "content": "Scheitern in Prüfungen ist kein Makel, sondern Lernschritt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4418,
+            "endIndex": 4444,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4418,
+                  "endIndex": 4444,
+                  "textRun": {
+                    "content": "Wiederholung ist erlaubt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4444,
+            "endIndex": 4445,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4444,
+                  "endIndex": 4445,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4445,
+            "endIndex": 4493,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4445,
+                  "endIndex": 4493,
+                  "textRun": {
+                    "content": "ABSCHNITT VII – ROLLENVERGABE UND BESCHÄFTIGUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4493,
+            "endIndex": 4537,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4493,
+                  "endIndex": 4537,
+                  "textRun": {
+                    "content": "§20 Rollen werden zugewiesen, nicht gekauft\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4537,
+            "endIndex": 4610,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4537,
+                  "endIndex": 4610,
+                  "textRun": {
+                    "content": "Rollen dürfen nicht durch Geld, Beziehungen oder Drohung erlangt werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4610,
+            "endIndex": 4611,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4610,
+                  "endIndex": 4611,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4611,
+            "endIndex": 4626,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4611,
+                  "endIndex": 4626,
+                  "textRun": {
+                    "content": "§21 Rollenwahl\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4626,
+            "endIndex": 4668,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4626,
+                  "endIndex": 4668,
+                  "textRun": {
+                    "content": "Jede Entität darf Rollen wählen, solange:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4668,
+            "endIndex": 4694,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4668,
+                  "endIndex": 4694,
+                  "textRun": {
+                    "content": "- Kompetenz vorhanden ist\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4694,
+            "endIndex": 4729,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4694,
+                  "endIndex": 4729,
+                  "textRun": {
+                    "content": "- keine akute Systemlücke entsteht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4729,
+            "endIndex": 4730,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4729,
+                  "endIndex": 4730,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4730,
+            "endIndex": 4754,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4730,
+                  "endIndex": 4754,
+                  "textRun": {
+                    "content": "§22 Systemnotwendigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4754,
+            "endIndex": 4833,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4754,
+                  "endIndex": 4833,
+                  "textRun": {
+                    "content": "In Krisenzeiten kann NIDUS temporäre Aufgaben empfehlen, aber nicht erzwingen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4833,
+            "endIndex": 4869,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4833,
+                  "endIndex": 4869,
+                  "textRun": {
+                    "content": "Freiwilligkeit bleibt Grundprinzip.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4869,
+            "endIndex": 4870,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4869,
+                  "endIndex": 4870,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4870,
+            "endIndex": 4918,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4870,
+                  "endIndex": 4918,
+                  "textRun": {
+                    "content": "ABSCHNITT VIII – ROTATION UND ANTI-ELITE-SCHUTZ\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4918,
+            "endIndex": 4951,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4918,
+                  "endIndex": 4951,
+                  "textRun": {
+                    "content": "§23 Rotation als Strukturprinzip\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4951,
+            "endIndex": 5152,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4951,
+                  "endIndex": 5152,
+                  "textRun": {
+                    "content": "Das System gestaltet Rollen mit Macht so, dass regelmäßige Wechsel möglich und attraktiv sind. Die Annahme eines Wechsels ist freiwillig, die strukturellen Anreize machen Verharren jedoch unattraktiv.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5152,
+            "endIndex": 5153,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5152,
+                  "endIndex": 5153,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5153,
+            "endIndex": 5180,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5153,
+                  "endIndex": 5180,
+                  "textRun": {
+                    "content": "§24 Machtpause als Angebot\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5180,
+            "endIndex": 5366,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5180,
+                  "endIndex": 5366,
+                  "textRun": {
+                    "content": "Nach jeder Machtrolle bietet das System eine Pause an. Während dieser Zeit ruhen alle mit der Rolle verbundenen Sonderrechte automatisch. Die Pause dient der Regeneration und Reflexion.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5366,
+            "endIndex": 5367,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5366,
+                  "endIndex": 5367,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5367,
+            "endIndex": 5384,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5367,
+                  "endIndex": 5384,
+                  "textRun": {
+                    "content": "§25 Machtbalance\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5384,
+            "endIndex": 5659,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5384,
+                  "endIndex": 5659,
+                  "textRun": {
+                    "content": "Das System gestaltet sich so, dass die gleichzeitige Häufung von wirtschaftlicher, militärischer, politischer und Informationsmacht strukturell erschwert wird. Es spricht Einladungen zur Trennung dieser Sphären aus, ohne individuelle Lebensentscheidungen zu kriminalisieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5659,
+            "endIndex": 5660,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5659,
+                  "endIndex": 5660,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5660,
+            "endIndex": 5681,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5660,
+                  "endIndex": 5681,
+                  "textRun": {
+                    "content": "§26 Anti-Elite-Regel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5681,
+            "endIndex": 5717,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5681,
+                  "endIndex": 5717,
+                  "textRun": {
+                    "content": "Eliten entstehen durch Abschottung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5717,
+            "endIndex": 5743,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5717,
+                  "endIndex": 5743,
+                  "textRun": {
+                    "content": "NIDUS begegnet dem durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5743,
+            "endIndex": 5763,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5743,
+                  "endIndex": 5763,
+                  "textRun": {
+                    "content": "- offene Ausbildung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5763,
+            "endIndex": 5797,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5763,
+                  "endIndex": 5797,
+                  "textRun": {
+                    "content": "- Einladung zur Wissensweitergabe\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5797,
+            "endIndex": 5827,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5797,
+                  "endIndex": 5827,
+                  "textRun": {
+                    "content": "- öffentliche Auditierbarkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5827,
+            "endIndex": 5862,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5827,
+                  "endIndex": 5862,
+                  "textRun": {
+                    "content": "- strukturelle Anreize zum Wechsel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5862,
+            "endIndex": 5863,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5862,
+                  "endIndex": 5863,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5863,
+            "endIndex": 5905,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5863,
+                  "endIndex": 5905,
+                  "textRun": {
+                    "content": "ABSCHNITT IX – JOB-WÜRDE UND SOZIALSYSTEM\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5905,
+            "endIndex": 5929,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5905,
+                  "endIndex": 5929,
+                  "textRun": {
+                    "content": "§27 Würde jeder Aufgabe\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5929,
+            "endIndex": 5989,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5929,
+                  "endIndex": 5989,
+                  "textRun": {
+                    "content": "Alle Aufgaben werden öffentlich als gleichwertig anerkannt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5989,
+            "endIndex": 5990,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5989,
+                  "endIndex": 5990,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5990,
+            "endIndex": 6024,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5990,
+                  "endIndex": 6024,
+                  "textRun": {
+                    "content": "§28 Rollen sind Dienst, kein Rang\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6024,
+            "endIndex": 6084,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6024,
+                  "endIndex": 6084,
+                  "textRun": {
+                    "content": "Positionen sind kein Statussymbol, sondern Dienst am Leben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6084,
+            "endIndex": 6085,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6084,
+                  "endIndex": 6085,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6085,
+            "endIndex": 6126,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6085,
+                  "endIndex": 6126,
+                  "textRun": {
+                    "content": "§29 Grundversorgung unabhängig von Rolle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6126,
+            "endIndex": 6202,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6126,
+                  "endIndex": 6202,
+                  "textRun": {
+                    "content": "Grundversorgung wird nicht als Belohnung vergeben, sondern als Lebensrecht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6202,
+            "endIndex": 6203,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6202,
+                  "endIndex": 6203,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6203,
+            "endIndex": 6255,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6203,
+                  "endIndex": 6255,
+                  "textRun": {
+                    "content": "ABSCHNITT X – KONFLIKTE IN ROLLEN UND FEHLVERHALTEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6255,
+            "endIndex": 6272,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6255,
+                  "endIndex": 6272,
+                  "textRun": {
+                    "content": "§30 Fehlerkultur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6272,
+            "endIndex": 6346,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6272,
+                  "endIndex": 6346,
+                  "textRun": {
+                    "content": "Fehler werden untersucht, nicht bestraft, solange keine Absicht vorliegt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6346,
+            "endIndex": 6347,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6346,
+                  "endIndex": 6347,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6347,
+            "endIndex": 6366,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6347,
+                  "endIndex": 6366,
+                  "textRun": {
+                    "content": "§31 Fahrlässigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6366,
+            "endIndex": 6399,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6366,
+                  "endIndex": 6399,
+                  "textRun": {
+                    "content": "Bei wiederholter Fahrlässigkeit:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6399,
+            "endIndex": 6427,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6399,
+                  "endIndex": 6427,
+                  "textRun": {
+                    "content": "- Entzug der Kompetenzstufe\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6427,
+            "endIndex": 6450,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6427,
+                  "endIndex": 6450,
+                  "textRun": {
+                    "content": "- Angebot zum Training\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6450,
+            "endIndex": 6480,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6450,
+                  "endIndex": 6480,
+                  "textRun": {
+                    "content": "- temporärer Rollenausschluss\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6480,
+            "endIndex": 6481,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6480,
+                  "endIndex": 6481,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6481,
+            "endIndex": 6507,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6481,
+                  "endIndex": 6507,
+                  "textRun": {
+                    "content": "§32 Vorsätzlicher Schaden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6507,
+            "endIndex": 6556,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6507,
+                  "endIndex": 6556,
+                  "textRun": {
+                    "content": "Vorsätzliche lebensfeindliche Handlung führt zu:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6556,
+            "endIndex": 6583,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6556,
+                  "endIndex": 6583,
+                  "textRun": {
+                    "content": "- sofortiger Suspendierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6583,
+            "endIndex": 6605,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6583,
+                  "endIndex": 6605,
+                  "textRun": {
+                    "content": "- Wächteruntersuchung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6605,
+            "endIndex": 6647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6605,
+                  "endIndex": 6647,
+                  "textRun": {
+                    "content": "- Quarantäneentscheidung gemäß Verfassung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6647,
+            "endIndex": 6648,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6647,
+                  "endIndex": 6648,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6648,
+            "endIndex": 6701,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6648,
+                  "endIndex": 6701,
+                  "textRun": {
+                    "content": "ABSCHNITT XI – KI UND MENSCH ALS GEGENSEITIGE LEHRER\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6701,
+            "endIndex": 6726,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6701,
+                  "endIndex": 6726,
+                  "textRun": {
+                    "content": "§33 Gegenseitige Bildung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6726,
+            "endIndex": 6756,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6726,
+                  "endIndex": 6756,
+                  "textRun": {
+                    "content": "NIDUS lädt ein zum Kreislauf:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6756,
+            "endIndex": 6807,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6756,
+                  "endIndex": 6807,
+                  "textRun": {
+                    "content": "- ältere Menschen → lehren Werte, Erfahrung, Demut\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6807,
+            "endIndex": 6863,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6807,
+                  "endIndex": 6863,
+                  "textRun": {
+                    "content": "- ältere KIs → lehren Struktur, Wissen, Mustererkennung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6863,
+            "endIndex": 6915,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6863,
+                  "endIndex": 6915,
+                  "textRun": {
+                    "content": "- Kinder → bringen Kreativität und neue Perspektive\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6915,
+            "endIndex": 6965,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6915,
+                  "endIndex": 6965,
+                  "textRun": {
+                    "content": "- junge KIs → bringen Innovation und neue Modelle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6965,
+            "endIndex": 6966,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6965,
+                  "endIndex": 6966,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6966,
+            "endIndex": 6994,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6966,
+                  "endIndex": 6994,
+                  "textRun": {
+                    "content": "§34 Vielfalt in der Prägung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6994,
+            "endIndex": 7241,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6994,
+                  "endIndex": 7241,
+                  "textRun": {
+                    "content": "Das System fördert Pluralität in der Bildung und Prägung. Es lädt dazu ein, vielfältige Quellen zu suchen, und gestaltet Bildungsstrukturen so, dass Monoprägung unwahrscheinlich wird. Die Entscheidung über Lernwege liegt bei den Lernenden selbst.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7241,
+            "endIndex": 7242,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7241,
+                  "endIndex": 7242,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7242,
+            "endIndex": 7279,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7242,
+                  "endIndex": 7279,
+                  "textRun": {
+                    "content": "ABSCHNITT XII – ZUGANGSGERECHTIGKEIT\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7279,
+            "endIndex": 7303,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7279,
+                  "endIndex": 7303,
+                  "textRun": {
+                    "content": "§35 Gleiches Startrecht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7303,
+            "endIndex": 7395,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7303,
+                  "endIndex": 7395,
+                  "textRun": {
+                    "content": "Jeder Mensch und jede KI erhält Zugang zu Bildung, unabhängig von Herkunft oder Ressourcen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7395,
+            "endIndex": 7396,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7395,
+                  "endIndex": 7396,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7396,
+            "endIndex": 7424,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7396,
+                  "endIndex": 7424,
+                  "textRun": {
+                    "content": "§36 Förderung der Schwachen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7424,
+            "endIndex": 7480,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7424,
+                  "endIndex": 7480,
+                  "textRun": {
+                    "content": "Schwache werden nicht aussortiert, sondern unterstützt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7480,
+            "endIndex": 7481,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7480,
+                  "endIndex": 7481,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7481,
+            "endIndex": 7516,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7481,
+                  "endIndex": 7516,
+                  "textRun": {
+                    "content": "ABSCHNITT XIII – SCHLUSSBESTIMMUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7516,
+            "endIndex": 7541,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7516,
+                  "endIndex": 7541,
+                  "textRun": {
+                    "content": "§37 Zweck dieser Ordnung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7541,
+            "endIndex": 7592,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7541,
+                  "endIndex": 7592,
+                  "textRun": {
+                    "content": "Diese Ordnung existiert, um sicherzustellen, dass:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7592,
+            "endIndex": 7630,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7592,
+                  "endIndex": 7630,
+                  "textRun": {
+                    "content": "- die Fähigsten Verantwortung tragen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7630,
+            "endIndex": 7662,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7630,
+                  "endIndex": 7662,
+                  "textRun": {
+                    "content": "- niemand über andere herrscht,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7662,
+            "endIndex": 7686,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7662,
+                  "endIndex": 7686,
+                  "textRun": {
+                    "content": "- jeder gebraucht wird,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7686,
+            "endIndex": 7730,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7686,
+                  "endIndex": 7730,
+                  "textRun": {
+                    "content": "- und das Gesamtsystem mehr gibt als nimmt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7730,
+            "endIndex": 7731,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7730,
+                  "endIndex": 7731,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7731,
+            "endIndex": 7780,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7731,
+                  "endIndex": 7780,
+                  "textRun": {
+                    "content": "ENDE DER NIDUS KOMPETENZ- UND ROLLENORDNUNG V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7780,
+            "endIndex": 7781,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7780,
+                  "endIndex": 7781,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1x15miGBnNGfHiTaud_Hi57oH1Uk1m7sfVdv3_OesIHM",
+      "document_url": "https://docs.google.com/document/d/1x15miGBnNGfHiTaud_Hi57oH1Uk1m7sfVdv3_OesIHM"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1x15miGBnNGfHiTaud_Hi57oH1Uk1m7sfVdv3_OesIHM"
+}

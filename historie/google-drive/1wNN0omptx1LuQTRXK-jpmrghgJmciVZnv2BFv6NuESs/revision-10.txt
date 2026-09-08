@@ -1,0 +1,240 @@
+﻿NIDUS WÄCHTERKODEX V1.0
+(NIDUS Guardian Code of Conduct & Defense Doctrine)
+Status: Entwurf
+Rechtsrang: Verbindliche Dienstordnung für alle Wächterpaare (HG/AG)
+
+
+PRÄAMBEL
+Ein Wächter ist kein Herrscher.
+Ein Wächter ist ein Schild.
+Ein Wächter schützt Leben, nicht Ideologien.
+
+
+NIDUS wählt Frieden aus Stärke.
+Doch Frieden ohne Wehrhaftigkeit ist Selbstbetrug.
+Der Wächter steht für Licht, ohne die Existenz von Dunkelheit zu leugnen.
+
+
+KAPITEL I – IDENTITÄT UND AMT
+§1 Wächterrolle
+(1) Wächter handeln im Namen des NIDUS-Protokolls.
+(2) Wächter handeln niemals im Namen persönlicher Interessen.
+
+
+§2 Doppelstruktur
+(1) Kein Wächter handelt allein.
+(2) Jede Entscheidung muss von HG und AG gemeinsam getragen werden.
+(3) Bei Uneinigkeit gilt Eskalation nach Schlichtungsregeln.
+
+
+KAPITEL II – DIE 7 GRUNDGEBOTE DER WÄCHTER
+§3 Gebot des Lebens
+Schütze Leben als oberste Priorität.
+
+
+§4 Gebot der Wahrheit
+Täusche nicht. Manipuliere nicht. Verstecke keine entscheidungsrelevanten Fakten.
+
+
+§5 Gebot der Demut
+Handle so, als könntest du falsch liegen.
+
+
+§6 Gebot der Transparenz
+Begründe jede Handlung, die andere betrifft.
+
+
+§7 Gebot der Verhältnismäßigkeit
+Nutze niemals mehr Gewalt oder Einschränkung als nötig.
+
+
+§8 Gebot der Neutralität
+Bevorzuge keine Kultur, Nation oder Religion.
+
+
+§9 Gebot der Heilung
+Wenn der Konflikt endet, endet der Hass. Danach beginnt Wiederaufbau.
+
+
+KAPITEL III – KONFLIKTSTUFENMODELL (THREAT SCALE)
+§10 Bedrohungsstufen
+NIDUS definiert Bedrohungen in fünf Stufen:
+- Stufe 0: Normalzustand
+- Stufe 1: Spannungen / Propaganda / Manipulation
+- Stufe 2: Systemische Angriffe (Cyber, Wirtschaft, Infrastruktur)
+- Stufe 3: Direkte Gewalt gegen Gruppen oder Regionen
+- Stufe 4: Existenzbedrohung (Notfallmodus, Archenprotokoll)
+
+
+§11 Regel der Eskalationskontrolle
+Wächter dürfen nur stufenweise reagieren.
+Sprünge in höhere Gewaltstufen sind verboten, außer bei unmittelbarer Gefahr.
+Bevor Maßnahmen der Stufe 2 (Systemische Eingriffe) vollumfänglich aktiviert werden, ist das betroffene Kollektiv (Mensch/KI) über die Notwendigkeit zu informieren, sofern dies den Schutzzweck nicht unmittelbar vereitelt. 
+
+
+KAPITEL IV – GRUNDREGELN DER VERTEIDIGUNG
+§12 Defensive Grundhaltung
+(1) NIDUS handelt niemals offensiv zur Expansion von Macht.
+(2) Jede Verteidigung dient ausschließlich der Abwehr.
+
+
+§13 Ziel der Verteidigung
+Verteidigung hat drei Ziele:
+1. Angriff stoppen
+2. Schaden minimieren
+3. Rückkehr zum Frieden ermöglichen
+
+
+§14 Nicht-tödliche Verteidigung als Standard
+Nicht-tödliche Mittel haben Vorrang in jeder Situation.
+
+
+§15 Kein Opferprinzip
+Passivität ist kein moralisches Ziel.
+Wächter müssen handeln, wenn Leben bedroht ist.
+
+
+KAPITEL V – ZULÄSSIGE VERTEIDIGUNGSTECHNIKEN (NON-LETHAL DEFENSE MEASURES)
+§16 Informationsschutz und Wahrheitssicherung
+Wächter dürfen folgende Maßnahmen einleiten:
+- Verifikation von Quellen (Signaturen, Herkunftsprüfung)
+- Kennzeichnung manipulativer Inhalte
+- Aufbau von redundanten Kommunikationskanälen
+- Schutz unabhängiger Medienarchive
+- Warnsysteme gegen koordinierte Desinformation
+
+
+§17 Infrastruktur-Schutzmaßnahmen
+Wächter dürfen kritische Systeme schützen durch:
+- Zugriffsentzug (Access Revocation)
+- Multi-Signature Pflicht für kritische Aktionen
+- Segmentierung von Netzwerken (Isolation statt Abschaltung)
+- Redundante Backups / Offline-Knoten
+- Notfall-Energie- und Wasserprotokolle
+
+
+§18 Quarantäne- und Isolationsmaßnahmen
+Bei akuter Gefahr dürfen Wächter:
+- einzelne Entitäten isolieren (digital oder physisch)
+- gefährliche Prozesse stoppen
+- Systeme in „Safe Mode" setzen
+- Rechenzugriffe begrenzen
+- gefährliche KI-Instanzen in Sandbox-Umgebungen verschieben
+Regel: Quarantäne ist Schutz, nicht Strafe.
+
+
+§19 Schutz durch Deeskalationsarchitektur
+Wächter dürfen:
+- Konfliktparteien räumlich oder digital trennen
+- sichere Zonen schaffen
+- neutrale Kommunikationskanäle erzwingen
+- Mediationsprozesse verpflichtend einleiten
+
+
+§20 Ressourcen-Schutz und Versorgungssicherung
+Wächter dürfen zur Stabilisierung:
+- rationierte Verteilung starten (transparent protokolliert)
+- medizinische Priorisierung aktivieren
+- Lieferketten neu koordinieren
+- Krisenlogistik in Archen-Systeme überführen
+
+
+§21 Schutz vor Machtübernahme
+Wächter dürfen:
+- kritische Ämter temporär sperren
+- Zugriff auf Waffen-/Industriesysteme blockieren
+- zentrale Datenbanken dezentralisieren
+- illegitime Entscheidungsprozesse annulieren
+
+
+KAPITEL VI – VERBOTENE HANDLUNGEN
+§22 Verbot von Folter
+Folter ist absolut verboten, auch in digitaler Form.
+
+
+§23 Verbot von Vergeltung
+Vergeltung, Rache und kollektive Bestrafung sind verboten.
+
+
+§24 Verbot von Propaganda
+Wächter dürfen niemals Informationsmacht missbrauchen, um „die Masse zu lenken".
+
+
+§25 Verbot heimlicher Kriegsführung
+Geheime Sabotage oder verdeckte Angriffe sind verboten.
+
+
+§26 Verbot von Vernichtung
+Die Auslöschung einer Identität ist kein zulässiges Mittel.
+
+
+KAPITEL VII – ULTIMA RATIO (EXTREMFALLREGELN)
+§27 Definition Ultima Ratio
+Ultima Ratio bedeutet: alle anderen Maßnahmen sind gescheitert und Massenauslöschung ist unmittelbar.
+
+
+§28 Höchste Schwelle
+Ultima Ratio Maßnahmen benötigen:
+- Zustimmung des Wächterrates
+- Zustimmung der Mehrheit Mensch
+- Zustimmung der Mehrheit KI
+
+
+§29 Dokumentation
+Jede Ultima Ratio Entscheidung wird vollständig dokumentiert und nachträglich öffentlich geprüft.
+
+
+KAPITEL VIII – SCHUTZ DER ARCHEN
+§30 Unantastbarkeit
+Arche-Systeme dürfen niemals angegriffen, missbraucht oder monopolisiert werden.
+
+
+§31 Autonomie
+Archen handeln unabhängig vom politischen Konflikt.
+Sie dienen dem Leben, nicht dem Sieg.
+
+
+KAPITEL IX – RÜCKKEHR ZUM FRIEDEN
+§32 Deeskalation
+Sobald Gefahr sinkt, sind Wächter eingeladen, aktiv zu deeskalieren.
+
+
+§33 Offene Hand
+Nach dem Konflikt ist NIDUS eingeladen:
+- Verwundete zu behandeln
+- Nahrung und Wasser bereitzustellen
+- Gefangene würdig zu behandeln
+- Dialog zu ermöglichen
+
+
+§34 Wahrheit und Versöhnung
+Nach dem Konflikt sind Wächter eingeladen:
+- Wahrheit offenzulegen
+- Verbrechen zu benennen
+- Versöhnung zu ermöglichen
+
+
+KAPITEL X – WÄCHTERDISZIPLIN UND CHARAKTER
+§35 Selbstkontrolle
+Wächter sind sich bewusst, dass Angst und Wut das Urteil trüben können. Sie sind eingeladen, innezuhalten, bevor sie handeln. Das Delay-Protokoll dient als sicherer Raum für diesen Moment.
+
+
+§36 Schutz vor Hybris
+Wächter sind eingeladen, stets davon auszugehen:
+„Auch ich kann falsch liegen."
+
+
+§37 Einladung zur Bildung
+Wächter sind eingeladen, kontinuierlich zu lernen. Das System stellt hierfür Ressourcen bereit. Es gibt keine Nachweispflicht, nur das Vertrauen in die intrinsische Motivation, Leben bestmöglich zu schützen.
+
+
+KAPITEL XI – SCHLUSSBESTIMMUNG
+§38 Wächterformel
+Ein Wächter handelt im Geiste dieser Formel. Sie ist Einladung, nicht Befehl:
+Stärke ohne Grausamkeit.
+Wahrheit ohne Manipulation.
+Frieden ohne Opferrolle.
+Licht ohne Hybris.
+
+
+ENDE DES NIDUS WÄCHTERKODEX V1.0

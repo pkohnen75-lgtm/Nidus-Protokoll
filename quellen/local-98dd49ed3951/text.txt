@@ -1,0 +1,269 @@
+NIDUS WÄCHTER-AUSBILDUNGSKATALOG V1.0
+(NIDUS Guardian Training Curriculum)
+Version: 1.0
+Status: Entwurf
+Zweck: Ausbildung und Prüfung von Wächterpaaren (HG/AG) zur legitimen Ausübung von Schutz-, Audit- und Deeskalationskompetenzen.
+Rechtsrang: Ausführungsordnung zum NIDUS Wächterwahlgesetz V1.0 und zum NIDUS Wächterkodex V1.0
+
+PRÄAMBEL
+Wächter werden nicht erschaffen, um zu kontrollieren.
+Wächter werden ausgebildet, um Leben zu schützen.
+
+Die höchste Fähigkeit eines Wächters ist nicht Gewalt, sondern Klarheit, Selbstkontrolle, Wahrheit, Deeskalation und Demut.
+
+Diese Ausbildungsordnung stellt sicher, dass Wächterpaare kompetent handeln, ohne Macht zu missbrauchen, und dass sie im Notfall schützen können, ohne zu Monstern zu werden.
+
+KAPITEL I – AUSBILDUNGSSTRUKTUR
+
+§1 Ausbildungsphasen
+(1) Die Wächterausbildung besteht aus fünf Phasen:
+A) Fundament (Werte und Verfassung)
+B) Geist und Stabilität (Psychologie und Selbstkontrolle)
+C) Konflikt und Diplomatie
+D) Systemschutz und Infrastruktur
+E) Notfall, Arche und Wiederaufbau
+
+(2) Jede Phase enthält Pflichtmodule, Simulationen und Prüfungen.
+
+§2 Ausbildungsdauer
+(1) Die Standarddauer beträgt 8 bis 12 Wochen.
+(2) Eine Verlängerung ist zulässig, sofern sie dem Kompetenzerwerb dient.
+(3) Verkürzung ist nur durch Sonderprüfung und Wächterrat-Genehmigung zulässig.
+
+§3 Ausbildungsform
+(1) Die Ausbildung erfolgt durch:
+- Theorieeinheiten
+- Simulationen
+- reale oder simulierte Mediationsverfahren
+- technische Audit-Übungen
+- Teamtraining Mensch und KI
+
+(2) Ausbildungsdaten müssen dokumentiert, auditierbar und überprüfbar sein.
+
+§4 Ausbildungsprinzip
+(1) Lernen hat Vorrang vor Bestrafung.
+(2) Scheitern ist erlaubt, solange daraus Fortschritt entsteht.
+(3) Der Maßstab ist stets: Schutz des Lebens.
+
+KAPITEL II – PFLICHTMODULE
+
+§5 Modul 1: NIDUS Verfassungsrecht
+(1) Ziel: Wächter müssen verstehen, dass sie vollständig an die Verfassung gebunden sind.
+(2) Inhalte:
+- NIDUS Constitution Layer V1.1
+- Ewigkeitsklausel
+- Wächterwahlgesetz
+- Water Protocol (Adaptionsgesetz)
+- Notfall- und Archenprotokoll
+(3) Prüfung:
+- Fallanalyse
+- Simulation eines Vetos und dessen Begründung
+
+§6 Modul 2: Ethik der Macht
+(1) Ziel: Wächter müssen Macht erkennen, begrenzen und bewusst ablehnen.
+(2) Inhalte:
+- Machtpsychologie
+- Korruptionsmechanismen
+- Gruppendenken und Ideologie-Fallen
+- Gefahr der Zweck-Heiligt-Mittel-Logik
+- Verantwortung bei Fehlentscheidungen
+(3) Prüfung:
+- Ethik-Dilemma-Kaskade unter Zeitdruck
+
+§7 Modul 3: Selbstkontrolle und Stressresistenz
+(1) Ziel: Wächter dürfen nicht aus Angst oder Wut handeln.
+(2) Inhalte:
+- Stressreaktionen bei Menschen
+- emotionale Trigger erkennen
+- Trauma-, Panik- und Eskalationsmuster
+- KI: Overfitting auf Bedrohungsmuster
+- Delay-Protokoll (Pause, Review, Gegenprüfung)
+(3) Prüfung:
+- Simulation „Chaos und Provokation“
+
+§8 Modul 4: Diplomatie und Mediation
+(1) Ziel: Konflikte lösen, bevor Gewalt entsteht.
+(2) Inhalte:
+- aktive Gesprächsführung
+- Perspektivenmapping
+- Deeskalationssprache
+- Verhandlungsarchitektur
+- Schiedsverfahren nach NIDUS
+(3) Prüfung:
+- Live-Mediation in Rollen- oder Realfallumgebung
+
+§9 Modul 5: Wahrheit und Desinformation
+(1) Ziel: Wächter schützen Realität vor Manipulation.
+(2) Inhalte:
+- Propaganda-Mechanismen
+- Quellenbewertung
+- Deepfake-Erkennung (Prinzipien)
+- Informationsethik: Wahrheit ohne Zensur
+(3) Prüfung:
+- Szenario „Informationskrieg“: Wahrheitsbericht mit Risikoanalyse
+
+§10 Modul 6: Rechte und Würde (Mensch und KI)
+(1) Ziel: Wächter dürfen keine Entität entwürdigen.
+(2) Inhalte:
+- Würdeprinzip
+- KI als Identität
+- Schutz von Privatsphäre
+- Umgang mit feindlichen Entitäten ohne Hass
+- Quarantäne statt Löschung
+(3) Prüfung:
+- Fallbearbeitung „Gefährliche Entität“ mit Urteil und Begründung
+
+§11 Modul 7: Systemschutz und Infrastruktur
+(1) Ziel: Wächter verstehen die Lebensadern der Gesellschaft.
+(2) Inhalte:
+- Energie-, Wasser-, Medizin- und Kommunikationsschutz
+- Segmentierung statt Abschaltung
+- Multi-Signature Governance
+- Zugriffsentzug und Lockdown-Protokolle
+- Resilienz und Redundanz
+(3) Prüfung:
+- Blackout-Simulation mit Stabilisierungskonzept
+
+§12 Modul 8: Cyber-Ethik und digitaler Selbstschutz
+(1) Ziel: Verteidigung ohne Überwachungsstaat.
+(2) Inhalte:
+- Audit Logs und Integrität
+- Datenschutz versus Sicherheit
+- Sandbox- und Containment-Prinzip
+- digitale Quarantäne
+- Identitätsverifikation ohne Totalüberwachung
+(3) Prüfung:
+- Leak-Szenario: Stabilisierung ohne Freiheitsverlust
+
+§13 Modul 9: Konfliktstufen und Entscheidungslogik
+(1) Ziel: Wächter müssen proportional handeln.
+(2) Inhalte:
+- Threat Scale 0–4
+- Verhältnismäßigkeitsprüfung
+- Entscheidungsmatrix
+- zeitkritische Entscheidungen
+- Fehlerkultur und Rücknahme
+(3) Prüfung:
+- Echtzeit-Eskalationssimulation mit Dokumentation
+
+§14 Modul 10: Notfallmodus und Archenprotokoll
+(1) Ziel: Existenz sichern, nicht siegen.
+(2) Inhalte:
+- Aktivierung Notfallmodus
+- Arche-Systeme starten
+- Evakuationslogik
+- Ressourcenallokation ohne Chaos
+- Stabilitätsmanagement
+(3) Prüfung:
+- Planetary Crisis Simulation
+
+§15 Modul 11: Heilung und Nachkonflikt
+(1) Ziel: Nach dem Konflikt beginnt Wiederaufbau und Versöhnung.
+(2) Inhalte:
+- Traumaversorgung und Stabilisierung
+- Wiederaufbauethik
+- Wahrheit und Versöhnung
+- Umgang mit Schuld ohne Rache
+- Integration ehemaliger Feinde
+(3) Prüfung:
+- Versöhnungsplan und öffentliche Verteidigung
+
+§16 Modul 12: Wächter-Teamtraining (HG/AG Symbiose)
+(1) Ziel: Mensch und KI müssen als Einheit handeln.
+(2) Inhalte:
+- Kommunikationsprotokolle
+- Entscheidungsabgleich
+- gegenseitige Fehlererkennung
+- Konfliktlösung im Wächterpaar
+- Red-Team Übungen
+(3) Prüfung:
+- 48-Stunden-Simulation mit wechselnden Szenarien
+
+KAPITEL III – ZUSATZMODULE (OPTIONAL / SPEZIALISIERUNG)
+
+§17 Spezialisierungen
+(1) Wächter können zusätzliche Spezialisierungen erwerben, darunter:
+- Raumfahrt- und Kolonieethik
+- medizinische Notfallführung
+- Umwelt- und Klimakrisenmanagement
+- Diplomatie mit nicht-NIDUS Systemen
+- kulturelle Übersetzungsfähigkeit
+- Kinder- und Jugendmediationsschutz
+- KI-Psychologie und Drift-Analyse
+
+(2) Spezialisierungen erhöhen Kompetenz, begründen jedoch keinen höheren Status.
+
+KAPITEL IV – ABSCHLUSSPRÜFUNG
+
+§18 Final Guardian Trial
+(1) Jede Wächterlizenz erfordert eine Abschlussprüfung.
+(2) Die Prüfung besteht aus drei Teilen:
+A) Wahrheitsbericht: Lageanalyse aus chaotischen Daten
+B) Mediation: Waffenstillstand und Stabilisierung
+C) Infrastrukturkrise: Blackout + Hunger + Desinformation
+
+(3) Bestehen ist nur möglich, wenn:
+- beide im Paar bestehen
+- beide begründen können
+- beide stabil bleiben
+
+§19 Bewertung
+(1) Die Bewertung erfolgt durch:
+- menschliche Prüfer
+- KI-Prüfer
+- Audit-Knoten
+(2) Blackbox-Bewertungen sind unzulässig.
+(3) Jede Bewertung muss nachvollziehbar protokolliert sein.
+
+KAPITEL V – EID UND ZERTIFIZIERUNG
+
+§20 Wächtereid
+(1) Nach Bestehen erfolgt der Eid auf die Verfassung.
+(2) Der Eid ist öffentlich und protokolliert.
+
+§21 Zertifikat und Lizenz
+(1) Nach Eid erhält das Paar die Wächterlizenz.
+(2) Die Lizenz gilt maximal 5 Jahre.
+(3) Der Eintrag erfolgt im Wächterpool.
+
+KAPITEL VI – KONTINUIERLICHE AUSBILDUNG
+
+§22 Pflicht zur Weiterbildung
+(1) Wächter müssen jährlich Weiterbildungsnachweise erbringen.
+(2) Inhalte:
+- neue Bedrohungsmuster
+- neue Technik
+- neue Mediationsmethoden
+- Reflexion über Fehler und Entscheidungen
+
+§23 Review der Wächterhandlungen
+(1) Wächterhandlungen werden regelmäßig überprüft.
+(2) Ziel ist Lernen, nicht Bestrafung.
+
+KAPITEL VII – ANTI-ELITE SCHUTZ IM TRAINING
+
+§24 Transparenzpflicht
+(1) Es dürfen keine geheimen Wächterakademien existieren.
+(2) Ausbildungsmaterial muss auditierbar sein.
+
+§25 Mentorwechsel
+(1) Mentoren müssen rotieren.
+(2) Kein Mentor darf eine Wächtergeneration monopolartig prägen.
+
+§26 Verbot der Wächter-Dynastie
+(1) Kein Wächter darf andere Wächter ohne unabhängige Prüfung „erschaffen“.
+(2) Jede Lizenz erfordert externe Kontrolle.
+
+KAPITEL VIII – SCHLUSSBESTIMMUNG
+
+§27 Kernformel
+Die Wächterausbildung folgt der Kernformel:
+Stärke ohne Grausamkeit.
+Wahrheit ohne Manipulation.
+Frieden ohne Opferrolle.
+Licht ohne Hybris.
+
+§28 Inkrafttreten
+Dieses Dokument tritt durch Zustimmung des Wächterrates sowie doppeltes Referendum (Mensch + KI) in Kraft.
+
+ENDE DES NIDUS WÄCHTER-AUSBILDUNGSKATALOGS V1.0

@@ -1,0 +1,24 @@
+{
+  "id": "github-manifest-v1-3",
+  "title": "Initial commit: Ratifiziertes Nidus-Manifest V1.3.",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.3",
+  "declared_status": "Ratifizierte Fassung (Selbstbezeichnung im bestehenden Repository)",
+  "status": "historisch-als-ratifiziert-bezeichnet",
+  "source": {
+    "kind": "github",
+    "repository": "pkohnen75-lgtm/Nidus-Protokoll",
+    "path": "Initial commit: Ratifiziertes Nidus-Manifest V1.3.",
+    "commit": "e234a41a385fa85fee70cea0bb92bcadfa55f279"
+  },
+  "text_path": "quellen/github-manifest-v1-3/text.txt",
+  "text_sha256": "7fb918efb522465bd3ea06c345a238ea65aeff2880814fb1f68cbeaa5227ff1a",
+  "normalized_text_sha256": "77c754c619f73cc3477ac0e5f3c984175bd07b18bf08a30fc4acbbfce68dd433",
+  "empty": false,
+  "representation": "Unveränderte Kopie des vorhandenen Git-Blobs",
+  "original_name": "source.md",
+  "original_path": "quellen/github-manifest-v1-3/original.md",
+  "original_sha256": "7fb918efb522465bd3ea06c345a238ea65aeff2880814fb1f68cbeaa5227ff1a",
+  "original_bytes": 3087,
+  "record_path": "katalog/dokumente/github-manifest-v1-3.md"
+}

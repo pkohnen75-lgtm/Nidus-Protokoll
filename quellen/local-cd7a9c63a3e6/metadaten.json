@@ -1,0 +1,25 @@
+{
+  "id": "local-cd7a9c63a3e6",
+  "title": "NIDUS_Constitution_Layer_V1.0.txt",
+  "category": "02-charta-constitution",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf zur Ratifizierung",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS_Constitution_Layer_V1.0.txt",
+    "modified_at": "2026-05-05T04:29:06+00:00"
+  },
+  "text_path": "quellen/local-cd7a9c63a3e6/text.txt",
+  "text_sha256": "1e3e58a52b7984f4ab1d45997b9280cd0372bd53e23492d0f1cfb916a92daa28",
+  "normalized_text_sha256": "64f71ffb3212a96579d6edfce236ce7eeed92dda8cab846e3f22a331b03dd369",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Constitution_Layer_V1.0.txt",
+  "original_path": "quellen/local-cd7a9c63a3e6/original.txt",
+  "original_sha256": "1e3e58a52b7984f4ab1d45997b9280cd0372bd53e23492d0f1cfb916a92daa28",
+  "original_bytes": 10754,
+  "record_path": "katalog/dokumente/local-cd7a9c63a3e6.md"
+}

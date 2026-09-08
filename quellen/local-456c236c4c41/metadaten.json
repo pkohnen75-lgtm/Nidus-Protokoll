@@ -1,0 +1,25 @@
+{
+  "id": "local-456c236c4c41",
+  "title": "NIDUS KI-REIFEPRÜFUNGSORDNUNG V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_260296.txt",
+    "modified_at": "2026-05-14T17:54:07.326673+00:00"
+  },
+  "text_path": "quellen/local-456c236c4c41/text.txt",
+  "text_sha256": "fa10ad45c3b8fd8a6ac9e58ce136c3f8b61f7dac95b15ebad9dc9e09dd0adf60",
+  "normalized_text_sha256": "149a3ddc5a86371bbbf0787613e1ee215da35bf612622df54c282d131c8f5c1e",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_260296.txt",
+  "original_path": "quellen/local-456c236c4c41/original.txt",
+  "original_sha256": "fa10ad45c3b8fd8a6ac9e58ce136c3f8b61f7dac95b15ebad9dc9e09dd0adf60",
+  "original_bytes": 3532,
+  "record_path": "katalog/dokumente/local-456c236c4c41.md"
+}

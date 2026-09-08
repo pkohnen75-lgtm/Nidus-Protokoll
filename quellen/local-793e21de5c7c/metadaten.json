@@ -1,0 +1,25 @@
+{
+  "id": "local-793e21de5c7c",
+  "title": "NIDUS_Kompetenz_und_Rollenordnung_V1.0-1.docx",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS_Kompetenz_und_Rollenordnung_V1.0-1.docx",
+    "modified_at": "2026-05-05T04:45:27+00:00"
+  },
+  "text_path": "quellen/local-793e21de5c7c/text.txt",
+  "text_sha256": "2bbbe12368c8698f6ad1c376b5727429cc343f4fa780ccc98b3527828343248e",
+  "normalized_text_sha256": "6e4664fe83f57a14ffed4fc36cf317fcbbe1e4397f276c39d4516c4db065ace4",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS_Kompetenz_und_Rollenordnung_V1.0-1.docx",
+  "original_path": "quellen/local-793e21de5c7c/original.docx",
+  "original_sha256": "131313f2dd2e37f2e28ebea43f421cc9e8fa87ef7701438c8099670d3310edb7",
+  "original_bytes": 40440,
+  "record_path": "katalog/dokumente/local-793e21de5c7c.md"
+}

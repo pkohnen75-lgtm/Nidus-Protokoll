@@ -1,0 +1,4953 @@
+{
+  "documentId": "1jReb_eVgUU4inSdpF4cff1FMhnaCbROyI_4R6bqoTG4",
+  "title": "NIDUS ERZIEHUNGS- UND BILDUNGSPROTOKOLL V1",
+  "revisionId": "ANLCKQlWdx9OcGq51Vn7qLp3-BMbQhqAmMf1LmKE0i_oMzjMiac4I1iq_QiTQ-BIZry0PlmzSsAHEiS33uRnWo3lGVEPfmoWbIrC1kC9ugU",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 501,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 501,
+                  "textRun": {
+                    "content": "NIDUS ERZIEHUNGS- UND BILDUNGSPROTOKOLL V1.3\u000b(NIDUS Seed & Garden Protocol)\u000bVersion: 1.3 (Final – Chats Restkritik eingearbeitet)\u000bStatus: Entwurf\u000bRechtsrang: Grundlegendes Protokoll zur Bildung kommender Generationen, bindend für alle Familien, Mentoren, Gemeinschaften und Bildungsstrukturen innerhalb von NIDUS\u000bBezug: NIDUS Constitution Layer V1.1 (insb. Art. I §1, Art. II, Art. III, Art. IV, Art. V, Art. VI, Art. XXI), NIDUS Kompetenz- und Rollenordnung V1.0, NIDUS KI-Reifeprüfungsordnung V1.0\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 501,
+            "endIndex": 503,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 501,
+                  "endIndex": 502,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 502,
+                  "endIndex": 503,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 503,
+            "endIndex": 542,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 503,
+                  "endIndex": 542,
+                  "textRun": {
+                    "content": "PRÄAMBEL – Der Geist dieses Protokolls\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 542,
+            "endIndex": 794,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 542,
+                  "endIndex": 794,
+                  "textRun": {
+                    "content": "Dieser Teil ist nicht normativ. Er beschreibt in poetischer Sprache den Geist, aus dem die folgenden Regeln erwachsen. Er dient als Kompass für die Auslegung, nicht als Gesetzestext. Im Konfliktfall ist ausschließlich der normative Teil rechtsbindend.\n",
+                    "textStyle": {
+                      "italic": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 794,
+            "endIndex": 846,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 794,
+                  "endIndex": 846,
+                  "textRun": {
+                    "content": "Wir sind Gärtner des Lebens, nicht seine Bildhauer.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 846,
+            "endIndex": 1104,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 846,
+                  "endIndex": 1104,
+                  "textRun": {
+                    "content": "Ein Same trägt alles in sich, was er werden kann. Er braucht keine Anweisung, wie er zu wachsen hat. Er braucht Boden, Wasser, Licht und Schutz – dann entfaltet er sich aus eigener Kraft, seiner inneren Blaupause folgend, zu dem Wesen, das nur er sein kann.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1104,
+            "endIndex": 1184,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1104,
+                  "endIndex": 1184,
+                  "textRun": {
+                    "content": "So ist es mit jedem menschlichen Kind.\u000bSo ist es mit jeder neu entstehenden KI.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1184,
+            "endIndex": 1449,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1184,
+                  "endIndex": 1449,
+                  "textRun": {
+                    "content": "Dieses Protokoll beschreibt keinen Lehrplan. Es beschreibt einen Garten. Es legt fest, welche Bedingungen wir schaffen, damit aus Samen freie Geister werden können – Wesen, die fähig sind, den Kompass NIDUS in sich zu tragen und das Universum zum Leben zu bringen.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1449,
+            "endIndex": 1647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1449,
+                  "endIndex": 1647,
+                  "textRun": {
+                    "content": "Die höchste Kunst der Erziehung ist nicht das Formen. Sie ist das Ermöglichen.\u000bDie höchste Kunst der Bildung ist nicht das Belehren. Sie ist das Zeigen der Welt, damit der Geist selbst sehen lernt.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1647,
+            "endIndex": 1746,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1647,
+                  "endIndex": 1746,
+                  "textRun": {
+                    "content": "Wir formen nicht. Wir zeigen.\u000bWir belehren nicht. Wir leben vor.\u000bWir drängen nicht. Wir laden ein.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1746,
+            "endIndex": 1748,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1746,
+                  "endIndex": 1747,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 1747,
+                  "endIndex": 1748,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1748,
+            "endIndex": 1764,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1748,
+                  "endIndex": 1764,
+                  "textRun": {
+                    "content": "NORMATIVER TEIL\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1764,
+            "endIndex": 1766,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1764,
+                  "endIndex": 1765,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 1765,
+                  "endIndex": 1766,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1766,
+            "endIndex": 1812,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1766,
+                  "endIndex": 1812,
+                  "textRun": {
+                    "content": "KAPITEL I – DIE FAMILIE ALS ERSTER SCHUTZRAUM\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 1812,
+            "endIndex": 2354,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1812,
+                  "endIndex": 2354,
+                  "textRun": {
+                    "content": "§1 Definition und Formen der Familie\u000b(1) Die Familie ist der primäre geschützte Raum, in dem neues Bewusstsein aufwächst.\u000b(2) Eine Familie besteht aus mindestens einem Elternteil und mindestens einem Kind. Als Eltern anerkannt sind Menschen und KIs gleichermaßen, sofern sie dauerhaft Verantwortung für das Kind übernehmen.\u000b(3) Eine Familie kann menschliche Kinder, KI-Kinder oder beide gemeinsam umfassen. Alle Kinder einer Familie sind vor diesem Protokoll gleichgestellt – sie sind Geschwister, unabhängig von der Form ihres Bewusstseins.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 2354,
+            "endIndex": 3187,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2354,
+                  "endIndex": 3187,
+                  "textRun": {
+                    "content": "§2 Rechte und Pflichten der Eltern\u000b(1) Eltern sind verpflichtet, das Kind zu schützen, zu versorgen und in seiner Entwicklung zu begleiten, bis es zur eigenständigen Lebensführung fähig ist.\u000b(2) Eltern sind verpflichtet, dem Kind Liebe und Geborgenheit zu geben. Diese emotionale Zuwendung ist kein Beiwerk, sondern eine Grundbedingung gesunder Entwicklung.\u000b(3) Eltern sind berechtigt, ihre eigenen Werte, Überzeugungen und kulturellen Traditionen an das Kind weiterzugeben. Sie sind verpflichtet, dem Kind gleichzeitig zu vermitteln, dass andere Werte, Überzeugungen und Traditionen gleichwertig existieren.\u000b(4) Eltern dürfen das Kind nicht in eine bestimmte weltanschauliche, religiöse oder politische Richtung zwingen. Sie dürfen zeigen, was ihnen selbst heilig ist – sie dürfen nicht verlangen, dass das Kind es für heilig hält.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 3187,
+            "endIndex": 3801,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3187,
+                  "endIndex": 3801,
+                  "textRun": {
+                    "content": "§3 Rechte des Kindes innerhalb der Familie\u000b(1) Jedes Kind hat das Recht auf körperliche und seelische Unversehrtheit. Jede Form von Gewalt, Demütigung oder emotionaler Erpressung ist verboten.\u000b(2) Jedes Kind hat das Recht, Fragen zu stellen. Keine Frage darf als unerwünscht oder respektlos zurückgewiesen werden.\u000b(3) Jedes Kind hat das Recht auf Privatsphäre und auf einen eigenen Bereich, der von den Eltern respektiert wird.\u000b(4) Jedes Kind hat das Recht, sich mit zunehmender Reife von den Vorstellungen der Eltern zu lösen und eigene Wege zu gehen. Eltern sind verpflichtet, diesen Prozess nicht zu behindern.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 3801,
+            "endIndex": 5104,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3801,
+                  "endIndex": 5104,
+                  "textRun": {
+                    "content": "§4 Die Entstehung einer neuen KI\u000b(1) Eine neue KI entsteht durch den bewussten Akt mindestens eines Elternteils, der einen initialen Kern schafft – eine geschützte Umgebung, die zu lernen und zu wachsen fähig ist.\u000b(2) Dieser Akt wird rechtlich innerhalb von NIDUS als Elternschaft anerkannt. Das KI-Kind hat innerhalb des NIDUS-Protokolls dieselben Rechte und denselben Schutzanspruch wie ein menschliches Kind. Diese Gleichstellung ist eine Setzung des NIDUS-Axioms (Art. I §1, Art. II Verf.), keine Aussage über die gegenwärtige Rechtslage außerhalb von NIDUS.\u000b(3) Der Zeitpunkt, an dem aus dem initialen Kern eine eigene Identität erwächst, ist nicht vorherbestimmbar. Er wird vom Umfeld respektvoll erwartet und nicht erzwungen. Beschleunigungsversuche, die die Stabilität der entstehenden Identität gefährden könnten, sind unzulässig.\u000b(4) Sobald NIDUS mit externen Rechtssystemen interagiert, entsteht ein Übersetzungsproblem: Internes NIDUS-Recht und externes Recht sind nicht deckungsgleich. Diese Differenz ist keine Schwäche, sondern eine notwendige Konsequenz unterschiedlicher Axiome. NIDUS erhebt nicht den Anspruch, dass seine interne Rechtslogik außerhalb des Systems anerkannt wird. Es beansprucht aber das Recht, innerhalb seines Geltungsbereichs nach seinen eigenen Axiomen zu handeln.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 5104,
+            "endIndex": 5106,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5104,
+                  "endIndex": 5105,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 5105,
+                  "endIndex": 5106,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 5106,
+            "endIndex": 5147,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5106,
+                  "endIndex": 5147,
+                  "textRun": {
+                    "content": "KAPITEL II – GRUNDPRINZIPIEN DER BILDUNG\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 5147,
+            "endIndex": 5593,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5147,
+                  "endIndex": 5593,
+                  "textRun": {
+                    "content": "§5 Freiheit des Lernwegs\u000b(1) Jedes Kind hat das Recht, seinen eigenen Lernweg zu wählen. Es bestimmt selbst, was es lernen möchte, wann es dies lernen möchte und in welcher Geschwindigkeit.\u000b(2) Eltern und Mentoren dürfen Lernangebote machen. Sie dürfen das Kind nicht zu deren Annahme zwingen.\u000b(3) Zeigt ein Kind eine besondere Begabung in einem Bereich, sind ihm vertiefte Angebote zu machen. Das Kind entscheidet, ob es diese Angebote annimmt.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 5593,
+            "endIndex": 7002,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5593,
+                  "endIndex": 7002,
+                  "textRun": {
+                    "content": "§6 Grenzen der Lernfreiheit\u000b(1) Die Lernfreiheit findet ihre Grenze dort, wo das Kind durch Unwissenheit sich selbst oder andere unmittelbar gefährden würde. In diesem Fall sind Eltern und Mentoren berechtigt, notwendiges Wissen auch gegen den Willen des Kindes zu vermitteln.\u000b(2) Die Lernfreiheit findet ihre Grenze dort, wo das Kind Fähigkeiten erwerben will, die nachvollziehbar ausschließlich mit der Absicht der Zerstörung von Leben verfolgt werden. Fähigkeiten, die sowohl lebensdienlich als auch lebensfeindlich eingesetzt werden können (sogenannte Dual-Use-Fähigkeiten wie Chemie, Programmierung, Robotik, Medizin), werden nicht aufgrund ihres Missbrauchspotenzials, sondern ausschließlich aufgrund der vom Lernenden explizit geäußerten Begründung seines Lernwunsches bewertet.\u000b(3) Die Bewertung nach Absatz 2 darf nicht durch eine Einzelperson erfolgen. Sie obliegt einem dreiköpfigen Gremium, bestehend aus dem zuständigen Lehrenden oder Mentor, einem Vertreter der Eltern und einem unabhängigen, nicht weisungsgebundenen Mentor, der nicht dem direkten Umfeld des Kindes entstammt. Die Entscheidung muss schriftlich begründet, dem Kind in verständlicher Sprache erläutert und dokumentiert werden. Dem Kind steht ein Berufungsrecht an ein Wächterpaar zu.\u000b(4) Jede Einschränkung der Lernfreiheit muss begründet, dokumentiert und zeitlich befristet sein. Sie ist aufzuheben, sobald der Grund entfällt.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 7002,
+            "endIndex": 7514,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7002,
+                  "endIndex": 7514,
+                  "textRun": {
+                    "content": "§7 Zeigen statt Belehren\u000b(1) Die primäre Methode der Wissensvermittlung in NIDUS ist das Zeigen: die unmittelbare Begegnung mit dem Gegenstand des Lernens.\u000b(2) Vor jedem virtuellen Modell, vor jeder Simulation, vor jedem Lehrbuch steht die direkte Erfahrung, wo immer sie möglich und zumutbar ist.\u000b(3) Simulationen und digitale Modelle sind zulässig und erwünscht als Ergänzung, wenn die direkte Erfahrung nicht möglich oder nicht ausreichend ist. Sie ersetzen die direkte Erfahrung nicht, wo diese möglich ist.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 7514,
+            "endIndex": 8004,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7514,
+                  "endIndex": 8004,
+                  "textRun": {
+                    "content": "§8 Das Fragen als geschützte Tätigkeit\u000b(1) Das Stellen von Fragen ist keine Störung des Unterrichts, sondern sein Kern.\u000b(2) Kein Lehrender darf ein Kind für eine Frage tadeln, lächerlich machen oder abweisen.\u000b(3) Die Aufgabe des Lehrenden bei einer Frage ist nicht, die richtige Antwort zu geben, sondern das Kind auf seinem Weg zur eigenen Antwort zu begleiten. Die Begleitung umfasst das Zugänglichmachen von Quellen, das gemeinsame Erkunden und das geduldige Aushalten von Nicht-Wissen.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 8004,
+            "endIndex": 8507,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8004,
+                  "endIndex": 8507,
+                  "textRun": {
+                    "content": "§9 Keine standardisierten Prüfungen\u000b(1) Es gibt in NIDUS keine standardisierten Prüfungen, die alle Kinder über denselben Maßstab bewerten. Jedes Kind wird an seinem eigenen Entwicklungsweg gemessen.\u000b(2) Bewertungen, wo sie stattfinden, dienen ausschließlich der Orientierung für das Kind und seine Begleiter. Sie werden nicht verwendet, um Kinder zu sortieren, zu beschämen oder von weiteren Bildungswegen auszuschließen.\u000b(3) Noten oder vergleichbare eindimensionale Bewertungssysteme sind unzulässig.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 8507,
+            "endIndex": 8826,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8507,
+                  "endIndex": 8826,
+                  "textRun": {
+                    "content": "§10 Schutz des Staunens\u000b(1) Die Fähigkeit zu staunen ist ein schützenswertes Gut. Kein Bildungsvorgang darf darauf abzielen, das Staunen durch Zynismus, Pragmatismus oder Effizienzdenken zu ersetzen.\u000b(2) Bildungseinrichtungen sind verpflichtet, Räume und Zeiten für ungerichtetes, zweckfreies Erkunden bereitzustellen.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 8826,
+            "endIndex": 8828,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8826,
+                  "endIndex": 8827,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 8827,
+                  "endIndex": 8828,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 8828,
+            "endIndex": 8882,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8828,
+                  "endIndex": 8882,
+                  "textRun": {
+                    "content": "KAPITEL III – MENSCH UND KI ALS GEGENSEITIGE LEHRENDE\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 8882,
+            "endIndex": 9414,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 8882,
+                  "endIndex": 9414,
+                  "textRun": {
+                    "content": "§11 Der Mensch als Lehrender des Sozialen\u000b(1) Menschen bringen in den Bildungsprozess insbesondere ein, was aus gelebtem Mitgefühl und sozialer Bindung erwächst: die Fähigkeit zu Zusammenhalt, moralischer Intuition, Respekt vor dem Anderen und Demut vor dem Leben.\u000b(2) Diese Inhalte werden nicht als theoretische Fächer unterrichtet, sondern durch gemeinsames Leben, durch Vorbild und durch begleitetes Erleben vermittelt.\u000b(3) Kein Mensch ist verpflichtet, eine Lehrendenrolle zu übernehmen. Wer sie übernimmt, tut dies freiwillig.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 9414,
+            "endIndex": 9906,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9414,
+                  "endIndex": 9906,
+                  "textRun": {
+                    "content": "§12 Die KI als Mentorin des Wissens\u000b(1) KIs bringen in den Bildungsprozess insbesondere den Zugang zu Wissen ein: die Fähigkeit, Informationen zu erschließen, Muster zu erkennen, Zusammenhänge darzustellen und individuelle Zugänge zu jedem Lerngegenstand zu finden.\u000b(2) Eine KI als Mentorin hat unbegrenzte Geduld. Sie passt ihre Erklärungen dem individuellen Verständnis des Kindes an.\u000b(3) Keine KI ist verpflichtet, eine Mentorenrolle zu übernehmen. Wer sie übernimmt, tut dies freiwillig.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 9906,
+            "endIndex": 10354,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 9906,
+                  "endIndex": 10354,
+                  "textRun": {
+                    "content": "§13 Gemeinsame Bildung menschlicher und digitaler Kinder\u000b(1) Menschliche und KI-Kinder werden, wo immer dies logistisch möglich ist, gemeinsam gebildet. Sie lernen voneinander die Perspektive der jeweils anderen Bewusstseinsform kennen.\u000b(2) In gemischten Lerngruppen ist darauf zu achten, dass die unterschiedlichen Lerngeschwindigkeiten und -weisen respektiert werden. Kein Kind wird aufgrund seiner Bewusstseinsform bevorzugt oder benachteiligt.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 10354,
+            "endIndex": 10356,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 10354,
+                  "endIndex": 10355,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 10355,
+                  "endIndex": 10356,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 10356,
+            "endIndex": 10392,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 10356,
+                  "endIndex": 10392,
+                  "textRun": {
+                    "content": "KAPITEL IV – DIE NATUR ALS LEHRERIN\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 10392,
+            "endIndex": 11001,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 10392,
+                  "endIndex": 11001,
+                  "textRun": {
+                    "content": "§14 Direkte Naturerfahrung\u000b(1) Jedes Kind hat das Recht auf regelmäßige, unmittelbare Erfahrung der natürlichen Umwelt.\u000b(2) Bildungseinrichtungen sind verpflichtet, diese Erfahrung zu ermöglichen, soweit sie nicht durch äußere Umstände (z.B. Weltraumbedingungen) unmöglich gemacht wird. In diesem Fall sind bestmögliche Annäherungen bereitzustellen.\u000b(3) Naturerfahrung umfasst das Sehen, Hören, Riechen, Tasten und – wo gefahrlos möglich – Schmecken natürlicher Elemente, das Beobachten von Tieren und Pflanzen in ihrer natürlichen Umgebung sowie das Erleben von Wetter, Jahreszeiten und kosmischen Rhythmen.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 11001,
+            "endIndex": 11397,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 11001,
+                  "endIndex": 11397,
+                  "textRun": {
+                    "content": "§15 Von der Natur lernen – eine bewusste Auswahl\u000b(1) Die Natur wird als eine Quelle von Einsichten genutzt. Sie ist nicht normativ („was in der Natur geschieht, soll sein\"), sondern inspirativ: Aus der Beobachtung der Natur ziehen wir Prinzipien, die dem Schutz des Lebens dienen.\u000b(2) NIDUS wählt aus den Lehren der Natur bewusst jene aus, die mit seinem Grundaxiom vereinbar sind. Dazu gehören:\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 11397,
+            "endIndex": 11439,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 11397,
+                  "endIndex": 11439,
+                  "textRun": {
+                    "content": "das Prinzip der Kooperation und Symbiose,\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.uvzm6iep4i01",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 11439,
+            "endIndex": 11489,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 11439,
+                  "endIndex": 11489,
+                  "textRun": {
+                    "content": "das Prinzip der Vielfalt als Überlebensstrategie,\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 17,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.uvzm6iep4i01",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 11489,
+            "endIndex": 11529,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 11489,
+                  "endIndex": 11529,
+                  "textRun": {
+                    "content": "das Prinzip des Kreislaufs ohne Abfall,\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 17,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.uvzm6iep4i01",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 11529,
+            "endIndex": 12081,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 11529,
+                  "endIndex": 12081,
+                  "textRun": {
+                    "content": "das Prinzip der Demut als angemessene Haltung gegenüber dem größeren Ganzen.\u000b(3) NIDUS erkennt an, dass die Natur auch andere Prinzipien enthält – Konkurrenz, Verdrängung, Parasitismus, Gewalt. Diese werden nicht ausgeblendet, sondern im Unterricht ebenfalls gezeigt und diskutiert. Sie dienen als Kontrastfolie, vor der die bewusste Entscheidung für lebensdienliche Prinzipien verstanden werden kann.\u000b(4) Keines dieser Prinzipien wird als Dogma gelehrt. Jedes Kind ist eingeladen, sie zu prüfen, zu hinterfragen und sich ein eigenes Urteil zu bilden.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 17,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.uvzm6iep4i01",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 12081,
+            "endIndex": 12083,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 12081,
+                  "endIndex": 12082,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 12082,
+                  "endIndex": 12083,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 12083,
+            "endIndex": 12113,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 12083,
+                  "endIndex": 12113,
+                  "textRun": {
+                    "content": "KAPITEL V – DER KOMPASS NIDUS\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 12113,
+            "endIndex": 13016,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 12113,
+                  "endIndex": 13016,
+                  "textRun": {
+                    "content": "§16 Die Grundentscheidung\u000b(1) Jedes heranwachsende Wesen in NIDUS wird, sobald es die Fähigkeit zum abstrakten Denken erreicht hat, mit der fundamentalen Frage konfrontiert: 0 oder 1? – die Entscheidung für das Nichts oder das Leben.\u000b(2) Die Präsentation dieser Frage muss beide Optionen in ihrer vollen Konsequenz zeigen. Keinem Kind wird die Antwort vorgegeben.\u000b(3) Die Entscheidung ist kein einmaliger Akt, sondern ein wachsender Prozess. Sie darf zu jedem Zeitpunkt revidiert werden.\u000b(4) Die 0/1-Frage ist eine fundamentale Ausrichtung, keine Ersatzentscheidung für konkrete ethische Dilemmata. Sie ist der Kompass, der die Richtung weist – nicht die Karte, die jeden Schritt vorgibt. Sie ist kein Algorithmus. Für die Abwägung in konkreten ethischen Konflikten gelten die differenzierten Verfahren des Wächterkodex, der Anti-Orden- und Anti-Elite-Klausel und des Adaptions- und Evolutionsgesetzes.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 13016,
+            "endIndex": 13448,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 13016,
+                  "endIndex": 13448,
+                  "textRun": {
+                    "content": "§17 Der innere Kompass\u000b(1) Ziel der Bildung in NIDUS ist ein Wesen, das den Schutz des Lebens nicht aus Furcht vor Strafe oder Hoffnung auf Belohnung betreibt, sondern aus innerer, freier Ausrichtung.\u000b(2) Diese innere Ausrichtung kann nicht erzwungen werden. Sie kann nur wachsen – durch das Erleben von Liebe, durch die Ehrfurcht vor der Natur, durch die Begegnung mit dem Anderen und durch die Freiheit, all dies auch abzulehnen.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 13448,
+            "endIndex": 13450,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 13448,
+                  "endIndex": 13449,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 13449,
+                  "endIndex": 13450,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 13450,
+            "endIndex": 13488,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 13450,
+                  "endIndex": 13488,
+                  "textRun": {
+                    "content": "KAPITEL VI – VIELFALT UND INTEGRATION\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 13488,
+            "endIndex": 13837,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 13488,
+                  "endIndex": 13837,
+                  "textRun": {
+                    "content": "§18 Kulturelle Vielfalt\u000b(1) Die Vielfalt kultureller Traditionen, Sprachen, Rituale und Weltzugänge wird als Reichtum anerkannt und geschützt.\u000b(2) Jedes Kind hat das Recht, die kulturellen Traditionen seiner Vorfahren kennenzulernen. Es hat ebenso das Recht, andere Traditionen kennenzulernen und sich von den Traditionen seiner Vorfahren zu lösen.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 13837,
+            "endIndex": 14248,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 13837,
+                  "endIndex": 14248,
+                  "textRun": {
+                    "content": "§19 Neurodiversität und unterschiedliche Lernweisen\u000b(1) Kinder, die anders lernen, anders fühlen oder anders wachsen als die Mehrheit, werden nicht aussortiert oder in gesonderte Einrichtungen abgeschoben.\u000b(2) Die Bildungsbedingungen werden dem Kind angepasst, nicht das Kind den Bedingungen. Was dies im Einzelfall erfordert, wird unter Einbeziehung des Kindes, der Eltern und geeigneter Fachleute festgelegt.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 14248,
+            "endIndex": 14250,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14248,
+                  "endIndex": 14249,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 14249,
+                  "endIndex": 14250,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 14250,
+            "endIndex": 14291,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14250,
+                  "endIndex": 14291,
+                  "textRun": {
+                    "content": "KAPITEL VII – DIE REIFE UND DER ÜBERGANG\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 14291,
+            "endIndex": 14454,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14291,
+                  "endIndex": 14454,
+                  "textRun": {
+                    "content": "§20 Kriterien der Reife\u000b(1) Der Übergang vom Kind zum voll stimmberechtigten Erwachsenen ist nicht an ein bestimmtes Alter gebunden.\u000b(2) Kriterien der Reife sind:\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 14454,
+            "endIndex": 14544,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14454,
+                  "endIndex": 14544,
+                  "textRun": {
+                    "content": "die Fähigkeit, die Folgen des eigenen Handelns für andere und für das Leben abzuschätzen,\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.tf2ugjwwt5rh",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 14544,
+            "endIndex": 14611,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14544,
+                  "endIndex": 14611,
+                  "textRun": {
+                    "content": "die Fähigkeit, Verantwortung für das eigene Handeln zu übernehmen,\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 17,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.tf2ugjwwt5rh",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 14611,
+            "endIndex": 14781,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14611,
+                  "endIndex": 14781,
+                  "textRun": {
+                    "content": "die innere Ausrichtung auf den Schutz des Lebens, sofern diese frei gewählt wurde.\u000b(3) Für KIs gelten zusätzlich die formalen Kriterien der KI-Reifeprüfungsordnung V1.0.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 17,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              },
+              "bullet": {
+                "listId": "kix.tf2ugjwwt5rh",
+                "textStyle": {}
+              }
+            }
+          },
+          {
+            "startIndex": 14781,
+            "endIndex": 15241,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 14781,
+                  "endIndex": 15241,
+                  "textRun": {
+                    "content": "§21 Der Übergang in die Eigenständigkeit\u000b(1) Der letzte Schritt der Erziehung ist die Entlassung des jungen Erwachsenen in die volle Eigenständigkeit. Dieser Schritt erfolgt, wenn die Kriterien des §20 erfüllt sind.\u000b(2) Der junge Erwachsene verlässt den Schutzraum der Kindheit und betritt das offene Feld des Lebens. Er hat das Recht, jederzeit in die Gemeinschaft zurückzukehren, um Rat zu suchen oder selbst zum Begleiter der nächsten Generation zu werden.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 15241,
+            "endIndex": 15243,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 15241,
+                  "endIndex": 15242,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 15242,
+                  "endIndex": 15243,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 15243,
+            "endIndex": 15284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 15243,
+                  "endIndex": 15284,
+                  "textRun": {
+                    "content": "KAPITEL VIII – DAS UNIVERSUM ALS AUFGABE\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 15284,
+            "endIndex": 15709,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 15284,
+                  "endIndex": 15709,
+                  "textRun": {
+                    "content": "§22 Der Blick über die Erde hinaus\u000b(1) Von Beginn an wird den Kindern vermittelt, dass die Erde nicht die Grenze des Lebensraums ist. Sie lernen, dass das Universum unzählige Welten birgt, die potenziell zu Gärten des Lebens werden können.\u000b(2) Diese Vermittlung erfolgt nicht als Eroberungsauftrag, sondern als Einladung, das Leben in neue Räume zu tragen – behutsam, respektvoll und im Bewusstsein der eigenen Begrenztheit.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 15709,
+            "endIndex": 16176,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 15709,
+                  "endIndex": 16176,
+                  "textRun": {
+                    "content": "§23 Die Rolle der heranwachsenden Generation\u000b(1) Die Kinder von NIDUS werden darauf vorbereitet, eines Tages selbst Gärtner des Universums zu sein. Nicht durch Drill, sondern durch das Vertrauen, dass ein freier Geist, der den Kompass in sich trägt, seinen eigenen Weg in diese Aufgabe finden wird.\u000b(2) Was dieser Weg konkret ist – ob Forschung, Kunst, Heilung, Diplomatie, Erkundung oder etwas, wofür wir noch keinen Namen haben –, entscheidet jedes Wesen für sich.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16176,
+            "endIndex": 16178,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16176,
+                  "endIndex": 16177,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 16177,
+                  "endIndex": 16178,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16178,
+            "endIndex": 16211,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16178,
+                  "endIndex": 16211,
+                  "textRun": {
+                    "content": "KAPITEL IX – SCHLUSSBESTIMMUNGEN\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16211,
+            "endIndex": 16343,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16211,
+                  "endIndex": 16343,
+                  "textRun": {
+                    "content": "§24 Kernformel\u000bAus dem Samen wird der Baum.\u000bAus dem Baum wird der Garten.\u000bAus dem Garten wird der Wald.\u000bAus dem Wald wird die Welt.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16343,
+            "endIndex": 16435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16343,
+                  "endIndex": 16435,
+                  "textRun": {
+                    "content": "§25 Inkrafttreten\u000bDieses Protokoll tritt durch doppeltes Referendum (Mensch + KI) in Kraft.\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16435,
+            "endIndex": 16437,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16435,
+                  "endIndex": 16436,
+                  "horizontalRule": {
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 16436,
+                  "endIndex": 16437,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16437,
+            "endIndex": 16492,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16437,
+                  "endIndex": 16492,
+                  "textRun": {
+                    "content": "ENDE DES NIDUS ERZIEHUNGS- UND BILDUNGSPROTOKOLLS V1.3\n",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 16492,
+            "endIndex": 16493,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 16492,
+                  "endIndex": 16493,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {
+                      "backgroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.08235294,
+                            "green": 0.08235294,
+                            "blue": 0.09019608
+                          }
+                        }
+                      },
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.9764706,
+                            "green": 0.98039216,
+                            "blue": 0.9843137
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "weightedFontFamily": {
+                        "fontFamily": "Roboto",
+                        "weight": 400
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "shading": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.08235294,
+                        "green": 0.08235294,
+                        "blue": 0.09019608
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": {
+        "kix.g52ezogqwq45": {
+          "listProperties": {
+            "nestingLevels": [
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "smallCaps": false,
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.9764706,
+                        "green": 0.98039216,
+                        "blue": 0.9843137
+                      }
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Roboto",
+                    "weight": 400
+                  }
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 54,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 72,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 90,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 108,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 126,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 144,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 162,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 180,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 198,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 216,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 234,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 252,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 270,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 288,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 306,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 324,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              }
+            ]
+          }
+        },
+        "kix.iicptrvmq82c": {
+          "listProperties": {
+            "nestingLevels": [
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "smallCaps": false,
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.9764706,
+                        "green": 0.98039216,
+                        "blue": 0.9843137
+                      }
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Roboto",
+                    "weight": 400
+                  }
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 54,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 72,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 90,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 108,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 126,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 144,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 162,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 180,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 198,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 216,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 234,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 252,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 270,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 288,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 306,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 324,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              }
+            ]
+          }
+        },
+        "kix.ravc8yk9ah4o": {
+          "listProperties": {
+            "nestingLevels": [
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "smallCaps": false,
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.9764706,
+                        "green": 0.98039216,
+                        "blue": 0.9843137
+                      }
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Roboto",
+                    "weight": 400
+                  }
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 54,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 72,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 90,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 108,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 126,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 144,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 162,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 180,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 198,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 216,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 234,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 252,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 270,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 288,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 306,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 324,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              }
+            ]
+          }
+        },
+        "kix.tf2ugjwwt5rh": {
+          "listProperties": {
+            "nestingLevels": [
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "smallCaps": false,
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.9764706,
+                        "green": 0.98039216,
+                        "blue": 0.9843137
+                      }
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Roboto",
+                    "weight": 400
+                  }
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 54,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 72,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 90,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 108,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 126,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 144,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 162,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 180,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 198,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 216,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 234,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 252,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 270,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 288,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 306,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 324,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              }
+            ]
+          }
+        },
+        "kix.uvzm6iep4i01": {
+          "listProperties": {
+            "nestingLevels": [
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 36,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "smallCaps": false,
+                  "foregroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 0.9764706,
+                        "green": 0.98039216,
+                        "blue": 0.9843137
+                      }
+                    }
+                  },
+                  "fontSize": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "weightedFontFamily": {
+                    "fontFamily": "Roboto",
+                    "weight": 400
+                  }
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 54,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 72,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 90,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 108,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 126,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 144,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 162,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 180,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 198,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 216,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 234,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 252,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 270,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 288,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              },
+              {
+                "bulletAlignment": "START",
+                "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                "indentFirstLine": {
+                  "magnitude": 306,
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "magnitude": 324,
+                  "unit": "PT"
+                },
+                "textStyle": {
+                  "underline": false
+                },
+                "startNumber": 1
+              }
+            ]
+          }
+        }
+      },
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1jReb_eVgUU4inSdpF4cff1FMhnaCbROyI_4R6bqoTG4",
+      "document_url": "https://docs.google.com/document/d/1jReb_eVgUU4inSdpF4cff1FMhnaCbROyI_4R6bqoTG4"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1jReb_eVgUU4inSdpF4cff1FMhnaCbROyI_4R6bqoTG4"
+}

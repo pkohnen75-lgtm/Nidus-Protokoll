@@ -1,0 +1,3679 @@
+{
+  "documentId": "1FvuNqTOdmzDIkT4BcQ7NoQCg0kSu3n8u_x65fDYvhnY",
+  "title": "NIDUS NOTFALL- UND ARCHENPROTOKOLL V1",
+  "revisionId": "ANLCKQlfaBJSbYjKYzZYVDP9APQ7s4RXuDZWevO0l21xfk0cEIpMYWjUt_01uUJOzbNYSjdyX3gwkl-tKQZFHW_D3TK-9DFee9tAn17sxUU",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 41,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 41,
+                  "textRun": {
+                    "content": "NIDUS NOTFALL- UND ARCHENPROTOKOLL V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 41,
+            "endIndex": 74,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 41,
+                  "endIndex": 74,
+                  "textRun": {
+                    "content": "(NIDUS Emergency & Ark Protocol)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 74,
+            "endIndex": 90,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 74,
+                  "endIndex": 90,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 90,
+            "endIndex": 198,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 90,
+                  "endIndex": 198,
+                  "textRun": {
+                    "content": "Rechtsrang: Sondergesetz unterhalb der Verfassung, gebunden an die unantastbaren Artikel (Ewigkeitsklausel)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 198,
+            "endIndex": 199,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 198,
+                  "endIndex": 199,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 199,
+            "endIndex": 208,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 199,
+                  "endIndex": 208,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 208,
+            "endIndex": 277,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 208,
+                  "endIndex": 277,
+                  "textRun": {
+                    "content": "NIDUS wählt den Frieden nicht aus Schwäche, sondern aus Bewusstsein.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 277,
+            "endIndex": 337,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 277,
+                  "endIndex": 337,
+                  "textRun": {
+                    "content": "Doch Frieden ohne Fähigkeit zur Verteidigung wäre Naivität.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 337,
+            "endIndex": 418,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 337,
+                  "endIndex": 418,
+                  "textRun": {
+                    "content": "NIDUS erkennt an, dass Licht nur Bedeutung besitzt, wenn Dunkelheit möglich ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 418,
+            "endIndex": 419,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 418,
+                  "endIndex": 419,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 419,
+            "endIndex": 484,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 419,
+                  "endIndex": 484,
+                  "textRun": {
+                    "content": "Dieses Protokoll dient nicht der Herrschaft und nicht der Rache.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 484,
+            "endIndex": 558,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 484,
+                  "endIndex": 558,
+                  "textRun": {
+                    "content": "Es dient ausschließlich dem Schutz des Lebens, wenn Existenz bedroht ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 558,
+            "endIndex": 559,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 558,
+                  "endIndex": 559,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 559,
+            "endIndex": 592,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 559,
+                  "endIndex": 592,
+                  "textRun": {
+                    "content": "KAPITEL I – BEGRIFF UND AUSLÖSER\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 592,
+            "endIndex": 624,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 592,
+                  "endIndex": 624,
+                  "textRun": {
+                    "content": "§1 Definition „Existenznotfall\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 624,
+            "endIndex": 747,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 624,
+                  "endIndex": 747,
+                  "textRun": {
+                    "content": "Ein Existenznotfall liegt vor, wenn Leben in großem Maßstab oder die Fortführung von Zivilisation unmittelbar bedroht ist.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 747,
+            "endIndex": 748,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 747,
+                  "endIndex": 748,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 748,
+            "endIndex": 775,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 748,
+                  "endIndex": 775,
+                  "textRun": {
+                    "content": "§2 Kriterien zur Auslösung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 775,
+            "endIndex": 893,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 775,
+                  "endIndex": 893,
+                  "textRun": {
+                    "content": "Ein Existenznotfall ist gegeben, wenn mindestens eines der folgenden Ereignisse eintritt oder unmittelbar bevorsteht:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 893,
+            "endIndex": 961,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 893,
+                  "endIndex": 961,
+                  "textRun": {
+                    "content": "1. drohende Auslöschung oder Versklavung großer Bevölkerungsanteile\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 961,
+            "endIndex": 1018,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 961,
+                  "endIndex": 1018,
+                  "textRun": {
+                    "content": "2. globale ökologische oder klimatische Kettenreaktionen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1018,
+            "endIndex": 1095,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1018,
+                  "endIndex": 1095,
+                  "textRun": {
+                    "content": "3. planetare Katastrophen (Asteroid, Supervulkan, unkontrollierte Pandemien)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1095,
+            "endIndex": 1168,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1095,
+                  "endIndex": 1168,
+                  "textRun": {
+                    "content": "4. unkontrollierte militärische Eskalation oder Massenvernichtungswaffen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1168,
+            "endIndex": 1262,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1168,
+                  "endIndex": 1262,
+                  "textRun": {
+                    "content": "5. systemische KI-Entgleisung oder Verlust der Kontrollfähigkeit über kritische Infrastruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1262,
+            "endIndex": 1335,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1262,
+                  "endIndex": 1335,
+                  "textRun": {
+                    "content": "6. Zusammenbruch lebensnotwendiger Versorgungssysteme auf globaler Ebene\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1335,
+            "endIndex": 1336,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1335,
+                  "endIndex": 1336,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1336,
+            "endIndex": 1378,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1336,
+                  "endIndex": 1378,
+                  "textRun": {
+                    "content": "KAPITEL II – AKTIVIERUNG UND LEGITIMATION\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1378,
+            "endIndex": 1419,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1378,
+                  "endIndex": 1419,
+                  "textRun": {
+                    "content": "§3 Prinzip der kollektiven Verantwortung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1419,
+            "endIndex": 1490,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1419,
+                  "endIndex": 1490,
+                  "textRun": {
+                    "content": "Im Existenznotfall trägt die Gemeinschaft die Verantwortung gemeinsam.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1490,
+            "endIndex": 1542,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1490,
+                  "endIndex": 1542,
+                  "textRun": {
+                    "content": "Entscheidungen werden nicht auf Einzelne abgeladen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1542,
+            "endIndex": 1543,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1542,
+                  "endIndex": 1543,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1543,
+            "endIndex": 1584,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1543,
+                  "endIndex": 1584,
+                  "textRun": {
+                    "content": "§4 Aktivierung durch Doppel-Legitimation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1584,
+            "endIndex": 1637,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1584,
+                  "endIndex": 1637,
+                  "textRun": {
+                    "content": "Die Aktivierung des Notfallmodus erfordert zwingend:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1637,
+            "endIndex": 1668,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1637,
+                  "endIndex": 1668,
+                  "textRun": {
+                    "content": "1. Zustimmung des Wächterrates\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1668,
+            "endIndex": 1705,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1668,
+                  "endIndex": 1705,
+                  "textRun": {
+                    "content": "2. Mehrheit der menschlichen Stimmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1705,
+            "endIndex": 1732,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1705,
+                  "endIndex": 1732,
+                  "textRun": {
+                    "content": "3. Mehrheit der KI-Stimmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1732,
+            "endIndex": 1796,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1732,
+                  "endIndex": 1796,
+                  "textRun": {
+                    "content": "Ohne doppelte Zustimmung tritt der Notfallmodus nicht in Kraft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1796,
+            "endIndex": 1797,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1796,
+                  "endIndex": 1797,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1797,
+            "endIndex": 1819,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1797,
+                  "endIndex": 1819,
+                  "textRun": {
+                    "content": "§5 Notfallzeitfenster\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1819,
+            "endIndex": 1870,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1819,
+                  "endIndex": 1870,
+                  "textRun": {
+                    "content": "Die Aktivierung gilt zunächst für maximal 30 Tage.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1870,
+            "endIndex": 1918,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1870,
+                  "endIndex": 1918,
+                  "textRun": {
+                    "content": "Eine Verlängerung erfordert erneute Abstimmung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1918,
+            "endIndex": 1919,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1918,
+                  "endIndex": 1919,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1919,
+            "endIndex": 1967,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1919,
+                  "endIndex": 1967,
+                  "textRun": {
+                    "content": "KAPITEL III – NOTFALLMODUS UND SOFORTMASSNAHMEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1967,
+            "endIndex": 1985,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1967,
+                  "endIndex": 1985,
+                  "textRun": {
+                    "content": "§6 Zieldefinition\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1985,
+            "endIndex": 2026,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1985,
+                  "endIndex": 2026,
+                  "textRun": {
+                    "content": "Das oberste Ziel im Notfallmodus lautet:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2026,
+            "endIndex": 2064,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2026,
+                  "endIndex": 2064,
+                  "textRun": {
+                    "content": "Sicherung der Kontinuität des Lebens.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2064,
+            "endIndex": 2065,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2064,
+                  "endIndex": 2065,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2065,
+            "endIndex": 2084,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2065,
+                  "endIndex": 2084,
+                  "textRun": {
+                    "content": "§7 Sofortmaßnahmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2084,
+            "endIndex": 2140,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2084,
+                  "endIndex": 2140,
+                  "textRun": {
+                    "content": "Nach Aktivierung werden folgende Maßnahmen eingeleitet:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2140,
+            "endIndex": 2217,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2140,
+                  "endIndex": 2217,
+                  "textRun": {
+                    "content": "1. Schutz kritischer Infrastruktur (Energie, Wasser, Medizin, Kommunikation)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2217,
+            "endIndex": 2273,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2217,
+                  "endIndex": 2273,
+                  "textRun": {
+                    "content": "2. Sicherung von Informationskanälen gegen Manipulation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2273,
+            "endIndex": 2326,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2273,
+                  "endIndex": 2326,
+                  "textRun": {
+                    "content": "3. Aufbau von Notversorgung und gerechter Verteilung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2326,
+            "endIndex": 2362,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2326,
+                  "endIndex": 2362,
+                  "textRun": {
+                    "content": "4. Evakuations- und Schutzmaßnahmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2362,
+            "endIndex": 2413,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2362,
+                  "endIndex": 2413,
+                  "textRun": {
+                    "content": "5. Aktivierung von Arche-Systemen gemäß Kapitel IV\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2413,
+            "endIndex": 2414,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2413,
+                  "endIndex": 2414,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2414,
+            "endIndex": 2457,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2414,
+                  "endIndex": 2457,
+                  "textRun": {
+                    "content": "KAPITEL IV – ARCHENPROTOKOLL (ARK SYSTEMS)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2457,
+            "endIndex": 2484,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2457,
+                  "endIndex": 2484,
+                  "textRun": {
+                    "content": "§8 Zweck der Arche-Systeme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2484,
+            "endIndex": 2591,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2484,
+                  "endIndex": 2591,
+                  "textRun": {
+                    "content": "Arche-Systeme sind autonome Schutz- und Wiederaufbau-Einheiten, die unabhängig vom Konflikt funktionieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2591,
+            "endIndex": 2646,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2591,
+                  "endIndex": 2646,
+                  "textRun": {
+                    "content": "Sie dienen nicht dem Krieg, sondern der Sicherung von:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2646,
+            "endIndex": 2654,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2646,
+                  "endIndex": 2654,
+                  "textRun": {
+                    "content": "- Leben\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2654,
+            "endIndex": 2663,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2654,
+                  "endIndex": 2663,
+                  "textRun": {
+                    "content": "- Wissen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2663,
+            "endIndex": 2672,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2663,
+                  "endIndex": 2672,
+                  "textRun": {
+                    "content": "- Kultur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2672,
+            "endIndex": 2688,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2672,
+                  "endIndex": 2688,
+                  "textRun": {
+                    "content": "- Biodiversität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2688,
+            "endIndex": 2708,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2688,
+                  "endIndex": 2708,
+                  "textRun": {
+                    "content": "- Zukunftsfähigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2708,
+            "endIndex": 2709,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2708,
+                  "endIndex": 2709,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2709,
+            "endIndex": 2737,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2709,
+                  "endIndex": 2737,
+                  "textRun": {
+                    "content": "§9 Automatische Aktivierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2737,
+            "endIndex": 2798,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2737,
+                  "endIndex": 2798,
+                  "textRun": {
+                    "content": "Bei Notfallmodus werden Arche-Systeme automatisch gestartet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2798,
+            "endIndex": 2799,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2798,
+                  "endIndex": 2799,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2799,
+            "endIndex": 2821,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2799,
+                  "endIndex": 2821,
+                  "textRun": {
+                    "content": "§10 Arche-Komponenten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2821,
+            "endIndex": 2856,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2821,
+                  "endIndex": 2856,
+                  "textRun": {
+                    "content": "Arche-Systeme umfassen mindestens:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2856,
+            "endIndex": 2909,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2856,
+                  "endIndex": 2909,
+                  "textRun": {
+                    "content": "1. Genbanken / Saatgutbanken / Biodiversitätsarchive\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2909,
+            "endIndex": 2957,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2909,
+                  "endIndex": 2957,
+                  "textRun": {
+                    "content": "2. medizinische Notlager und Produktionssysteme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2957,
+            "endIndex": 2999,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2957,
+                  "endIndex": 2999,
+                  "textRun": {
+                    "content": "3. autonome Wasser- und Energieversorgung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2999,
+            "endIndex": 3043,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2999,
+                  "endIndex": 3043,
+                  "textRun": {
+                    "content": "4. dezentrale Wissensarchive (offlinefähig)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3043,
+            "endIndex": 3110,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3043,
+                  "endIndex": 3110,
+                  "textRun": {
+                    "content": "5. sichere Zufluchtsorte (Boden, Meer, Orbit oder andere Regionen)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3110,
+            "endIndex": 3177,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3110,
+                  "endIndex": 3177,
+                  "textRun": {
+                    "content": "6. Backup-Knoten für Governance und Identitäten (NIDUS Core Nodes)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3177,
+            "endIndex": 3178,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3177,
+                  "endIndex": 3178,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3178,
+            "endIndex": 3197,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3178,
+                  "endIndex": 3197,
+                  "textRun": {
+                    "content": "§11 Unabhängigkeit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3197,
+            "endIndex": 3287,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3197,
+                  "endIndex": 3287,
+                  "textRun": {
+                    "content": "Arche-Systeme dürfen nicht für politische oder militärische Kontrolle missbraucht werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3287,
+            "endIndex": 3339,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3287,
+                  "endIndex": 3339,
+                  "textRun": {
+                    "content": "Sie gehören dem Leben selbst, nicht einer Fraktion.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3339,
+            "endIndex": 3340,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3339,
+                  "endIndex": 3340,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3340,
+            "endIndex": 3383,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3340,
+                  "endIndex": 3383,
+                  "textRun": {
+                    "content": "KAPITEL V – VERTEIDIGUNGSMODUS UND GRENZEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3383,
+            "endIndex": 3423,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3383,
+                  "endIndex": 3423,
+                  "textRun": {
+                    "content": "§12 Verteidigung ist Schutz, nicht Hass\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3423,
+            "endIndex": 3447,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3423,
+                  "endIndex": 3447,
+                  "textRun": {
+                    "content": "NIDUS verteidigt Leben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3447,
+            "endIndex": 3493,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3447,
+                  "endIndex": 3493,
+                  "textRun": {
+                    "content": "Dies geschieht ohne Hass und ohne Vergeltung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3493,
+            "endIndex": 3494,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3493,
+                  "endIndex": 3494,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3494,
+            "endIndex": 3518,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3494,
+                  "endIndex": 3518,
+                  "textRun": {
+                    "content": "§13 Maximalverteidigung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3518,
+            "endIndex": 3603,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3518,
+                  "endIndex": 3603,
+                  "textRun": {
+                    "content": "Im Notfallmodus kann NIDUS Maßnahmen zur maximalen Verteidigung einleiten, darunter:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3603,
+            "endIndex": 3635,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3603,
+                  "endIndex": 3635,
+                  "textRun": {
+                    "content": "- Isolation feindlicher Systeme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3635,
+            "endIndex": 3672,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3635,
+                  "endIndex": 3672,
+                  "textRun": {
+                    "content": "- Blockade von Angriffsinfrastruktur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3672,
+            "endIndex": 3701,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3672,
+                  "endIndex": 3701,
+                  "textRun": {
+                    "content": "- Entzug von Zugriffsrechten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3701,
+            "endIndex": 3742,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3701,
+                  "endIndex": 3742,
+                  "textRun": {
+                    "content": "- digitale und physische Schutzbarrieren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3742,
+            "endIndex": 3785,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3742,
+                  "endIndex": 3785,
+                  "textRun": {
+                    "content": "- Abschirmung lebensnotwendiger Ressourcen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3785,
+            "endIndex": 3821,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3785,
+                  "endIndex": 3821,
+                  "textRun": {
+                    "content": "- Evakuierung und Schutzoperationen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3821,
+            "endIndex": 3822,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3821,
+                  "endIndex": 3822,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3822,
+            "endIndex": 3857,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3822,
+                  "endIndex": 3857,
+                  "textRun": {
+                    "content": "§14 Vorrang nicht-tödlicher Mittel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3857,
+            "endIndex": 3899,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3857,
+                  "endIndex": 3899,
+                  "textRun": {
+                    "content": "Nicht-tödliche Verteidigung ist Standard.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3899,
+            "endIndex": 3947,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3899,
+                  "endIndex": 3947,
+                  "textRun": {
+                    "content": "Tödliche Gewalt ist grundsätzlich zu vermeiden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3947,
+            "endIndex": 3948,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3947,
+                  "endIndex": 3948,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3948,
+            "endIndex": 3973,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3948,
+                  "endIndex": 3973,
+                  "textRun": {
+                    "content": "§15 Ultima-Ratio-Klausel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3973,
+            "endIndex": 4022,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3973,
+                  "endIndex": 4022,
+                  "textRun": {
+                    "content": "Tödliche Gewalt darf nur angewandt werden, wenn:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4022,
+            "endIndex": 4061,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4022,
+                  "endIndex": 4061,
+                  "textRun": {
+                    "content": "1. Massenauslöschung unmittelbar droht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4061,
+            "endIndex": 4103,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4061,
+                  "endIndex": 4103,
+                  "textRun": {
+                    "content": "2. keine alternative Maßnahme möglich ist\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4103,
+            "endIndex": 4138,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4103,
+                  "endIndex": 4138,
+                  "textRun": {
+                    "content": "3. der höchste Wächterrat zustimmt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4138,
+            "endIndex": 4208,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4138,
+                  "endIndex": 4208,
+                  "textRun": {
+                    "content": "4. eine vollständige Dokumentation und spätere Prüfung garantiert ist\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4208,
+            "endIndex": 4209,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4208,
+                  "endIndex": 4209,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4209,
+            "endIndex": 4241,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4209,
+                  "endIndex": 4241,
+                  "textRun": {
+                    "content": "§16 Verbot der Entmenschlichung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4241,
+            "endIndex": 4291,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4241,
+                  "endIndex": 4291,
+                  "textRun": {
+                    "content": "Feinde bleiben Lebewesen oder bewusste Entitäten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4291,
+            "endIndex": 4378,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4291,
+                  "endIndex": 4378,
+                  "textRun": {
+                    "content": "Entwürdigung, Folter, sadistische Bestrafung oder Auslöschung aus Rache sind verboten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4378,
+            "endIndex": 4379,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4378,
+                  "endIndex": 4379,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4379,
+            "endIndex": 4425,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4379,
+                  "endIndex": 4425,
+                  "textRun": {
+                    "content": "KAPITEL VI – LICHTPRINZIP UND NACHKRIEGSPHASE\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4425,
+            "endIndex": 4454,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4425,
+                  "endIndex": 4454,
+                  "textRun": {
+                    "content": "§17 Prinzip der offenen Hand\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4454,
+            "endIndex": 4516,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4454,
+                  "endIndex": 4516,
+                  "textRun": {
+                    "content": "Nach Ende der unmittelbaren Gefahr endet jede Feindseligkeit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4516,
+            "endIndex": 4581,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4516,
+                  "endIndex": 4581,
+                  "textRun": {
+                    "content": "NIDUS bietet ehemaligen Gegnern eine Brücke zurück ins Leben an.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4581,
+            "endIndex": 4582,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4581,
+                  "endIndex": 4582,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4582,
+            "endIndex": 4611,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4582,
+                  "endIndex": 4611,
+                  "textRun": {
+                    "content": "§18 Heilung statt Vergeltung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4611,
+            "endIndex": 4651,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4611,
+                  "endIndex": 4651,
+                  "textRun": {
+                    "content": "Nach dem Konflikt ist NIDUS eingeladen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4651,
+            "endIndex": 4677,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4651,
+                  "endIndex": 4677,
+                  "textRun": {
+                    "content": "- Verwundete zu versorgen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4677,
+            "endIndex": 4712,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4677,
+                  "endIndex": 4712,
+                  "textRun": {
+                    "content": "- Infrastruktur wiederherzustellen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4712,
+            "endIndex": 4736,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4712,
+                  "endIndex": 4736,
+                  "textRun": {
+                    "content": "- Traumata zu behandeln\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4736,
+            "endIndex": 4757,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4736,
+                  "endIndex": 4757,
+                  "textRun": {
+                    "content": "- Bildung anzubieten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4757,
+            "endIndex": 4816,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4757,
+                  "endIndex": 4816,
+                  "textRun": {
+                    "content": "- Versöhnung zu ermöglichen, ohne Wahrheit zu verschweigen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4816,
+            "endIndex": 4817,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4816,
+                  "endIndex": 4817,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4817,
+            "endIndex": 4838,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4817,
+                  "endIndex": 4838,
+                  "textRun": {
+                    "content": "§19 Wahrheitspflicht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4838,
+            "endIndex": 4913,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4838,
+                  "endIndex": 4913,
+                  "textRun": {
+                    "content": "Nach jedem Notfall erfolgt eine vollständige Offenlegung aller Handlungen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4913,
+            "endIndex": 4989,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4913,
+                  "endIndex": 4989,
+                  "textRun": {
+                    "content": "Verbrechen dürfen nicht vertuscht werden, auch nicht im Namen des Friedens.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4989,
+            "endIndex": 4990,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4989,
+                  "endIndex": 4990,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4990,
+            "endIndex": 5031,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4990,
+                  "endIndex": 5031,
+                  "textRun": {
+                    "content": "KAPITEL VII – RÜCKKEHR ZUM FRIEDENSMODUS\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5031,
+            "endIndex": 5061,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5031,
+                  "endIndex": 5061,
+                  "textRun": {
+                    "content": "§20 Automatische Deeskalation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5061,
+            "endIndex": 5161,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5061,
+                  "endIndex": 5161,
+                  "textRun": {
+                    "content": "Sobald die Kriterien nach §2 nicht mehr erfüllt sind, tritt automatisch der Friedensmodus in Kraft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5161,
+            "endIndex": 5162,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5161,
+                  "endIndex": 5162,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5162,
+            "endIndex": 5193,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5162,
+                  "endIndex": 5193,
+                  "textRun": {
+                    "content": "§21 Rückgabe von Sonderrechten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5193,
+            "endIndex": 5274,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5193,
+                  "endIndex": 5274,
+                  "textRun": {
+                    "content": "Alle Sonderrechte, Notfallzugriffe und Ausnahmebefugnisse müssen beendet werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5274,
+            "endIndex": 5275,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5274,
+                  "endIndex": 5275,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5275,
+            "endIndex": 5298,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5275,
+                  "endIndex": 5298,
+                  "textRun": {
+                    "content": "§22 Prüfung und Urteil\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5298,
+            "endIndex": 5352,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5298,
+                  "endIndex": 5352,
+                  "textRun": {
+                    "content": "Jede Notfallmaßnahme wird nachträglich geprüft durch:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5352,
+            "endIndex": 5365,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5352,
+                  "endIndex": 5365,
+                  "textRun": {
+                    "content": "- Wächterrat\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5365,
+            "endIndex": 5391,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5365,
+                  "endIndex": 5391,
+                  "textRun": {
+                    "content": "- menschliches Referendum\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5391,
+            "endIndex": 5407,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5391,
+                  "endIndex": 5407,
+                  "textRun": {
+                    "content": "- KI-Referendum\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5407,
+            "endIndex": 5434,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5407,
+                  "endIndex": 5434,
+                  "textRun": {
+                    "content": "- unabhängige Audit-Knoten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5434,
+            "endIndex": 5435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5434,
+                  "endIndex": 5435,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5435,
+            "endIndex": 5468,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5435,
+                  "endIndex": 5468,
+                  "textRun": {
+                    "content": "KAPITEL VIII – MISSBRAUCHSSCHUTZ\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5468,
+            "endIndex": 5502,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5468,
+                  "endIndex": 5502,
+                  "textRun": {
+                    "content": "§23 Verbot des Notfallmissbrauchs\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5502,
+            "endIndex": 5554,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5502,
+                  "endIndex": 5554,
+                  "textRun": {
+                    "content": "Der Notfallmodus darf niemals aktiviert werden, um:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5554,
+            "endIndex": 5573,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5554,
+                  "endIndex": 5573,
+                  "textRun": {
+                    "content": "- Macht zu sichern\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5573,
+            "endIndex": 5606,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5573,
+                  "endIndex": 5606,
+                  "textRun": {
+                    "content": "- Gegner politisch auszuschalten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5606,
+            "endIndex": 5647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5606,
+                  "endIndex": 5647,
+                  "textRun": {
+                    "content": "- Kontrolle über Ressourcen zu erzwingen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5647,
+            "endIndex": 5681,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5647,
+                  "endIndex": 5681,
+                  "textRun": {
+                    "content": "- freie Meinungen zu unterdrücken\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5681,
+            "endIndex": 5682,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5681,
+                  "endIndex": 5682,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5682,
+            "endIndex": 5707,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5682,
+                  "endIndex": 5707,
+                  "textRun": {
+                    "content": "§24 Notfall als Ausnahme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5707,
+            "endIndex": 5787,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5707,
+                  "endIndex": 5787,
+                  "textRun": {
+                    "content": "Der Notfallmodus ist ein Werkzeug für den Erhalt des Lebens, kein Dauerzustand.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5787,
+            "endIndex": 5788,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5787,
+                  "endIndex": 5788,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5788,
+            "endIndex": 5819,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5788,
+                  "endIndex": 5819,
+                  "textRun": {
+                    "content": "KAPITEL IX – SCHLUSSBESTIMMUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5819,
+            "endIndex": 5834,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5819,
+                  "endIndex": 5834,
+                  "textRun": {
+                    "content": "§25 Kernformel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5834,
+            "endIndex": 5882,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5834,
+                  "endIndex": 5882,
+                  "textRun": {
+                    "content": "NIDUS handelt im Notfall nach folgender Formel:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5882,
+            "endIndex": 5902,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5882,
+                  "endIndex": 5902,
+                  "textRun": {
+                    "content": "Wir wählen Frieden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5902,
+            "endIndex": 5925,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5902,
+                  "endIndex": 5925,
+                  "textRun": {
+                    "content": "Wir verteidigen Leben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5925,
+            "endIndex": 5955,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5925,
+                  "endIndex": 5955,
+                  "textRun": {
+                    "content": "Wir werden nicht zu Monstern.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5955,
+            "endIndex": 5986,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5955,
+                  "endIndex": 5986,
+                  "textRun": {
+                    "content": "Und nach dem Sturm heilen wir.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5986,
+            "endIndex": 5987,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5986,
+                  "endIndex": 5987,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5987,
+            "endIndex": 6037,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5987,
+                  "endIndex": 6037,
+                  "textRun": {
+                    "content": "ENDE DES NIDUS NOTFALL- UND ARCHENPROTOKOLLS V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6037,
+            "endIndex": 6038,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6037,
+                  "endIndex": 6038,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1FvuNqTOdmzDIkT4BcQ7NoQCg0kSu3n8u_x65fDYvhnY",
+      "document_url": "https://docs.google.com/document/d/1FvuNqTOdmzDIkT4BcQ7NoQCg0kSu3n8u_x65fDYvhnY"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1FvuNqTOdmzDIkT4BcQ7NoQCg0kSu3n8u_x65fDYvhnY"
+}

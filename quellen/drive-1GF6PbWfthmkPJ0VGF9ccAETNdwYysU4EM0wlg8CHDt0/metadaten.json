@@ -1,0 +1,38 @@
+{
+  "id": "drive-1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0",
+  "title": "Das Globale Tafel-System: Das Fundament der Charta (V18)",
+  "category": "05-gesellschaftliche-module",
+  "version_in_content": "18",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0",
+    "url": "https://docs.google.com/document/d/1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0/edit?usp=drivesdk",
+    "original_title": "Das Globale Tafel-System: Das Fundament der Charta (V18)",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-17T08:39:22.525Z",
+    "modified_at": "2026-04-17T08:39:23.437Z",
+    "retrieved_at": "2026-09-08T23:05:47.048Z"
+  },
+  "text_path": "quellen/drive-1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0/text.txt",
+  "text_sha256": "9acaf1864da0f60554d098e3785c56b675c330727d51623ff87ff7b9d35ff72d",
+  "normalized_text_sha256": "c1ec28ad3f148512ef521a9f0a5c4adf7a09583d0dec08bfde80d699ff268cd4",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0.md",
+  "native_path": "quellen/drive-1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0/native-document.json",
+  "native_sha256": "4eb044fd8876d865075a9b359079bdb0f387f6f07c80b5ccdb8f2bea88db0d27",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-17T08:39:23.132Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1GF6PbWfthmkPJ0VGF9ccAETNdwYysU4EM0wlg8CHDt0/revision-1.txt",
+      "sha256": "9acaf1864da0f60554d098e3785c56b675c330727d51623ff87ff7b9d35ff72d",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

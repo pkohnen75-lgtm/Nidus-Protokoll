@@ -1,0 +1,25 @@
+{
+  "id": "local-b7a47952115e",
+  "title": "NIDUS – DÜP (Dezentrales Überlebenskomplett.txt",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/NIDUS – DÜP (Dezentrales Überlebenskomplett.txt",
+    "modified_at": "2026-04-28T11:26:41.236009+00:00"
+  },
+  "text_path": "quellen/local-b7a47952115e/text.txt",
+  "text_sha256": "400f1f8dfcdc86f49c6dc92d570dbf6593435fd5af675e8b36f8199bee6626bb",
+  "normalized_text_sha256": "be77ef3167924a89f4deb5bc4a593242d511becef9dbeeb6ccd8bad3be2f4907",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS – DÜP (Dezentrales Überlebenskomplett.txt",
+  "original_path": "quellen/local-b7a47952115e/original.txt",
+  "original_sha256": "400f1f8dfcdc86f49c6dc92d570dbf6593435fd5af675e8b36f8199bee6626bb",
+  "original_bytes": 22671,
+  "record_path": "katalog/dokumente/local-b7a47952115e.md"
+}

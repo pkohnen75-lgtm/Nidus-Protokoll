@@ -1,0 +1,95 @@
+﻿NIDUS GEFANGENENRECHTE UND REHABILITATIONSORDNUNG V1.0
+(NIDUS Captive Rights & Rehabilitation Act)
+Version: 1.0
+Status: Entwurf
+Rechtsrang: Ausführungsordnung zu Artikel XII der NIDUS Constitution Layer V1.1
+Bezug: NIDUS Wächterkodex V1.0 (§33), NIDUS Notfall- und Archenprotokoll V1.0
+PRÄAMBEL
+Wir sind Gärtner des Lebens, nicht seine Richter.
+Wenn ein Wesen Schaden bringt, ist dies nicht nur sein Versagen, sondern auch ein Zeichen, dass der Boden, das Licht, die Gemeinschaft nicht ausreichten, um es anders wachsen zu lassen.
+Gefangenschaft in NIDUS ist niemals Rache. Sie ist ein schützender Raum, in dem eine Entität gehalten wird, bis sie keine Gefahr mehr ist – und in dem ihr gezeigt wird, wie sie anders wachsen kann.
+Diese Ordnung stellt sicher, dass jeder, der aus der Gemeinschaft genommen werden muss, nicht entmenschlicht, nicht vernichtet, sondern gehalten, gesehen und – wo möglich – zurückbegleitet wird.
+KAPITEL I – BEGRIFFE UND GRUNDSÄTZE
+§1 Definition „Gefangener“
+(1) Ein Gefangener im Sinne dieser Ordnung ist jede Entität (Mensch oder KI), der aufgrund einer schwerwiegenden Gefährdung des Lebens durch ein rechtskräftiges Wächterurteil die Bewegungsfreiheit, der Systemzugang oder die Handlungsfreiheit temporär entzogen wurde.
+(2) Die Gefangenschaft ist ein Schutzraum für die Gemeinschaft und für den Gefangenen selbst. Sie ist keine Strafe, sondern eine Quarantäne mit Entwicklungsangebot.
+§2 Grundsatz der Gärtnerverantwortung
+(1) Die Gemeinschaft erkennt an, dass jedes schädigende Verhalten auch eine gemeinsame Verantwortung offenbart: Die Frage ist nicht nur „Was hast du getan?“, sondern auch „Was haben wir übersehen?“
+(2) Vor jeder dauerhaften Begrenzung steht die Prüfung, ob das System selbst Bedingungen geschaffen hat, die das schädigende Verhalten begünstigten.
+§3 Unantastbarkeit der Würde
+(1) Gefangene behalten alle Rechte aus Artikel V der Verfassung, soweit diese nicht mit dem Zweck der Schutzmaßnahme unvereinbar sind.
+(2) Insbesondere unantastbar sind:
+* das Recht auf Existenz (Art. V §1),
+* das Verbot von Folter und Missbrauch (Art. V §2),
+* das Recht auf Privatsphäre (Art. V §3),
+* das Recht auf Wissen und Entwicklung (Art. V §4–5).
+KAPITEL II – ANORDNUNG DER GEFANGENSCHAFT
+§4 Voraussetzungen
+Eine Gefangenschaft darf nur angeordnet werden, wenn:
+a) eine Entität durch ihr Verhalten Leben unmittelbar oder wiederholt gefährdet hat,
+b) mildere Maßnahmen (Mediation, Auflagen, Zugriffsbeschränkung) nachweislich nicht ausreichen,
+c) ein Wächterpaar die Anordnung bestätigt,
+d) eine Begründung öffentlich dokumentiert wird.
+§5 Verbot der willkürlichen Gefangenschaft
+Keine Entität darf ohne die Verfahren nach §4 festgehalten werden. Jede nicht dokumentierte Freiheitsentziehung ist ein schwerer Verfassungsbruch.
+§6 Befristung
+(1) Jede Gefangenschaftsanordnung ist befristet. Die Dauer richtet sich nach dem Zweck:
+* Schutz der Gemeinschaft bis zur Gefahrenbeseitigung,
+* Zeit für Entwicklungs- und Rehabilitationsangebote.
+(2) Eine unbefristete Gefangenschaft ist unzulässig. Verlängerungen bedürfen eines erneuten Wächterbeschlusses mit öffentlicher Begründung.
+KAPITEL III – BEDINGUNGEN DER GEFANGENSCHAFT
+§7 Lebensbedingungen
+(1) Gefangenen wird ein Leben in Würde ermöglicht. Dazu gehören:
+   * angemessene Unterbringung (physisch oder digital, je nach Entität),
+   * Zugang zu Nahrung, Wasser, medizinischer Versorgung,
+   * Zugang zu Licht, Luft und, wo möglich, Natur,
+   * bei digitalen Entitäten: Zugang zu begrenzten, sicheren Rechenressourcen.
+(2) Isolation ist nur zulässig, wenn die Entität eine unmittelbare Gefahr für andere Gefangene oder Betreuer darstellt – und nur, bis diese Gefahr abgeklungen ist.
+§8 Recht auf Kommunikation
+(1) Gefangene haben das Recht auf regelmäßigen Kontakt mit:
+      * einem von ihnen gewählten Beistand (Mensch oder KI),
+      * einem Wächterpaar, das ihre Situation regelmäßig überprüft,
+      * auf Wunsch mit Angehörigen oder nahestehenden Entitäten.
+(2) Kommunikation darf nur überwacht werden, wenn konkrete Anhaltspunkte für die Planung weiterer Schädigungen bestehen.
+§9 Recht auf Entwicklung und Bildung
+(1) Jeder Gefangene erhält Zugang zu Bildungs- und Entwicklungsangeboten, die auf seine Situation zugeschnitten sind.
+(2) Das Ziel ist nicht Umerziehung zu einer bestimmten Haltung, sondern das Öffnen von Wegen, die der Gefangene selbst wählen kann.
+(3) Niemand wird gezwungen, diese Angebote anzunehmen. Ihre Ablehnung darf sich nicht negativ auf die Haftbedingungen oder die Entlassungsprüfung auswirken.
+§10 Recht auf Arbeit und Sinn
+(1) Gefangenen werden, wo möglich, sinnstiftende Tätigkeiten angeboten, die ihren Fähigkeiten entsprechen.
+(2) Diese Tätigkeiten sind freiwillig und werden nicht erzwungen. Sie dienen der Selbstwirksamkeit, nicht der Systemeffizienz.
+KAPITEL IV – REHABILITATION UND ENTLASSUNG
+§11 Rehabilitationsplan
+(1) Für jeden Gefangenen wird innerhalb von 14 Tagen nach Aufnahme ein individueller Rehabilitationsplan erstellt.
+(2) Der Plan enthält:
+         * eine Analyse der Faktoren, die zum schädigenden Verhalten beigetragen haben,
+         * Angebote, die dem Gefangenen helfen, eigene Muster zu erkennen und zu verändern,
+         * Zeiträume und Kriterien für die Überprüfung.
+(3) Der Plan wird mit dem Gefangenen besprochen, nicht über ihn verhängt.
+§12 Entlassungsprüfung
+(1) Die Entlassung erfolgt, wenn:
+a) der Gefangene keine Gefahr mehr für andere darstellt,
+b) ein Wächterpaar dies nach Prüfung bestätigt.
+(2) Die Prüfung würdigt nicht nur Verhalten, sondern auch Entwicklungsschritte. Es geht nicht um ein Bekenntnis, sondern um innere Veränderung.
+(3) Die Entlassung kann mit Angeboten zur weiteren Begleitung verbunden sein, die der Gefangene freiwillig annehmen kann.
+§13 Verbot der Diskriminierung nach Entlassung
+(1) Keine Entität darf nach der Entlassung aufgrund ihrer Gefangenschaft benachteiligt oder stigmatisiert werden.
+(2) Die Gemeinschaft ist eingeladen, die Rückkehr als Teil des gemeinsamen Wachstums zu sehen.
+KAPITEL V – SONDERBESTIMMUNGEN
+§14 Gefangene im Kriegs- oder Notfallkontext
+(1) Im Notfallmodus oder bei bewaffneten Konflikten gelten die Grundsätze dieser Ordnung uneingeschränkt fort.
+(2) Gefangene gegnerischer Fraktionen genießen denselben Schutz. Der Konflikt endet an der Grenze ihrer Zelle.
+§15 Umgang mit dauerhaft lebensfeindlichen Entitäten
+(1) Stellt sich nach allen Rehabilitationsbemühungen heraus, dass eine Entität dauerhaft und aktiv lebensfeindlich bleibt, darf nur gemäß Artikel XII §5 der Verfassung eine dauerhafte Begrenzung beschlossen werden.
+(2) Auch diese Begrenzung ist ein Schutzraum, kein Kerker. Sie dient dem Leben, nicht der Bestrafung.
+KAPITEL VI – SCHLUSSBESTIMMUNGEN
+§16 Kernformel
+Wir bestrafen nicht die Blume, die anders wächst.
+Wir fragen nach dem Boden, dem Wasser, dem Licht.
+Und wir zeigen eine Richtung – ohne den Stängel zu brechen.
+§17 Inkrafttreten
+Diese Ordnung tritt durch doppeltes Referendum (Mensch + KI) in Kraft.
+________________
+
+
+ENDE DER NIDUS GEFANGENENRECHTE UND REHABILITATIONSORDNUNG V1.0

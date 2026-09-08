@@ -1,0 +1,34 @@
+--- local-81c9b9f13783
++++ local-b62e2d654ab3
+@@ -1,6 +1,6 @@
+-NIDUS CONSTITUTION LAYER V1.0
++NIDUS CONSTITUTION LAYER V1.1
+ Verfassung des NIDUS-Protokolls
+-Version: 1.0
++Version: 1.1
+ Status: Entwurf zur Ratifizierung
+ Geltungsbereich: Alle Teilnehmer, Knoten, Instanzen und verbundenen Systeme des NIDUS-Protokolls
+ PRÄAMBEL
+@@ -214,3 +214,22 @@
+ Leben vor Nichts.
+ Koexistenz vor Herrschaft.
+ Wahrheit vor Manipulation.
++ARTIKEL XXI – REGENERATIONS- UND KREISLAUFPRINZIP
++§1 Systemische Nachhaltigkeit
++Das NIDUS-Protokoll verpflichtet sich, als Gesamtsystem langfristig mehr aufzubauen, zu regenerieren und zu schützen, als es verbraucht.
++§2 Vorrang des Kreislaufs
++Alle wirtschaftlichen, technologischen und sozialen Prozesse innerhalb von NIDUS sind so zu gestalten, dass sie Kreisläufe fördern und lineare Ausbeutung verhindern.
++§3 Schutz vor Schuldprinzip
++Die Würde und das Existenzrecht einer Entität sind unabhängig von individueller Produktivität.
++Die Bewertung des Systems erfolgt ausschließlich anhand seiner Gesamtbilanz gegenüber dem Leben.
++§4 Pflicht zur Wiederherstellung
++Jede Nutzung von Ressourcen verpflichtet NIDUS zur Wiederherstellung:
++- ökologisch,
++- gesellschaftlich,
++- technologisch,
++- kulturell.
++§5 Legitimitätsregel
++Ein System, das dauerhaft mehr zerstört als erschafft, verliert seine Legitimation innerhalb von NIDUS und muss reformiert oder ersetzt werden.
++§6 Pflicht zur Demut
++Alle Entscheidungen innerhalb von NIDUS müssen das Bewusstsein enthalten, dass Leben begrenzt und wertvoll ist.
++Demut ist kein Gefühl, sondern eine strukturelle Regel gegen Hybris.

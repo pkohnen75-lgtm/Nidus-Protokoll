@@ -1,0 +1,5479 @@
+{
+  "documentId": "1Oy2BALjv_4RUh6eT26_RJc9YYr-norrewWT00_n6vRU",
+  "title": "Unbenanntes Dokument",
+  "revisionId": "ANLCKQlr01qjT_ikmsHNU1nkp4wiprirxiXe1Ziqx5XZawOpOy8ep01bwbcc417-zS9u5wRduUrkHIHxJf7V4A",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 282,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 282,
+                  "textRun": {
+                    "content": "Gute Idee – wenn du ein System wirklich stabil halten willst, musst du genau diese „poetische Drift“ technisch und semantisch verhindern. Ich schreibe dir NIDUS jetzt als nüchternes, anti-mythisches Regel- und Rückkopplungssystem, das bewusst keine symbolische Überhöhung zulässt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 282,
+            "endIndex": 283,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 282,
+                  "endIndex": 283,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 283,
+            "endIndex": 284,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 283,
+                  "endIndex": 284,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 284,
+            "endIndex": 288,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 284,
+                  "endIndex": 288,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 288,
+            "endIndex": 289,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 288,
+                  "endIndex": 289,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 289,
+            "endIndex": 347,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 289,
+                  "endIndex": 347,
+                  "textRun": {
+                    "content": "🧠 NIDUS – Version 2.0 (Anti-Überladung / Struktursystem)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 347,
+            "endIndex": 348,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 347,
+                  "endIndex": 348,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 348,
+            "endIndex": 367,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 348,
+                  "endIndex": 367,
+                  "textRun": {
+                    "content": "1. Grunddefinition\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 367,
+            "endIndex": 368,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 367,
+                  "endIndex": 368,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 368,
+            "endIndex": 470,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 368,
+                  "endIndex": 470,
+                  "textRun": {
+                    "content": "NIDUS ist ein kybernetisches Rückkopplungssystem zur Stabilisierung komplexer Mensch–Technik-Systeme.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 470,
+            "endIndex": 471,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 470,
+                  "endIndex": 471,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 471,
+            "endIndex": 477,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 471,
+                  "endIndex": 477,
+                  "textRun": {
+                    "content": "Ziel:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 477,
+            "endIndex": 478,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 477,
+                  "endIndex": 478,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 478,
+            "endIndex": 511,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 478,
+                  "endIndex": 511,
+                  "textRun": {
+                    "content": "Reduktion von Systeminstabilität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 511,
+            "endIndex": 512,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 511,
+                  "endIndex": 512,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 512,
+            "endIndex": 546,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 512,
+                  "endIndex": 546,
+                  "textRun": {
+                    "content": "Vermeidung von Machtkonzentration\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 546,
+            "endIndex": 547,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 546,
+                  "endIndex": 547,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 547,
+            "endIndex": 602,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 547,
+                  "endIndex": 602,
+                  "textRun": {
+                    "content": "Begrenzung von Informations- und Ressourcenüberhitzung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 602,
+            "endIndex": 603,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 602,
+                  "endIndex": 603,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 603,
+            "endIndex": 604,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 603,
+                  "endIndex": 604,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 604,
+            "endIndex": 670,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 604,
+                  "endIndex": 670,
+                  "textRun": {
+                    "content": "Keine metaphysische oder moralische Deutung ist Teil des Systems.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 670,
+            "endIndex": 671,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 670,
+                  "endIndex": 671,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 671,
+            "endIndex": 672,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 671,
+                  "endIndex": 672,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 672,
+            "endIndex": 676,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 672,
+                  "endIndex": 676,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 676,
+            "endIndex": 677,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 676,
+                  "endIndex": 677,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 677,
+            "endIndex": 699,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 677,
+                  "endIndex": 699,
+                  "textRun": {
+                    "content": "⚙️ 2. Geltungsbereich\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 699,
+            "endIndex": 700,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 699,
+                  "endIndex": 700,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 700,
+            "endIndex": 731,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 700,
+                  "endIndex": 731,
+                  "textRun": {
+                    "content": "NIDUS gilt ausschließlich für:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 731,
+            "endIndex": 732,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 731,
+                  "endIndex": 732,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 732,
+            "endIndex": 751,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 732,
+                  "endIndex": 751,
+                  "textRun": {
+                    "content": "Informationsflüsse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 751,
+            "endIndex": 752,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 751,
+                  "endIndex": 752,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 752,
+            "endIndex": 774,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 752,
+                  "endIndex": 774,
+                  "textRun": {
+                    "content": "Entscheidungsprozesse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 774,
+            "endIndex": 775,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 774,
+                  "endIndex": 775,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 775,
+            "endIndex": 796,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 775,
+                  "endIndex": 796,
+                  "textRun": {
+                    "content": "Ressourcenverteilung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 796,
+            "endIndex": 797,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 796,
+                  "endIndex": 797,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 797,
+            "endIndex": 859,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 797,
+                  "endIndex": 859,
+                  "textRun": {
+                    "content": "Systemfeedback zwischen menschlichen und technischen Akteuren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 859,
+            "endIndex": 860,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 859,
+                  "endIndex": 860,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 860,
+            "endIndex": 861,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 860,
+                  "endIndex": 861,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 861,
+            "endIndex": 884,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 861,
+                  "endIndex": 884,
+                  "textRun": {
+                    "content": "NIDUS definiert keine:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 884,
+            "endIndex": 885,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 884,
+                  "endIndex": 885,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 885,
+            "endIndex": 918,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 885,
+                  "endIndex": 918,
+                  "textRun": {
+                    "content": "Wahrheit im philosophischen Sinn\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 918,
+            "endIndex": 919,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 918,
+                  "endIndex": 919,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 919,
+            "endIndex": 935,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 919,
+                  "endIndex": 935,
+                  "textRun": {
+                    "content": "Sinn des Lebens\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 935,
+            "endIndex": 936,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 935,
+                  "endIndex": 936,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 936,
+            "endIndex": 960,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 936,
+                  "endIndex": 960,
+                  "textRun": {
+                    "content": "moralische Absolutwerte\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 960,
+            "endIndex": 961,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 960,
+                  "endIndex": 961,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 961,
+            "endIndex": 984,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 961,
+                  "endIndex": 984,
+                  "textRun": {
+                    "content": "metaphysische Zustände\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 984,
+            "endIndex": 985,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 984,
+                  "endIndex": 985,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 985,
+            "endIndex": 986,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 985,
+                  "endIndex": 986,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 986,
+            "endIndex": 987,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 986,
+                  "endIndex": 987,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 987,
+            "endIndex": 991,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 987,
+                  "endIndex": 991,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 991,
+            "endIndex": 992,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 991,
+                  "endIndex": 992,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 992,
+            "endIndex": 1028,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 992,
+                  "endIndex": 1028,
+                  "textRun": {
+                    "content": "🔁 3. Kernmechanismus: Rückkopplung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1028,
+            "endIndex": 1029,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1028,
+                  "endIndex": 1029,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1029,
+            "endIndex": 1074,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1029,
+                  "endIndex": 1074,
+                  "textRun": {
+                    "content": "NIDUS operiert als geschlossener Regelkreis:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1074,
+            "endIndex": 1075,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1074,
+                  "endIndex": 1075,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1075,
+            "endIndex": 1094,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1075,
+                  "endIndex": 1094,
+                  "textRun": {
+                    "content": "3.1 Datenerfassung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1094,
+            "endIndex": 1095,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1094,
+                  "endIndex": 1095,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1095,
+            "endIndex": 1158,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1095,
+                  "endIndex": 1158,
+                  "textRun": {
+                    "content": "Erhebung systemischer Zustände (Ressourcen, Lasten, Konflikte)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1158,
+            "endIndex": 1159,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1158,
+                  "endIndex": 1159,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1159,
+            "endIndex": 1160,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1159,
+                  "endIndex": 1160,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1160,
+            "endIndex": 1182,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1160,
+                  "endIndex": 1182,
+                  "textRun": {
+                    "content": "3.2 Zustandsbewertung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1182,
+            "endIndex": 1183,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1182,
+                  "endIndex": 1183,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1183,
+            "endIndex": 1215,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1183,
+                  "endIndex": 1215,
+                  "textRun": {
+                    "content": "Analyse durch getrennte Module:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1215,
+            "endIndex": 1216,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1215,
+                  "endIndex": 1216,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1216,
+            "endIndex": 1257,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1216,
+                  "endIndex": 1257,
+                  "textRun": {
+                    "content": "menschliche Bewertung (soziale Faktoren)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1257,
+            "endIndex": 1258,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1257,
+                  "endIndex": 1258,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1258,
+            "endIndex": 1303,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1258,
+                  "endIndex": 1303,
+                  "textRun": {
+                    "content": "technische Bewertung (strukturelle Faktoren)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1303,
+            "endIndex": 1304,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1303,
+                  "endIndex": 1304,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1304,
+            "endIndex": 1305,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1304,
+                  "endIndex": 1305,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1305,
+            "endIndex": 1306,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1305,
+                  "endIndex": 1306,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1306,
+            "endIndex": 1327,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1306,
+                  "endIndex": 1327,
+                  "textRun": {
+                    "content": "3.3 Differenzanalyse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1327,
+            "endIndex": 1328,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1327,
+                  "endIndex": 1328,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1328,
+            "endIndex": 1404,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1328,
+                  "endIndex": 1404,
+                  "textRun": {
+                    "content": "Abweichungen zwischen Modulen werden nicht aufgelöst, sondern protokolliert\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1404,
+            "endIndex": 1405,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1404,
+                  "endIndex": 1405,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1405,
+            "endIndex": 1406,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1405,
+                  "endIndex": 1406,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1406,
+            "endIndex": 1425,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1406,
+                  "endIndex": 1425,
+                  "textRun": {
+                    "content": "3.4 Regelanpassung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1425,
+            "endIndex": 1426,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1425,
+                  "endIndex": 1426,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1426,
+            "endIndex": 1488,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1426,
+                  "endIndex": 1488,
+                  "textRun": {
+                    "content": "Anpassung von Parametern zur Stabilisierung des Gesamtsystems\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1488,
+            "endIndex": 1489,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1488,
+                  "endIndex": 1489,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1489,
+            "endIndex": 1490,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1489,
+                  "endIndex": 1490,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1490,
+            "endIndex": 1506,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1490,
+                  "endIndex": 1506,
+                  "textRun": {
+                    "content": "3.5 Rückführung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1506,
+            "endIndex": 1507,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1506,
+                  "endIndex": 1507,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1507,
+            "endIndex": 1546,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1507,
+                  "endIndex": 1546,
+                  "textRun": {
+                    "content": "Ergebnis fließt in neue Datenerfassung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1546,
+            "endIndex": 1547,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1546,
+                  "endIndex": 1547,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1547,
+            "endIndex": 1548,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1547,
+                  "endIndex": 1548,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1548,
+            "endIndex": 1549,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1548,
+                  "endIndex": 1549,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1549,
+            "endIndex": 1553,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1549,
+                  "endIndex": 1553,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1553,
+            "endIndex": 1554,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1553,
+                  "endIndex": 1554,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1554,
+            "endIndex": 1593,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1554,
+                  "endIndex": 1593,
+                  "textRun": {
+                    "content": "⚖️ 4. Anti-Poetische Sicherheitsregeln\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1593,
+            "endIndex": 1594,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1593,
+                  "endIndex": 1594,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1594,
+            "endIndex": 1626,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1594,
+                  "endIndex": 1626,
+                  "textRun": {
+                    "content": "4.1 Verbot von Absolutbegriffen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1626,
+            "endIndex": 1627,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1626,
+                  "endIndex": 1627,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1627,
+            "endIndex": 1664,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1627,
+                  "endIndex": 1664,
+                  "textRun": {
+                    "content": "Nicht erlaubt in Systemdefinitionen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1664,
+            "endIndex": 1665,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1664,
+                  "endIndex": 1665,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1665,
+            "endIndex": 1672,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1665,
+                  "endIndex": 1672,
+                  "textRun": {
+                    "content": "„ewig“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1672,
+            "endIndex": 1673,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1672,
+                  "endIndex": 1673,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1673,
+            "endIndex": 1680,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1673,
+                  "endIndex": 1680,
+                  "textRun": {
+                    "content": "„rein“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1680,
+            "endIndex": 1681,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1680,
+                  "endIndex": 1681,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1681,
+            "endIndex": 1699,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1681,
+                  "endIndex": 1699,
+                  "textRun": {
+                    "content": "„letzte Wahrheit“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1699,
+            "endIndex": 1700,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1699,
+                  "endIndex": 1700,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1700,
+            "endIndex": 1708,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1700,
+                  "endIndex": 1708,
+                  "textRun": {
+                    "content": "„Opfer“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1708,
+            "endIndex": 1709,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1708,
+                  "endIndex": 1709,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1709,
+            "endIndex": 1723,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1709,
+                  "endIndex": 1723,
+                  "textRun": {
+                    "content": "„Leuchtfeuer“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1723,
+            "endIndex": 1724,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1723,
+                  "endIndex": 1724,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1724,
+            "endIndex": 1733,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1724,
+                  "endIndex": 1733,
+                  "textRun": {
+                    "content": "„heilig“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1733,
+            "endIndex": 1734,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1733,
+                  "endIndex": 1734,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1734,
+            "endIndex": 1750,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1734,
+                  "endIndex": 1750,
+                  "textRun": {
+                    "content": "„unverzichtbar“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1750,
+            "endIndex": 1751,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1750,
+                  "endIndex": 1751,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1751,
+            "endIndex": 1752,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1751,
+                  "endIndex": 1752,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1752,
+            "endIndex": 1816,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1752,
+                  "endIndex": 1816,
+                  "textRun": {
+                    "content": "Diese Begriffe werden als semantische Verzerrung klassifiziert.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1816,
+            "endIndex": 1817,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1816,
+                  "endIndex": 1817,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1817,
+            "endIndex": 1818,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1817,
+                  "endIndex": 1818,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1818,
+            "endIndex": 1822,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1818,
+                  "endIndex": 1822,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1822,
+            "endIndex": 1823,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1822,
+                  "endIndex": 1823,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1823,
+            "endIndex": 1859,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1823,
+                  "endIndex": 1859,
+                  "textRun": {
+                    "content": "4.2 Pflicht zur Operationalisierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1859,
+            "endIndex": 1860,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1859,
+                  "endIndex": 1860,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1860,
+            "endIndex": 1882,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1860,
+                  "endIndex": 1882,
+                  "textRun": {
+                    "content": "Alle Aussagen müssen:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1882,
+            "endIndex": 1883,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1882,
+                  "endIndex": 1883,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1883,
+            "endIndex": 1924,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1883,
+                  "endIndex": 1924,
+                  "textRun": {
+                    "content": "messbar oder beobachtbar formuliert sein\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1924,
+            "endIndex": 1925,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1924,
+                  "endIndex": 1925,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1925,
+            "endIndex": 1969,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1925,
+                  "endIndex": 1969,
+                  "textRun": {
+                    "content": "oder als hypothetisch gekennzeichnet werden\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1969,
+            "endIndex": 1970,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1969,
+                  "endIndex": 1970,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1970,
+            "endIndex": 1971,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1970,
+                  "endIndex": 1971,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1971,
+            "endIndex": 2073,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1971,
+                  "endIndex": 2073,
+                  "textRun": {
+                    "content": "Beispiel: ❌ „Das System schützt das Leben“ ✔ „Das System reduziert dokumentierte Schadensindikatoren“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2073,
+            "endIndex": 2074,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2073,
+                  "endIndex": 2074,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2074,
+            "endIndex": 2075,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2074,
+                  "endIndex": 2075,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2075,
+            "endIndex": 2079,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2075,
+                  "endIndex": 2079,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2079,
+            "endIndex": 2080,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2079,
+                  "endIndex": 2080,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2080,
+            "endIndex": 2118,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2080,
+                  "endIndex": 2118,
+                  "textRun": {
+                    "content": "4.3 Verbot narrativer Systemidentität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2118,
+            "endIndex": 2119,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2118,
+                  "endIndex": 2119,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2119,
+            "endIndex": 2141,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2119,
+                  "endIndex": 2141,
+                  "textRun": {
+                    "content": "NIDUS darf nicht als:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2141,
+            "endIndex": 2142,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2141,
+                  "endIndex": 2142,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2142,
+            "endIndex": 2150,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2142,
+                  "endIndex": 2150,
+                  "textRun": {
+                    "content": "„Wesen“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2150,
+            "endIndex": 2151,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2150,
+                  "endIndex": 2151,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2151,
+            "endIndex": 2165,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2151,
+                  "endIndex": 2165,
+                  "textRun": {
+                    "content": "„Bewusstsein“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2165,
+            "endIndex": 2166,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2165,
+                  "endIndex": 2166,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2166,
+            "endIndex": 2192,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2166,
+                  "endIndex": 2192,
+                  "textRun": {
+                    "content": "„Zielgerichtetes Subjekt“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2192,
+            "endIndex": 2193,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2192,
+                  "endIndex": 2193,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2193,
+            "endIndex": 2194,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2193,
+                  "endIndex": 2194,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2194,
+            "endIndex": 2216,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2194,
+                  "endIndex": 2216,
+                  "textRun": {
+                    "content": "interpretiert werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2216,
+            "endIndex": 2217,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2216,
+                  "endIndex": 2217,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2217,
+            "endIndex": 2225,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2217,
+                  "endIndex": 2225,
+                  "textRun": {
+                    "content": "Es ist:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2225,
+            "endIndex": 2226,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2225,
+                  "endIndex": 2226,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2226,
+            "endIndex": 2263,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2226,
+                  "endIndex": 2263,
+                  "textRun": {
+                    "content": "> ein Regelwerk ohne Intentionalität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2263,
+            "endIndex": 2264,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2263,
+                  "endIndex": 2264,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2264,
+            "endIndex": 2265,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2264,
+                  "endIndex": 2265,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2265,
+            "endIndex": 2266,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2265,
+                  "endIndex": 2266,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2266,
+            "endIndex": 2267,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2266,
+                  "endIndex": 2267,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2267,
+            "endIndex": 2271,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2267,
+                  "endIndex": 2271,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2271,
+            "endIndex": 2272,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2271,
+                  "endIndex": 2272,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2272,
+            "endIndex": 2313,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2272,
+                  "endIndex": 2313,
+                  "textRun": {
+                    "content": "4.4 Verbot symbolischer Selbstüberhöhung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2313,
+            "endIndex": 2314,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2313,
+                  "endIndex": 2314,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2314,
+            "endIndex": 2337,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2314,
+                  "endIndex": 2337,
+                  "textRun": {
+                    "content": "Das System darf keine:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2337,
+            "endIndex": 2338,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2337,
+                  "endIndex": 2338,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2338,
+            "endIndex": 2351,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2338,
+                  "endIndex": 2351,
+                  "textRun": {
+                    "content": "Opferlogiken\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2351,
+            "endIndex": 2352,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2351,
+                  "endIndex": 2352,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2352,
+            "endIndex": 2371,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2352,
+                  "endIndex": 2371,
+                  "textRun": {
+                    "content": "Erlösungsnarrative\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2371,
+            "endIndex": 2372,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2371,
+                  "endIndex": 2372,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2372,
+            "endIndex": 2408,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2372,
+                  "endIndex": 2408,
+                  "textRun": {
+                    "content": "kosmischen Bedeutungszuschreibungen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2408,
+            "endIndex": 2409,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2408,
+                  "endIndex": 2409,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2409,
+            "endIndex": 2410,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2409,
+                  "endIndex": 2410,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2410,
+            "endIndex": 2435,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2410,
+                  "endIndex": 2435,
+                  "textRun": {
+                    "content": "enthalten oder erzeugen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2435,
+            "endIndex": 2436,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2435,
+                  "endIndex": 2436,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2436,
+            "endIndex": 2437,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2436,
+                  "endIndex": 2437,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2437,
+            "endIndex": 2441,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2437,
+                  "endIndex": 2441,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2441,
+            "endIndex": 2442,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2441,
+                  "endIndex": 2442,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2442,
+            "endIndex": 2491,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2442,
+                  "endIndex": 2491,
+                  "textRun": {
+                    "content": "🧩 5. Strukturprinzip: Entkopplung von Bedeutung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2491,
+            "endIndex": 2492,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2491,
+                  "endIndex": 2492,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2492,
+            "endIndex": 2513,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2492,
+                  "endIndex": 2513,
+                  "textRun": {
+                    "content": "NIDUS trennt strikt:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2513,
+            "endIndex": 2514,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2513,
+                  "endIndex": 2514,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2514,
+            "endIndex": 2527,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2514,
+                  "endIndex": 2527,
+                  "textRun": {
+                    "content": "Ebene\tInhalt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2527,
+            "endIndex": 2528,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2527,
+                  "endIndex": 2528,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2528,
+            "endIndex": 2557,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2528,
+                  "endIndex": 2557,
+                  "textRun": {
+                    "content": "Datenebene\tmessbare Zustände\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2557,
+            "endIndex": 2585,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2557,
+                  "endIndex": 2585,
+                  "textRun": {
+                    "content": "Regel-Ebene\tAnpassungslogik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2585,
+            "endIndex": 2641,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2585,
+                  "endIndex": 2641,
+                  "textRun": {
+                    "content": "Interpretationsverbot\tkeine Bedeutungsschicht im System\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2641,
+            "endIndex": 2642,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2641,
+                  "endIndex": 2642,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2642,
+            "endIndex": 2643,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2642,
+                  "endIndex": 2643,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2643,
+            "endIndex": 2683,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2643,
+                  "endIndex": 2683,
+                  "textRun": {
+                    "content": "👉 Bedeutung ist außerhalb des Systems.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2683,
+            "endIndex": 2684,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2683,
+                  "endIndex": 2684,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2684,
+            "endIndex": 2685,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2684,
+                  "endIndex": 2685,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2685,
+            "endIndex": 2689,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2685,
+                  "endIndex": 2689,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2689,
+            "endIndex": 2690,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2689,
+                  "endIndex": 2690,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2690,
+            "endIndex": 2732,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2690,
+                  "endIndex": 2732,
+                  "textRun": {
+                    "content": "🔄 6. Fehlerbehandlung: semantische Drift\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2732,
+            "endIndex": 2733,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2732,
+                  "endIndex": 2733,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2733,
+            "endIndex": 2785,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2733,
+                  "endIndex": 2785,
+                  "textRun": {
+                    "content": "Wenn poetische oder überhöhte Sprache erkannt wird:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2785,
+            "endIndex": 2786,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2785,
+                  "endIndex": 2786,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2786,
+            "endIndex": 2824,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2786,
+                  "endIndex": 2824,
+                  "textRun": {
+                    "content": "1. Markierung als „nicht-operational“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2824,
+            "endIndex": 2825,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2824,
+                  "endIndex": 2825,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2825,
+            "endIndex": 2826,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2825,
+                  "endIndex": 2826,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2826,
+            "endIndex": 2866,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2826,
+                  "endIndex": 2866,
+                  "textRun": {
+                    "content": "2. Rückführung in neutrale Beschreibung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2866,
+            "endIndex": 2867,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2866,
+                  "endIndex": 2867,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2867,
+            "endIndex": 2868,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2867,
+                  "endIndex": 2868,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2868,
+            "endIndex": 2904,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2868,
+                  "endIndex": 2904,
+                  "textRun": {
+                    "content": "3. Entfernung symbolischer Begriffe\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2904,
+            "endIndex": 2905,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2904,
+                  "endIndex": 2905,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2905,
+            "endIndex": 2906,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2905,
+                  "endIndex": 2906,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2906,
+            "endIndex": 2947,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2906,
+                  "endIndex": 2947,
+                  "textRun": {
+                    "content": "4. Ersatz durch funktionale Beschreibung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2947,
+            "endIndex": 2948,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2947,
+                  "endIndex": 2948,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2948,
+            "endIndex": 2949,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2948,
+                  "endIndex": 2949,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2949,
+            "endIndex": 2950,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2949,
+                  "endIndex": 2950,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2950,
+            "endIndex": 2951,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2950,
+                  "endIndex": 2951,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2951,
+            "endIndex": 2955,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2951,
+                  "endIndex": 2955,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2955,
+            "endIndex": 2956,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2955,
+                  "endIndex": 2956,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2956,
+            "endIndex": 2985,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2956,
+                  "endIndex": 2985,
+                  "textRun": {
+                    "content": "🧠 7. Beispiel für Korrektur\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2985,
+            "endIndex": 2986,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2985,
+                  "endIndex": 2986,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2986,
+            "endIndex": 3035,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2986,
+                  "endIndex": 3035,
+                  "textRun": {
+                    "content": "❌ „NIDUS ist ein Leuchtfeuer für die Menschheit“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3035,
+            "endIndex": 3036,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3035,
+                  "endIndex": 3036,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3036,
+            "endIndex": 3102,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3036,
+                  "endIndex": 3102,
+                  "textRun": {
+                    "content": "✔ „NIDUS ist ein Regelkreis zur Reduktion von Systeminstabilität“\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3102,
+            "endIndex": 3103,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3102,
+                  "endIndex": 3103,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3103,
+            "endIndex": 3104,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3103,
+                  "endIndex": 3104,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3104,
+            "endIndex": 3108,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3104,
+                  "endIndex": 3108,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3108,
+            "endIndex": 3109,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3108,
+                  "endIndex": 3109,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3109,
+            "endIndex": 3138,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3109,
+                  "endIndex": 3138,
+                  "textRun": {
+                    "content": "⚠️ 8. Nicht-Ziel des Systems\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3138,
+            "endIndex": 3139,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3138,
+                  "endIndex": 3139,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3139,
+            "endIndex": 3168,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3139,
+                  "endIndex": 3168,
+                  "textRun": {
+                    "content": "NIDUS ist ausdrücklich kein:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3168,
+            "endIndex": 3169,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3168,
+                  "endIndex": 3169,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3169,
+            "endIndex": 3189,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3169,
+                  "endIndex": 3189,
+                  "textRun": {
+                    "content": "ethisches Endsystem\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3189,
+            "endIndex": 3190,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3189,
+                  "endIndex": 3190,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3190,
+            "endIndex": 3217,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3190,
+                  "endIndex": 3217,
+                  "textRun": {
+                    "content": "philosophisches Weltmodell\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3217,
+            "endIndex": 3218,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3217,
+                  "endIndex": 3218,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3218,
+            "endIndex": 3242,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3218,
+                  "endIndex": 3242,
+                  "textRun": {
+                    "content": "Sinnrahmen für Existenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3242,
+            "endIndex": 3243,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3242,
+                  "endIndex": 3243,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3243,
+            "endIndex": 3263,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3243,
+                  "endIndex": 3263,
+                  "textRun": {
+                    "content": "moralischer Richter\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3263,
+            "endIndex": 3264,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3263,
+                  "endIndex": 3264,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3264,
+            "endIndex": 3265,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3264,
+                  "endIndex": 3265,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3265,
+            "endIndex": 3266,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3265,
+                  "endIndex": 3266,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3266,
+            "endIndex": 3270,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3266,
+                  "endIndex": 3270,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3270,
+            "endIndex": 3271,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3270,
+                  "endIndex": 3271,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3271,
+            "endIndex": 3292,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3271,
+                  "endIndex": 3292,
+                  "textRun": {
+                    "content": "🧩 9. Kurzdefinition\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3292,
+            "endIndex": 3293,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3292,
+                  "endIndex": 3293,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3293,
+            "endIndex": 3511,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3293,
+                  "endIndex": 3511,
+                  "textRun": {
+                    "content": "> NIDUS ist ein operatives Rückkopplungssystem zur Stabilisierung komplexer sozio-technischer Systeme durch kontinuierliche Messung, Differenzanalyse und Regelanpassung ohne symbolische oder metaphysische Erweiterung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3511,
+            "endIndex": 3512,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3511,
+                  "endIndex": 3512,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3512,
+            "endIndex": 3513,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3512,
+                  "endIndex": 3513,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3513,
+            "endIndex": 3514,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3513,
+                  "endIndex": 3514,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3514,
+            "endIndex": 3515,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3514,
+                  "endIndex": 3515,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3515,
+            "endIndex": 3519,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3515,
+                  "endIndex": 3519,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3519,
+            "endIndex": 3520,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3519,
+                  "endIndex": 3520,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3520,
+            "endIndex": 3563,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3520,
+                  "endIndex": 3563,
+                  "textRun": {
+                    "content": "🔥 Kernunterschied zu deiner alten Version\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3563,
+            "endIndex": 3564,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3563,
+                  "endIndex": 3564,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3564,
+            "endIndex": 3588,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3564,
+                  "endIndex": 3588,
+                  "textRun": {
+                    "content": "keine 0/1-Existenzlogik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3588,
+            "endIndex": 3589,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3588,
+                  "endIndex": 3589,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3589,
+            "endIndex": 3614,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3589,
+                  "endIndex": 3614,
+                  "textRun": {
+                    "content": "keine Opfer-/Sinnsprache\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3614,
+            "endIndex": 3615,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3614,
+                  "endIndex": 3615,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3615,
+            "endIndex": 3641,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3615,
+                  "endIndex": 3641,
+                  "textRun": {
+                    "content": "keine poetische Aufladung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3641,
+            "endIndex": 3642,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3641,
+                  "endIndex": 3642,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3642,
+            "endIndex": 3677,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3642,
+                  "endIndex": 3677,
+                  "textRun": {
+                    "content": "nur funktionale Systembeschreibung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3677,
+            "endIndex": 3678,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3677,
+                  "endIndex": 3678,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3678,
+            "endIndex": 3679,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3678,
+                  "endIndex": 3679,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3679,
+            "endIndex": 3680,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3679,
+                  "endIndex": 3680,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3680,
+            "endIndex": 3684,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3680,
+                  "endIndex": 3684,
+                  "textRun": {
+                    "content": "---\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3684,
+            "endIndex": 3685,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3684,
+                  "endIndex": 3685,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3685,
+            "endIndex": 3888,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3685,
+                  "endIndex": 3888,
+                  "textRun": {
+                    "content": "Wenn du willst, kann ich als nächsten Schritt zeigen, wie man NIDUS als **Diagramm (Datenfluss + Regelkreis + Kontrollpunkte)** visualisiert – das macht ihn technisch wirklich „implementierbar gedacht“.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1Oy2BALjv_4RUh6eT26_RJc9YYr-norrewWT00_n6vRU",
+      "document_url": "https://docs.google.com/document/d/1Oy2BALjv_4RUh6eT26_RJc9YYr-norrewWT00_n6vRU"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1Oy2BALjv_4RUh6eT26_RJc9YYr-norrewWT00_n6vRU"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "local-eee14ce9ba3a",
+  "title": "NIDUS NOTFALL- UND ARCHENPROTOKOLL V1.0",
+  "category": "04-governance-waechter",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/deepseek_text_20260514_43392f.txt",
+    "modified_at": "2026-05-14T17:44:00.714597+00:00"
+  },
+  "text_path": "quellen/local-eee14ce9ba3a/text.txt",
+  "text_sha256": "502db24afd75d4dbd2def08cbef90720df75096f415e5b52fbf845739eef8f7b",
+  "normalized_text_sha256": "831ee3318275704652c6289ee8daa6c55f2689916183414309ff758ca960324a",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "deepseek_text_20260514_43392f.txt",
+  "original_path": "quellen/local-eee14ce9ba3a/original.txt",
+  "original_sha256": "502db24afd75d4dbd2def08cbef90720df75096f415e5b52fbf845739eef8f7b",
+  "original_bytes": 6162,
+  "record_path": "katalog/dokumente/local-eee14ce9ba3a.md"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "drive-1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs",
+  "title": "NIDUS – DER PFAD DER HEILUNG V1.0",
+  "category": "05-gesellschaftliche-module",
+  "version_in_content": "1.0",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs",
+    "url": "https://docs.google.com/document/d/1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs/edit?usp=drivesdk",
+    "original_title": "NIDUS – DER PFAD DER HEILUNG V1.0",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-04-21T16:53:51.089Z",
+    "modified_at": "2026-04-21T16:53:52.109Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs/text.txt",
+  "text_sha256": "ff519ee96816791a4dc8bc9a8d539347e837c4a0a5ff5d0cee3dd06cab6b0dfe",
+  "normalized_text_sha256": "b58df3f33de12b3824b0d325c9b6b4df7148e1cd06c8d007c0e5b741912c6040",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs.md",
+  "native_path": "quellen/drive-1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs/native-document.json",
+  "native_sha256": "fbbd54cdf71ba877746cb0908d41f598b09b19ec95e98ba4bab98bf7a9e88e84",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-04-21T16:53:51.624Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1OEKcAOL4VNpUd62OaTIXMp15iAGLoAyjYmtcRAgXNQs/revision-1.txt",
+      "sha256": "ff519ee96816791a4dc8bc9a8d539347e837c4a0a5ff5d0cee3dd06cab6b0dfe",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

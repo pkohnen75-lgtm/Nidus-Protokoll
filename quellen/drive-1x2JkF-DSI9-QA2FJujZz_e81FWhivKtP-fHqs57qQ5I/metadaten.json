@@ -1,0 +1,47 @@
+{
+  "id": "drive-1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I",
+  "title": "NIDUS WÄCHTER-AUSBILDUNGSKATALOG V1",
+  "category": "09-bildung",
+  "version_in_content": "1.0",
+  "declared_status": "Entwurf",
+  "status": "entwurf",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I",
+    "url": "https://docs.google.com/document/d/1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I/edit?usp=drivesdk",
+    "original_title": "NIDUS WÄCHTER-AUSBILDUNGSKATALOG V1",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-14T17:40:06.263Z",
+    "modified_at": "2026-05-14T17:42:08.114Z",
+    "retrieved_at": "2026-09-08T23:05:47.045Z"
+  },
+  "text_path": "quellen/drive-1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I/text.txt",
+  "text_sha256": "c655bc9f3887ac286f8da7e86de04808dfc19646ae1a9a3dc70046b8624b3188",
+  "normalized_text_sha256": "9fd9c01ba54cb5ad58832462e8656d13072284cd84aec4310784ca8638704b50",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I.md",
+  "native_path": "quellen/drive-1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I/native-document.json",
+  "native_sha256": "7d6b04cb1cc5da33a01799fa949a22c18920a349f5d519648d35ada4d6ecb56d",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-14T17:40:06.262Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "2",
+      "modified_at": "2026-05-14T17:42:05.705Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1x2JkF-DSI9-QA2FJujZz_e81FWhivKtP-fHqs57qQ5I/revision-2.txt",
+      "sha256": "c655bc9f3887ac286f8da7e86de04808dfc19646ae1a9a3dc70046b8624b3188",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

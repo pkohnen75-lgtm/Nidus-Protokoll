@@ -1,0 +1,25 @@
+{
+  "id": "local-1c2443ea7da7",
+  "title": "NIDUS CONSTITUTION LAYER V1 (1).pdf",
+  "category": "02-charta-constitution",
+  "version_in_content": "1",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "HANDYBACKUP/070926/NIDUS CONSTITUTION LAYER V1 (1).pdf",
+    "modified_at": "2026-05-24T08:27:31+00:00"
+  },
+  "text_path": "quellen/local-1c2443ea7da7/text.txt",
+  "text_sha256": "2bc1dbd7345f07df42c973d4dff1fd6d91b3944fcc03dfab46272baef215a5eb",
+  "normalized_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "empty": true,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "NIDUS CONSTITUTION LAYER V1 (1).pdf",
+  "original_path": "quellen/local-1c2443ea7da7/original.pdf",
+  "original_sha256": "953d2d0149446d1ce8fcf9027befc5629b4153b17cf0de03285ad3d2e223adc6",
+  "original_bytes": 14252,
+  "record_path": "katalog/dokumente/local-1c2443ea7da7.md"
+}

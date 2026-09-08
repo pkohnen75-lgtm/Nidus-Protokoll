@@ -1,0 +1,25 @@
+{
+  "id": "local-515124b0450e",
+  "title": "Nidus_Gruendungsdokument_V1_0.pdf",
+  "category": "01-kerntexte",
+  "version_in_content": "1.0",
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "local-source",
+    "source_root_label": "Nidus-Verbund",
+    "relative_path": "dokumente/Nidus_Gruendungsdokument_V1_0.pdf",
+    "modified_at": "2026-04-21T12:50:57.152344+00:00"
+  },
+  "text_path": "quellen/local-515124b0450e/text.txt",
+  "text_sha256": "2949131c6d2c51425a63087821668cc392c97969f3124dcbbd478be858ef80df",
+  "normalized_text_sha256": "7fac12f71b2559e3dd36d7a7106b800ed8be2136532b8a8b94e887982590f473",
+  "empty": false,
+  "representation": "Originaldatei unverändert; Text separat extrahiert",
+  "extraction_error": null,
+  "original_name": "Nidus_Gruendungsdokument_V1_0.pdf",
+  "original_path": "quellen/local-515124b0450e/original.pdf",
+  "original_sha256": "619aec1356b1d98925613bf3e21f83d6271080192c62a8f164ee9f1c5f67f2f0",
+  "original_bytes": 68619,
+  "record_path": "katalog/dokumente/local-515124b0450e.md"
+}

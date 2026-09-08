@@ -1,0 +1,47 @@
+{
+  "id": "drive-1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y",
+  "title": "NIDUS DÜP Simulation [redaktioneller Titel]",
+  "category": "08-technik-duep",
+  "version_in_content": null,
+  "declared_status": null,
+  "status": "gueltigkeit-unbestaetigt",
+  "source": {
+    "kind": "google-drive",
+    "file_id": "1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y",
+    "url": "https://docs.google.com/document/d/1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y/edit?usp=drivesdk",
+    "original_title": "Unbenanntes Dokument",
+    "mime_type": "application/vnd.google-apps.document",
+    "created_at": "2026-05-09T19:27:38.931Z",
+    "modified_at": "2026-05-09T19:28:13.962Z",
+    "retrieved_at": "2026-09-08T23:05:47.048Z"
+  },
+  "text_path": "quellen/drive-1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y/text.txt",
+  "text_sha256": "7398b0092b0d326e2fc990e7b08179cafa421d27812c6ffe71f181f169f43bad",
+  "normalized_text_sha256": "83ce6e0f26fe8d071f6a0ef65c1bb0e9a83e2e8961ac7c31c869d753a91d51fb",
+  "empty": false,
+  "representation": "Connector-Textextrakt; gesonderte native Struktur soweit verfügbar, kein vollständiger Layout-Export",
+  "record_path": "katalog/dokumente/drive-1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y.md",
+  "native_path": "quellen/drive-1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y/native-document.json",
+  "native_sha256": "b3e1ea068e8b322243ba6be48470b5aec72f986ebad2aeffaae8fe18c85c3614",
+  "revision_history": [
+    {
+      "id": "1",
+      "modified_at": "2026-05-09T19:27:39.375Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y/revision-1.txt",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+      "empty": true
+    },
+    {
+      "id": "7",
+      "modified_at": "2026-05-09T19:28:13.922Z",
+      "modifier_name": "Patrick Kohnen",
+      "fetch_status": "ok",
+      "path": "historie/google-drive/1DpMknIU3W9jIO6ANa5btk4FCDOHyI4vEJ-r2eVYUR8Y/revision-7.txt",
+      "sha256": "7398b0092b0d326e2fc990e7b08179cafa421d27812c6ffe71f181f169f43bad",
+      "empty": false
+    }
+  ],
+  "revision_list_status": "ok"
+}

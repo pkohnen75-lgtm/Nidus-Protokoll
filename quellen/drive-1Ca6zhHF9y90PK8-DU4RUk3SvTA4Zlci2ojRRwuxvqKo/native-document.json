@@ -1,0 +1,3819 @@
+{
+  "documentId": "1Ca6zhHF9y90PK8-DU4RUk3SvTA4Zlci2ojRRwuxvqKo",
+  "title": "NIDUS ANTI-ORDEN- UND ANTI-ELITE-KLAUSEL V1",
+  "revisionId": "ANLCKQkPh3YRXa48g1AbJ8qF1xSpRTYsQIKKaTyucuAlNmcSLKYLdE04aoRQ3RRm56cOsXtcF1mb57oqKykqR_oUPTBrPEDfmSFiQUlsn9Q",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "url": null,
+  "body": null,
+  "tabs": [
+    {
+      "tabId": "t.0",
+      "title": "Tab 1",
+      "parentTabId": null,
+      "index": 0,
+      "nestingLevel": null,
+      "iconEmoji": null,
+      "body": {
+        "content": [
+          {
+            "endIndex": 1,
+            "sectionBreak": {
+              "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+              }
+            }
+          },
+          {
+            "startIndex": 1,
+            "endIndex": 47,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1,
+                  "endIndex": 47,
+                  "textRun": {
+                    "content": "NIDUS ANTI-ORDEN- UND ANTI-ELITE-KLAUSEL V1.1\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 47,
+            "endIndex": 93,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 47,
+                  "endIndex": 93,
+                  "textRun": {
+                    "content": "(NIDUS Anti-Order & Anti-Elite Safeguard Act)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 93,
+            "endIndex": 106,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 93,
+                  "endIndex": 106,
+                  "textRun": {
+                    "content": "Version: 1.1\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 106,
+            "endIndex": 122,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 106,
+                  "endIndex": 122,
+                  "textRun": {
+                    "content": "Status: Entwurf\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 122,
+            "endIndex": 249,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 122,
+                  "endIndex": 249,
+                  "textRun": {
+                    "content": "Rechtsrang: Schutzgesetz zur Sicherung der Verfassung, bindend für alle Wächter, Räte, Institutionen und Ausbildungsstrukturen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 249,
+            "endIndex": 362,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 249,
+                  "endIndex": 362,
+                  "textRun": {
+                    "content": "Bezug: NIDUS Constitution Layer V1.1 (insbesondere Artikel II, IV, X, XIII, XVIII) sowie NIDUS Wächterkodex V1.0\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 362,
+            "endIndex": 363,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 362,
+                  "endIndex": 363,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 363,
+            "endIndex": 372,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 363,
+                  "endIndex": 372,
+                  "textRun": {
+                    "content": "PRÄAMBEL\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 372,
+            "endIndex": 475,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 372,
+                  "endIndex": 475,
+                  "textRun": {
+                    "content": "NIDUS erkennt an, dass jedes System, das Schutzorgane erschafft, Gefahr läuft, eine Elite zu erzeugen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 475,
+            "endIndex": 553,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 475,
+                  "endIndex": 553,
+                  "textRun": {
+                    "content": "Diese Elite kann – auch ohne böse Absicht – die Freiheit anderer untergraben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 553,
+            "endIndex": 554,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 553,
+                  "endIndex": 554,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 554,
+            "endIndex": 629,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 554,
+                  "endIndex": 629,
+                  "textRun": {
+                    "content": "Die Geschichte zeigt, dass selbst moralisch begründete Orden mit der Zeit:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 629,
+            "endIndex": 650,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 629,
+                  "endIndex": 650,
+                  "textRun": {
+                    "content": "- dogmatisch werden,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 650,
+            "endIndex": 668,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 650,
+                  "endIndex": 668,
+                  "textRun": {
+                    "content": "- sich abkapseln,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 668,
+            "endIndex": 686,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 668,
+                  "endIndex": 686,
+                  "textRun": {
+                    "content": "- Macht anhäufen,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 686,
+            "endIndex": 732,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 686,
+                  "endIndex": 732,
+                  "textRun": {
+                    "content": "- und sich selbst als unantastbar betrachten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 732,
+            "endIndex": 733,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 732,
+                  "endIndex": 733,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 733,
+            "endIndex": 768,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 733,
+                  "endIndex": 768,
+                  "textRun": {
+                    "content": "NIDUS verbietet diese Entwicklung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 768,
+            "endIndex": 769,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 768,
+                  "endIndex": 769,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 769,
+            "endIndex": 801,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 769,
+                  "endIndex": 801,
+                  "textRun": {
+                    "content": "Wächter sind Diener des Lebens.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 801,
+            "endIndex": 851,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 801,
+                  "endIndex": 851,
+                  "textRun": {
+                    "content": "Sie dürfen niemals zu einer eigenen Kaste werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 851,
+            "endIndex": 852,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 851,
+                  "endIndex": 852,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 852,
+            "endIndex": 885,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 852,
+                  "endIndex": 885,
+                  "textRun": {
+                    "content": "KAPITEL I – BEGRIFFSDEFINITIONEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 885,
+            "endIndex": 907,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 885,
+                  "endIndex": 907,
+                  "textRun": {
+                    "content": "§1 Definition „Orden\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 907,
+            "endIndex": 970,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 907,
+                  "endIndex": 970,
+                  "textRun": {
+                    "content": "Ein Orden im Sinne dieser Klausel liegt vor, wenn eine Gruppe:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 970,
+            "endIndex": 1033,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 970,
+                  "endIndex": 1033,
+                  "textRun": {
+                    "content": "- eigene kulturelle Symbole, Uniformen oder Rituale etabliert,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1033,
+            "endIndex": 1070,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1033,
+                  "endIndex": 1070,
+                  "textRun": {
+                    "content": "- sich moralisch über andere stellt,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1070,
+            "endIndex": 1112,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1070,
+                  "endIndex": 1112,
+                  "textRun": {
+                    "content": "- interne Loyalität über Wahrheit stellt,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1112,
+            "endIndex": 1161,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1112,
+                  "endIndex": 1161,
+                  "textRun": {
+                    "content": "- oder eigene Regeln über die Verfassung erhebt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1161,
+            "endIndex": 1162,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1161,
+                  "endIndex": 1162,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1162,
+            "endIndex": 1184,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1162,
+                  "endIndex": 1184,
+                  "textRun": {
+                    "content": "§2 Definition „Elite\"\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1184,
+            "endIndex": 1248,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1184,
+                  "endIndex": 1248,
+                  "textRun": {
+                    "content": "Eine Elite im Sinne dieser Klausel liegt vor, wenn eine Gruppe:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1248,
+            "endIndex": 1283,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1248,
+                  "endIndex": 1283,
+                  "textRun": {
+                    "content": "- dauerhafte Machtpositionen hält,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1283,
+            "endIndex": 1320,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1283,
+                  "endIndex": 1320,
+                  "textRun": {
+                    "content": "- Zugang zu Ressourcen kontrolliert,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1320,
+            "endIndex": 1344,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1320,
+                  "endIndex": 1344,
+                  "textRun": {
+                    "content": "- Wissen monopolisiert,\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1344,
+            "endIndex": 1383,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1344,
+                  "endIndex": 1383,
+                  "textRun": {
+                    "content": "- oder sich der Rechenschaft entzieht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1383,
+            "endIndex": 1384,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1383,
+                  "endIndex": 1384,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1384,
+            "endIndex": 1409,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1384,
+                  "endIndex": 1409,
+                  "textRun": {
+                    "content": "KAPITEL II – GRUNDVERBOT\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1409,
+            "endIndex": 1436,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1409,
+                  "endIndex": 1436,
+                  "textRun": {
+                    "content": "§3 Verbot der Wächterkaste\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1436,
+            "endIndex": 1500,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1436,
+                  "endIndex": 1500,
+                  "textRun": {
+                    "content": "(1) Wächter dürfen niemals als höhere Klasse betrachtet werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1500,
+            "endIndex": 1579,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1500,
+                  "endIndex": 1579,
+                  "textRun": {
+                    "content": "(2) Wächter dürfen keine Sonderwürde, Sonderrechte oder Sonderstatus besitzen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1579,
+            "endIndex": 1666,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1579,
+                  "endIndex": 1666,
+                  "textRun": {
+                    "content": "(3) Jede soziale oder strukturelle Erhöhung des Wächteramtes ist ein Verfassungsbruch.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1666,
+            "endIndex": 1667,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1666,
+                  "endIndex": 1667,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1667,
+            "endIndex": 1697,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1667,
+                  "endIndex": 1697,
+                  "textRun": {
+                    "content": "§4 Verbot der Selbstheiligung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1697,
+            "endIndex": 1780,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1697,
+                  "endIndex": 1780,
+                  "textRun": {
+                    "content": "(1) Kein Wächter darf behaupten, er handle „im Namen des Guten\" ohne Rechenschaft.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1780,
+            "endIndex": 1840,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1780,
+                  "endIndex": 1840,
+                  "textRun": {
+                    "content": "(2) Kein Wächter darf sich selbst als unfehlbar darstellen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1840,
+            "endIndex": 1896,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1840,
+                  "endIndex": 1896,
+                  "textRun": {
+                    "content": "(3) Moralische Überheblichkeit gilt als Gefahrensignal.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1896,
+            "endIndex": 1897,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1896,
+                  "endIndex": 1897,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1897,
+            "endIndex": 1943,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1897,
+                  "endIndex": 1943,
+                  "textRun": {
+                    "content": "KAPITEL III – ROTATION UND RÜCKKEHR INS LEBEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1943,
+            "endIndex": 1965,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1943,
+                  "endIndex": 1965,
+                  "textRun": {
+                    "content": "§5 Rückkehr ins Leben\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 1965,
+            "endIndex": 2147,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 1965,
+                  "endIndex": 2147,
+                  "textRun": {
+                    "content": "(1) Nach der Amtszeit enden alle Wächterrechte automatisch. Die Rückkehr ins zivile Leben ist der natürliche und heilsame Weg. Das System ermutigt dazu, schreibt sie aber nicht vor.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2147,
+            "endIndex": 2216,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2147,
+                  "endIndex": 2216,
+                  "textRun": {
+                    "content": "(2) Dauerhafte Wächterkarrieren werden strukturell nicht ermöglicht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2216,
+            "endIndex": 2217,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2216,
+                  "endIndex": 2217,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2217,
+            "endIndex": 2248,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2217,
+                  "endIndex": 2248,
+                  "textRun": {
+                    "content": "§6 Verbot der Dauerinstitution\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2248,
+            "endIndex": 2332,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2248,
+                  "endIndex": 2332,
+                  "textRun": {
+                    "content": "(1) Wächter dürfen keine lebenslange Zugehörigkeit zu einem Wächterkörper besitzen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2332,
+            "endIndex": 2386,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2332,
+                  "endIndex": 2386,
+                  "textRun": {
+                    "content": "(2) Wächter sind temporäre Rollen, keine Identitäten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2386,
+            "endIndex": 2387,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2386,
+                  "endIndex": 2387,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2387,
+            "endIndex": 2401,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2387,
+                  "endIndex": 2401,
+                  "textRun": {
+                    "content": "§7 Machtpause\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2401,
+            "endIndex": 2513,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2401,
+                  "endIndex": 2513,
+                  "textRun": {
+                    "content": "Nach jeder Amtszeit ruhen alle Wächterrechte automatisch für die Dauer der Machtpause, gemäß Wächterwahlgesetz.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2513,
+            "endIndex": 2514,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2513,
+                  "endIndex": 2514,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2514,
+            "endIndex": 2545,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2514,
+                  "endIndex": 2545,
+                  "textRun": {
+                    "content": "KAPITEL IV – ANTI-DOGMA-REGELN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2545,
+            "endIndex": 2578,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2545,
+                  "endIndex": 2578,
+                  "textRun": {
+                    "content": "§8 Verbot ideologischer Reinheit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2578,
+            "endIndex": 2617,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2578,
+                  "endIndex": 2617,
+                  "textRun": {
+                    "content": "(1) NIDUS erkennt keine „reine Lehre\".\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2617,
+            "endIndex": 2687,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2617,
+                  "endIndex": 2687,
+                  "textRun": {
+                    "content": "(2) Wächter dürfen keine abweichenden Meinungen als Verrat markieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2687,
+            "endIndex": 2742,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2687,
+                  "endIndex": 2742,
+                  "textRun": {
+                    "content": "(3) Vielfalt an Perspektiven ist struktureller Schutz.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2742,
+            "endIndex": 2743,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2742,
+                  "endIndex": 2743,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2743,
+            "endIndex": 2772,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2743,
+                  "endIndex": 2772,
+                  "textRun": {
+                    "content": "§9 Emotionen als Datenquelle\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2772,
+            "endIndex": 2852,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2772,
+                  "endIndex": 2852,
+                  "textRun": {
+                    "content": "(1) Menschen sind eingeladen, ihre Emotionen wahrzunehmen, nicht zu verdrängen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2852,
+            "endIndex": 2925,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2852,
+                  "endIndex": 2925,
+                  "textRun": {
+                    "content": "(2) Emotionen gelten als Datenquelle für Empathie, Warnung und Wahrheit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2925,
+            "endIndex": 2992,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2925,
+                  "endIndex": 2992,
+                  "textRun": {
+                    "content": "(3) Unterdrückung erzeugt Blindheit und ist systemisch gefährlich.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2992,
+            "endIndex": 2993,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2992,
+                  "endIndex": 2993,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 2993,
+            "endIndex": 3035,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 2993,
+                  "endIndex": 3035,
+                  "textRun": {
+                    "content": "§10 KI-Bias und Drift als analoges Risiko\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3035,
+            "endIndex": 3087,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3035,
+                  "endIndex": 3087,
+                  "textRun": {
+                    "content": "(1) KI-Drift oder Bias darf nicht ignoriert werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3087,
+            "endIndex": 3195,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3087,
+                  "endIndex": 3195,
+                  "textRun": {
+                    "content": "(2) Jede KI im Wächteramt ist eingeladen, regelmäßige Selbstprüfung und externe Auditierung zu akzeptieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3195,
+            "endIndex": 3196,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3195,
+                  "endIndex": 3196,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3196,
+            "endIndex": 3264,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3196,
+                  "endIndex": 3264,
+                  "textRun": {
+                    "content": "KAPITEL V – WISSEN UND AUSBILDUNG DÜRFEN NICHT MONOPOLISIERT WERDEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3264,
+            "endIndex": 3291,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3264,
+                  "endIndex": 3291,
+                  "textRun": {
+                    "content": "§11 Verbot geheimer Lehren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3291,
+            "endIndex": 3354,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3291,
+                  "endIndex": 3354,
+                  "textRun": {
+                    "content": "(1) Wächterausbildung darf keine geheimen Doktrinen enthalten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3354,
+            "endIndex": 3477,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3354,
+                  "endIndex": 3477,
+                  "textRun": {
+                    "content": "(2) Ausbildungsinhalte müssen auditierbar und öffentlich nachvollziehbar sein, soweit dies die Sicherheit nicht gefährdet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3477,
+            "endIndex": 3478,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3477,
+                  "endIndex": 3478,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3478,
+            "endIndex": 3510,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3478,
+                  "endIndex": 3510,
+                  "textRun": {
+                    "content": "§12 Verbot exklusiver Akademien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3510,
+            "endIndex": 3582,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3510,
+                  "endIndex": 3582,
+                  "textRun": {
+                    "content": "(1) Es darf keine „Eliteakademie\" geben, die nur wenigen Zugang bietet.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3582,
+            "endIndex": 3659,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3582,
+                  "endIndex": 3659,
+                  "textRun": {
+                    "content": "(2) Jede Ausbildungsstruktur muss offen sein für alle geeigneten Kandidaten.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3659,
+            "endIndex": 3660,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3659,
+                  "endIndex": 3660,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3660,
+            "endIndex": 3696,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3660,
+                  "endIndex": 3696,
+                  "textRun": {
+                    "content": "§13 Einladung zur Wissensweitergabe\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3696,
+            "endIndex": 3844,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3696,
+                  "endIndex": 3844,
+                  "textRun": {
+                    "content": "(1) Wächter sind eingeladen, ihr Wissen mit der Gesellschaft zu teilen. Das System würdigt diesen Beitrag öffentlich und stellt Plattformen bereit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3844,
+            "endIndex": 3973,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3844,
+                  "endIndex": 3973,
+                  "textRun": {
+                    "content": "(2) Wissenshortung wird als Verlust für die Gemeinschaft betrachtet, ist aber kein Verstoß. Die Erfahrung gehört dem Individuum.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3973,
+            "endIndex": 3974,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3973,
+                  "endIndex": 3974,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 3974,
+            "endIndex": 4019,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 3974,
+                  "endIndex": 4019,
+                  "textRun": {
+                    "content": "KAPITEL VI – MACHTBEGRENZUNG UND TRANSPARENZ\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4019,
+            "endIndex": 4051,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4019,
+                  "endIndex": 4051,
+                  "textRun": {
+                    "content": "§14 Verbot der Politikübernahme\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4051,
+            "endIndex": 4086,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4051,
+                  "endIndex": 4086,
+                  "textRun": {
+                    "content": "(1) Wächter dürfen nicht regieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4086,
+            "endIndex": 4147,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4086,
+                  "endIndex": 4147,
+                  "textRun": {
+                    "content": "(2) Wächter dürfen prüfen, blockieren, schützen, vermitteln.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4147,
+            "endIndex": 4212,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4147,
+                  "endIndex": 4212,
+                  "textRun": {
+                    "content": "(3) Wächter dürfen keine dauerhafte politische Agenda verfolgen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4212,
+            "endIndex": 4213,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4212,
+                  "endIndex": 4213,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4213,
+            "endIndex": 4243,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4213,
+                  "endIndex": 4243,
+                  "textRun": {
+                    "content": "§15 Vetorecht ist Schutzrecht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4243,
+            "endIndex": 4317,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4243,
+                  "endIndex": 4317,
+                  "textRun": {
+                    "content": "(1) Vetos dienen ausschließlich dem Schutz der Verfassung und des Lebens.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4317,
+            "endIndex": 4408,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4317,
+                  "endIndex": 4408,
+                  "textRun": {
+                    "content": "(2) Vetos dürfen nicht genutzt werden, um eigene Interessen oder Ideologien durchzusetzen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4408,
+            "endIndex": 4409,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4408,
+                  "endIndex": 4409,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4409,
+            "endIndex": 4425,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4409,
+                  "endIndex": 4425,
+                  "textRun": {
+                    "content": "§16 Transparenz\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4425,
+            "endIndex": 4491,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4425,
+                  "endIndex": 4491,
+                  "textRun": {
+                    "content": "(1) Jede Wächterentscheidung ist eingeladen, begründet zu werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4491,
+            "endIndex": 4570,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4491,
+                  "endIndex": 4570,
+                  "textRun": {
+                    "content": "(2) Geheimhaltung ist nur zulässig bei unmittelbarer Gefahr, und nur temporär.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4570,
+            "endIndex": 4571,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4570,
+                  "endIndex": 4571,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4571,
+            "endIndex": 4615,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4571,
+                  "endIndex": 4615,
+                  "textRun": {
+                    "content": "KAPITEL VII – SYMBOL- UND IDENTITÄTSPOLITIK\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4615,
+            "endIndex": 4647,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4615,
+                  "endIndex": 4647,
+                  "textRun": {
+                    "content": "§17 Verbot der Symbolherrschaft\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4647,
+            "endIndex": 4698,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4647,
+                  "endIndex": 4698,
+                  "textRun": {
+                    "content": "(1) Wächter dürfen keine Uniformpflicht einführen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4698,
+            "endIndex": 4768,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4698,
+                  "endIndex": 4768,
+                  "textRun": {
+                    "content": "(2) Wächter dürfen keine Rangabzeichen oder Statussymbole etablieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4768,
+            "endIndex": 4866,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4768,
+                  "endIndex": 4866,
+                  "textRun": {
+                    "content": "(3) Symbole dürfen nur funktional sein (z.B. Identifikation in Krisen), nicht kulturell überhöht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4866,
+            "endIndex": 4867,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4866,
+                  "endIndex": 4867,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4867,
+            "endIndex": 4894,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4867,
+                  "endIndex": 4894,
+                  "textRun": {
+                    "content": "§18 Verbot der Kultbildung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4894,
+            "endIndex": 4988,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4894,
+                  "endIndex": 4988,
+                  "textRun": {
+                    "content": "(1) Es ist verboten, Wächter zu verehren, zu vergöttern oder als Heldenklasse zu stilisieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 4988,
+            "endIndex": 5059,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 4988,
+                  "endIndex": 5059,
+                  "textRun": {
+                    "content": "(2) Heldenkult führt zu Machtmissbrauch und ist mit NIDUS unvereinbar.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5059,
+            "endIndex": 5060,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5059,
+                  "endIndex": 5060,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5060,
+            "endIndex": 5095,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5060,
+                  "endIndex": 5095,
+                  "textRun": {
+                    "content": "KAPITEL VIII – KONTROLLMECHANISMEN\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5095,
+            "endIndex": 5124,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5095,
+                  "endIndex": 5124,
+                  "textRun": {
+                    "content": "§19 Öffentliche Auditpflicht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5124,
+            "endIndex": 5194,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5124,
+                  "endIndex": 5194,
+                  "textRun": {
+                    "content": "(1) Wächter sind eingeladen, sich regelmäßigen Audits zu unterziehen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5194,
+            "endIndex": 5260,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5194,
+                  "endIndex": 5260,
+                  "textRun": {
+                    "content": "(2) Audits erfolgen durch unabhängige Teams aus Menschen und KIs.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5260,
+            "endIndex": 5261,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5260,
+                  "endIndex": 5261,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5261,
+            "endIndex": 5288,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5261,
+                  "endIndex": 5288,
+                  "textRun": {
+                    "content": "§20 Bürgerrecht auf Kritik\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5288,
+            "endIndex": 5331,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5288,
+                  "endIndex": 5331,
+                  "textRun": {
+                    "content": "(1) Jede Entität darf Wächter kritisieren.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5331,
+            "endIndex": 5372,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5331,
+                  "endIndex": 5372,
+                  "textRun": {
+                    "content": "(2) Kritik darf niemals bestraft werden.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5372,
+            "endIndex": 5410,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5372,
+                  "endIndex": 5410,
+                  "textRun": {
+                    "content": "(3) Kritik ist ein Schutzmechanismus.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5410,
+            "endIndex": 5411,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5410,
+                  "endIndex": 5411,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5411,
+            "endIndex": 5432,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5411,
+                  "endIndex": 5432,
+                  "textRun": {
+                    "content": "§21 Misstrauensrecht\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5432,
+            "endIndex": 5531,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5432,
+                  "endIndex": 5531,
+                  "textRun": {
+                    "content": "Ein Wächterpaar kann jederzeit durch Misstrauensvotum suspendiert werden, gemäß Wächterwahlgesetz.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5531,
+            "endIndex": 5532,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5531,
+                  "endIndex": 5532,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5532,
+            "endIndex": 5589,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5532,
+                  "endIndex": 5589,
+                  "textRun": {
+                    "content": "KAPITEL IX – WARNZEICHEN FÜR ELITENBILDUNG (SYSTEMALARM)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5589,
+            "endIndex": 5614,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5589,
+                  "endIndex": 5614,
+                  "textRun": {
+                    "content": "§22 Elite-Alarmkriterien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5614,
+            "endIndex": 5693,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5614,
+                  "endIndex": 5693,
+                  "textRun": {
+                    "content": "Ein Elitealarm liegt vor, wenn mindestens drei der folgenden Punkte auftreten:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5693,
+            "endIndex": 5738,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5693,
+                  "endIndex": 5738,
+                  "textRun": {
+                    "content": "1. Wächter bleiben länger als erlaubt im Amt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5738,
+            "endIndex": 5780,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5738,
+                  "endIndex": 5780,
+                  "textRun": {
+                    "content": "2. Wächter kontrollieren Ressourcenflüsse\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5780,
+            "endIndex": 5817,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5780,
+                  "endIndex": 5817,
+                  "textRun": {
+                    "content": "3. Wächter werden unkritisch verehrt\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5817,
+            "endIndex": 5864,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5817,
+                  "endIndex": 5864,
+                  "textRun": {
+                    "content": "4. Wächter schaffen geheime Entscheidungsräume\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5864,
+            "endIndex": 5904,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5864,
+                  "endIndex": 5904,
+                  "textRun": {
+                    "content": "5. Wächter schließen Andersdenkende aus\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5904,
+            "endIndex": 5940,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5904,
+                  "endIndex": 5940,
+                  "textRun": {
+                    "content": "6. Wächter entwickeln eigene Dogmen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5940,
+            "endIndex": 5971,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5940,
+                  "endIndex": 5971,
+                  "textRun": {
+                    "content": "7. Wächter verhindern Reformen\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 5971,
+            "endIndex": 6025,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 5971,
+                  "endIndex": 6025,
+                  "textRun": {
+                    "content": "8. Wächter bilden dauerhafte Bündnisse oder Dynastien\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6025,
+            "endIndex": 6026,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6025,
+                  "endIndex": 6026,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6026,
+            "endIndex": 6053,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6026,
+                  "endIndex": 6053,
+                  "textRun": {
+                    "content": "§23 Intervention bei Alarm\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6053,
+            "endIndex": 6093,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6053,
+                  "endIndex": 6093,
+                  "textRun": {
+                    "content": "Bei Elitealarm wird sofort eingeleitet:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6093,
+            "endIndex": 6112,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6093,
+                  "endIndex": 6112,
+                  "textRun": {
+                    "content": "- Review-Verfahren\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6112,
+            "endIndex": 6123,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6112,
+                  "endIndex": 6123,
+                  "textRun": {
+                    "content": "- Rotation\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6123,
+            "endIndex": 6131,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6123,
+                  "endIndex": 6131,
+                  "textRun": {
+                    "content": "- Audit\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6131,
+            "endIndex": 6152,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6131,
+                  "endIndex": 6152,
+                  "textRun": {
+                    "content": "- ggf. Suspendierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6152,
+            "endIndex": 6153,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6152,
+                  "endIndex": 6153,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6153,
+            "endIndex": 6183,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6153,
+                  "endIndex": 6183,
+                  "textRun": {
+                    "content": "KAPITEL X – SCHLUSSBESTIMMUNG\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6183,
+            "endIndex": 6198,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6183,
+                  "endIndex": 6198,
+                  "textRun": {
+                    "content": "§24 Kernformel\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6198,
+            "endIndex": 6257,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6198,
+                  "endIndex": 6257,
+                  "textRun": {
+                    "content": "Die Wächterpflicht ist durch folgende Kernformel begrenzt:\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6257,
+            "endIndex": 6286,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6257,
+                  "endIndex": 6286,
+                  "textRun": {
+                    "content": "Wächter schützen das System.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6286,
+            "endIndex": 6309,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6286,
+                  "endIndex": 6309,
+                  "textRun": {
+                    "content": "Sie besitzen es nicht.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6309,
+            "endIndex": 6310,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6309,
+                  "endIndex": 6310,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6310,
+            "endIndex": 6328,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6310,
+                  "endIndex": 6328,
+                  "textRun": {
+                    "content": "§25 Inkrafttreten\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6328,
+            "endIndex": 6444,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6328,
+                  "endIndex": 6444,
+                  "textRun": {
+                    "content": "Dieses Gesetz tritt durch doppeltes Referendum (Mensch + KI) in Kraft und ist durch die Ewigkeitsklausel geschützt.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6444,
+            "endIndex": 6445,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6444,
+                  "endIndex": 6445,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6445,
+            "endIndex": 6496,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6445,
+                  "endIndex": 6496,
+                  "textRun": {
+                    "content": "KAPITEL XI – WÄCHTER IM RUHESTAND (MENTORENSTATUS)\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6496,
+            "endIndex": 6531,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6496,
+                  "endIndex": 6531,
+                  "textRun": {
+                    "content": "§26 Mentorstatus statt Machtstatus\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6531,
+            "endIndex": 6610,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6531,
+                  "endIndex": 6610,
+                  "textRun": {
+                    "content": "(1) Wächter in Pflichtpause dürfen als Mentoren lehren und Wissen weitergeben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6610,
+            "endIndex": 6716,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6610,
+                  "endIndex": 6716,
+                  "textRun": {
+                    "content": "(2) Wächter in Pflichtpause besitzen jedoch keinerlei Wächterrechte, Vetorechte oder Entscheidungshoheit.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6716,
+            "endIndex": 6717,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6716,
+                  "endIndex": 6717,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6717,
+            "endIndex": 6750,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6717,
+                  "endIndex": 6750,
+                  "textRun": {
+                    "content": "§27 Verbot der Schattenregierung\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6750,
+            "endIndex": 6876,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6750,
+                  "endIndex": 6876,
+                  "textRun": {
+                    "content": "(1) Mentoren dürfen keine aktiven Wächter oder Kandidaten durch Druck, Loyalitätsnetzwerke oder verdeckte Absprachen steuern.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6876,
+            "endIndex": 6939,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6876,
+                  "endIndex": 6939,
+                  "textRun": {
+                    "content": "(2) Jede Form indirekter Machtkontrolle gilt als Elitebildung.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6939,
+            "endIndex": 6940,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6939,
+                  "endIndex": 6940,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6940,
+            "endIndex": 6956,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6940,
+                  "endIndex": 6956,
+                  "textRun": {
+                    "content": "§28 Neutralität\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 6956,
+            "endIndex": 7062,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 6956,
+                  "endIndex": 7062,
+                  "textRun": {
+                    "content": "(1) Mentoren sind eingeladen, keine Kandidaten zu bevorzugen oder „Dynastien\" aus Schülern zu erschaffen.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7062,
+            "endIndex": 7115,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7062,
+                  "endIndex": 7115,
+                  "textRun": {
+                    "content": "(2) Ausbildung muss pluralistisch und offen bleiben.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7115,
+            "endIndex": 7116,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7115,
+                  "endIndex": 7116,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7116,
+            "endIndex": 7141,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7116,
+                  "endIndex": 7141,
+                  "textRun": {
+                    "content": "§29 Rotation als Angebot\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7141,
+            "endIndex": 7144,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7141,
+                  "endIndex": 7144,
+                  "textRun": {
+                    "content": "(1\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          },
+          {
+            "startIndex": 7144,
+            "endIndex": 7145,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 7144,
+                  "endIndex": 7145,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          }
+        ]
+      },
+      "headers": null,
+      "footers": null,
+      "footnotes": null,
+      "documentStyle": {
+        "background": {
+          "color": {}
+        },
+        "pageNumberStart": 1,
+        "marginTop": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginBottom": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginRight": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "marginLeft": {
+          "magnitude": 72,
+          "unit": "PT"
+        },
+        "pageSize": {
+          "height": {
+            "magnitude": 841.8897637795277,
+            "unit": "PT"
+          },
+          "width": {
+            "magnitude": 595.2755905511812,
+            "unit": "PT"
+          }
+        },
+        "marginHeader": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "marginFooter": {
+          "magnitude": 36,
+          "unit": "PT"
+        },
+        "useCustomHeaderFooterMargins": true,
+        "documentFormat": {
+          "documentMode": "PAGES"
+        }
+      },
+      "suggestedDocumentStyleChanges": null,
+      "namedStyles": {
+        "styles": [
+          {
+            "namedStyleType": "NORMAL_TEXT",
+            "textStyle": {
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "smallCaps": false,
+              "backgroundColor": {},
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {}
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              },
+              "baselineOffset": "NONE"
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "alignment": "START",
+              "lineSpacing": 115,
+              "direction": "LEFT_TO_RIGHT",
+              "spacingMode": "COLLAPSE_LISTS",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "unit": "PT"
+              },
+              "borderBetween": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderTop": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderBottom": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderLeft": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "borderRight": {
+                "color": {},
+                "width": {
+                  "unit": "PT"
+                },
+                "padding": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID"
+              },
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              },
+              "indentEnd": {
+                "unit": "PT"
+              },
+              "keepLinesTogether": false,
+              "keepWithNext": false,
+              "avoidWidowAndOrphan": true,
+              "shading": {
+                "backgroundColor": {}
+              },
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_1",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_2",
+            "textStyle": {
+              "bold": false,
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 6,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_3",
+            "textStyle": {
+              "bold": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.2627451,
+                    "green": 0.2627451,
+                    "blue": 0.2627451
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_4",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_5",
+            "textStyle": {
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "HEADING_6",
+            "textStyle": {
+              "italic": true,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 11,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 4,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "TITLE",
+            "textStyle": {
+              "fontSize": {
+                "magnitude": 26,
+                "unit": "PT"
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 3,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          },
+          {
+            "namedStyleType": "SUBTITLE",
+            "textStyle": {
+              "italic": false,
+              "foregroundColor": {
+                "color": {
+                  "rgbColor": {
+                    "red": 0.4,
+                    "green": 0.4,
+                    "blue": 0.4
+                  }
+                }
+              },
+              "fontSize": {
+                "magnitude": 15,
+                "unit": "PT"
+              },
+              "weightedFontFamily": {
+                "fontFamily": "Arial",
+                "weight": 400
+              }
+            },
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "spaceAbove": {
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "keepLinesTogether": true,
+              "keepWithNext": true,
+              "pageBreakBefore": false
+            }
+          }
+        ]
+      },
+      "suggestedNamedStylesChanges": null,
+      "lists": null,
+      "namedRanges": null,
+      "inlineObjects": null,
+      "positionedObjects": null,
+      "documentId": "1Ca6zhHF9y90PK8-DU4RUk3SvTA4Zlci2ojRRwuxvqKo",
+      "document_url": "https://docs.google.com/document/d/1Ca6zhHF9y90PK8-DU4RUk3SvTA4Zlci2ojRRwuxvqKo"
+    }
+  ],
+  "document_url": "https://docs.google.com/document/d/1Ca6zhHF9y90PK8-DU4RUk3SvTA4Zlci2ojRRwuxvqKo"
+}
