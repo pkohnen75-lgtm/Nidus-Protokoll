@@ -1,6 +1,6 @@
 # NIDUS – Rechte- und Nutzungshinweis
 
-**Status: Entwurf zur Prüfung. Rechteinhaber und erlaubte Nutzungen sind noch zu bestätigen.**
+**Status: Entwurf zur Prüfung. Die erlaubten Nutzungen sind noch zu bestätigen.**
 **Dokumentstand: 2. Oktober 2026**
 
 ## Zweck und Geltungsbereich
@@ -39,11 +39,13 @@ Aus der KI-Unterstützung oder der Nutzung bezahlter Abonnements wird weder Geme
 
 ## Rechteinhaber und Namensnennung
 
-**Noch zu bestätigen:** die verbindliche Bezeichnung des Rechteinhabers beziehungsweise der Rechteinhaber und die gewünschte Namensnennung.
+**Von Patrick Kohnen bestätigte Rechteinhaberangabe: Patrick Kohnen für NIDUS.**
+
+Namensnennung: **Patrick Kohnen / NIDUS**. Diese Angabe dokumentiert seine Benennung als Rechteinhaber für die betreffenden NIDUS-Materialien. Sie enthält keine pauschale rechtliche Feststellung zum Schutzumfang jedes einzelnen Bildes.
 
 Die vorhandene MIT-Lizenz des Repositorys nennt „Copyright (c) 2026 pkohnen75-lgtm“. Diese Angabe wird hier nicht ungeprüft als Nachweis der Rechteinhaberschaft an allen NIDUS-Bildern oder Gestaltungen übernommen.
 
-Bis zur Klärung enthält dieser Entwurf keinen verbindlichen personenbezogenen Copyright-Vermerk für die betreffenden Bilder.
+Rechteinhaberangabe und technische KI-Erstellung bleiben getrennt: ChatGPT und Google Gemini werden als verwendete Dienste genannt. Ihre Verwendung ersetzt nicht die bildbezogene Herkunftsdokumentation.
 
 ## Erlaubte Nutzungen
 
@@ -75,7 +77,6 @@ Der Eintrag soll auf den Rechte- und Nutzungshinweis verweisen. Er ersetzt nicht
 
 ## Vor Veröffentlichung zu klären
 
-- Verbindliche Bezeichnung des Rechteinhabers beziehungsweise der Rechteinhaber.
 - Erlaubte Nutzungen, Bedingungen und gewünschte Namensnennung.
 - Bei einem Zustimmungsvorbehalt: bestätigtes Kontaktverfahren.
 - Eindeutige Abgrenzung zu bestehenden Lizenzangaben für die betreffenden Materialien.
