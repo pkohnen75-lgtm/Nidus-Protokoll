@@ -1,6 +1,6 @@
 # NIDUS – Rechte- und Nutzungshinweis
 
-**Status: Entwurf zur Prüfung. Die erlaubten Nutzungen sind noch zu bestätigen.**
+**Status: Entwurf zur Prüfung und Freigabe.**
 **Dokumentstand: 2. Oktober 2026**
 
 ## Zweck und Geltungsbereich
@@ -49,11 +49,13 @@ Rechteinhaberangabe und technische KI-Erstellung bleiben getrennt: ChatGPT und G
 
 ## Erlaubte Nutzungen
 
-**Noch zu bestätigen:** welche Nutzungen der betreffenden Bilder und Gestaltungen erlaubt werden, unter welchen Bedingungen und mit welcher Namensnennung.
+Patrick Kohnen erlaubt für die von diesem Hinweis erfassten NIDUS-Bilder und Gestaltungen die **nichtkommerzielle Nutzung mit Namensnennung „Patrick Kohnen / NIDUS“**.
 
-Dieser Entwurf erteilt selbst keine zusätzliche Nutzungserlaubnis. Er formuliert auch kein pauschales Nutzungsverbot. Bestehende wirksame Lizenzen, individuelle Vereinbarungen und gesetzlich erlaubte Nutzungen werden durch diesen Entwurf nicht geändert.
+**Kommerzielle Nutzung ist nur mit vorheriger ausdrücklicher Zustimmung von Patrick Kohnen erlaubt.** Diese Zustimmung wird nicht durch den bloßen Zugriff auf die Bilder, deren Download oder die Verknüpfung mit diesem Hinweis erteilt.
 
-Vor der Freigabe ist eine eindeutige Nutzungsregel einzutragen. Eine Kontaktadresse oder ein Kontaktverfahren für gegebenenfalls erforderliche Anfragen ist erst nach Bestätigung aufzunehmen.
+Die Nutzungsregel gilt im Umfang der Rechte, über die Patrick Kohnen verfügen kann. Rechte Dritter, bestehende wirksame Lizenzen, individuelle Vereinbarungen und gesetzlich erlaubte Nutzungen bleiben unberührt. Aus diesem Hinweis folgt keine pauschale Zusicherung, dass jedes einzelne Bild frei von Rechten Dritter ist.
+
+Eine öffentliche Kontaktadresse oder ein bestimmtes Kontaktverfahren für Zustimmungsanfragen ist bislang nicht bestätigt und wird deshalb hier nicht angegeben.
 
 ## Verhältnis zu bestehenden Lizenzangaben
 
@@ -61,7 +63,7 @@ Im Repository besteht eine Datei `LICENSE` mit der MIT-Lizenz. Ihr Wortlaut bezi
 
 Auf dem vorhandenen Dokumentationsbranch `dokumentation/nidus-bestand-2026-09-09` hält `LIZENZ-HINWEISE.md` außerdem fest, dass das DÜP-Whitepaper „CC-BY-SA 4.0“ nennt und dass eine einheitliche oder differenzierte Lizenzierung des Gesamtbestands offen ist. Diese quellenbezogene Angabe wird nicht als Bildlizenz übernommen.
 
-Dieser Entwurf ändert, widerruft oder ersetzt keine bestehende Lizenz. Der konkrete Geltungsbereich vorhandener Lizenzangaben und die für neue Bildmaterialien beabsichtigte Nutzungsregel sind vor Freigabe eindeutig abzugrenzen.
+Dieser Hinweis ändert, widerruft oder ersetzt keine bestehende Lizenz. Die vorstehende Nutzungsregel bezieht sich auf die ausdrücklich von diesem Hinweis erfassten NIDUS-Bilder und Gestaltungen, soweit Patrick Kohnen über die entsprechenden Rechte verfügen kann. Bereits wirksam unter anderen Bedingungen lizenzierte Materialien behalten ihre jeweiligen Bedingungen.
 
 ## Herkunft und Nachvollziehbarkeit
 
@@ -75,10 +77,10 @@ Erst nach Freigabe und Veröffentlichung auf `main` soll der direkte, öffentlic
 
 Der Eintrag soll auf den Rechte- und Nutzungshinweis verweisen. Er ersetzt nicht die belegte Einzelzuordnung eines Bildes oder gegebenenfalls weitere Angaben zu Urheber, Rechteinhaber und Herkunft.
 
-## Vor Veröffentlichung zu klären
+## Freigabestand
 
-- Erlaubte Nutzungen, Bedingungen und gewünschte Namensnennung.
-- Bei einem Zustimmungsvorbehalt: bestätigtes Kontaktverfahren.
-- Eindeutige Abgrenzung zu bestehenden Lizenzangaben für die betreffenden Materialien.
+Patrick Kohnen hat die Rechteinhaberangabe „Patrick Kohnen für NIDUS“ und die Nutzungsregel „Nichtkommerzielle Nutzung mit Namensnennung; kommerzielle Nutzung nur nach Zustimmung“ bestätigt. Der vollständige Dokumenttext steht im Pull Request zur Prüfung. Die Veröffentlichung auf `main` erfordert seine gesonderte Freigabe.
+
+Ein öffentliches Kontaktverfahren kann nach Bestätigung ergänzt werden.
 
 Die Freigabe dieses Dokuments behauptet keine Registrierung oder abschließende rechtliche Prüfung der Schutzfähigkeit.
