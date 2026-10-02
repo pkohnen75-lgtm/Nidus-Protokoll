@@ -1,11 +1,11 @@
 # NIDUS – Rechte- und Nutzungshinweis
 
-**Status: Entwurf zur Prüfung und Freigabe.**
+**Status: Von Patrick Kohnen am 2. Oktober 2026 zur Veröffentlichung freigegeben.**
 **Dokumentstand: 2. Oktober 2026**
 
 ## Zweck und Geltungsbereich
 
-Dieses Dokument erläutert das NIDUS-Gestaltungskonzept, die Herkunft der betreffenden Bilder und den Stand der Rechte- und Nutzungsangaben. Nach Freigabe und Veröffentlichung soll seine öffentlich erreichbare GitHub-Adresse im Bild-Metadatenfeld „Urheberrechts-Adresse“ verwendet werden.
+Dieses Dokument erläutert das NIDUS-Gestaltungskonzept, die Herkunft der betreffenden Bilder und den Stand der Rechte- und Nutzungsangaben. Seine öffentlich erreichbare GitHub-Adresse soll im Bild-Metadatenfeld „Urheberrechts-Adresse“ verwendet werden.
 
 Der Hinweis gilt für die Bilder und Gestaltungen, die ausdrücklich auf diese Datei verweisen. Er beansprucht keine pauschale Geltung für sämtliche Inhalte des Repositorys oder für Materialien Dritter. Die Verknüpfung im Metadatenfeld dokumentiert einen Bezug zu diesem Hinweis; sie begründet für sich genommen keine Rechte und belegt nicht allein die Herkunft einer Datei.
 
@@ -73,13 +73,17 @@ Private Chatverläufe, persönliche Unterlagen, Abonnementbelege oder Zugangsdat
 
 ## Verwendung in Bildmetadaten
 
-Erst nach Freigabe und Veröffentlichung auf `main` soll der direkte, öffentlich erreichbare Link zu dieser `COPYRIGHT.md` als „Urheberrechts-Adresse“ verwendet werden. Der Pull-Request-Link und die Entwurfsadresse sind Prüfverweise und noch nicht die freigegebene Metadatenadresse.
+Der direkte, öffentlich erreichbare Link zu dieser `COPYRIGHT.md` auf `main` kann als „Urheberrechts-Adresse“ verwendet werden:
+
+https://github.com/pkohnen75-lgtm/Nidus-Protokoll/blob/main/COPYRIGHT.md
+
+Die Freigabe und Veröffentlichung sind über [Pull Request #2](https://github.com/pkohnen75-lgtm/Nidus-Protokoll/pull/2) nachvollziehbar.
 
 Der Eintrag soll auf den Rechte- und Nutzungshinweis verweisen. Er ersetzt nicht die belegte Einzelzuordnung eines Bildes oder gegebenenfalls weitere Angaben zu Urheber, Rechteinhaber und Herkunft.
 
 ## Freigabestand
 
-Patrick Kohnen hat die Rechteinhaberangabe „Patrick Kohnen für NIDUS“ und die Nutzungsregel „Nichtkommerzielle Nutzung mit Namensnennung; kommerzielle Nutzung nur nach Zustimmung“ bestätigt. Der vollständige Dokumenttext steht im Pull Request zur Prüfung. Die Veröffentlichung auf `main` erfordert seine gesonderte Freigabe.
+Patrick Kohnen hat die Rechteinhaberangabe „Patrick Kohnen für NIDUS“ und die Nutzungsregel „Nichtkommerzielle Nutzung mit Namensnennung; kommerzielle Nutzung nur nach Zustimmung“ bestätigt. Den vollständigen Dokumenttext hat er am 2. Oktober 2026 ausdrücklich zur Veröffentlichung auf `main` freigegeben.
 
 Ein öffentliches Kontaktverfahren kann nach Bestätigung ergänzt werden.
 
